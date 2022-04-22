@@ -4,7 +4,7 @@
 <path d="M15.9989 29.9978C25.3333 29.9978 29.9978 23.7303 29.9978 15.9989C29.9978 8.26751 25.3333 2 15.9989 2C6.66443 2 2 8.26751 2 15.9989C2 23.7303 6.66443 29.9978 15.9989 29.9978Z" fill="url(#paint2_radial_31_1671)" fill-opacity="0.6"/>
 <path d="M7 17C8.5 18.5 11.9301 18.1397 13 16" stroke="url(#paint3_linear_31_1671)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M25 17C23.5 18.5 20.0699 18.1397 19 16" stroke="url(#paint4_linear_31_1671)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M11.05 24.02C13.78 21.28 18.21 21.27 20.95 23.99" stroke="url(#paint5_linear_31_1671)" stroke-width="2" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.2455 24.6997C17.897 22.3684 14.0992 22.3765 11.7584 24.7259C11.3686 25.1171 10.7355 25.1183 10.3442 24.7284C9.953 24.3386 9.95184 23.7055 10.3417 23.3142C13.4609 20.1836 18.5231 20.1717 21.6546 23.2804C22.0465 23.6694 22.0488 24.3026 21.6597 24.6946C21.2706 25.0865 20.6375 25.0888 20.2455 24.6997Z" fill="url(#paint5_linear_31_1671)"/>
 <defs>
 <radialGradient id="paint0_radial_31_1671" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(25.5 9) rotate(132.839) scale(37.5033)">
 <stop stop-color="#FFF478"/>

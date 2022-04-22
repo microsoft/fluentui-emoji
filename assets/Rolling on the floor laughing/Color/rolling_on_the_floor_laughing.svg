@@ -78,8 +78,8 @@
 <stop offset="0.406361" stop-color="#503A4A"/>
 <stop offset="0.511203" stop-color="#482641"/>
 </linearGradient>
-<radialGradient id="paint9_radial_23_372" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(24.6424 24.6424) rotate(-135) scale(12.2222 24.4444)">
-<stop stop-color="#F70A8D"/>
+<radialGradient id="paint9_radial_23_372" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(26.5 27) rotate(-135) scale(16.9706 33.9411)">
+<stop offset="0.050964" stop-color="#F70A8D"/>
 <stop offset="1" stop-color="#89029C"/>
 </radialGradient>
 <linearGradient id="paint10_linear_23_372" x1="15.9999" y1="16.0001" x2="17.0606" y2="17.0607" gradientUnits="userSpaceOnUse">
