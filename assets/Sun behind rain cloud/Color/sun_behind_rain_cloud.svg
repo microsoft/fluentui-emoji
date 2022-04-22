@@ -50,7 +50,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_18_15129"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_18_15129" result="shape"/>
 </filter>
-<filter id="filter1_i_18_15129" x="3.24597" y="22.1791" width="6.40426" height="6.75424" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_i_18_15129" x="3.24597" y="22.1791" width="6.40426" height="6.75423" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
@@ -60,7 +60,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0.256493 0 0 0 0 0.282719 0 0 0 0 0.741667 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_15129"/>
 </filter>
-<filter id="filter2_i_18_15129" x="9.81268" y="22.1791" width="6.40426" height="6.75424" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter2_i_18_15129" x="9.81268" y="22.1791" width="6.40426" height="6.75423" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
@@ -70,7 +70,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0.256493 0 0 0 0 0.282719 0 0 0 0 0.741667 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_15129"/>
 </filter>
-<filter id="filter3_i_18_15129" x="16.3794" y="22.1791" width="6.40426" height="6.75424" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter3_i_18_15129" x="16.3794" y="22.1791" width="6.40426" height="6.75423" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>

@@ -50,7 +50,6 @@
 <g filter="url(#filter16_i_18_15793)">
 <path d="M18.0176 15.7729C18.4318 15.7729 18.7676 15.4372 18.7676 15.0229C18.7676 14.6087 18.4318 14.2729 18.0176 14.2729C17.6034 14.2729 17.2676 14.6087 17.2676 15.0229C17.2676 15.4372 17.6034 15.7729 18.0176 15.7729Z" fill="url(#paint16_radial_18_15793)"/>
 </g>
-<path d="M0 0V-1H-1V0H0ZM32 0H33V-1H32V0ZM32 32V33H33V32H32ZM0 32H-1V33H0V32ZM0 1H32V-1H0V1ZM31 0V32H33V0H31ZM32 31H0V33H32V31ZM1 32V0H-1V32H1Z" fill="#32AE30"/>
 <defs>
 <filter id="filter0_ii_18_15793" x="2.9" y="2.8" width="25.3357" height="25.3404" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>

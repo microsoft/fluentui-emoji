@@ -20,7 +20,6 @@
 <g filter="url(#filter2_f_18_15821)">
 <path d="M9.81366 7.87422C8.5136 9.4879 5.9295 13.9638 5.99348 18.9582C7.27492 13.8358 10.2692 12.2215 9.81366 7.87422Z" fill="url(#paint14_linear_18_15821)"/>
 </g>
-<path d="M0 0V-1H-1V0H0ZM32 0H33V-1H32V0ZM32 32V33H33V32H32ZM0 32H-1V33H0V32ZM0 1H32V-1H0V1ZM31 0V32H33V0H31ZM32 31H0V33H32V31ZM1 32V0H-1V32H1Z" fill="#32AE30"/>
 <defs>
 <filter id="filter0_i_18_15821" x="9.48987" y="11.0846" width="14.5255" height="18.9099" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>

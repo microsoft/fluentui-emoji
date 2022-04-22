@@ -29,7 +29,7 @@
 <path d="M14.8924 25.8111C14.125 27.0101 13.0539 27.9892 12.6143 28.3289H17.2005C16.3132 27.8014 15.2921 26.4305 14.8924 25.8111Z" fill="#EAE0FF"/>
 </g>
 <defs>
-<filter id="filter0_d_18_15105" x="3.6168" y="7.98932" width="12.3833" height="12.3833" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_18_15105" x="3.6168" y="7.98932" width="12.3833" height="12.3832" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="-0.3" dy="0.3"/>

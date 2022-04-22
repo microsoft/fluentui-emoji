@@ -19,7 +19,7 @@
 <path d="M23.9597 8.62053C19.9889 4.83973 12.8103 5.79726 7.79004 10.8175L11.3409 14.3949C16.3042 9.43309 21.8712 6.90417 23.9597 8.62053Z" fill="url(#paint11_linear_18_15504)"/>
 <path d="M23.9597 8.62053C19.9889 4.83973 12.8103 5.79726 7.79004 10.8175L11.3409 14.3949C16.3042 9.43309 21.8712 6.90417 23.9597 8.62053Z" fill="url(#paint12_linear_18_15504)"/>
 <g filter="url(#filter3_f_18_15504)">
-<path d="M7.39911 25.271L12.9737 19.6878" stroke="url(#paint13_linear_18_15504)" stroke-width="0.25" stroke-linecap="round"/>
+<path d="M7.39911 25.2709L12.9737 19.6877" stroke="url(#paint13_linear_18_15504)" stroke-width="0.25" stroke-linecap="round"/>
 </g>
 <defs>
 <filter id="filter0_i_18_15504" x="1.85" y="18" width="28.15" height="11.9375" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -32,7 +32,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.886275 0 0 0 0 0.45098 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_15504"/>
 </filter>
-<filter id="filter1_f_18_15504" x="6.79004" y="21.7427" width="19.7165" height="7.56757" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_f_18_15504" x="6.79004" y="21.7427" width="19.7165" height="7.56763" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur_18_15504"/>
@@ -47,7 +47,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0.498039 0 0 0 0 0.262745 0 0 0 0 0.109804 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_15504"/>
 </filter>
-<filter id="filter3_f_18_15504" x="7.02411" y="19.3128" width="6.32452" height="6.33319" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter3_f_18_15504" x="7.02411" y="19.3127" width="6.32452" height="6.33313" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="0.125" result="effect1_foregroundBlur_18_15504"/>
@@ -109,7 +109,7 @@
 <stop offset="0.61236" stop-color="#D4C9DC"/>
 <stop offset="0.814607" stop-color="#D4C9DC" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="paint13_linear_18_15504" x1="7.78611" y1="24.6667" x2="13.5886" y2="23.4192" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint13_linear_18_15504" x1="7.78611" y1="24.6667" x2="13.5886" y2="23.4191" gradientUnits="userSpaceOnUse">
 <stop stop-color="#7F5951"/>
 <stop offset="1" stop-color="#7F5951" stop-opacity="0"/>
 </linearGradient>

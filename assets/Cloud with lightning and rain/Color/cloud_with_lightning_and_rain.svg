@@ -90,7 +90,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0.908333 0 0 0 0 0.312137 0 0 0 0 0.0454167 0 0 0 0.5 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_15029"/>
 </filter>
-<filter id="filter6_f_18_15029" x="10.707" y="7.86285" width="4.34003" height="7.48743" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter6_f_18_15029" x="10.707" y="7.86285" width="4.34003" height="7.4874" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur_18_15029"/>

@@ -7,7 +7,6 @@
 <g filter="url(#filter1_f_18_15832)">
 <path d="M23.4605 14.9173L16.86 2.99377V24.0478L22.3105 20.0918C23.9457 18.905 24.4391 16.685 23.4605 14.9173Z" fill="url(#paint3_linear_18_15832)"/>
 </g>
-<path d="M0 0V-1H-1V0H0ZM32 0H33V-1H32V0ZM32 32V33H33V32H32ZM0 32H-1V33H0V32ZM0 1H32V-1H0V1ZM31 0V32H33V0H31ZM32 31H0V33H32V31ZM1 32V0H-1V32H1Z" fill="#32AE30"/>
 <defs>
 <filter id="filter0_i_18_15832" x="5.97797" y="0.983154" width="22" height="28.9976" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>

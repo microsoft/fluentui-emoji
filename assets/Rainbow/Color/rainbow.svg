@@ -18,7 +18,7 @@
 <path d="M29.9667 18.7167C29.9667 19.407 29.4042 19.9585 28.7192 20.0437C24.1938 20.6069 20.6069 24.1938 20.0437 28.7192C19.9585 29.4042 19.407 29.9667 18.7167 29.9667L16.9667 29.9667C16.9667 26.5167 18.3367 23.2067 20.7767 20.7767C23.2167 18.3367 26.5267 16.9667 29.9667 16.9667V18.7167Z" fill="url(#paint14_linear_18_15376)"/>
 <path d="M29.9667 18.7167C29.9667 19.407 29.4042 19.9585 28.7192 20.0437C24.1938 20.6069 20.6069 24.1938 20.0437 28.7192C19.9585 29.4042 19.407 29.9667 18.7167 29.9667L16.9667 29.9667C16.9667 26.5167 18.3367 23.2067 20.7767 20.7767C23.2167 18.3367 26.5267 16.9667 29.9667 16.9667V18.7167Z" fill="url(#paint15_linear_18_15376)"/>
 <g filter="url(#filter1_f_18_15376)">
-<path d="M21.9651 23.196C21.3544 23.8357 19.8234 25.9571 19.5443 28.7138" stroke="url(#paint16_linear_18_15376)" stroke-width="0.4" stroke-linecap="round"/>
+<path d="M21.9651 23.1959C21.3544 23.8357 19.8234 25.957 19.5443 28.7138" stroke="url(#paint16_linear_18_15376)" stroke-width="0.4" stroke-linecap="round"/>
 </g>
 <defs>
 <filter id="filter0_iii_18_15376" x="1.73333" y="1.78333" width="28.4833" height="28.4333" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -43,7 +43,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.368627 0 0 0 0 0.709804 0 0 0 1 0"/>
 <feBlend mode="normal" in2="effect2_innerShadow_18_15376" result="effect3_innerShadow_18_15376"/>
 </filter>
-<filter id="filter1_f_18_15376" x="18.9442" y="22.596" width="3.62086" height="6.71785" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_f_18_15376" x="18.9442" y="22.5959" width="3.62086" height="6.71791" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="0.2" result="effect1_foregroundBlur_18_15376"/>

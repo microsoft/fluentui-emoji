@@ -17,7 +17,7 @@
 <path d="M26.307 9.1168L26.0961 8.98258L26.307 9.1168ZM25.5371 4.99128C25.4031 5.02435 25.3212 5.15984 25.3543 5.29389C25.3874 5.42794 25.5229 5.50979 25.6569 5.47672L25.5371 4.99128ZM18.446 18.7956C20.096 17.2497 24.2284 12.8489 26.518 9.25102L26.0961 8.98258C23.8376 12.5316 19.7379 16.9 18.1041 18.4308L18.446 18.7956ZM26.518 9.25102C27.474 7.74866 27.6328 6.61472 27.3143 5.86437C26.9894 5.0987 26.2079 4.82576 25.5371 4.99128L25.6569 5.47672C26.1251 5.36119 26.6387 5.55236 26.8541 6.05972C27.0759 6.58238 27.0203 7.53036 26.0961 8.98258L26.518 9.25102Z" fill="url(#paint14_linear_18_14790)"/>
 </g>
 <defs>
-<filter id="filter0_f_18_14790" x="17.1041" y="3.94482" width="11.3594" height="15.8508" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_f_18_14790" x="17.1041" y="3.94476" width="11.3594" height="15.8509" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur_18_14790"/>
