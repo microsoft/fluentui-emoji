@@ -526,7 +526,6 @@
 <g filter="url(#filter95_f_18_4467)">
 <path d="M12.97 26.5128C12.9047 26.1917 12.6984 25.6508 12.6429 25.4246C12.4714 25.7603 12.5922 26.0957 12.7956 26.7814C12.9447 27.2845 12.6587 27.5024 12.575 27.5511C13.0137 27.4205 13.0518 26.9142 12.97 26.5128Z" fill="url(#paint313_linear_18_4467)"/>
 </g>
-<path d="M0 0V-1H-1V0H0ZM32 0H33V-1H32V0ZM32 32V33H33V32H32ZM0 32H-1V33H0V32ZM0 1H32V-1H0V1ZM31 0V32H33V0H31ZM32 31H0V33H32V31ZM1 32V0H-1V32H1Z" fill="#49A927"/>
 <defs>
 <filter id="filter0_i_18_4467" x="14.4783" y="17.0428" width="2.86022" height="1.91523" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
