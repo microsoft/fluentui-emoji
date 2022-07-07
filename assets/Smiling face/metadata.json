@@ -1,0 +1,21 @@
+{
+  "cldr": "smiling face",
+  "fromVersion": "0.6",
+  "glyph": "☺️",
+  "glyphAsUtfInEmoticons": [
+    "263a_smilingface"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "outlined",
+    "relaxed",
+    "smile",
+    "smiling face"
+  ],
+  "mappedToEmoticons": [
+    "263a_smilingface"
+  ],
+  "tts": "smiling face",
+  "unicode": "263a fe0f"
+}

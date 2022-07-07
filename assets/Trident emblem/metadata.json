@@ -1,0 +1,21 @@
+{
+  "cldr": "trident emblem",
+  "fromVersion": "0.6",
+  "glyph": "🔱",
+  "glyphAsUtfInEmoticons": [
+    "1f531_tridentemblem"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "anchor",
+    "emblem",
+    "ship",
+    "tool",
+    "trident"
+  ],
+  "mappedToEmoticons": [
+    "1f531_tridentemblem"
+  ],
+  "tts": "trident emblem",
+  "unicode": "1f531"
+}

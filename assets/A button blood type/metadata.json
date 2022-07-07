@@ -1,0 +1,16 @@
+{
+  "cldr": "A button (blood type)",
+  "fromVersion": "0.6",
+  "glyph": "🅰️",
+  "group": "Symbols",
+  "keywords": [
+    "a",
+    "A button (blood type)",
+    "blood type"
+  ],
+  "mappedToEmoticons": [
+    "1f170_bloodtypea"
+  ],
+  "tts": "A button (blood type)",
+  "unicode": "1f170 fe0f"
+}

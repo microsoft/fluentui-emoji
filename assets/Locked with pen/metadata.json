@@ -1,0 +1,22 @@
+{
+  "cldr": "locked with pen",
+  "fromVersion": "0.6",
+  "glyph": "🔏",
+  "glyphAsUtfInEmoticons": [
+    "1f50f_lockedwithpen"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "ink",
+    "lock",
+    "locked with pen",
+    "nib",
+    "pen",
+    "privacy"
+  ],
+  "mappedToEmoticons": [
+    "1f50f_lockedwithpen"
+  ],
+  "tts": "locked with pen",
+  "unicode": "1f50f"
+}

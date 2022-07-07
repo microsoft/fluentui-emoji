@@ -1,0 +1,18 @@
+{
+  "cldr": "ledger",
+  "fromVersion": "0.6",
+  "glyph": "📒",
+  "glyphAsUtfInEmoticons": [
+    "1f4d2_ledger"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "ledger",
+    "notebook"
+  ],
+  "mappedToEmoticons": [
+    "1f4d2_ledger"
+  ],
+  "tts": "ledger",
+  "unicode": "1f4d2"
+}

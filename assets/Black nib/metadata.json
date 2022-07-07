@@ -1,0 +1,16 @@
+{
+  "cldr": "black nib",
+  "fromVersion": "0.6",
+  "glyph": "✒️",
+  "group": "Objects",
+  "keywords": [
+    "black nib",
+    "nib",
+    "pen"
+  ],
+  "mappedToEmoticons": [
+    "2712_blacknib"
+  ],
+  "tts": "black nib",
+  "unicode": "2712 fe0f"
+}

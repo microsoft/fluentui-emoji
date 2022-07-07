@@ -1,0 +1,19 @@
+{
+  "cldr": "safety vest",
+  "fromVersion": "12.0",
+  "glyph": "🦺",
+  "glyphAsUtfInEmoticons": [
+    "1f9ba_safetyvest"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "emergency",
+    "safety",
+    "vest"
+  ],
+  "mappedToEmoticons": [
+    "1f9ba_safetyvest"
+  ],
+  "tts": "safety vest",
+  "unicode": "1f9ba"
+}

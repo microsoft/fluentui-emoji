@@ -1,0 +1,21 @@
+{
+  "cldr": "musical keyboard",
+  "fromVersion": "0.6",
+  "glyph": "🎹",
+  "glyphAsUtfInEmoticons": [
+    "1f3b9_musicalkeyboard"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "instrument",
+    "keyboard",
+    "music",
+    "musical keyboard",
+    "piano"
+  ],
+  "mappedToEmoticons": [
+    "1f3b9_musicalkeyboard"
+  ],
+  "tts": "musical keyboard",
+  "unicode": "1f3b9"
+}

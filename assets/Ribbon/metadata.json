@@ -1,0 +1,18 @@
+{
+  "cldr": "ribbon",
+  "fromVersion": "0.6",
+  "glyph": "🎀",
+  "glyphAsUtfInEmoticons": [
+    "1f380_ribbon"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "celebration",
+    "ribbon"
+  ],
+  "mappedToEmoticons": [
+    "1f380_ribbon"
+  ],
+  "tts": "ribbon",
+  "unicode": "1f380"
+}

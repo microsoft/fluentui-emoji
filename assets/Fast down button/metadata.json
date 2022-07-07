@@ -1,0 +1,20 @@
+{
+  "cldr": "fast down button",
+  "fromVersion": "0.6",
+  "glyph": "⏬",
+  "glyphAsUtfInEmoticons": [
+    "23ec_fastdownbutton"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "double",
+    "down",
+    "fast down button"
+  ],
+  "mappedToEmoticons": [
+    "23ec_fastdownbutton"
+  ],
+  "tts": "fast down button",
+  "unicode": "23ec"
+}

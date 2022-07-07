@@ -1,0 +1,19 @@
+{
+  "cldr": "smirking face",
+  "fromVersion": "0.6",
+  "glyph": "😏",
+  "glyphAsUtfInEmoticons": [
+    "smirk"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "smirk",
+    "smirking face"
+  ],
+  "mappedToEmoticons": [
+    "smirk"
+  ],
+  "tts": "smirking face",
+  "unicode": "1f60f"
+}

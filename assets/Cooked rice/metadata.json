@@ -1,0 +1,18 @@
+{
+  "cldr": "cooked rice",
+  "fromVersion": "0.6",
+  "glyph": "🍚",
+  "glyphAsUtfInEmoticons": [
+    "1f35a_cookedrice"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "cooked",
+    "rice"
+  ],
+  "mappedToEmoticons": [
+    "1f35a_cookedrice"
+  ],
+  "tts": "cooked rice",
+  "unicode": "1f35a"
+}

@@ -1,0 +1,29 @@
+{
+  "cldr": "raised fist",
+  "fromVersion": "0.6",
+  "glyph": "✊",
+  "glyphAsUtfInEmoticons": [
+    "fistbump"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "clenched",
+    "fist",
+    "hand",
+    "punch",
+    "raised fist"
+  ],
+  "mappedToEmoticons": [
+    "raisedfist"
+  ],
+  "tts": "raised fist",
+  "unicode": "270a",
+  "unicodeSkintones": [
+    "270a",
+    "270a 1f3fb",
+    "270a 1f3fc",
+    "270a 1f3fd",
+    "270a 1f3fe",
+    "270a 1f3ff"
+  ]
+}

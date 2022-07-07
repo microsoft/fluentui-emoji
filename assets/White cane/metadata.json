@@ -1,0 +1,19 @@
+{
+  "cldr": "white cane",
+  "fromVersion": "12.0",
+  "glyph": "🦯",
+  "glyphAsUtfInEmoticons": [
+    "1f9af_probingcane"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "accessibility",
+    "blind",
+    "white cane"
+  ],
+  "mappedToEmoticons": [
+    "1f9af_probingcane"
+  ],
+  "tts": "white cane",
+  "unicode": "1f9af"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "bug",
+  "fromVersion": "0.6",
+  "glyph": "🐛",
+  "glyphAsUtfInEmoticons": [
+    "bug"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "bug",
+    "insect"
+  ],
+  "mappedToEmoticons": [
+    "bug"
+  ],
+  "tts": "bug",
+  "unicode": "1f41b"
+}

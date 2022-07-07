@@ -1,0 +1,19 @@
+{
+  "cldr": "green apple",
+  "fromVersion": "0.6",
+  "glyph": "🍏",
+  "glyphAsUtfInEmoticons": [
+    "1f34f_greenapple"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "apple",
+    "fruit",
+    "green"
+  ],
+  "mappedToEmoticons": [
+    "1f34f_greenapple"
+  ],
+  "tts": "green apple",
+  "unicode": "1f34f"
+}

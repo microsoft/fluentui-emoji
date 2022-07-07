@@ -1,0 +1,22 @@
+{
+  "cldr": "ogre",
+  "fromVersion": "0.6",
+  "glyph": "👹",
+  "glyphAsUtfInEmoticons": [
+    "1f479_japaneseogre"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "creature",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "monster",
+    "ogre"
+  ],
+  "mappedToEmoticons": [
+    "1f479_japaneseogre"
+  ],
+  "tts": "ogre",
+  "unicode": "1f479"
+}

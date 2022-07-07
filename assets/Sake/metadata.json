@@ -1,0 +1,22 @@
+{
+  "cldr": "sake",
+  "fromVersion": "0.6",
+  "glyph": "🍶",
+  "glyphAsUtfInEmoticons": [
+    "1f376_sakebottleandcup"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bar",
+    "beverage",
+    "bottle",
+    "cup",
+    "drink",
+    "sake"
+  ],
+  "mappedToEmoticons": [
+    "1f376_sakebottleandcup"
+  ],
+  "tts": "sake",
+  "unicode": "1f376"
+}

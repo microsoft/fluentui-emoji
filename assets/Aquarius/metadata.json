@@ -1,0 +1,20 @@
+{
+  "cldr": "Aquarius",
+  "fromVersion": "0.6",
+  "glyph": "♒",
+  "glyphAsUtfInEmoticons": [
+    "2652_aquarius"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "Aquarius",
+    "bearer",
+    "water",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "2652_aquarius"
+  ],
+  "tts": "Aquarius",
+  "unicode": "2652"
+}

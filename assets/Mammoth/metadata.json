@@ -1,0 +1,21 @@
+{
+  "cldr": "mammoth",
+  "fromVersion": "13.0",
+  "glyph": "🦣",
+  "glyphAsUtfInEmoticons": [
+    "mammoth"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "extinction",
+    "large",
+    "mammoth",
+    "tusk",
+    "woolly"
+  ],
+  "mappedToEmoticons": [
+    "mammoth"
+  ],
+  "tts": "mammoth",
+  "unicode": "1f9a3"
+}

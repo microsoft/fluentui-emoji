@@ -1,0 +1,19 @@
+{
+  "cldr": "sun behind cloud",
+  "fromVersion": "0.6",
+  "glyph": "⛅",
+  "glyphAsUtfInEmoticons": [
+    "26c5_sunbehindcloud"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "cloud",
+    "sun",
+    "sun behind cloud"
+  ],
+  "mappedToEmoticons": [
+    "1f325_sunbehindlargecloud"
+  ],
+  "tts": "sun behind cloud",
+  "unicode": "26c5"
+}

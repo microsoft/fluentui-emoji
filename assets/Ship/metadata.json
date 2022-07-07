@@ -1,0 +1,19 @@
+{
+  "cldr": "ship",
+  "fromVersion": "0.6",
+  "glyph": "🚢",
+  "glyphAsUtfInEmoticons": [
+    "1f6a2_ship"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "boat",
+    "passenger",
+    "ship"
+  ],
+  "mappedToEmoticons": [
+    "1f6a2_ship"
+  ],
+  "tts": "ship",
+  "unicode": "1f6a2"
+}

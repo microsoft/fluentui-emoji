@@ -1,0 +1,18 @@
+{
+  "cldr": "cheese wedge",
+  "fromVersion": "1.0",
+  "glyph": "🧀",
+  "glyphAsUtfInEmoticons": [
+    "cheese"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "cheese",
+    "cheese wedge"
+  ],
+  "mappedToEmoticons": [
+    "cheese"
+  ],
+  "tts": "cheese wedge",
+  "unicode": "1f9c0"
+}

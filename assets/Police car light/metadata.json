@@ -1,0 +1,21 @@
+{
+  "cldr": "police car light",
+  "fromVersion": "0.6",
+  "glyph": "🚨",
+  "glyphAsUtfInEmoticons": [
+    "1f6a8_policecarsrevolvinglight"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "beacon",
+    "car",
+    "light",
+    "police",
+    "revolving"
+  ],
+  "mappedToEmoticons": [
+    "1f6a8_policecarsrevolvinglight"
+  ],
+  "tts": "police car light",
+  "unicode": "1f6a8"
+}

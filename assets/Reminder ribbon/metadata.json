@@ -1,0 +1,16 @@
+{
+  "cldr": "reminder ribbon",
+  "fromVersion": "0.7",
+  "glyph": "🎗️",
+  "group": "Activities",
+  "keywords": [
+    "celebration",
+    "reminder",
+    "ribbon"
+  ],
+  "mappedToEmoticons": [
+    "reminderribbon"
+  ],
+  "tts": "reminder ribbon",
+  "unicode": "1f397 fe0f"
+}

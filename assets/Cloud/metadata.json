@@ -1,0 +1,18 @@
+{
+  "cldr": "cloud",
+  "fromVersion": "0.6",
+  "glyph": "☁️",
+  "glyphAsUtfInEmoticons": [
+    "2601_cloud"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "cloud",
+    "weather"
+  ],
+  "mappedToEmoticons": [
+    "2601_cloud"
+  ],
+  "tts": "cloud",
+  "unicode": "2601 fe0f"
+}

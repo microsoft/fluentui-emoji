@@ -1,0 +1,15 @@
+{
+  "cldr": "chains",
+  "fromVersion": "0.7",
+  "glyph": "⛓️",
+  "group": "Objects",
+  "keywords": [
+    "chain",
+    "chains"
+  ],
+  "mappedToEmoticons": [
+    "26d3_chains"
+  ],
+  "tts": "chains",
+  "unicode": "26d3 fe0f"
+}

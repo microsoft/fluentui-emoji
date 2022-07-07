@@ -1,0 +1,20 @@
+{
+  "cldr": "check box with check",
+  "fromVersion": "0.6",
+  "glyph": "☑️",
+  "glyphAsUtfInEmoticons": [
+    "2611_ballotboxwithcheck"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "✓",
+    "box",
+    "check",
+    "check box with check"
+  ],
+  "mappedToEmoticons": [
+    "2611_ballotboxwithcheck"
+  ],
+  "tts": "check box with check",
+  "unicode": "2611 fe0f"
+}

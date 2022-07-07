@@ -1,0 +1,19 @@
+{
+  "cldr": "slot machine",
+  "fromVersion": "0.6",
+  "glyph": "🎰",
+  "glyphAsUtfInEmoticons": [
+    "1f3b0_slotmachine"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "game",
+    "slot",
+    "slot machine"
+  ],
+  "mappedToEmoticons": [
+    "1f3b0_slotmachine"
+  ],
+  "tts": "slot machine",
+  "unicode": "1f3b0"
+}

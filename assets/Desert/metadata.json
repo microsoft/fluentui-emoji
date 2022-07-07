@@ -1,0 +1,14 @@
+{
+  "cldr": "desert",
+  "fromVersion": "0.7",
+  "glyph": "🏜️",
+  "group": "Travel & Places",
+  "keywords": [
+    "desert"
+  ],
+  "mappedToEmoticons": [
+    "desert"
+  ],
+  "tts": "desert",
+  "unicode": "1f3dc fe0f"
+}

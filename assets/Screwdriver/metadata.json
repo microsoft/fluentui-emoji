@@ -1,0 +1,19 @@
+{
+  "cldr": "screwdriver",
+  "fromVersion": "13.0",
+  "glyph": "🪛",
+  "glyphAsUtfInEmoticons": [
+    "screwdriver"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "screw",
+    "screwdriver",
+    "tool"
+  ],
+  "mappedToEmoticons": [
+    "screwdriver"
+  ],
+  "tts": "screwdriver",
+  "unicode": "1fa9b"
+}

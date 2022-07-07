@@ -1,0 +1,17 @@
+{
+  "cldr": "studio microphone",
+  "fromVersion": "0.7",
+  "glyph": "🎙️",
+  "group": "Objects",
+  "keywords": [
+    "mic",
+    "microphone",
+    "music",
+    "studio"
+  ],
+  "mappedToEmoticons": [
+    "1f399_studiomicrophone"
+  ],
+  "tts": "studio microphone",
+  "unicode": "1f399 fe0f"
+}

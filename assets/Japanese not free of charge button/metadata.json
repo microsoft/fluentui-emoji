@@ -1,0 +1,21 @@
+{
+  "cldr": "Japanese “not free of charge” button",
+  "fromVersion": "0.6",
+  "glyph": "🈶",
+  "glyphAsUtfInEmoticons": [
+    "1f236_notfreeofcharge"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "“not free of charge”",
+    "ideograph",
+    "Japanese",
+    "Japanese “not free of charge” button",
+    "有"
+  ],
+  "mappedToEmoticons": [
+    "1f236_notfreeofcharge"
+  ],
+  "tts": "Japanese “not free of charge” button",
+  "unicode": "1f236"
+}

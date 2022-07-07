@@ -1,0 +1,18 @@
+{
+  "cldr": "clown face",
+  "fromVersion": "3.0",
+  "glyph": "🤡",
+  "glyphAsUtfInEmoticons": [
+    "1f921_clownface"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "clown",
+    "face"
+  ],
+  "mappedToEmoticons": [
+    "1f921_clownface"
+  ],
+  "tts": "clown face",
+  "unicode": "1f921"
+}

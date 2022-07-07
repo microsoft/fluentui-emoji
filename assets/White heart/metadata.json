@@ -1,0 +1,19 @@
+{
+  "cldr": "white heart",
+  "fromVersion": "12.0",
+  "glyph": "🤍",
+  "glyphAsUtfInEmoticons": [
+    "1f90d_whiteheart",
+    "heartwhite"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "heart",
+    "white"
+  ],
+  "mappedToEmoticons": [
+    "heartwhite"
+  ],
+  "tts": "white heart",
+  "unicode": "1f90d"
+}

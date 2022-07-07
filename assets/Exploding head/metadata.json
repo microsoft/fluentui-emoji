@@ -1,0 +1,19 @@
+{
+  "cldr": "exploding head",
+  "fromVersion": "5.0",
+  "glyph": "🤯",
+  "glyphAsUtfInEmoticons": [
+    "1f92f_explodinghead"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "exploding head",
+    "mind blown",
+    "shocked"
+  ],
+  "mappedToEmoticons": [
+    "1f92f_explodinghead"
+  ],
+  "tts": "exploding head",
+  "unicode": "1f92f"
+}

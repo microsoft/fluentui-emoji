@@ -1,0 +1,19 @@
+{
+  "cldr": "input symbols",
+  "fromVersion": "0.6",
+  "glyph": "🔣",
+  "glyphAsUtfInEmoticons": [
+    "1f523_inputsymbolforsymbols"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "〒♪&%",
+    "input",
+    "input symbols"
+  ],
+  "mappedToEmoticons": [
+    "1f523_inputsymbolforsymbols"
+  ],
+  "tts": "input symbols",
+  "unicode": "1f523"
+}

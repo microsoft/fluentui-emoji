@@ -1,0 +1,20 @@
+{
+  "cldr": "neutral face",
+  "fromVersion": "0.7",
+  "glyph": "😐",
+  "glyphAsUtfInEmoticons": [
+    "speechless"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "deadpan",
+    "face",
+    "meh",
+    "neutral"
+  ],
+  "mappedToEmoticons": [
+    "speechless"
+  ],
+  "tts": "neutral face",
+  "unicode": "1f610"
+}

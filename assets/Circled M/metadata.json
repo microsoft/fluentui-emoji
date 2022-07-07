@@ -1,0 +1,19 @@
+{
+  "cldr": "circled M",
+  "fromVersion": "0.6",
+  "glyph": "Ⓜ️",
+  "glyphAsUtfInEmoticons": [
+    "24c2_circledlatincapitalletterm"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "circle",
+    "circled M",
+    "m"
+  ],
+  "mappedToEmoticons": [
+    "24c2_circledlatincapitalletterm"
+  ],
+  "tts": "circled M",
+  "unicode": "24c2 fe0f"
+}

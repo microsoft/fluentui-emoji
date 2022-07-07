@@ -1,0 +1,20 @@
+{
+  "cldr": "top hat",
+  "fromVersion": "0.6",
+  "glyph": "🎩",
+  "glyphAsUtfInEmoticons": [
+    "1f3a9_tophat"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "clothing",
+    "hat",
+    "top",
+    "tophat"
+  ],
+  "mappedToEmoticons": [
+    "1f3a9_tophat"
+  ],
+  "tts": "top hat",
+  "unicode": "1f3a9"
+}

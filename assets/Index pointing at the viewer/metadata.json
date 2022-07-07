@@ -1,0 +1,21 @@
+{
+  "cldr": "index pointing at the viewer",
+  "fromVersion": "14.0",
+  "glyph": "🫵",
+  "group": "People & Body",
+  "keywords": [
+    "index pointing at the viewer",
+    "point",
+    "you"
+  ],
+  "tts": "index pointing at the viewer",
+  "unicode": "1faf5",
+  "unicodeSkintones": [
+    "1faf5",
+    "1faf5 1f3fb",
+    "1faf5 1f3fc",
+    "1faf5 1f3fd",
+    "1faf5 1f3fe",
+    "1faf5 1f3ff"
+  ]
+}

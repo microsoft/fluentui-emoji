@@ -1,0 +1,18 @@
+{
+  "cldr": "oncoming taxi",
+  "fromVersion": "1.0",
+  "glyph": "🚖",
+  "glyphAsUtfInEmoticons": [
+    "1f696_oncomingtaxi"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "oncoming",
+    "taxi"
+  ],
+  "mappedToEmoticons": [
+    "1f696_oncomingtaxi"
+  ],
+  "tts": "oncoming taxi",
+  "unicode": "1f696"
+}

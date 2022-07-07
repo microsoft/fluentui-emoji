@@ -1,0 +1,19 @@
+{
+  "cldr": "pot of food",
+  "fromVersion": "0.6",
+  "glyph": "🍲",
+  "glyphAsUtfInEmoticons": [
+    "1f372_potoffood"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "pot",
+    "pot of food",
+    "stew"
+  ],
+  "mappedToEmoticons": [
+    "1f372_potoffood"
+  ],
+  "tts": "pot of food",
+  "unicode": "1f372"
+}

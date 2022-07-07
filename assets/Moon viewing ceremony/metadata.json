@@ -1,0 +1,20 @@
+{
+  "cldr": "moon viewing ceremony",
+  "fromVersion": "0.6",
+  "glyph": "🎑",
+  "glyphAsUtfInEmoticons": [
+    "1f391_moonviewingceremony"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "celebration",
+    "ceremony",
+    "moon",
+    "moon viewing ceremony"
+  ],
+  "mappedToEmoticons": [
+    "1f391_moonviewingceremony"
+  ],
+  "tts": "moon viewing ceremony",
+  "unicode": "1f391"
+}

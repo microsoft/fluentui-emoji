@@ -1,0 +1,18 @@
+{
+  "cldr": "keycap: hash",
+  "fromVersion": "0.6",
+  "glyph": "#️⃣",
+  "glyphAsUtfInEmoticons": [
+    "keycapnumbersign"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "keycap",
+    "hash"
+  ],
+  "mappedToEmoticons": [
+    "keycapnumbersign"
+  ],
+  "tts": "keycap: #",
+  "unicode": "0023 fe0f 20e3"
+}

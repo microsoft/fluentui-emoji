@@ -1,0 +1,19 @@
+{
+  "cldr": "play or pause button",
+  "fromVersion": "1.0",
+  "glyph": "⏯️",
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "pause",
+    "play",
+    "play or pause button",
+    "right",
+    "triangle"
+  ],
+  "mappedToEmoticons": [
+    "23ef_playpause"
+  ],
+  "tts": "play or pause button",
+  "unicode": "23ef fe0f"
+}

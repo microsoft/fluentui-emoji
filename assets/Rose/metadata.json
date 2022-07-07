@@ -1,0 +1,18 @@
+{
+  "cldr": "rose",
+  "fromVersion": "0.6",
+  "glyph": "🌹",
+  "glyphAsUtfInEmoticons": [
+    "rose"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "flower",
+    "rose"
+  ],
+  "mappedToEmoticons": [
+    "rose"
+  ],
+  "tts": "rose",
+  "unicode": "1f339"
+}

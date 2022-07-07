@@ -1,0 +1,21 @@
+{
+  "cldr": "briefs",
+  "fromVersion": "12.0",
+  "glyph": "🩲",
+  "glyphAsUtfInEmoticons": [
+    "1fa72_briefs"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "bathing suit",
+    "briefs",
+    "one-piece",
+    "swimsuit",
+    "underwear"
+  ],
+  "mappedToEmoticons": [
+    "1fa72_briefs"
+  ],
+  "tts": "briefs",
+  "unicode": "1fa72"
+}

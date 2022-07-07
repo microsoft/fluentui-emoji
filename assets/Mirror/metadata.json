@@ -1,0 +1,20 @@
+{
+  "cldr": "mirror",
+  "fromVersion": "13.0",
+  "glyph": "🪞",
+  "glyphAsUtfInEmoticons": [
+    "mirror"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "mirror",
+    "reflection",
+    "reflector",
+    "speculum"
+  ],
+  "mappedToEmoticons": [
+    "mirror"
+  ],
+  "tts": "mirror",
+  "unicode": "1fa9e"
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "Capricorn",
+  "fromVersion": "0.6",
+  "glyph": "♑",
+  "glyphAsUtfInEmoticons": [
+    "2651_capricorn"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "Capricorn",
+    "goat",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "2651_capricorn"
+  ],
+  "tts": "Capricorn",
+  "unicode": "2651"
+}

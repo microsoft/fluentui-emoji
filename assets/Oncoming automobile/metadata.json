@@ -1,0 +1,19 @@
+{
+  "cldr": "oncoming automobile",
+  "fromVersion": "0.7",
+  "glyph": "🚘",
+  "glyphAsUtfInEmoticons": [
+    "1f698_oncomingautomobile"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "automobile",
+    "car",
+    "oncoming"
+  ],
+  "mappedToEmoticons": [
+    "1f698_oncomingautomobile"
+  ],
+  "tts": "oncoming automobile",
+  "unicode": "1f698"
+}

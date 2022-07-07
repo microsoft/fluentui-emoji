@@ -1,0 +1,20 @@
+{
+  "cldr": "bagel",
+  "fromVersion": "11.0",
+  "glyph": "🥯",
+  "glyphAsUtfInEmoticons": [
+    "1f96f_bagel"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bagel",
+    "bakery",
+    "breakfast",
+    "schmear"
+  ],
+  "mappedToEmoticons": [
+    "1f96f_bagel"
+  ],
+  "tts": "bagel",
+  "unicode": "1f96f"
+}

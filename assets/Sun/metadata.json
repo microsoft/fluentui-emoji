@@ -1,0 +1,17 @@
+{
+  "cldr": "sun",
+  "fromVersion": "0.6",
+  "glyph": "☀️",
+  "group": "Travel & Places",
+  "keywords": [
+    "bright",
+    "rays",
+    "sun",
+    "sunny"
+  ],
+  "mappedToEmoticons": [
+    "2600_sunwithrays"
+  ],
+  "tts": "sun",
+  "unicode": "2600 fe0f"
+}

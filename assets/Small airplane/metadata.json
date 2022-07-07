@@ -1,0 +1,16 @@
+{
+  "cldr": "small airplane",
+  "fromVersion": "0.7",
+  "glyph": "🛩️",
+  "group": "Travel & Places",
+  "keywords": [
+    "aeroplane",
+    "airplane",
+    "small airplane"
+  ],
+  "mappedToEmoticons": [
+    "1f6e9_smallairplane"
+  ],
+  "tts": "small airplane",
+  "unicode": "1f6e9 fe0f"
+}

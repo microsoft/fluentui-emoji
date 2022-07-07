@@ -1,0 +1,20 @@
+{
+  "cldr": "mending heart",
+  "fromVersion": "13.1",
+  "glyph": "❤️‍🩹",
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "healthier",
+    "improving",
+    "mending",
+    "mending heart",
+    "recovering",
+    "recuperating",
+    "well"
+  ],
+  "mappedToEmoticons": [
+    "mendingheart"
+  ],
+  "tts": "mending heart",
+  "unicode": "2764 fe0f 200d 1fa79"
+}

@@ -1,0 +1,15 @@
+{
+  "cldr": "fountain pen",
+  "fromVersion": "0.7",
+  "glyph": "🖋️",
+  "group": "Objects",
+  "keywords": [
+    "fountain",
+    "pen"
+  ],
+  "mappedToEmoticons": [
+    "1f58b_lowerleftfountainpen"
+  ],
+  "tts": "fountain pen",
+  "unicode": "1f58b fe0f"
+}

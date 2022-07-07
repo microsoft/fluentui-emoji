@@ -1,0 +1,22 @@
+{
+  "cldr": "no entry",
+  "fromVersion": "0.6",
+  "glyph": "⛔",
+  "glyphAsUtfInEmoticons": [
+    "26d4_noentry"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "entry",
+    "forbidden",
+    "no",
+    "not",
+    "prohibited",
+    "traffic"
+  ],
+  "mappedToEmoticons": [
+    "26d4_noentry"
+  ],
+  "tts": "no entry",
+  "unicode": "26d4"
+}

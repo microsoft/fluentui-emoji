@@ -1,0 +1,19 @@
+{
+  "cldr": "eight-pointed star",
+  "fromVersion": "0.6",
+  "glyph": "✴️",
+  "glyphAsUtfInEmoticons": [
+    "2734_eightpointedblackstar"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "*",
+    "eight-pointed star",
+    "star"
+  ],
+  "mappedToEmoticons": [
+    "2734_eightpointedblackstar"
+  ],
+  "tts": "eight-pointed star",
+  "unicode": "2734 fe0f"
+}

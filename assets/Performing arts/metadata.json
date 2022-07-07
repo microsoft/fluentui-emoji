@@ -1,0 +1,22 @@
+{
+  "cldr": "performing arts",
+  "fromVersion": "0.6",
+  "glyph": "🎭",
+  "glyphAsUtfInEmoticons": [
+    "1f3ad_performingarts"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "art",
+    "mask",
+    "performing",
+    "performing arts",
+    "theater",
+    "theatre"
+  ],
+  "mappedToEmoticons": [
+    "1f3ad_performingarts"
+  ],
+  "tts": "performing arts",
+  "unicode": "1f3ad"
+}

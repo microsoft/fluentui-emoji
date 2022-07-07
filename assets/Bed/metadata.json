@@ -1,0 +1,16 @@
+{
+  "cldr": "bed",
+  "fromVersion": "0.7",
+  "glyph": "🛏️",
+  "group": "Objects",
+  "keywords": [
+    "bed",
+    "hotel",
+    "sleep"
+  ],
+  "mappedToEmoticons": [
+    "1f6cf_bed"
+  ],
+  "tts": "bed",
+  "unicode": "1f6cf fe0f"
+}

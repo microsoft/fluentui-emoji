@@ -1,0 +1,18 @@
+{
+  "cldr": "alarm clock",
+  "fromVersion": "0.6",
+  "glyph": "⏰",
+  "glyphAsUtfInEmoticons": [
+    "23f0_alarmclock"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "alarm",
+    "clock"
+  ],
+  "mappedToEmoticons": [
+    "23f0_alarmclock"
+  ],
+  "tts": "alarm clock",
+  "unicode": "23f0"
+}

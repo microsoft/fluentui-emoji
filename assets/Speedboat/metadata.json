@@ -1,0 +1,18 @@
+{
+  "cldr": "speedboat",
+  "fromVersion": "0.6",
+  "glyph": "🚤",
+  "glyphAsUtfInEmoticons": [
+    "1f6a4_speedboat"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "boat",
+    "speedboat"
+  ],
+  "mappedToEmoticons": [
+    "1f6a4_speedboat"
+  ],
+  "tts": "speedboat",
+  "unicode": "1f6a4"
+}

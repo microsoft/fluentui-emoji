@@ -1,0 +1,18 @@
+{
+  "cldr": "peace symbol",
+  "fromVersion": "1.0",
+  "glyph": "☮️",
+  "glyphAsUtfInEmoticons": [
+    "262e_peacesymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "peace",
+    "peace symbol"
+  ],
+  "mappedToEmoticons": [
+    "262e_peacesymbol"
+  ],
+  "tts": "peace symbol",
+  "unicode": "262e fe0f"
+}

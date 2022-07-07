@@ -1,0 +1,18 @@
+{
+  "cldr": "house",
+  "fromVersion": "0.6",
+  "glyph": "🏠",
+  "glyphAsUtfInEmoticons": [
+    "house"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "home",
+    "house"
+  ],
+  "mappedToEmoticons": [
+    "house"
+  ],
+  "tts": "house",
+  "unicode": "1f3e0"
+}

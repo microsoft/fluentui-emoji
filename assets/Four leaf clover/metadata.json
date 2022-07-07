@@ -1,0 +1,21 @@
+{
+  "cldr": "four leaf clover",
+  "fromVersion": "0.6",
+  "glyph": "🍀",
+  "glyphAsUtfInEmoticons": [
+    "goodluck"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "4",
+    "clover",
+    "four",
+    "four-leaf clover",
+    "leaf"
+  ],
+  "mappedToEmoticons": [
+    "goodluck"
+  ],
+  "tts": "four leaf clover",
+  "unicode": "1f340"
+}

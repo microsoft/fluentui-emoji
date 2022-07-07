@@ -1,0 +1,20 @@
+{
+  "cldr": "dim button",
+  "fromVersion": "1.0",
+  "glyph": "🔅",
+  "glyphAsUtfInEmoticons": [
+    "1f505_lowbrightnesssymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "brightness",
+    "dim",
+    "dim button",
+    "low"
+  ],
+  "mappedToEmoticons": [
+    "1f505_lowbrightnesssymbol"
+  ],
+  "tts": "dim button",
+  "unicode": "1f505"
+}

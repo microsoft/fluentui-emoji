@@ -1,0 +1,21 @@
+{
+  "cldr": "Japanese “open for business” button",
+  "fromVersion": "0.6",
+  "glyph": "🈺",
+  "glyphAsUtfInEmoticons": [
+    "1f23a_open"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "“open for business”",
+    "ideograph",
+    "Japanese",
+    "Japanese “open for business” button",
+    "営"
+  ],
+  "mappedToEmoticons": [
+    "1f23a_open"
+  ],
+  "tts": "Japanese “open for business” button",
+  "unicode": "1f23a"
+}

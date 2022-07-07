@@ -1,0 +1,18 @@
+{
+  "cldr": "curry rice",
+  "fromVersion": "0.6",
+  "glyph": "🍛",
+  "glyphAsUtfInEmoticons": [
+    "1f35b_curryandrice"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "curry",
+    "rice"
+  ],
+  "mappedToEmoticons": [
+    "1f35b_curryandrice"
+  ],
+  "tts": "curry rice",
+  "unicode": "1f35b"
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "yin yang",
+  "fromVersion": "0.7",
+  "glyph": "☯️",
+  "glyphAsUtfInEmoticons": [
+    "262f_yinyang"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "religion",
+    "tao",
+    "taoist",
+    "yang",
+    "yin"
+  ],
+  "mappedToEmoticons": [
+    "262f_yinyang"
+  ],
+  "tts": "yin yang",
+  "unicode": "262f fe0f"
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "umbrella with rain drops",
+  "fromVersion": "0.6",
+  "glyph": "☔",
+  "glyphAsUtfInEmoticons": [
+    "umbrella"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "clothing",
+    "drop",
+    "rain",
+    "umbrella",
+    "umbrella with rain drops"
+  ],
+  "mappedToEmoticons": [
+    "umbrella"
+  ],
+  "tts": "umbrella with rain drops",
+  "unicode": "2614"
+}

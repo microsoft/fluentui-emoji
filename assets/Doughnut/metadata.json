@@ -1,0 +1,21 @@
+{
+  "cldr": "doughnut",
+  "fromVersion": "0.6",
+  "glyph": "🍩",
+  "glyphAsUtfInEmoticons": [
+    "1f369_doughnut"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "breakfast",
+    "dessert",
+    "donut",
+    "doughnut",
+    "sweet"
+  ],
+  "mappedToEmoticons": [
+    "1f369_doughnut"
+  ],
+  "tts": "doughnut",
+  "unicode": "1f369"
+}

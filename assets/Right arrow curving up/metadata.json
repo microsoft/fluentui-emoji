@@ -1,0 +1,15 @@
+{
+  "cldr": "right arrow curving up",
+  "fromVersion": "0.6",
+  "glyph": "⤴️",
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "right arrow curving up"
+  ],
+  "mappedToEmoticons": [
+    "2934_arrowcurvedupright"
+  ],
+  "tts": "right arrow curving up",
+  "unicode": "2934 fe0f"
+}

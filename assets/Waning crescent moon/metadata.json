@@ -1,0 +1,19 @@
+{
+  "cldr": "waning crescent moon",
+  "fromVersion": "1.0",
+  "glyph": "🌘",
+  "glyphAsUtfInEmoticons": [
+    "1f318_waningcrescentmoonsymbol"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "crescent",
+    "moon",
+    "waning"
+  ],
+  "mappedToEmoticons": [
+    "1f318_waningcrescentmoonsymbol"
+  ],
+  "tts": "waning crescent moon",
+  "unicode": "1f318"
+}

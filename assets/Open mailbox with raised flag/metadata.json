@@ -1,0 +1,21 @@
+{
+  "cldr": "open mailbox with raised flag",
+  "fromVersion": "0.7",
+  "glyph": "📬",
+  "glyphAsUtfInEmoticons": [
+    "1f4ec_openmailboxwithraisedflag"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "mail",
+    "mailbox",
+    "open",
+    "open mailbox with raised flag",
+    "postbox"
+  ],
+  "mappedToEmoticons": [
+    "1f4ec_openmailboxwithraisedflag"
+  ],
+  "tts": "open mailbox with raised flag",
+  "unicode": "1f4ec"
+}

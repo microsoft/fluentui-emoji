@@ -1,0 +1,15 @@
+{
+  "cldr": "thermometer",
+  "fromVersion": "0.7",
+  "glyph": "🌡️",
+  "group": "Travel & Places",
+  "keywords": [
+    "thermometer",
+    "weather"
+  ],
+  "mappedToEmoticons": [
+    "1f321_thermometer"
+  ],
+  "tts": "thermometer",
+  "unicode": "1f321 fe0f"
+}

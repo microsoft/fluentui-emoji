@@ -1,0 +1,18 @@
+{
+  "cldr": "information",
+  "fromVersion": "️0.6",
+  "glyph": "ℹ️",
+  "glyphAsUtfInEmoticons": [
+    "2139_informationsource"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "i",
+    "information"
+  ],
+  "mappedToEmoticons": [
+    "2139_informationsource"
+  ],
+  "tts": "information",
+  "unicode": "2139 fe0f"
+}

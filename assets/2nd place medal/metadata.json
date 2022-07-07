@@ -1,0 +1,20 @@
+{
+  "cldr": "2nd place medal",
+  "fromVersion": "3.0",
+  "glyph": "🥈",
+  "glyphAsUtfInEmoticons": [
+    "silvermedal"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "2nd place medal",
+    "medal",
+    "second",
+    "silver"
+  ],
+  "mappedToEmoticons": [
+    "silvermedal"
+  ],
+  "tts": "2nd place medal",
+  "unicode": "1f948"
+}

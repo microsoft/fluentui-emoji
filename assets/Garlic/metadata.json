@@ -1,0 +1,18 @@
+{
+  "cldr": "garlic",
+  "fromVersion": "12.0",
+  "glyph": "🧄",
+  "glyphAsUtfInEmoticons": [
+    "1f9c4_garlic"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "flavoring",
+    "garlic"
+  ],
+  "mappedToEmoticons": [
+    "1f9c4_garlic"
+  ],
+  "tts": "garlic",
+  "unicode": "1f9c4"
+}

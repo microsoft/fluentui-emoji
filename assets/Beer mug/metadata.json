@@ -1,0 +1,20 @@
+{
+  "cldr": "beer mug",
+  "fromVersion": "0.6",
+  "glyph": "🍺",
+  "glyphAsUtfInEmoticons": [
+    "beer"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bar",
+    "beer",
+    "drink",
+    "mug"
+  ],
+  "mappedToEmoticons": [
+    "beer"
+  ],
+  "tts": "beer mug",
+  "unicode": "1f37a"
+}

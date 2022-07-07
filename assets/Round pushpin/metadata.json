@@ -1,0 +1,19 @@
+{
+  "cldr": "round pushpin",
+  "fromVersion": "0.6",
+  "glyph": "📍",
+  "glyphAsUtfInEmoticons": [
+    "1f4cd_roundpushpin"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "pin",
+    "pushpin",
+    "round pushpin"
+  ],
+  "mappedToEmoticons": [
+    "1f4cd_roundpushpin"
+  ],
+  "tts": "round pushpin",
+  "unicode": "1f4cd"
+}

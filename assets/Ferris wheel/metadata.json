@@ -1,0 +1,19 @@
+{
+  "cldr": "ferris wheel",
+  "fromVersion": "0.6",
+  "glyph": "🎡",
+  "glyphAsUtfInEmoticons": [
+    "1f3a1_ferriswheel"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "amusement park",
+    "ferris",
+    "wheel"
+  ],
+  "mappedToEmoticons": [
+    "1f3a1_ferriswheel"
+  ],
+  "tts": "ferris wheel",
+  "unicode": "1f3a1"
+}

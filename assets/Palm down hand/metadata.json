@@ -1,0 +1,28 @@
+{
+  "cldr": "palm down hand",
+  "fromVersion": "14.0",
+  "glyph": "🫳",
+  "glyphAsUtfInEmoticons": [
+    "palmdownhand"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "dismiss",
+    "drop",
+    "palm down hand",
+    "shoo"
+  ],
+  "mappedToEmoticons": [
+    "palmdownhand"
+  ],
+  "tts": "palm down hand",
+  "unicode": "1faf3",
+  "unicodeSkintones": [
+    "1faf3",
+    "1faf3 1f3fb",
+    "1faf3 1f3fc",
+    "1faf3 1f3fd",
+    "1faf3 1f3fe",
+    "1faf3 1f3ff"
+  ]
+}

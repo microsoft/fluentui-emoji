@@ -1,0 +1,17 @@
+{
+  "cldr": "cloud with lightning and rain",
+  "fromVersion": "0.7",
+  "glyph": "⛈️",
+  "group": "Travel & Places",
+  "keywords": [
+    "cloud",
+    "cloud with lightning and rain",
+    "rain",
+    "thunder"
+  ],
+  "mappedToEmoticons": [
+    "26c8_cloudwithlightningandrain"
+  ],
+  "tts": "cloud with lightning and rain",
+  "unicode": "26c8 fe0f"
+}

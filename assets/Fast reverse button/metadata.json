@@ -1,0 +1,20 @@
+{
+  "cldr": "fast reverse button",
+  "fromVersion": "0.6",
+  "glyph": "⏪",
+  "glyphAsUtfInEmoticons": [
+    "23ea_fastreversebutton"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "double",
+    "fast reverse button",
+    "rewind"
+  ],
+  "mappedToEmoticons": [
+    "23ea_fastreversebutton"
+  ],
+  "tts": "fast reverse button",
+  "unicode": "23ea"
+}

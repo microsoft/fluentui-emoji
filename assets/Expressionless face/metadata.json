@@ -1,0 +1,21 @@
+{
+  "cldr": "expressionless face",
+  "fromVersion": "1.0",
+  "glyph": "😑",
+  "glyphAsUtfInEmoticons": [
+    "expressionless"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "expressionless",
+    "face",
+    "inexpressive",
+    "meh",
+    "unexpressive"
+  ],
+  "mappedToEmoticons": [
+    "expressionless"
+  ],
+  "tts": "expressionless face",
+  "unicode": "1f611"
+}

@@ -1,0 +1,20 @@
+{
+  "cldr": "sheaf of rice",
+  "fromVersion": "0.6",
+  "glyph": "🌾",
+  "glyphAsUtfInEmoticons": [
+    "1f33e_earofrice"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "ear",
+    "grain",
+    "rice",
+    "sheaf of rice"
+  ],
+  "mappedToEmoticons": [
+    "1f33e_earofrice"
+  ],
+  "tts": "sheaf of rice",
+  "unicode": "1f33e"
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "magnifying glass tilted left",
+  "fromVersion": "0.6",
+  "glyph": "🔍",
+  "glyphAsUtfInEmoticons": [
+    "1f50d_magnifiertiltedleft"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "glass",
+    "magnifying",
+    "magnifying glass tilted left",
+    "search",
+    "tool"
+  ],
+  "mappedToEmoticons": [
+    "1f50d_magnifiertiltedleft"
+  ],
+  "tts": "magnifying glass tilted left",
+  "unicode": "1f50d"
+}

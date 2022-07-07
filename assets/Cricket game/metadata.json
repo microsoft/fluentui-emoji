@@ -1,0 +1,20 @@
+{
+  "cldr": "cricket game",
+  "fromVersion": "1.0",
+  "glyph": "🏏",
+  "glyphAsUtfInEmoticons": [
+    "pullshot"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "ball",
+    "bat",
+    "cricket game",
+    "game"
+  ],
+  "mappedToEmoticons": [
+    "cricketbatandball"
+  ],
+  "tts": "cricket game",
+  "unicode": "1f3cf"
+}

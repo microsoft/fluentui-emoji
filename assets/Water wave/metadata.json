@@ -1,0 +1,20 @@
+{
+  "cldr": "water wave",
+  "fromVersion": "0.6",
+  "glyph": "🌊",
+  "glyphAsUtfInEmoticons": [
+    "1f30a_waterwave",
+    "wave"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "ocean",
+    "water",
+    "wave"
+  ],
+  "mappedToEmoticons": [
+    "1f30a_waterwave"
+  ],
+  "tts": "water wave",
+  "unicode": "1f30a"
+}

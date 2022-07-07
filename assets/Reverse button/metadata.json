@@ -1,0 +1,21 @@
+{
+  "cldr": "reverse button",
+  "fromVersion": "0.6",
+  "glyph": "◀️",
+  "glyphAsUtfInEmoticons": [
+    "25c0_blackleftpointingtriangle"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "left",
+    "reverse",
+    "reverse button",
+    "triangle"
+  ],
+  "mappedToEmoticons": [
+    "25c0_blackleftpointingtriangle"
+  ],
+  "tts": "reverse button",
+  "unicode": "25c0 fe0f"
+}

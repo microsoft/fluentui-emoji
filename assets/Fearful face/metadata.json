@@ -1,0 +1,20 @@
+{
+  "cldr": "fearful face",
+  "fromVersion": "0.6",
+  "glyph": "😨",
+  "glyphAsUtfInEmoticons": [
+    "fearful"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "fear",
+    "fearful",
+    "scared"
+  ],
+  "mappedToEmoticons": [
+    "fearful"
+  ],
+  "tts": "fearful face",
+  "unicode": "1f628"
+}

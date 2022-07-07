@@ -1,0 +1,19 @@
+{
+  "cldr": "om",
+  "fromVersion": "0.7",
+  "glyph": "🕉️",
+  "glyphAsUtfInEmoticons": [
+    "1f549_omsymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "Hindu",
+    "om",
+    "religion"
+  ],
+  "mappedToEmoticons": [
+    "1f549_omsymbol"
+  ],
+  "tts": "om",
+  "unicode": "1f549 fe0f"
+}

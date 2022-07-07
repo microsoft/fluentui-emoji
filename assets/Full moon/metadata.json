@@ -1,0 +1,18 @@
+{
+  "cldr": "full moon",
+  "fromVersion": "0.6",
+  "glyph": "🌕",
+  "glyphAsUtfInEmoticons": [
+    "1f315_fullmoonsymbol"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "full",
+    "moon"
+  ],
+  "mappedToEmoticons": [
+    "1f315_fullmoonsymbol"
+  ],
+  "tts": "full moon",
+  "unicode": "1f315"
+}

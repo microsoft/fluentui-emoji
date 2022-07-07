@@ -1,0 +1,22 @@
+{
+  "cldr": "closed mailbox with lowered flag",
+  "fromVersion": "0.6",
+  "glyph": "📪",
+  "glyphAsUtfInEmoticons": [
+    "1f4ea_mailboxclosedflagdown"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "closed",
+    "closed mailbox with lowered flag",
+    "lowered",
+    "mail",
+    "mailbox",
+    "postbox"
+  ],
+  "mappedToEmoticons": [
+    "1f4ea_mailboxclosedflagdown"
+  ],
+  "tts": "closed mailbox with lowered flag",
+  "unicode": "1f4ea"
+}

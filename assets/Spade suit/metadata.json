@@ -1,0 +1,19 @@
+{
+  "cldr": "spade suit",
+  "fromVersion": "0.6",
+  "glyph": "♠️",
+  "glyphAsUtfInEmoticons": [
+    "2660_blackspadesuit"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "card",
+    "game",
+    "spade suit"
+  ],
+  "mappedToEmoticons": [
+    "2660_blackspadesuit"
+  ],
+  "tts": "spade suit",
+  "unicode": "2660 fe0f"
+}

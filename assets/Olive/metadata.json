@@ -1,0 +1,18 @@
+{
+  "cldr": "olive",
+  "fromVersion": "13.0",
+  "glyph": "🫒",
+  "glyphAsUtfInEmoticons": [
+    "olive"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "food",
+    "olive"
+  ],
+  "mappedToEmoticons": [
+    "olive"
+  ],
+  "tts": "olive",
+  "unicode": "1fad2"
+}

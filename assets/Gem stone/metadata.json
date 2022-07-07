@@ -1,0 +1,20 @@
+{
+  "cldr": "gem stone",
+  "fromVersion": "0.6",
+  "glyph": "💎",
+  "glyphAsUtfInEmoticons": [
+    "diamond"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "diamond",
+    "gem",
+    "gem stone",
+    "jewel"
+  ],
+  "mappedToEmoticons": [
+    "diamond"
+  ],
+  "tts": "gem stone",
+  "unicode": "1f48e"
+}

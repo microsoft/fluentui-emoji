@@ -1,0 +1,17 @@
+{
+  "cldr": "funeral urn",
+  "fromVersion": "1.0",
+  "glyph": "⚱️",
+  "group": "Objects",
+  "keywords": [
+    "ashes",
+    "death",
+    "funeral",
+    "urn"
+  ],
+  "mappedToEmoticons": [
+    "26b1_funeralurn"
+  ],
+  "tts": "funeral urn",
+  "unicode": "26b1 fe0f"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "motorcycle",
+  "fromVersion": "0.7",
+  "glyph": "🏍️",
+  "glyphAsUtfInEmoticons": [
+    "motorbike"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "motorcycle",
+    "racing"
+  ],
+  "mappedToEmoticons": [
+    "motorbike"
+  ],
+  "tts": "motorcycle",
+  "unicode": "1f3cd fe0f"
+}

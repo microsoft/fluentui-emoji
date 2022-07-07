@@ -1,0 +1,15 @@
+{
+  "cldr": "paintbrush",
+  "fromVersion": "0.7",
+  "glyph": "🖌️",
+  "group": "Objects",
+  "keywords": [
+    "paintbrush",
+    "painting"
+  ],
+  "mappedToEmoticons": [
+    "1f58c_lowerleftpaintbrush"
+  ],
+  "tts": "paintbrush",
+  "unicode": "1f58c fe0f"
+}

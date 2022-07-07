@@ -1,0 +1,18 @@
+{
+  "cldr": "cigarette",
+  "fromVersion": "0.6",
+  "glyph": "🚬",
+  "glyphAsUtfInEmoticons": [
+    "smoke"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "cigarette",
+    "smoking"
+  ],
+  "mappedToEmoticons": [
+    "cigarette"
+  ],
+  "tts": "cigarette",
+  "unicode": "1f6ac"
+}

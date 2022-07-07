@@ -1,0 +1,18 @@
+{
+  "cldr": "bouquet",
+  "fromVersion": "0.6",
+  "glyph": "💐",
+  "glyphAsUtfInEmoticons": [
+    "1f490_bouquet"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "bouquet",
+    "flower"
+  ],
+  "mappedToEmoticons": [
+    "1f490_bouquet"
+  ],
+  "tts": "bouquet",
+  "unicode": "1f490"
+}

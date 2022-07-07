@@ -1,0 +1,18 @@
+{
+  "cldr": "rainbow",
+  "fromVersion": "0.6",
+  "glyph": "🌈",
+  "glyphAsUtfInEmoticons": [
+    "rainbow"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "rain",
+    "rainbow"
+  ],
+  "mappedToEmoticons": [
+    "rainbow"
+  ],
+  "tts": "rainbow",
+  "unicode": "1f308"
+}

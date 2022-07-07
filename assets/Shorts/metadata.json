@@ -1,0 +1,20 @@
+{
+  "cldr": "shorts",
+  "fromVersion": "12.0",
+  "glyph": "🩳",
+  "glyphAsUtfInEmoticons": [
+    "1fa73_shorts"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "bathing suit",
+    "pants",
+    "shorts",
+    "underwear"
+  ],
+  "mappedToEmoticons": [
+    "1fa73_shorts"
+  ],
+  "tts": "shorts",
+  "unicode": "1fa73"
+}

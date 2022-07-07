@@ -1,0 +1,22 @@
+{
+  "cldr": "globe showing Europe-Africa",
+  "fromVersion": "0.7",
+  "glyph": "🌍",
+  "glyphAsUtfInEmoticons": [
+    "1f30d_earthglobeeuropeafrica"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "Africa",
+    "earth",
+    "Europe",
+    "globe",
+    "globe showing Europe-Africa",
+    "world"
+  ],
+  "mappedToEmoticons": [
+    "1f30d_earthglobeeuropeafrica"
+  ],
+  "tts": "globe showing Europe-Africa",
+  "unicode": "1f30d"
+}

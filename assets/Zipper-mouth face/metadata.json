@@ -1,0 +1,20 @@
+{
+  "cldr": "zipper-mouth face",
+  "fromVersion": "1.0",
+  "glyph": "🤐",
+  "glyphAsUtfInEmoticons": [
+    "1f910_zippermouthface"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "mouth",
+    "zipper",
+    "zipper-mouth face"
+  ],
+  "mappedToEmoticons": [
+    "1f910_zippermouthface"
+  ],
+  "tts": "zipper-mouth face",
+  "unicode": "1f910"
+}

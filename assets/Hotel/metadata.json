@@ -1,0 +1,18 @@
+{
+  "cldr": "hotel",
+  "fromVersion": "0.6",
+  "glyph": "🏨",
+  "glyphAsUtfInEmoticons": [
+    "1f3e8_hotel"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "building",
+    "hotel"
+  ],
+  "mappedToEmoticons": [
+    "1f3e8_hotel"
+  ],
+  "tts": "hotel",
+  "unicode": "1f3e8"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "wheelchair symbol",
+  "fromVersion": "0.6",
+  "glyph": "♿",
+  "glyphAsUtfInEmoticons": [
+    "267f_wheelchairsymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "access",
+    "wheelchair symbol"
+  ],
+  "mappedToEmoticons": [
+    "267f_wheelchairsymbol"
+  ],
+  "tts": "wheelchair symbol",
+  "unicode": "267f"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "tractor",
+  "fromVersion": "1.0",
+  "glyph": "🚜",
+  "glyphAsUtfInEmoticons": [
+    "1f69c_tractor"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "tractor",
+    "vehicle"
+  ],
+  "mappedToEmoticons": [
+    "1f69c_tractor"
+  ],
+  "tts": "tractor",
+  "unicode": "1f69c"
+}

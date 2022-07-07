@@ -1,0 +1,26 @@
+{
+  "cldr": "nose",
+  "fromVersion": "0.6",
+  "glyph": "👃",
+  "glyphAsUtfInEmoticons": [
+    "1f443_nose"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "body",
+    "nose"
+  ],
+  "mappedToEmoticons": [
+    "1f443_nose"
+  ],
+  "tts": "nose",
+  "unicode": "1f443",
+  "unicodeSkintones": [
+    "1f443",
+    "1f443 1f3fb",
+    "1f443 1f3fc",
+    "1f443 1f3fd",
+    "1f443 1f3fe",
+    "1f443 1f3ff"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "cldr": "B button (blood type)",
+  "fromVersion": "0.6",
+  "glyph": "🅱️",
+  "group": "Symbols",
+  "keywords": [
+    "b",
+    "B button (blood type)",
+    "blood type"
+  ],
+  "mappedToEmoticons": [
+    "1f171_bloodtypeb"
+  ],
+  "tts": "B button (blood type)",
+  "unicode": "1f171 fe0f"
+}

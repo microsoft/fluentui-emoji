@@ -1,0 +1,22 @@
+{
+  "cldr": "five-thirty",
+  "fromVersion": "0.7",
+  "glyph": "🕠",
+  "glyphAsUtfInEmoticons": [
+    "1f560_fivethirty"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "5",
+    "5:30",
+    "clock",
+    "five",
+    "five-thirty",
+    "thirty"
+  ],
+  "mappedToEmoticons": [
+    "1f560_fivethirty"
+  ],
+  "tts": "five-thirty",
+  "unicode": "1f560"
+}

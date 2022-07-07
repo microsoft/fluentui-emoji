@@ -1,0 +1,21 @@
+{
+  "cldr": "wheel of dharma",
+  "fromVersion": "0.7",
+  "glyph": "☸️",
+  "glyphAsUtfInEmoticons": [
+    "2638_wheelofdharma"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "Buddhist",
+    "dharma",
+    "religion",
+    "wheel",
+    "wheel of dharma"
+  ],
+  "mappedToEmoticons": [
+    "2638_wheelofdharma"
+  ],
+  "tts": "wheel of dharma",
+  "unicode": "2638 fe0f"
+}

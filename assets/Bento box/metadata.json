@@ -1,0 +1,18 @@
+{
+  "cldr": "bento box",
+  "fromVersion": "0.6",
+  "glyph": "🍱",
+  "glyphAsUtfInEmoticons": [
+    "1f371_bentobox"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bento",
+    "box"
+  ],
+  "mappedToEmoticons": [
+    "1f371_bentobox"
+  ],
+  "tts": "bento box",
+  "unicode": "1f371"
+}

@@ -1,0 +1,22 @@
+{
+  "cldr": "globe showing Asia-Australia",
+  "fromVersion": "0.6",
+  "glyph": "🌏",
+  "glyphAsUtfInEmoticons": [
+    "1f30f_earthglobeasiaaustralia"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "Asia",
+    "Australia",
+    "earth",
+    "globe",
+    "globe showing Asia-Australia",
+    "world"
+  ],
+  "mappedToEmoticons": [
+    "1f30f_earthglobeasiaaustralia"
+  ],
+  "tts": "globe showing Asia-Australia",
+  "unicode": "1f30f"
+}

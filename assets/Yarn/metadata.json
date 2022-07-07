@@ -1,0 +1,20 @@
+{
+  "cldr": "yarn",
+  "fromVersion": "11.0",
+  "glyph": "🧶",
+  "glyphAsUtfInEmoticons": [
+    "1f9f6_yarn"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "ball",
+    "crochet",
+    "knit",
+    "yarn"
+  ],
+  "mappedToEmoticons": [
+    "1f9f6_yarn"
+  ],
+  "tts": "yarn",
+  "unicode": "1f9f6"
+}

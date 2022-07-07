@@ -1,0 +1,28 @@
+{
+  "cldr": "person in suit levitating",
+  "fromVersion": "0.7",
+  "glyph": "🕴️",
+  "glyphAsUtfInEmoticons": [
+    "man_in_suit_levitating"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "business",
+    "person",
+    "person in suit levitating",
+    "suit"
+  ],
+  "mappedToEmoticons": [
+    "man_in_suit_levitating"
+  ],
+  "tts": "person in suit levitating",
+  "unicode": "1f574 fe0f",
+  "unicodeSkintones": [
+    "1f574 fe0f",
+    "1f574 1f3fb",
+    "1f574 1f3fc",
+    "1f574 1f3fd",
+    "1f574 1f3fe",
+    "1f574 1f3ff"
+  ]
+}

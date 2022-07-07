@@ -1,0 +1,18 @@
+{
+  "cldr": "motor scooter",
+  "fromVersion": "3.0",
+  "glyph": "🛵",
+  "glyphAsUtfInEmoticons": [
+    "scooter"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "motor",
+    "scooter"
+  ],
+  "mappedToEmoticons": [
+    "scooter"
+  ],
+  "tts": "motor scooter",
+  "unicode": "1f6f5"
+}

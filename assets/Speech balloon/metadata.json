@@ -1,0 +1,21 @@
+{
+  "cldr": "speech balloon",
+  "fromVersion": "0.6",
+  "glyph": "💬",
+  "glyphAsUtfInEmoticons": [
+    "speechbubble"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "balloon",
+    "bubble",
+    "comic",
+    "dialog",
+    "speech"
+  ],
+  "mappedToEmoticons": [
+    "speechbubble"
+  ],
+  "tts": "speech balloon",
+  "unicode": "1f4ac"
+}

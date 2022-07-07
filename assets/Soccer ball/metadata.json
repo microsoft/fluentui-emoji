@@ -1,0 +1,20 @@
+{
+  "cldr": "soccer ball",
+  "fromVersion": "0.6",
+  "glyph": "⚽",
+  "glyphAsUtfInEmoticons": [
+    "footballfail",
+    "soccerball"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "ball",
+    "football",
+    "soccer"
+  ],
+  "mappedToEmoticons": [
+    "soccerball"
+  ],
+  "tts": "soccer ball",
+  "unicode": "26bd"
+}

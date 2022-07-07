@@ -1,0 +1,17 @@
+{
+  "cldr": "leopard",
+  "fromVersion": "1.0",
+  "glyph": "🐆",
+  "glyphAsUtfInEmoticons": [
+    "1f406_leopard"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "leopard"
+  ],
+  "mappedToEmoticons": [
+    "1f406_leopard"
+  ],
+  "tts": "leopard",
+  "unicode": "1f406"
+}

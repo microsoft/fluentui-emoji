@@ -1,0 +1,20 @@
+{
+  "cldr": "TOP arrow",
+  "fromVersion": "0.6",
+  "glyph": "🔝",
+  "glyphAsUtfInEmoticons": [
+    "1f51d_topwithupwardsarrowabove"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "top",
+    "TOP arrow",
+    "up"
+  ],
+  "mappedToEmoticons": [
+    "1f51d_topwithupwardsarrowabove"
+  ],
+  "tts": "TOP arrow",
+  "unicode": "1f51d"
+}

@@ -1,0 +1,13 @@
+{
+  "cldr": "cat face",
+  "fromVersion": "0.6",
+  "glyph": "🐱",
+  "group": "Animals & Nature",
+  "keywords": [
+    "cat",
+    "face",
+    "pet"
+  ],
+  "tts": "cat face",
+  "unicode": "1f431"
+}

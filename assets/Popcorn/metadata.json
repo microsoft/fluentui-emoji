@@ -1,0 +1,17 @@
+{
+  "cldr": "popcorn",
+  "fromVersion": "1.0",
+  "glyph": "🍿",
+  "glyphAsUtfInEmoticons": [
+    "1f37f_popcorn"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "popcorn"
+  ],
+  "mappedToEmoticons": [
+    "1f37f_popcorn"
+  ],
+  "tts": "popcorn",
+  "unicode": "1f37f"
+}

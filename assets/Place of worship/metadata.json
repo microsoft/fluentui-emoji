@@ -1,0 +1,19 @@
+{
+  "cldr": "place of worship",
+  "fromVersion": "1.0",
+  "glyph": "🛐",
+  "glyphAsUtfInEmoticons": [
+    "1f6d0_placeofworship"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "place of worship",
+    "religion",
+    "worship"
+  ],
+  "mappedToEmoticons": [
+    "1f6d0_placeofworship"
+  ],
+  "tts": "place of worship",
+  "unicode": "1f6d0"
+}

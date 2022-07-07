@@ -1,0 +1,22 @@
+{
+  "cldr": "no one under eighteen",
+  "fromVersion": "0.6",
+  "glyph": "🔞",
+  "glyphAsUtfInEmoticons": [
+    "1f51e_nooneundereighteensymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "18",
+    "age restriction",
+    "eighteen",
+    "no one under eighteen",
+    "prohibited",
+    "underage"
+  ],
+  "mappedToEmoticons": [
+    "1f51e_nooneundereighteensymbol"
+  ],
+  "tts": "no one under eighteen",
+  "unicode": "1f51e"
+}

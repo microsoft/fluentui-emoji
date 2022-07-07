@@ -1,0 +1,18 @@
+{
+  "cldr": "next track button",
+  "fromVersion": "0.7",
+  "glyph": "⏭️",
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "next scene",
+    "next track",
+    "next track button",
+    "triangle"
+  ],
+  "mappedToEmoticons": [
+    "23ed_nexttrack"
+  ],
+  "tts": "next track button",
+  "unicode": "23ed fe0f"
+}

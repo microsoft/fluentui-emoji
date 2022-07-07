@@ -1,0 +1,19 @@
+{
+  "cldr": "Sagittarius",
+  "fromVersion": "0.6",
+  "glyph": "♐",
+  "glyphAsUtfInEmoticons": [
+    "2650_sagittarius"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "archer",
+    "Sagittarius",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "2650_sagittarius"
+  ],
+  "tts": "Sagittarius",
+  "unicode": "2650"
+}

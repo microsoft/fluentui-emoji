@@ -1,0 +1,28 @@
+{
+  "cldr": "waving hand",
+  "fromVersion": "0.6",
+  "glyph": "👋",
+  "glyphAsUtfInEmoticons": [
+    "1f44b_wavinghand",
+    "hi"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "hand",
+    "wave",
+    "waving"
+  ],
+  "mappedToEmoticons": [
+    "1f44b_wavinghand"
+  ],
+  "tts": "waving hand",
+  "unicode": "1f44b",
+  "unicodeSkintones": [
+    "1f44b",
+    "1f44b 1f3fb",
+    "1f44b 1f3fc",
+    "1f44b 1f3fd",
+    "1f44b 1f3fe",
+    "1f44b 1f3ff"
+  ]
+}

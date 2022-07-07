@@ -1,0 +1,18 @@
+{
+  "cldr": "carousel horse",
+  "fromVersion": "0.6",
+  "glyph": "🎠",
+  "glyphAsUtfInEmoticons": [
+    "1f3a0_carouselhorse"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "carousel",
+    "horse"
+  ],
+  "mappedToEmoticons": [
+    "1f3a0_carouselhorse"
+  ],
+  "tts": "carousel horse",
+  "unicode": "1f3a0"
+}

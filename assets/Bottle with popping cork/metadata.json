@@ -1,0 +1,22 @@
+{
+  "cldr": "bottle with popping cork",
+  "fromVersion": "1.0",
+  "glyph": "🍾",
+  "glyphAsUtfInEmoticons": [
+    "champagne"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bar",
+    "bottle",
+    "bottle with popping cork",
+    "cork",
+    "drink",
+    "popping"
+  ],
+  "mappedToEmoticons": [
+    "champagne"
+  ],
+  "tts": "bottle with popping cork",
+  "unicode": "1f37e"
+}

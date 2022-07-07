@@ -1,0 +1,14 @@
+{
+  "cldr": "wastebasket",
+  "fromVersion": "0.7",
+  "glyph": "🗑️",
+  "group": "Objects",
+  "keywords": [
+    "wastebasket"
+  ],
+  "mappedToEmoticons": [
+    "1f5d1_wastebasket"
+  ],
+  "tts": "wastebasket",
+  "unicode": "1f5d1 fe0f"
+}

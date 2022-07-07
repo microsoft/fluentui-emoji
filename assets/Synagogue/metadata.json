@@ -1,0 +1,21 @@
+{
+  "cldr": "synagogue",
+  "fromVersion": "1.0",
+  "glyph": "🕍",
+  "glyphAsUtfInEmoticons": [
+    "1f54d_synagogue"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "Jew",
+    "Jewish",
+    "religion",
+    "synagogue",
+    "temple"
+  ],
+  "mappedToEmoticons": [
+    "1f54d_synagogue"
+  ],
+  "tts": "synagogue",
+  "unicode": "1f54d"
+}

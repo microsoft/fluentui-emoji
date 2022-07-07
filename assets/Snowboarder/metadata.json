@@ -1,0 +1,28 @@
+{
+  "cldr": "snowboarder",
+  "fromVersion": "0.6",
+  "glyph": "🏂",
+  "glyphAsUtfInEmoticons": [
+    "snowboarder"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "ski",
+    "snow",
+    "snowboard",
+    "snowboarder"
+  ],
+  "mappedToEmoticons": [
+    "snowboarder"
+  ],
+  "tts": "snowboarder",
+  "unicode": "1f3c2",
+  "unicodeSkintones": [
+    "1f3c2",
+    "1f3c2 1f3fb",
+    "1f3c2 1f3fc",
+    "1f3c2 1f3fd",
+    "1f3c2 1f3fe",
+    "1f3c2 1f3ff"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "peacock",
+  "fromVersion": "11.0",
+  "glyph": "🦚",
+  "glyphAsUtfInEmoticons": [
+    "1f99a_peacock"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "bird",
+    "ostentatious",
+    "peacock",
+    "peahen",
+    "proud"
+  ],
+  "mappedToEmoticons": [
+    "1f99a_peacock"
+  ],
+  "tts": "peacock",
+  "unicode": "1f99a"
+}

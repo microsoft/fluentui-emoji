@@ -1,0 +1,18 @@
+{
+  "cldr": "keycap: 10",
+  "fromVersion": "0.6",
+  "glyph": "🔟",
+  "glyphAsUtfInEmoticons": [
+    "1f51f_keycapten"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "keycap",
+    "ten"
+  ],
+  "mappedToEmoticons": [
+    "1f51f_keycapten"
+  ],
+  "tts": "keycap: 10",
+  "unicode": "1f51f"
+}

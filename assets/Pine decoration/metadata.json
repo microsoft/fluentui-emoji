@@ -1,0 +1,21 @@
+{
+  "cldr": "pine decoration",
+  "fromVersion": "0.6",
+  "glyph": "🎍",
+  "glyphAsUtfInEmoticons": [
+    "1f38d_pinedecoration"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "bamboo",
+    "celebration",
+    "Japanese",
+    "pine",
+    "pine decoration"
+  ],
+  "mappedToEmoticons": [
+    "1f38d_pinedecoration"
+  ],
+  "tts": "pine decoration",
+  "unicode": "1f38d"
+}

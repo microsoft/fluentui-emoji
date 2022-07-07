@@ -1,0 +1,15 @@
+{
+  "cldr": "keyboard",
+  "fromVersion": "1.0",
+  "glyph": "⌨️",
+  "group": "Objects",
+  "keywords": [
+    "computer",
+    "keyboard"
+  ],
+  "mappedToEmoticons": [
+    "2328_keyboard"
+  ],
+  "tts": "keyboard",
+  "unicode": "2328 fe0f"
+}

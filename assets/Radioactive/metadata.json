@@ -1,0 +1,18 @@
+{
+  "cldr": "radioactive",
+  "fromVersion": "1.0",
+  "glyph": "☢️",
+  "glyphAsUtfInEmoticons": [
+    "2622_radioactivesign"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "radioactive",
+    "sign"
+  ],
+  "mappedToEmoticons": [
+    "2622_radioactivesign"
+  ],
+  "tts": "radioactive",
+  "unicode": "2622 fe0f"
+}

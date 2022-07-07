@@ -1,0 +1,18 @@
+{
+  "cldr": "headphone",
+  "fromVersion": "0.6",
+  "glyph": "🎧",
+  "glyphAsUtfInEmoticons": [
+    "headphones"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "earbud",
+    "headphone"
+  ],
+  "mappedToEmoticons": [
+    "headphone"
+  ],
+  "tts": "headphone",
+  "unicode": "1f3a7"
+}

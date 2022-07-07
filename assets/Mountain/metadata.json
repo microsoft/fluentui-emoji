@@ -1,0 +1,14 @@
+{
+  "cldr": "mountain",
+  "fromVersion": "0.7",
+  "glyph": "⛰️",
+  "group": "Travel & Places",
+  "keywords": [
+    "mountain"
+  ],
+  "mappedToEmoticons": [
+    "26f0_mountain"
+  ],
+  "tts": "mountain",
+  "unicode": "26f0 fe0f"
+}

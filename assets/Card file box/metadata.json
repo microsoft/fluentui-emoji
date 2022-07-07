@@ -1,0 +1,16 @@
+{
+  "cldr": "card file box",
+  "fromVersion": "0.7",
+  "glyph": "🗃️",
+  "group": "Objects",
+  "keywords": [
+    "box",
+    "card",
+    "file"
+  ],
+  "mappedToEmoticons": [
+    "1f5c3_cardfilebox"
+  ],
+  "tts": "card file box",
+  "unicode": "1f5c3 fe0f"
+}

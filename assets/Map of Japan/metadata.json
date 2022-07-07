@@ -1,0 +1,19 @@
+{
+  "cldr": "map of Japan",
+  "fromVersion": "0.6",
+  "glyph": "🗾",
+  "glyphAsUtfInEmoticons": [
+    "1f5fe_silhouetteofjapan"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "Japan",
+    "map",
+    "map of Japan"
+  ],
+  "mappedToEmoticons": [
+    "1f5fe_silhouetteofjapan"
+  ],
+  "tts": "map of Japan",
+  "unicode": "1f5fe"
+}

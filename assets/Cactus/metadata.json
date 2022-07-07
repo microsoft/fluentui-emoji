@@ -1,0 +1,19 @@
+{
+  "cldr": "cactus",
+  "fromVersion": "0.6",
+  "glyph": "🌵",
+  "glyphAsUtfInEmoticons": [
+    "cactus",
+    "desert"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "cactus",
+    "plant"
+  ],
+  "mappedToEmoticons": [
+    "cactus"
+  ],
+  "tts": "cactus",
+  "unicode": "1f335"
+}

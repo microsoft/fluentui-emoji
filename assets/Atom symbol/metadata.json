@@ -1,0 +1,19 @@
+{
+  "cldr": "atom symbol",
+  "fromVersion": "1.0",
+  "glyph": "⚛️",
+  "glyphAsUtfInEmoticons": [
+    "269b_atomsymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "atheist",
+    "atom",
+    "atom symbol"
+  ],
+  "mappedToEmoticons": [
+    "269b_atomsymbol"
+  ],
+  "tts": "atom symbol",
+  "unicode": "269b fe0f"
+}

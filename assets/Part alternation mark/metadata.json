@@ -1,0 +1,19 @@
+{
+  "cldr": "part alternation mark",
+  "fromVersion": "0.6",
+  "glyph": "〽️",
+  "glyphAsUtfInEmoticons": [
+    "303d_partalternationmark"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "mark",
+    "part",
+    "part alternation mark"
+  ],
+  "mappedToEmoticons": [
+    "303d_partalternationmark"
+  ],
+  "tts": "part alternation mark",
+  "unicode": "303d fe0f"
+}

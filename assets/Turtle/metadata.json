@@ -1,0 +1,20 @@
+{
+  "cldr": "turtle",
+  "fromVersion": "0.6",
+  "glyph": "🐢",
+  "glyphAsUtfInEmoticons": [
+    "tortoise",
+    "turtle"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "terrapin",
+    "tortoise",
+    "turtle"
+  ],
+  "mappedToEmoticons": [
+    "tortoise"
+  ],
+  "tts": "turtle",
+  "unicode": "1f422"
+}

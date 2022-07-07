@@ -1,0 +1,17 @@
+{
+  "cldr": "deer",
+  "fromVersion": "3.0",
+  "glyph": "🦌",
+  "glyphAsUtfInEmoticons": [
+    "reindeer"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "deer"
+  ],
+  "mappedToEmoticons": [
+    "reindeer"
+  ],
+  "tts": "deer",
+  "unicode": "1f98c"
+}

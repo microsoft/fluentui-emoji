@@ -1,0 +1,15 @@
+{
+  "cldr": "satellite",
+  "fromVersion": "0.7",
+  "glyph": "🛰️",
+  "group": "Travel & Places",
+  "keywords": [
+    "satellite",
+    "space"
+  ],
+  "mappedToEmoticons": [
+    "1f6f0_satellite"
+  ],
+  "tts": "satellite",
+  "unicode": "1f6f0 fe0f"
+}

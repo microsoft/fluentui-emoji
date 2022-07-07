@@ -1,0 +1,20 @@
+{
+  "cldr": "church",
+  "fromVersion": "0.6",
+  "glyph": "⛪",
+  "glyphAsUtfInEmoticons": [
+    "26ea_church"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "Christian",
+    "church",
+    "cross",
+    "religion"
+  ],
+  "mappedToEmoticons": [
+    "26ea_church"
+  ],
+  "tts": "church",
+  "unicode": "26ea"
+}

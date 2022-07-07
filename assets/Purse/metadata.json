@@ -1,0 +1,19 @@
+{
+  "cldr": "purse",
+  "fromVersion": "0.6",
+  "glyph": "👛",
+  "glyphAsUtfInEmoticons": [
+    "1f45b_purse"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "clothing",
+    "coin",
+    "purse"
+  ],
+  "mappedToEmoticons": [
+    "1f45b_purse"
+  ],
+  "tts": "purse",
+  "unicode": "1f45b"
+}

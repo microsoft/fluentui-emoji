@@ -1,0 +1,20 @@
+{
+  "cldr": "pleading face",
+  "fromVersion": "11.0",
+  "glyph": "🥺",
+  "glyphAsUtfInEmoticons": [
+    "1f97a_pleadingface"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "begging",
+    "mercy",
+    "pleading face",
+    "puppy eyes"
+  ],
+  "mappedToEmoticons": [
+    "1f97a_pleadingface"
+  ],
+  "tts": "pleading face",
+  "unicode": "1f97a"
+}

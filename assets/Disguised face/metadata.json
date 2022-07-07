@@ -1,0 +1,22 @@
+{
+  "cldr": "disguised face",
+  "fromVersion": "13.0",
+  "glyph": "🥸",
+  "glyphAsUtfInEmoticons": [
+    "disguisedface"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "disguise",
+    "disguised face",
+    "face",
+    "glasses",
+    "incognito",
+    "nose"
+  ],
+  "mappedToEmoticons": [
+    "disguisedface"
+  ],
+  "tts": "disguised face",
+  "unicode": "1f978"
+}

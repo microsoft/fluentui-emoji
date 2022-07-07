@@ -1,0 +1,19 @@
+{
+  "cldr": "sparkling heart",
+  "fromVersion": "0.6",
+  "glyph": "💖",
+  "glyphAsUtfInEmoticons": [
+    "sparklingheart"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "excited",
+    "sparkle",
+    "sparkling heart"
+  ],
+  "mappedToEmoticons": [
+    "sparklingheart"
+  ],
+  "tts": "sparkling heart",
+  "unicode": "1f496"
+}

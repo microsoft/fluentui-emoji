@@ -1,0 +1,19 @@
+{
+  "cldr": "game die",
+  "fromVersion": "0.6",
+  "glyph": "🎲",
+  "glyphAsUtfInEmoticons": [
+    "1f3b2_gamedie"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "dice",
+    "die",
+    "game"
+  ],
+  "mappedToEmoticons": [
+    "1f3b2_gamedie"
+  ],
+  "tts": "game die",
+  "unicode": "1f3b2"
+}

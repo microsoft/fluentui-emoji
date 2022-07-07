@@ -1,0 +1,20 @@
+{
+  "cldr": "pill",
+  "fromVersion": "0.6",
+  "glyph": "💊",
+  "glyphAsUtfInEmoticons": [
+    "1f48a_pill"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "doctor",
+    "medicine",
+    "pill",
+    "sick"
+  ],
+  "mappedToEmoticons": [
+    "1f48a_pill"
+  ],
+  "tts": "pill",
+  "unicode": "1f48a"
+}

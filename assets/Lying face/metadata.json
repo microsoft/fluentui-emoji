@@ -1,0 +1,20 @@
+{
+  "cldr": "lying face",
+  "fromVersion": "3.0",
+  "glyph": "🤥",
+  "glyphAsUtfInEmoticons": [
+    "1f925_lyingface"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "lie",
+    "lying face",
+    "pinocchio"
+  ],
+  "mappedToEmoticons": [
+    "1f925_lyingface"
+  ],
+  "tts": "lying face",
+  "unicode": "1f925"
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "black cat",
+  "fromVersion": "13.0",
+  "glyph": "🐈‍⬛",
+  "glyphAsUtfInEmoticons": [
+    "blackcat"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "black",
+    "cat",
+    "unlucky"
+  ],
+  "mappedToEmoticons": [
+    "blackcat"
+  ],
+  "tts": "black cat",
+  "unicode": "1f408 200d 2b1b"
+}

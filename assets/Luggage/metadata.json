@@ -1,0 +1,19 @@
+{
+  "cldr": "luggage",
+  "fromVersion": "11.0",
+  "glyph": "🧳",
+  "glyphAsUtfInEmoticons": [
+    "1f9f3_luggage"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "luggage",
+    "packing",
+    "travel"
+  ],
+  "mappedToEmoticons": [
+    "1f9f3_luggage"
+  ],
+  "tts": "luggage",
+  "unicode": "1f9f3"
+}

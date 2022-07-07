@@ -1,0 +1,18 @@
+{
+  "cldr": "cricket",
+  "fromVersion": "5.0",
+  "glyph": "🦗",
+  "glyphAsUtfInEmoticons": [
+    "cricket"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "cricket",
+    "grasshopper"
+  ],
+  "mappedToEmoticons": [
+    "cricket"
+  ],
+  "tts": "cricket",
+  "unicode": "1f997"
+}

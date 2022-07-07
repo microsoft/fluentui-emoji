@@ -1,0 +1,18 @@
+{
+  "cldr": "tulip",
+  "fromVersion": "0.6",
+  "glyph": "🌷",
+  "glyphAsUtfInEmoticons": [
+    "tulip"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "flower",
+    "tulip"
+  ],
+  "mappedToEmoticons": [
+    "tulip"
+  ],
+  "tts": "tulip",
+  "unicode": "1f337"
+}

@@ -1,0 +1,22 @@
+{
+  "cldr": "nine-thirty",
+  "fromVersion": "0.7",
+  "glyph": "🕤",
+  "glyphAsUtfInEmoticons": [
+    "1f564_ninethirty"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "9",
+    "9:30",
+    "clock",
+    "nine",
+    "nine-thirty",
+    "thirty"
+  ],
+  "mappedToEmoticons": [
+    "1f564_ninethirty"
+  ],
+  "tts": "nine-thirty",
+  "unicode": "1f564"
+}

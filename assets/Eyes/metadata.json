@@ -1,0 +1,19 @@
+{
+  "cldr": "eyes",
+  "fromVersion": "0.6",
+  "glyph": "👀",
+  "glyphAsUtfInEmoticons": [
+    "1f440_eyes"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "eye",
+    "eyes",
+    "face"
+  ],
+  "mappedToEmoticons": [
+    "1f440_eyes"
+  ],
+  "tts": "eyes",
+  "unicode": "1f440"
+}

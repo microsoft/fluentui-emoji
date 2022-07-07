@@ -1,0 +1,21 @@
+{
+  "cldr": "jack-o-lantern",
+  "fromVersion": "0.6",
+  "glyph": "🎃",
+  "glyphAsUtfInEmoticons": [
+    "pumpkin"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "celebration",
+    "halloween",
+    "jack",
+    "jack-o-lantern",
+    "lantern"
+  ],
+  "mappedToEmoticons": [
+    "pumpkin"
+  ],
+  "tts": "jack-o-lantern",
+  "unicode": "1f383"
+}

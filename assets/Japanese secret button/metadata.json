@@ -1,0 +1,21 @@
+{
+  "cldr": "Japanese “secret” button",
+  "fromVersion": "0.6",
+  "glyph": "㊙️",
+  "glyphAsUtfInEmoticons": [
+    "3299_circledideographsecret"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "“secret”",
+    "ideograph",
+    "Japanese",
+    "Japanese “secret” button",
+    "秘"
+  ],
+  "mappedToEmoticons": [
+    "3299_circledideographsecret"
+  ],
+  "tts": "Japanese “secret” button",
+  "unicode": "3299 fe0f"
+}

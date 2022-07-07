@@ -1,0 +1,18 @@
+{
+  "cldr": "recycling symbol",
+  "fromVersion": "0.6",
+  "glyph": "♻️",
+  "glyphAsUtfInEmoticons": [
+    "recycle"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "recycle",
+    "recycling symbol"
+  ],
+  "mappedToEmoticons": [
+    "recycle"
+  ],
+  "tts": "recycling symbol",
+  "unicode": "267b fe0f"
+}

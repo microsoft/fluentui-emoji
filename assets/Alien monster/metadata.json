@@ -1,0 +1,22 @@
+{
+  "cldr": "alien monster",
+  "fromVersion": "0.6",
+  "glyph": "👾",
+  "glyphAsUtfInEmoticons": [
+    "1f47e_alienmonster"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "alien",
+    "creature",
+    "extraterrestrial",
+    "face",
+    "monster",
+    "ufo"
+  ],
+  "mappedToEmoticons": [
+    "1f47e_alienmonster"
+  ],
+  "tts": "alien monster",
+  "unicode": "1f47e"
+}

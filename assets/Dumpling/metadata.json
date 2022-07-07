@@ -1,0 +1,22 @@
+{
+  "cldr": "dumpling",
+  "fromVersion": "5.0",
+  "glyph": "🥟",
+  "glyphAsUtfInEmoticons": [
+    "1f95f_dumpling"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "dumpling",
+    "empanada",
+    "gyōza",
+    "jiaozi",
+    "pierogi",
+    "potsticker"
+  ],
+  "mappedToEmoticons": [
+    "1f95f_dumpling"
+  ],
+  "tts": "dumpling",
+  "unicode": "1f95f"
+}

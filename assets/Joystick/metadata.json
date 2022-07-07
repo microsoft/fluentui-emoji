@@ -1,0 +1,16 @@
+{
+  "cldr": "joystick",
+  "fromVersion": "0.7",
+  "glyph": "🕹️",
+  "group": "Activities",
+  "keywords": [
+    "game",
+    "joystick",
+    "video game"
+  ],
+  "mappedToEmoticons": [
+    "1f579_joystick"
+  ],
+  "tts": "joystick",
+  "unicode": "1f579 fe0f"
+}

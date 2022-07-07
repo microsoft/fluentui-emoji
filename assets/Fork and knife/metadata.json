@@ -1,0 +1,21 @@
+{
+  "cldr": "fork and knife",
+  "fromVersion": "0.6",
+  "glyph": "🍴",
+  "glyphAsUtfInEmoticons": [
+    "1f374_forkandknife"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "cooking",
+    "cutlery",
+    "fork",
+    "fork and knife",
+    "knife"
+  ],
+  "mappedToEmoticons": [
+    "1f374_forkandknife"
+  ],
+  "tts": "fork and knife",
+  "unicode": "1f374"
+}

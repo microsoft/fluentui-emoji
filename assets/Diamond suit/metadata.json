@@ -1,0 +1,19 @@
+{
+  "cldr": "diamond suit",
+  "fromVersion": "0.6",
+  "glyph": "♦️",
+  "glyphAsUtfInEmoticons": [
+    "2666_blackdiamondsuit"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "card",
+    "diamond suit",
+    "game"
+  ],
+  "mappedToEmoticons": [
+    "2666_blackdiamondsuit"
+  ],
+  "tts": "diamond suit",
+  "unicode": "2666 fe0f"
+}

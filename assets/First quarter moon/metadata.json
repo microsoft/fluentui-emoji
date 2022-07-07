@@ -1,0 +1,19 @@
+{
+  "cldr": "first quarter moon",
+  "fromVersion": "0.6",
+  "glyph": "🌓",
+  "glyphAsUtfInEmoticons": [
+    "1f313_firstquartermoonsymbol"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "first quarter moon",
+    "moon",
+    "quarter"
+  ],
+  "mappedToEmoticons": [
+    "1f313_firstquartermoonsymbol"
+  ],
+  "tts": "first quarter moon",
+  "unicode": "1f313"
+}

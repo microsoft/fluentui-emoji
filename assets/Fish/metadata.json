@@ -1,0 +1,19 @@
+{
+  "cldr": "fish",
+  "fromVersion": "0.6",
+  "glyph": "🐟",
+  "glyphAsUtfInEmoticons": [
+    "fish"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "fish",
+    "Pisces",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "fish"
+  ],
+  "tts": "fish",
+  "unicode": "1f41f"
+}

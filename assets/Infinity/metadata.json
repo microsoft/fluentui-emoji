@@ -1,0 +1,20 @@
+{
+  "cldr": "infinity",
+  "fromVersion": "11.0",
+  "glyph": "♾️",
+  "glyphAsUtfInEmoticons": [
+    "267e_infinity"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "forever",
+    "infinity",
+    "unbounded",
+    "universal"
+  ],
+  "mappedToEmoticons": [
+    "267e_infinity"
+  ],
+  "tts": "infinity",
+  "unicode": "267e fe0f"
+}

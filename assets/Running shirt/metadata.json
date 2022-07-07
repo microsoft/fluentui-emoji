@@ -1,0 +1,20 @@
+{
+  "cldr": "running shirt",
+  "fromVersion": "0.6",
+  "glyph": "🎽",
+  "glyphAsUtfInEmoticons": [
+    "1f3bd_runningshirtwithsash"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "athletics",
+    "running",
+    "sash",
+    "shirt"
+  ],
+  "mappedToEmoticons": [
+    "1f3bd_runningshirtwithsash"
+  ],
+  "tts": "running shirt",
+  "unicode": "1f3bd"
+}

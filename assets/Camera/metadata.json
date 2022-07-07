@@ -1,0 +1,19 @@
+{
+  "cldr": "camera",
+  "fromVersion": "0.6",
+  "glyph": "📷",
+  "glyphAsUtfInEmoticons": [
+    "1f4f7_camera",
+    "priidu"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "camera",
+    "video"
+  ],
+  "mappedToEmoticons": [
+    "1f4f7_camera"
+  ],
+  "tts": "camera",
+  "unicode": "1f4f7"
+}

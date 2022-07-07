@@ -1,0 +1,21 @@
+{
+  "cldr": "high-speed train",
+  "fromVersion": "0.6",
+  "glyph": "🚄",
+  "glyphAsUtfInEmoticons": [
+    "1f684_highspeedtrain"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "high-speed train",
+    "railway",
+    "shinkansen",
+    "speed",
+    "train"
+  ],
+  "mappedToEmoticons": [
+    "1f684_highspeedtrain"
+  ],
+  "tts": "high-speed train",
+  "unicode": "1f684"
+}

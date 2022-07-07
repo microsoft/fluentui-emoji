@@ -1,0 +1,21 @@
+{
+  "cldr": "right arrow",
+  "fromVersion": "0.6",
+  "glyph": "➡️",
+  "glyphAsUtfInEmoticons": [
+    "27a1_blackrightwardsarrow"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "cardinal",
+    "direction",
+    "east",
+    "right arrow"
+  ],
+  "mappedToEmoticons": [
+    "27a1_blackrightwardsarrow"
+  ],
+  "tts": "right arrow",
+  "unicode": "27a1 fe0f"
+}

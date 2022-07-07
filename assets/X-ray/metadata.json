@@ -1,0 +1,15 @@
+{
+  "cldr": "x-ray",
+  "fromVersion": "14.0",
+  "glyph": "🩻",
+  "group": "Objects",
+  "keywords": [
+    "bones",
+    "doctor",
+    "medical",
+    "skeleton",
+    "x-ray"
+  ],
+  "tts": "x-ray",
+  "unicode": "1fa7b"
+}

@@ -1,0 +1,22 @@
+{
+  "cldr": "face holding back tears",
+  "fromVersion": "14.0",
+  "glyph": "🥹",
+  "glyphAsUtfInEmoticons": [
+    "faceholdingbacktears"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "angry",
+    "cry",
+    "face holding back tears",
+    "proud",
+    "resist",
+    "sad"
+  ],
+  "mappedToEmoticons": [
+    "faceholdingbacktears"
+  ],
+  "tts": "face holding back tears",
+  "unicode": "1f979"
+}

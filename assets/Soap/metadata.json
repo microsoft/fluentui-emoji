@@ -1,0 +1,22 @@
+{
+  "cldr": "soap",
+  "fromVersion": "11.0",
+  "glyph": "🧼",
+  "glyphAsUtfInEmoticons": [
+    "1f9fc_soap"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "bar",
+    "bathing",
+    "cleaning",
+    "lather",
+    "soap",
+    "soapdish"
+  ],
+  "mappedToEmoticons": [
+    "1f9fc_soap"
+  ],
+  "tts": "soap",
+  "unicode": "1f9fc"
+}

@@ -1,0 +1,22 @@
+{
+  "cldr": "airplane arrival",
+  "fromVersion": "1.0",
+  "glyph": "🛬",
+  "glyphAsUtfInEmoticons": [
+    "1f6ec_airplanearriving"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "aeroplane",
+    "airplane",
+    "airplane arrival",
+    "arrivals",
+    "arriving",
+    "landing"
+  ],
+  "mappedToEmoticons": [
+    "1f6ec_airplanearriving"
+  ],
+  "tts": "airplane arrival",
+  "unicode": "1f6ec"
+}

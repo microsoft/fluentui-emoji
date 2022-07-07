@@ -1,0 +1,21 @@
+{
+  "cldr": "face with thermometer",
+  "fromVersion": "1.0",
+  "glyph": "🤒",
+  "glyphAsUtfInEmoticons": [
+    "ill"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "face with thermometer",
+    "ill",
+    "sick",
+    "thermometer"
+  ],
+  "mappedToEmoticons": [
+    "ill"
+  ],
+  "tts": "face with thermometer",
+  "unicode": "1f912"
+}

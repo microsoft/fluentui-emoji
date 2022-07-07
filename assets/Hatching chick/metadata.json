@@ -1,0 +1,20 @@
+{
+  "cldr": "hatching chick",
+  "fromVersion": "0.6",
+  "glyph": "🐣",
+  "glyphAsUtfInEmoticons": [
+    "1f423_hatchingchick"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "baby",
+    "bird",
+    "chick",
+    "hatching"
+  ],
+  "mappedToEmoticons": [
+    "1f423_hatchingchick"
+  ],
+  "tts": "hatching chick",
+  "unicode": "1f423"
+}

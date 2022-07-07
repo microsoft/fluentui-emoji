@@ -1,0 +1,19 @@
+{
+  "cldr": "chicken",
+  "fromVersion": "0.6",
+  "glyph": "🐔",
+  "glyphAsUtfInEmoticons": [
+    "1f414_chicken",
+    "yotfr"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "bird",
+    "chicken"
+  ],
+  "mappedToEmoticons": [
+    "1f414_chicken"
+  ],
+  "tts": "chicken",
+  "unicode": "1f414"
+}

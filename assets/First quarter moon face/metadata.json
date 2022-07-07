@@ -1,0 +1,20 @@
+{
+  "cldr": "first quarter moon face",
+  "fromVersion": "0.6",
+  "glyph": "🌛",
+  "glyphAsUtfInEmoticons": [
+    "1f31b_firstquartermoonwithface"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "face",
+    "first quarter moon face",
+    "moon",
+    "quarter"
+  ],
+  "mappedToEmoticons": [
+    "1f31b_firstquartermoonwithface"
+  ],
+  "tts": "first quarter moon face",
+  "unicode": "1f31b"
+}

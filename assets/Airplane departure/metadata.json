@@ -1,0 +1,21 @@
+{
+  "cldr": "airplane departure",
+  "fromVersion": "1.0",
+  "glyph": "🛫",
+  "glyphAsUtfInEmoticons": [
+    "1f6eb_airplanedeparture"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "aeroplane",
+    "airplane",
+    "check-in",
+    "departure",
+    "departures"
+  ],
+  "mappedToEmoticons": [
+    "1f6eb_airplanedeparture"
+  ],
+  "tts": "airplane departure",
+  "unicode": "1f6eb"
+}

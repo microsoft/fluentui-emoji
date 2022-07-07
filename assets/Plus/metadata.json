@@ -1,0 +1,20 @@
+{
+  "cldr": "plus",
+  "fromVersion": "0.6",
+  "glyph": "➕",
+  "glyphAsUtfInEmoticons": [
+    "2795_heavyplussign"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "+",
+    "math",
+    "plus",
+    "sign"
+  ],
+  "mappedToEmoticons": [
+    "2795_heavyplussign"
+  ],
+  "tts": "plus",
+  "unicode": "2795"
+}

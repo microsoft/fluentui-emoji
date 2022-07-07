@@ -1,0 +1,19 @@
+{
+  "cldr": "sunflower",
+  "fromVersion": "0.6",
+  "glyph": "🌻",
+  "glyphAsUtfInEmoticons": [
+    "sunflower"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "flower",
+    "sun",
+    "sunflower"
+  ],
+  "mappedToEmoticons": [
+    "sunflower"
+  ],
+  "tts": "sunflower",
+  "unicode": "1f33b"
+}

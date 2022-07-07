@@ -1,0 +1,18 @@
+{
+  "cldr": "light rail",
+  "fromVersion": "1.0",
+  "glyph": "🚈",
+  "glyphAsUtfInEmoticons": [
+    "1f688_lightrail"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "light rail",
+    "railway"
+  ],
+  "mappedToEmoticons": [
+    "1f688_lightrail"
+  ],
+  "tts": "light rail",
+  "unicode": "1f688"
+}

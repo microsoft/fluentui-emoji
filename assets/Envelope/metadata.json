@@ -1,0 +1,13 @@
+{
+  "cldr": "envelope",
+  "fromVersion": "0.6",
+  "glyph": "✉️",
+  "group": "Objects",
+  "keywords": [
+    "email",
+    "envelope",
+    "letter"
+  ],
+  "tts": "envelope",
+  "unicode": "2709 fe0f"
+}

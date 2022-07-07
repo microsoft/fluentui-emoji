@@ -1,0 +1,20 @@
+{
+  "cldr": "anger symbol",
+  "fromVersion": "0.6",
+  "glyph": "💢",
+  "glyphAsUtfInEmoticons": [
+    "1f4a2_angersymbol"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "anger symbol",
+    "angry",
+    "comic",
+    "mad"
+  ],
+  "mappedToEmoticons": [
+    "1f4a2_angersymbol"
+  ],
+  "tts": "anger symbol",
+  "unicode": "1f4a2"
+}

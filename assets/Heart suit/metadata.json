@@ -1,0 +1,19 @@
+{
+  "cldr": "heart suit",
+  "fromVersion": "0.6",
+  "glyph": "♥️",
+  "glyphAsUtfInEmoticons": [
+    "2665_blackheartsuit"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "card",
+    "game",
+    "heart suit"
+  ],
+  "mappedToEmoticons": [
+    "2665_blackheartsuit"
+  ],
+  "tts": "heart suit",
+  "unicode": "2665 fe0f"
+}

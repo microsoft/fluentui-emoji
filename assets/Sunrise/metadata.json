@@ -1,0 +1,19 @@
+{
+  "cldr": "sunrise",
+  "fromVersion": "0.6",
+  "glyph": "🌅",
+  "glyphAsUtfInEmoticons": [
+    "1f305_sunrise"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "morning",
+    "sun",
+    "sunrise"
+  ],
+  "mappedToEmoticons": [
+    "1f305_sunrise"
+  ],
+  "tts": "sunrise",
+  "unicode": "1f305"
+}

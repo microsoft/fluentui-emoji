@@ -1,0 +1,18 @@
+{
+  "cldr": "bus",
+  "fromVersion": "0.6",
+  "glyph": "🚌",
+  "glyphAsUtfInEmoticons": [
+    "1f68c_bus"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "bus",
+    "vehicle"
+  ],
+  "mappedToEmoticons": [
+    "1f68c_bus"
+  ],
+  "tts": "bus",
+  "unicode": "1f68c"
+}
