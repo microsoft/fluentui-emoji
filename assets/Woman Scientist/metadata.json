@@ -1,0 +1,30 @@
+{
+  "cldr": "woman scientist",
+  "fromVersion": "4.0",
+  "glyph": "👩‍🔬",
+  "glyphAsUtfInEmoticons": [
+    "womanscientist"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "biologist",
+    "chemist",
+    "engineer",
+    "physicist",
+    "scientist",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "womanscientist"
+  ],
+  "tts": "woman scientist",
+  "unicode": "1f469 200d 1f52c",
+  "unicodeSkintones": [
+    "1f469 200d 1f52c",
+    "1f469 1f3fb 200d 1f52c",
+    "1f469 1f3fc 200d 1f52c",
+    "1f469 1f3fd 200d 1f52c",
+    "1f469 1f3fe 200d 1f52c",
+    "1f469 1f3ff 200d 1f52c"
+  ]
+}

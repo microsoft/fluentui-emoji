@@ -1,0 +1,26 @@
+{
+  "cldr": "person surfing",
+  "fromVersion": "0.6",
+  "glyph": "🏄",
+  "glyphAsUtfInEmoticons": [
+    "1f3c4_personsurfing"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "person surfing",
+    "surfing"
+  ],
+  "mappedToEmoticons": [
+    "1f3c4_personsurfing"
+  ],
+  "tts": "person surfing",
+  "unicode": "1f3c4",
+  "unicodeSkintones": [
+    "1f3c4",
+    "1f3c4 1f3fb",
+    "1f3c4 1f3fc",
+    "1f3c4 1f3fd",
+    "1f3c4 1f3fe",
+    "1f3c4 1f3ff"
+  ]
+}

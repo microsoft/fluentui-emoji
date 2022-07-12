@@ -1,0 +1,30 @@
+{
+  "cldr": "person with skullcap",
+  "fromVersion": "0.6",
+  "glyph": "👲",
+  "glyphAsUtfInEmoticons": [
+    "man_with_chinese_cap"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "cap",
+    "gua pi mao",
+    "hat",
+    "person",
+    "person with skullcap",
+    "skullcap"
+  ],
+  "mappedToEmoticons": [
+    "man_with_chinese_cap"
+  ],
+  "tts": "person with skullcap",
+  "unicode": "1f472",
+  "unicodeSkintones": [
+    "1f472",
+    "1f472 1f3fb",
+    "1f472 1f3fc",
+    "1f472 1f3fd",
+    "1f472 1f3fe",
+    "1f472 1f3ff"
+  ]
+}

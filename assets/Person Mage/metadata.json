@@ -1,0 +1,29 @@
+{
+  "cldr": "mage",
+  "fromVersion": "5.0",
+  "glyph": "🧙",
+  "glyphAsUtfInEmoticons": [
+    "wizard"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "mage",
+    "sorcerer",
+    "sorceress",
+    "witch",
+    "wizard"
+  ],
+  "mappedToEmoticons": [
+    "mage"
+  ],
+  "tts": "mage",
+  "unicode": "1f9d9",
+  "unicodeSkintones": [
+    "1f9d9",
+    "1f9d9 1f3fb",
+    "1f9d9 1f3fc",
+    "1f9d9 1f3fd",
+    "1f9d9 1f3fe",
+    "1f9d9 1f3ff"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "cldr": "old woman",
+  "fromVersion": "0.6",
+  "glyph": "👵",
+  "glyphAsUtfInEmoticons": [
+    "gran"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "adult",
+    "old",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "oldwoman"
+  ],
+  "tts": "old woman",
+  "unicode": "1f475",
+  "unicodeSkintones": [
+    "1f475",
+    "1f475 1f3fb",
+    "1f475 1f3fc",
+    "1f475 1f3fd",
+    "1f475 1f3fe",
+    "1f475 1f3ff"
+  ]
+}

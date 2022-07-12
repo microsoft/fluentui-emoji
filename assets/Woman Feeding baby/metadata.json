@@ -1,0 +1,22 @@
+{
+  "cldr": "woman feeding baby",
+  "fromVersion": "13.0",
+  "glyph": "👩‍🍼",
+  "group": "People & Body",
+  "keywords": [
+    "baby",
+    "feeding",
+    "nursing",
+    "woman"
+  ],
+  "tts": "woman feeding baby",
+  "unicode": "1f469 200d 1f37c",
+  "unicodeSkintones": [
+    "1f469 200d 1f37c",
+    "1f469 1f3fb 200d 1f37c",
+    "1f469 1f3fc 200d 1f37c",
+    "1f469 1f3fd 200d 1f37c",
+    "1f469 1f3fe 200d 1f37c",
+    "1f469 1f3ff 200d 1f37c"
+  ]
+}

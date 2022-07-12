@@ -1,0 +1,30 @@
+{
+  "cldr": "woman mountain biking",
+  "fromVersion": "4.0",
+  "glyph": "🚵‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "woman_mountain_biking"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "bicycle",
+    "bike",
+    "biking",
+    "cyclist",
+    "mountain",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "woman_mountain_biking"
+  ],
+  "tts": "woman mountain biking",
+  "unicode": "1f6b5 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f6b5 200d 2640 fe0f",
+    "1f6b5 1f3fb 200d 2640 fe0f",
+    "1f6b5 1f3fc 200d 2640 fe0f",
+    "1f6b5 1f3fd 200d 2640 fe0f",
+    "1f6b5 1f3fe 200d 2640 fe0f",
+    "1f6b5 1f3ff 200d 2640 fe0f"
+  ]
+}

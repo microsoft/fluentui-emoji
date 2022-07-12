@@ -1,0 +1,27 @@
+{
+  "cldr": "person playing handball",
+  "fromVersion": "3.0",
+  "glyph": "🤾",
+  "glyphAsUtfInEmoticons": [
+    "hand_ball"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "ball",
+    "handball",
+    "person playing handball"
+  ],
+  "mappedToEmoticons": [
+    "hand_ball"
+  ],
+  "tts": "person playing handball",
+  "unicode": "1f93e",
+  "unicodeSkintones": [
+    "1f93e",
+    "1f93e 1f3fb",
+    "1f93e 1f3fc",
+    "1f93e 1f3fd",
+    "1f93e 1f3fe",
+    "1f93e 1f3ff"
+  ]
+}

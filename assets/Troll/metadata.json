@@ -1,0 +1,22 @@
+{
+  "cldr": "troll",
+  "fromVersion": "14.0",
+  "glyph": "🧌",
+  "group": "People & Body",
+  "keywords": [
+    "fairy tale",
+    "fantasy",
+    "monster",
+    "troll"
+  ],
+  "tts": "troll",
+  "unicode": "1f9cc",
+  "unicodeSkintones": [
+    "1f9cc",
+    "1f486",
+    "1f486 1f3fb",
+    "1f486 1f3fc",
+    "1f486 1f3fd",
+    "1f486 1f3fe"
+  ]
+}

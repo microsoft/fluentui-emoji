@@ -1,0 +1,27 @@
+{
+  "cldr": "woman: white hair",
+  "fromVersion": "11.0",
+  "glyph": "👩‍🦳",
+  "glyphAsUtfInEmoticons": [
+    "womanwhitehair"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "adult",
+    "white hair",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "womanwhitehair"
+  ],
+  "tts": "woman: white hair",
+  "unicode": "1f469 200d 1f9b3",
+  "unicodeSkintones": [
+    "1f469 200d 1f9b3",
+    "1f469 1f3fb 200d 1f9b3",
+    "1f469 1f3fc 200d 1f9b3",
+    "1f469 1f3fd 200d 1f9b3",
+    "1f469 1f3fe 200d 1f9b3",
+    "1f469 1f3ff 200d 1f9b3"
+  ]
+}

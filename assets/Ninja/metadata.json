@@ -1,0 +1,25 @@
+{
+  "cldr": "ninja",
+  "fromVersion": "13.0",
+  "glyph": "🥷",
+  "group": "People & Body",
+  "keywords": [
+    "fighter",
+    "hidden",
+    "ninja",
+    "stealth"
+  ],
+  "mappedToEmoticons": [
+    "ninja"
+  ],
+  "tts": "ninja",
+  "unicode": "1f977",
+  "unicodeSkintones": [
+    "1f977",
+    "1f977 1f3fb",
+    "1f977 1f3fc",
+    "1f977 1f3fd",
+    "1f977 1f3fe",
+    "1f977 1f3ff"
+  ]
+}

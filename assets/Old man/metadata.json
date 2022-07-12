@@ -1,0 +1,27 @@
+{
+  "cldr": "old man",
+  "fromVersion": "0.6",
+  "glyph": "👴",
+  "glyphAsUtfInEmoticons": [
+    "1f474_olderman"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "adult",
+    "man",
+    "old"
+  ],
+  "mappedToEmoticons": [
+    "1f474_olderman"
+  ],
+  "tts": "old man",
+  "unicode": "1f474",
+  "unicodeSkintones": [
+    "1f474",
+    "1f474 1f3fb",
+    "1f474 1f3fc",
+    "1f474 1f3fd",
+    "1f474 1f3fe",
+    "1f474 1f3ff"
+  ]
+}

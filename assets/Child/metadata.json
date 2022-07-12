@@ -1,0 +1,28 @@
+{
+  "cldr": "child",
+  "fromVersion": "5.0",
+  "glyph": "🧒",
+  "glyphAsUtfInEmoticons": [
+    "1f9d2_child"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "child",
+    "gender-neutral",
+    "unspecified gender",
+    "young"
+  ],
+  "mappedToEmoticons": [
+    "1f9d2_child"
+  ],
+  "tts": "child",
+  "unicode": "1f9d2",
+  "unicodeSkintones": [
+    "1f9d2",
+    "1f9d2 1f3fb",
+    "1f9d2 1f3fc",
+    "1f9d2 1f3fd",
+    "1f9d2 1f3fe",
+    "1f9d2 1f3ff"
+  ]
+}

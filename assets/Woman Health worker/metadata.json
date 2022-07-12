@@ -1,0 +1,30 @@
+{
+  "cldr": "woman health worker",
+  "fromVersion": "4.0",
+  "glyph": "👩‍⚕️",
+  "glyphAsUtfInEmoticons": [
+    "womanhealthworker"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "doctor",
+    "healthcare",
+    "nurse",
+    "therapist",
+    "woman",
+    "woman health worker"
+  ],
+  "mappedToEmoticons": [
+    "womanhealthworker"
+  ],
+  "tts": "woman health worker",
+  "unicode": "1f469 200d 2695 fe0f",
+  "unicodeSkintones": [
+    "1f469 200d 2695 fe0f",
+    "1f469 1f3fb 200d 2695 fe0f",
+    "1f469 1f3fc 200d 2695 fe0f",
+    "1f469 1f3fd 200d 2695 fe0f",
+    "1f469 1f3fe 200d 2695 fe0f",
+    "1f469 1f3ff 200d 2695 fe0f"
+  ]
+}

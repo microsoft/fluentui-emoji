@@ -1,0 +1,27 @@
+{
+  "cldr": "woman in steamy room",
+  "fromVersion": "5.0",
+  "glyph": "🧖‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "woman_steam_room"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "sauna",
+    "steam room",
+    "woman in steamy room"
+  ],
+  "mappedToEmoticons": [
+    "woman_steam_room"
+  ],
+  "tts": "woman in steamy room",
+  "unicode": "1f9d6 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f9d6 200d 2640 fe0f",
+    "1f9d6 1f3fb 200d 2640 fe0f",
+    "1f9d6 1f3fc 200d 2640 fe0f",
+    "1f9d6 1f3fd 200d 2640 fe0f",
+    "1f9d6 1f3fe 200d 2640 fe0f",
+    "1f9d6 1f3ff 200d 2640 fe0f"
+  ]
+}

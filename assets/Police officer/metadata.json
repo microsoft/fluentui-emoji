@@ -1,0 +1,27 @@
+{
+  "cldr": "police officer",
+  "fromVersion": "0.6",
+  "glyph": "👮",
+  "glyphAsUtfInEmoticons": [
+    "police_officer"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "cop",
+    "officer",
+    "police"
+  ],
+  "mappedToEmoticons": [
+    "police_officer"
+  ],
+  "tts": "police officer",
+  "unicode": "1f46e",
+  "unicodeSkintones": [
+    "1f46e",
+    "1f46e 1f3fb",
+    "1f46e 1f3fc",
+    "1f46e 1f3fd",
+    "1f46e 1f3fe",
+    "1f46e 1f3ff"
+  ]
+}

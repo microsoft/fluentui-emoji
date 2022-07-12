@@ -1,0 +1,19 @@
+{
+  "cldr": "person in steamy room",
+  "fromVersion": "5.0",
+  "glyph": "🧖",
+  "glyphAsUtfInEmoticons": [
+    "steam_room"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "person in steamy room",
+    "sauna",
+    "steam room"
+  ],
+  "mappedToEmoticons": [
+    "steam_room"
+  ],
+  "tts": "person in steamy room",
+  "unicode": "1f9d6"
+}

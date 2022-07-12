@@ -1,0 +1,30 @@
+{
+  "cldr": "man gesturing NO",
+  "fromVersion": "4.0",
+  "glyph": "🙅‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "man_gesturing_not_ok"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "forbidden",
+    "gesture",
+    "hand",
+    "man",
+    "man gesturing NO",
+    "prohibited"
+  ],
+  "mappedToEmoticons": [
+    "man_gesturing_not_ok"
+  ],
+  "tts": "man gesturing NO",
+  "unicode": "1f645 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f645 200d 2642 fe0f",
+    "1f645 1f3fb 200d 2642 fe0f",
+    "1f645 1f3fc 200d 2642 fe0f",
+    "1f645 1f3fd 200d 2642 fe0f",
+    "1f645 1f3fe 200d 2642 fe0f",
+    "1f645 1f3ff 200d 2642 fe0f"
+  ]
+}

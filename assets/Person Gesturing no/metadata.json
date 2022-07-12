@@ -1,0 +1,30 @@
+{
+  "cldr": "person gesturing NO",
+  "fromVersion": "0.6",
+  "glyph": "🙅",
+  "glyphAsUtfInEmoticons": [
+    "1f645_facewithnogoodgesture",
+    "face_with_no_good_gesture"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "forbidden",
+    "gesture",
+    "hand",
+    "person gesturing NO",
+    "prohibited"
+  ],
+  "mappedToEmoticons": [
+    "1f645_facewithnogoodgesture"
+  ],
+  "tts": "person gesturing NO",
+  "unicode": "1f645",
+  "unicodeSkintones": [
+    "1f645",
+    "1f645 1f3fb",
+    "1f645 1f3fc",
+    "1f645 1f3fd",
+    "1f645 1f3fe",
+    "1f645 1f3ff"
+  ]
+}

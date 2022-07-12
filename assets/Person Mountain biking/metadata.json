@@ -1,0 +1,30 @@
+{
+  "cldr": "person mountain biking",
+  "fromVersion": "1.0",
+  "glyph": "🚵",
+  "glyphAsUtfInEmoticons": [
+    "mountain_bicyclist"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "bicycle",
+    "bicyclist",
+    "bike",
+    "cyclist",
+    "mountain",
+    "person mountain biking"
+  ],
+  "mappedToEmoticons": [
+    "mountain_bicyclist"
+  ],
+  "tts": "person mountain biking",
+  "unicode": "1f6b5",
+  "unicodeSkintones": [
+    "1f6b5",
+    "1f6b5 1f3fb",
+    "1f6b5 1f3fc",
+    "1f6b5 1f3fd",
+    "1f6b5 1f3fe",
+    "1f6b5 1f3ff"
+  ]
+}

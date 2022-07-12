@@ -1,0 +1,19 @@
+{
+  "cldr": "bust in silhouette",
+  "fromVersion": "0.6",
+  "glyph": "👤",
+  "glyphAsUtfInEmoticons": [
+    "1f464_bustinsilhouette"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "bust",
+    "bust in silhouette",
+    "silhouette"
+  ],
+  "mappedToEmoticons": [
+    "1f464_bustinsilhouette"
+  ],
+  "tts": "bust in silhouette",
+  "unicode": "1f464"
+}

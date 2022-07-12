@@ -1,0 +1,28 @@
+{
+  "cldr": "woman police officer",
+  "fromVersion": "4.0",
+  "glyph": "👮‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "womanpoliceofficer"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "cop",
+    "officer",
+    "police",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "womanpoliceofficer"
+  ],
+  "tts": "woman police officer",
+  "unicode": "1f46e 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f46e 200d 2640 fe0f",
+    "1f46e 1f3fb 200d 2640 fe0f",
+    "1f46e 1f3fc 200d 2640 fe0f",
+    "1f46e 1f3fd 200d 2640 fe0f",
+    "1f46e 1f3fe 200d 2640 fe0f",
+    "1f46e 1f3ff 200d 2640 fe0f"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "cldr": "person standing",
+  "fromVersion": "12.0",
+  "glyph": "🧍",
+  "glyphAsUtfInEmoticons": [
+    "nonbinarystanding"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "person standing",
+    "stand",
+    "standing"
+  ],
+  "mappedToEmoticons": [
+    "nonbinarystanding"
+  ],
+  "tts": "person standing",
+  "unicode": "1f9cd",
+  "unicodeSkintones": [
+    "1f9cd",
+    "1f9cd 1f3fb",
+    "1f9cd 1f3fc",
+    "1f9cd 1f3fd",
+    "1f9cd 1f3fe",
+    "1f9cd 1f3ff"
+  ]
+}

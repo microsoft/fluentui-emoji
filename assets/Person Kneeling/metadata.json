@@ -1,0 +1,27 @@
+{
+  "cldr": "person kneeling",
+  "fromVersion": "12.0",
+  "glyph": "🧎",
+  "glyphAsUtfInEmoticons": [
+    "person_kneeling"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "kneel",
+    "kneeling",
+    "person kneeling"
+  ],
+  "mappedToEmoticons": [
+    "person_kneeling"
+  ],
+  "tts": "person kneeling",
+  "unicode": "1f9ce",
+  "unicodeSkintones": [
+    "1f9ce",
+    "1f9ce 1f3fb",
+    "1f9ce 1f3fc",
+    "1f9ce 1f3fd",
+    "1f9ce 1f3fe",
+    "1f9ce 1f3ff"
+  ]
+}

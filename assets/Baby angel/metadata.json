@@ -1,0 +1,29 @@
+{
+  "cldr": "baby angel",
+  "fromVersion": "0.6",
+  "glyph": "👼",
+  "glyphAsUtfInEmoticons": [
+    "1f47c_babyangel"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "angel",
+    "baby",
+    "face",
+    "fairy tale",
+    "fantasy"
+  ],
+  "mappedToEmoticons": [
+    "1f47c_babyangel"
+  ],
+  "tts": "baby angel",
+  "unicode": "1f47c",
+  "unicodeSkintones": [
+    "1f47c",
+    "1f47c 1f3fb",
+    "1f47c 1f3fc",
+    "1f47c 1f3fd",
+    "1f47c 1f3fe",
+    "1f47c 1f3ff"
+  ]
+}

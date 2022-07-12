@@ -1,0 +1,26 @@
+{
+  "cldr": "scientist",
+  "fromVersion": "12.1",
+  "glyph": "🧑‍🔬",
+  "group": "People & Body",
+  "keywords": [
+    "biologist",
+    "chemist",
+    "engineer",
+    "physicist",
+    "scientist"
+  ],
+  "mappedToEmoticons": [
+    "personscientist"
+  ],
+  "tts": "scientist",
+  "unicode": "1f9d1 200d 1f52c",
+  "unicodeSkintones": [
+    "1f9d1 200d 1f52c",
+    "1f9d1 1f3fb 200d 1f52c",
+    "1f9d1 1f3fc 200d 1f52c",
+    "1f9d1 1f3fd 200d 1f52c",
+    "1f9d1 1f3fe 200d 1f52c",
+    "1f9d1 1f3ff 200d 1f52c"
+  ]
+}

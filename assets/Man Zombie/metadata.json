@@ -1,0 +1,16 @@
+{
+  "cldr": "man zombie",
+  "fromVersion": "5.0",
+  "glyph": "🧟‍♂️",
+  "group": "People & Body",
+  "keywords": [
+    "man zombie",
+    "undead",
+    "walking dead"
+  ],
+  "mappedToEmoticons": [
+    "manzombie"
+  ],
+  "tts": "man zombie",
+  "unicode": "1f9df 200d 2642 fe0f"
+}

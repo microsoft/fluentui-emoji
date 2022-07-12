@@ -1,0 +1,29 @@
+{
+  "cldr": "man: blond hair",
+  "fromVersion": "4.0",
+  "glyph": "👱‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "manblondhair"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "blond",
+    "blond-haired man",
+    "hair",
+    "man",
+    "man: blond hair"
+  ],
+  "mappedToEmoticons": [
+    "manblondhair"
+  ],
+  "tts": "man: blond hair",
+  "unicode": "1f471 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f471 200d 2642 fe0f",
+    "1f471 1f3fb 200d 2642 fe0f",
+    "1f471 1f3fc 200d 2642 fe0f",
+    "1f471 1f3fd 200d 2642 fe0f",
+    "1f471 1f3fe 200d 2642 fe0f",
+    "1f471 1f3ff 200d 2642 fe0f"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "cldr": "elf",
+  "fromVersion": "5.0",
+  "glyph": "🧝",
+  "glyphAsUtfInEmoticons": [
+    "elf"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "elf",
+    "magical"
+  ],
+  "mappedToEmoticons": [
+    "elf"
+  ],
+  "tts": "elf",
+  "unicode": "1f9dd",
+  "unicodeSkintones": [
+    "1f9dd",
+    "1f9dd 1f3fb",
+    "1f9dd 1f3fc",
+    "1f9dd 1f3fd",
+    "1f9dd 1f3fe",
+    "1f9dd 1f3ff"
+  ]
+}

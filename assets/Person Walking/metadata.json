@@ -1,0 +1,28 @@
+{
+  "cldr": "person walking",
+  "fromVersion": "0.6",
+  "glyph": "🚶",
+  "glyphAsUtfInEmoticons": [
+    "pedestrian"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "hike",
+    "person walking",
+    "walk",
+    "walking"
+  ],
+  "mappedToEmoticons": [
+    "pedestrian"
+  ],
+  "tts": "person walking",
+  "unicode": "1f6b6",
+  "unicodeSkintones": [
+    "1f6b6",
+    "1f6b6 1f3fb",
+    "1f6b6 1f3fc",
+    "1f6b6 1f3fd",
+    "1f6b6 1f3fe",
+    "1f6b6 1f3ff"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "cldr": "deaf person",
+  "fromVersion": "12.0",
+  "glyph": "🧏",
+  "glyphAsUtfInEmoticons": [
+    "person_deaf"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "accessibility",
+    "deaf",
+    "deaf person",
+    "ear",
+    "hear"
+  ],
+  "mappedToEmoticons": [
+    "person_deaf"
+  ],
+  "tts": "deaf person",
+  "unicode": "1f9cf",
+  "unicodeSkintones": [
+    "1f9cf",
+    "1f9cf 1f3fb",
+    "1f9cf 1f3fc",
+    "1f9cf 1f3fd",
+    "1f9cf 1f3fe",
+    "1f9cf 1f3ff"
+  ]
+}
