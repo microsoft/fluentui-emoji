@@ -1,0 +1,27 @@
+{
+  "cldr": "woman artist",
+  "fromVersion": "4.0",
+  "glyph": "👩‍🎨",
+  "glyphAsUtfInEmoticons": [
+    "womanartist"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "artist",
+    "palette",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "womanartist"
+  ],
+  "tts": "woman artist",
+  "unicode": "1f469 200d 1f3a8",
+  "unicodeSkintones": [
+    "1f469 200d 1f3a8",
+    "1f469 1f3fb 200d 1f3a8",
+    "1f469 1f3fc 200d 1f3a8",
+    "1f469 1f3fd 200d 1f3a8",
+    "1f469 1f3fe 200d 1f3a8",
+    "1f469 1f3ff 200d 1f3a8"
+  ]
+}

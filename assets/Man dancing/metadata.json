@@ -1,0 +1,27 @@
+{
+  "cldr": "man dancing",
+  "fromVersion": "3.0",
+  "glyph": "🕺",
+  "glyphAsUtfInEmoticons": [
+    "dance"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "dance",
+    "dancing",
+    "man"
+  ],
+  "mappedToEmoticons": [
+    "dance"
+  ],
+  "tts": "man dancing",
+  "unicode": "1f57a",
+  "unicodeSkintones": [
+    "1f57a",
+    "1f57a 1f3fb",
+    "1f57a 1f3fc",
+    "1f57a 1f3fd",
+    "1f57a 1f3fe",
+    "1f57a 1f3ff"
+  ]
+}

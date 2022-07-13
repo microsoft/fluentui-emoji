@@ -1,0 +1,30 @@
+{
+  "cldr": "man supervillain",
+  "fromVersion": "11.0",
+  "glyph": "🦹‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "man_super_villain"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "criminal",
+    "evil",
+    "man",
+    "man supervillain",
+    "superpower",
+    "villain"
+  ],
+  "mappedToEmoticons": [
+    "man_super_villain"
+  ],
+  "tts": "man supervillain",
+  "unicode": "1f9b9 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f9b9 200d 2642 fe0f",
+    "1f9b9 1f3fb 200d 2642 fe0f",
+    "1f9b9 1f3fc 200d 2642 fe0f",
+    "1f9b9 1f3fd 200d 2642 fe0f",
+    "1f9b9 1f3fe 200d 2642 fe0f",
+    "1f9b9 1f3ff 200d 2642 fe0f"
+  ]
+}

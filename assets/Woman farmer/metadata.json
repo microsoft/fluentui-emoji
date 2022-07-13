@@ -1,0 +1,28 @@
+{
+  "cldr": "woman farmer",
+  "fromVersion": "4.0",
+  "glyph": "👩‍🌾",
+  "glyphAsUtfInEmoticons": [
+    "womanfarmer"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "farmer",
+    "gardener",
+    "rancher",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "womanfarmer"
+  ],
+  "tts": "woman farmer",
+  "unicode": "1f469 200d 1f33e",
+  "unicodeSkintones": [
+    "1f469 200d 1f33e",
+    "1f469 1f3fb 200d 1f33e",
+    "1f469 1f3fc 200d 1f33e",
+    "1f469 1f3fd 200d 1f33e",
+    "1f469 1f3fe 200d 1f33e",
+    "1f469 1f3ff 200d 1f33e"
+  ]
+}

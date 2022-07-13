@@ -1,0 +1,18 @@
+{
+  "cldr": "woman genie",
+  "fromVersion": "5.0",
+  "glyph": "🧞‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "womangenie"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "djinn",
+    "woman genie"
+  ],
+  "mappedToEmoticons": [
+    "womangenie"
+  ],
+  "tts": "woman genie",
+  "unicode": "1f9de 200d 2640 fe0f"
+}

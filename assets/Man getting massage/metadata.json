@@ -1,0 +1,28 @@
+{
+  "cldr": "man getting massage",
+  "fromVersion": "4.0",
+  "glyph": "💆‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "man_getting_face_massage"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "face",
+    "man",
+    "man getting massage",
+    "massage"
+  ],
+  "mappedToEmoticons": [
+    "man_getting_face_massage"
+  ],
+  "tts": "man getting massage",
+  "unicode": "1f486 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f486 200d 2642 fe0f",
+    "1f486 1f3fb 200d 2642 fe0f",
+    "1f486 1f3fc 200d 2642 fe0f",
+    "1f486 1f3fd 200d 2642 fe0f",
+    "1f486 1f3fe 200d 2642 fe0f",
+    "1f486 1f3ff 200d 2642 fe0f"
+  ]
+}

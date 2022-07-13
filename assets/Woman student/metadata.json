@@ -1,0 +1,27 @@
+{
+  "cldr": "woman student",
+  "fromVersion": "4.0",
+  "glyph": "👩‍🎓",
+  "glyphAsUtfInEmoticons": [
+    "womangraduate"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "graduate",
+    "student",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "womanstudent"
+  ],
+  "tts": "woman student",
+  "unicode": "1f469 200d 1f393",
+  "unicodeSkintones": [
+    "1f469 200d 1f393",
+    "1f469 1f3fb 200d 1f393",
+    "1f469 1f3fc 200d 1f393",
+    "1f469 1f3fd 200d 1f393",
+    "1f469 1f3fe 200d 1f393",
+    "1f469 1f3ff 200d 1f393"
+  ]
+}

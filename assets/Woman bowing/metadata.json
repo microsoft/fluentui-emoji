@@ -1,0 +1,30 @@
+{
+  "cldr": "woman bowing",
+  "fromVersion": "4.0",
+  "glyph": "🙇‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "thanks"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "apology",
+    "bowing",
+    "favor",
+    "gesture",
+    "sorry",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "thanks"
+  ],
+  "tts": "woman bowing",
+  "unicode": "1f647 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f647 200d 2640 fe0f",
+    "1f647 1f3fb 200d 2640 fe0f",
+    "1f647 1f3fc 200d 2640 fe0f",
+    "1f647 1f3fd 200d 2640 fe0f",
+    "1f647 1f3fe 200d 2640 fe0f",
+    "1f647 1f3ff 200d 2640 fe0f"
+  ]
+}

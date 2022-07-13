@@ -1,0 +1,26 @@
+{
+  "cldr": "woman climbing",
+  "fromVersion": "5.0",
+  "glyph": "🧗‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "woman_climbing"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "climber",
+    "woman climbing"
+  ],
+  "mappedToEmoticons": [
+    "woman_climbing"
+  ],
+  "tts": "woman climbing",
+  "unicode": "1f9d7 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f9d7 200d 2640 fe0f",
+    "1f9d7 1f3fb 200d 2640 fe0f",
+    "1f9d7 1f3fc 200d 2640 fe0f",
+    "1f9d7 1f3fd 200d 2640 fe0f",
+    "1f9d7 1f3fe 200d 2640 fe0f",
+    "1f9d7 1f3ff 200d 2640 fe0f"
+  ]
+}

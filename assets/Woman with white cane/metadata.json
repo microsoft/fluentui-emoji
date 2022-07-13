@@ -1,0 +1,28 @@
+{
+  "cldr": "woman with white cane",
+  "fromVersion": "12.0",
+  "glyph": "👩‍🦯",
+  "glyphAsUtfInEmoticons": [
+    "woman_probing_cane"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "accessibility",
+    "blind",
+    "woman",
+    "woman with white cane"
+  ],
+  "mappedToEmoticons": [
+    "woman_probing_cane"
+  ],
+  "tts": "woman with white cane",
+  "unicode": "1f469 200d 1f9af",
+  "unicodeSkintones": [
+    "1f469 200d 1f9af",
+    "1f469 1f3fb 200d 1f9af",
+    "1f469 1f3fc 200d 1f9af",
+    "1f469 1f3fd 200d 1f9af",
+    "1f469 1f3fe 200d 1f9af",
+    "1f469 1f3ff 200d 1f9af"
+  ]
+}

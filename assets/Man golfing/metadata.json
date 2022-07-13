@@ -1,0 +1,27 @@
+{
+  "cldr": "man golfing",
+  "fromVersion": "4.0",
+  "glyph": "🏌️‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "mangolfing"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "golf",
+    "man",
+    "man golfing"
+  ],
+  "mappedToEmoticons": [
+    "mangolfing"
+  ],
+  "tts": "man golfing",
+  "unicode": "1f3cc fe0f 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f3cc fe0f 200d 2642 fe0f",
+    "1f3cc 1f3fb 200d 2642 fe0f",
+    "1f3cc 1f3fc 200d 2642 fe0f",
+    "1f3cc 1f3fd 200d 2642 fe0f",
+    "1f3cc 1f3fe 200d 2642 fe0f",
+    "1f3cc 1f3ff 200d 2642 fe0f"
+  ]
+}

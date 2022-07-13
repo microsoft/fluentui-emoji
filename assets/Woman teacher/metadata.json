@@ -1,0 +1,28 @@
+{
+  "cldr": "woman teacher",
+  "fromVersion": "4.0",
+  "glyph": "👩‍🏫",
+  "glyphAsUtfInEmoticons": [
+    "womanteacher"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "instructor",
+    "professor",
+    "teacher",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "womanteacher"
+  ],
+  "tts": "woman teacher",
+  "unicode": "1f469 200d 1f3eb",
+  "unicodeSkintones": [
+    "1f469 200d 1f3eb",
+    "1f469 1f3fb 200d 1f3eb",
+    "1f469 1f3fc 200d 1f3eb",
+    "1f469 1f3fd 200d 1f3eb",
+    "1f469 1f3fe 200d 1f3eb",
+    "1f469 1f3ff 200d 1f3eb"
+  ]
+}

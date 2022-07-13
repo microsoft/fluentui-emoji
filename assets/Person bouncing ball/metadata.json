@@ -1,0 +1,26 @@
+{
+  "cldr": "person bouncing ball",
+  "fromVersion": "0.7",
+  "glyph": "⛹️",
+  "glyphAsUtfInEmoticons": [
+    "bouncing_ball"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "ball",
+    "person bouncing ball"
+  ],
+  "mappedToEmoticons": [
+    "bouncing_ball"
+  ],
+  "tts": "person bouncing ball",
+  "unicode": "26f9 fe0f",
+  "unicodeSkintones": [
+    "26f9 fe0f",
+    "26f9 1f3fb",
+    "26f9 1f3fc",
+    "26f9 1f3fd",
+    "26f9 1f3fe",
+    "26f9 1f3ff"
+  ]
+}

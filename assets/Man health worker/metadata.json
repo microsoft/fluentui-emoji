@@ -1,0 +1,30 @@
+{
+  "cldr": "man health worker",
+  "fromVersion": "4.0",
+  "glyph": "👨‍⚕️",
+  "glyphAsUtfInEmoticons": [
+    "manhealthworker"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "doctor",
+    "healthcare",
+    "man",
+    "man health worker",
+    "nurse",
+    "therapist"
+  ],
+  "mappedToEmoticons": [
+    "manhealthworker"
+  ],
+  "tts": "man health worker",
+  "unicode": "1f468 200d 2695 fe0f",
+  "unicodeSkintones": [
+    "1f468 200d 2695 fe0f",
+    "1f468 1f3fb 200d 2695 fe0f",
+    "1f468 1f3fc 200d 2695 fe0f",
+    "1f468 1f3fd 200d 2695 fe0f",
+    "1f468 1f3fe 200d 2695 fe0f",
+    "1f468 1f3ff 200d 2695 fe0f"
+  ]
+}

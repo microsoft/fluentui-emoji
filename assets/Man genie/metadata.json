@@ -1,0 +1,18 @@
+{
+  "cldr": "man genie",
+  "fromVersion": "5.0",
+  "glyph": "🧞‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "mangenie"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "djinn",
+    "man genie"
+  ],
+  "mappedToEmoticons": [
+    "mangenie"
+  ],
+  "tts": "man genie",
+  "unicode": "1f9de 200d 2642 fe0f"
+}

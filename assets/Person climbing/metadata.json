@@ -1,0 +1,26 @@
+{
+  "cldr": "person climbing",
+  "fromVersion": "5.0",
+  "glyph": "🧗",
+  "glyphAsUtfInEmoticons": [
+    "climber"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "climber",
+    "person climbing"
+  ],
+  "mappedToEmoticons": [
+    "climber"
+  ],
+  "tts": "person climbing",
+  "unicode": "1f9d7",
+  "unicodeSkintones": [
+    "1f9d7",
+    "1f9d7 1f3fb",
+    "1f9d7 1f3fc",
+    "1f9d7 1f3fd",
+    "1f9d7 1f3fe",
+    "1f9d7 1f3ff"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "cldr": "person biking",
+  "fromVersion": "1.0",
+  "glyph": "🚴",
+  "glyphAsUtfInEmoticons": [
+    "1f6b4_personbiking"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "bicycle",
+    "biking",
+    "cyclist",
+    "person biking"
+  ],
+  "mappedToEmoticons": [
+    "1f6b4_personbiking"
+  ],
+  "tts": "person biking",
+  "unicode": "1f6b4",
+  "unicodeSkintones": [
+    "1f6b4",
+    "1f6b4 1f3fb",
+    "1f6b4 1f3fc",
+    "1f6b4 1f3fd",
+    "1f6b4 1f3fe",
+    "1f6b4 1f3ff"
+  ]
+}
