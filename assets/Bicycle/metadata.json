@@ -1,0 +1,15 @@
+{
+  "cldr": "bicycle",
+  "fromVersion": "0.6",
+  "glyph": "🚲",
+  "group": "Travel & Places",
+  "keywords": [
+    "bicycle",
+    "bike"
+  ],
+  "mappedToEmoticons": [
+    "bicycle"
+  ],
+  "tts": "bicycle",
+  "unicode": "1f6b2"
+}

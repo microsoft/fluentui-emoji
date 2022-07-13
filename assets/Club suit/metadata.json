@@ -1,0 +1,19 @@
+{
+  "cldr": "club suit",
+  "fromVersion": "0.6",
+  "glyph": "♣️",
+  "glyphAsUtfInEmoticons": [
+    "2663_blackclubsuit"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "card",
+    "club suit",
+    "game"
+  ],
+  "mappedToEmoticons": [
+    "2663_blackclubsuit"
+  ],
+  "tts": "club suit",
+  "unicode": "2663 fe0f"
+}

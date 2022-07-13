@@ -1,0 +1,18 @@
+{
+  "cldr": "convenience store",
+  "fromVersion": "0.6",
+  "glyph": "🏪",
+  "glyphAsUtfInEmoticons": [
+    "1f3ea_conveniencestore"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "convenience",
+    "store"
+  ],
+  "mappedToEmoticons": [
+    "1f3ea_conveniencestore"
+  ],
+  "tts": "convenience store",
+  "unicode": "1f3ea"
+}

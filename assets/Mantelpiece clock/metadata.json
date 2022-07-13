@@ -1,0 +1,18 @@
+{
+  "cldr": "mantelpiece clock",
+  "fromVersion": "0.7",
+  "glyph": "🕰️",
+  "glyphAsUtfInEmoticons": [
+    "time"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "clock",
+    "mantelpiece clock"
+  ],
+  "mappedToEmoticons": [
+    "1f570_mantelpiececlock"
+  ],
+  "tts": "mantelpiece clock",
+  "unicode": "1f570 fe0f"
+}

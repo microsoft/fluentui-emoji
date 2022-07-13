@@ -1,0 +1,17 @@
+{
+  "cldr": "chess pawn",
+  "fromVersion": "11.0",
+  "glyph": "♟️",
+  "group": "Activities",
+  "keywords": [
+    "chess",
+    "chess pawn",
+    "dupe",
+    "expendable"
+  ],
+  "mappedToEmoticons": [
+    "265f_chesspawn"
+  ],
+  "tts": "chess pawn",
+  "unicode": "265f fe0f"
+}

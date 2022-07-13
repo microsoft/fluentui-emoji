@@ -1,0 +1,15 @@
+{
+  "cldr": "calendar",
+  "fromVersion": "0.6",
+  "glyph": "📅",
+  "group": "Objects",
+  "keywords": [
+    "calendar",
+    "date"
+  ],
+  "mappedToEmoticons": [
+    "1f4c5_calendar"
+  ],
+  "tts": "calendar",
+  "unicode": "1f4c5"
+}

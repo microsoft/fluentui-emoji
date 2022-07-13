@@ -1,0 +1,26 @@
+{
+  "cldr": "person: bald",
+  "fromVersion": "12.1",
+  "glyph": "🧑‍🦲",
+  "group": "People & Body",
+  "keywords": [
+    "adult",
+    "bald",
+    "gender-neutral",
+    "person",
+    "unspecified gender"
+  ],
+  "mappedToEmoticons": [
+    "1f9b2_bald"
+  ],
+  "tts": "person: bald",
+  "unicode": "1f9d1 200d 1f9b2",
+  "unicodeSkintones": [
+    "1f9d1 200d 1f9b2",
+    "1f9d1 1f3fb 200d 1f9b2",
+    "1f9d1 1f3fc 200d 1f9b2",
+    "1f9d1 1f3fd 200d 1f9b2",
+    "1f9d1 1f3fe 200d 1f9b2",
+    "1f9d1 1f3ff 200d 1f9b2"
+  ]
+}

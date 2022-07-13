@@ -1,0 +1,19 @@
+{
+  "cldr": "SOON arrow",
+  "fromVersion": "0.6",
+  "glyph": "🔜",
+  "glyphAsUtfInEmoticons": [
+    "1f51c_soon"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "soon",
+    "SOON arrow"
+  ],
+  "mappedToEmoticons": [
+    "1f51c_soon"
+  ],
+  "tts": "SOON arrow",
+  "unicode": "1f51c"
+}

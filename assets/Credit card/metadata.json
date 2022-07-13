@@ -1,0 +1,19 @@
+{
+  "cldr": "credit card",
+  "fromVersion": "0.6",
+  "glyph": "💳",
+  "glyphAsUtfInEmoticons": [
+    "1f4b3_creditcard"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "card",
+    "credit",
+    "money"
+  ],
+  "mappedToEmoticons": [
+    "1f4b3_creditcard"
+  ],
+  "tts": "credit card",
+  "unicode": "1f4b3"
+}

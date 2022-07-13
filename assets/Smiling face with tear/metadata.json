@@ -1,0 +1,23 @@
+{
+  "cldr": "smiling face with tear",
+  "fromVersion": "13.0",
+  "glyph": "🥲",
+  "glyphAsUtfInEmoticons": [
+    "smilingfacewithtear"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "grateful",
+    "proud",
+    "relieved",
+    "smiling",
+    "smiling face with tear",
+    "tear",
+    "touched"
+  ],
+  "mappedToEmoticons": [
+    "smilingfacewithtear"
+  ],
+  "tts": "smiling face with tear",
+  "unicode": "1f972"
+}

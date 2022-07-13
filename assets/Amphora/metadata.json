@@ -1,0 +1,22 @@
+{
+  "cldr": "amphora",
+  "fromVersion": "1.0",
+  "glyph": "🏺",
+  "glyphAsUtfInEmoticons": [
+    "1f3fa_amphora"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "amphora",
+    "Aquarius",
+    "cooking",
+    "drink",
+    "jug",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "1f3fa_amphora"
+  ],
+  "tts": "amphora",
+  "unicode": "1f3fa"
+}

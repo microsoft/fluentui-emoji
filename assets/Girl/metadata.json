@@ -1,0 +1,28 @@
+{
+  "cldr": "girl",
+  "fromVersion": "0.6",
+  "glyph": "👧",
+  "glyphAsUtfInEmoticons": [
+    "smilegirl"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "girl",
+    "Virgo",
+    "young",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "smilegirl"
+  ],
+  "tts": "girl",
+  "unicode": "1f467",
+  "unicodeSkintones": [
+    "1f467",
+    "1f467 1f3fb",
+    "1f467 1f3fc",
+    "1f467 1f3fd",
+    "1f467 1f3fe",
+    "1f467 1f3ff"
+  ]
+}

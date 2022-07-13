@@ -1,0 +1,19 @@
+{
+  "cldr": "fire engine",
+  "fromVersion": "0.6",
+  "glyph": "🚒",
+  "glyphAsUtfInEmoticons": [
+    "1f692_fireengine"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "engine",
+    "fire",
+    "truck"
+  ],
+  "mappedToEmoticons": [
+    "1f692_fireengine"
+  ],
+  "tts": "fire engine",
+  "unicode": "1f692"
+}

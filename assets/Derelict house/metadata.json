@@ -1,0 +1,15 @@
+{
+  "cldr": "derelict house",
+  "fromVersion": "0.7",
+  "glyph": "🏚️",
+  "group": "Travel & Places",
+  "keywords": [
+    "derelict",
+    "house"
+  ],
+  "mappedToEmoticons": [
+    "1f3da_derelicthouse"
+  ],
+  "tts": "derelict house",
+  "unicode": "1f3da fe0f"
+}

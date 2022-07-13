@@ -1,0 +1,21 @@
+{
+  "cldr": "fish cake with swirl",
+  "fromVersion": "0.6",
+  "glyph": "🍥",
+  "glyphAsUtfInEmoticons": [
+    "1f365_fishcakewithswirldesign"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "cake",
+    "fish",
+    "fish cake with swirl",
+    "pastry",
+    "swirl"
+  ],
+  "mappedToEmoticons": [
+    "1f365_fishcakewithswirldesign"
+  ],
+  "tts": "fish cake with swirl",
+  "unicode": "1f365"
+}

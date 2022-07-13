@@ -1,0 +1,20 @@
+{
+  "cldr": "glass of milk",
+  "fromVersion": "3.0",
+  "glyph": "🥛",
+  "glyphAsUtfInEmoticons": [
+    "1f95b_milkglass"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "drink",
+    "glass",
+    "glass of milk",
+    "milk"
+  ],
+  "mappedToEmoticons": [
+    "1f95b_milkglass"
+  ],
+  "tts": "glass of milk",
+  "unicode": "1f95b"
+}

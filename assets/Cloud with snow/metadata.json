@@ -1,0 +1,17 @@
+{
+  "cldr": "cloud with snow",
+  "fromVersion": "0.7",
+  "glyph": "🌨️",
+  "group": "Travel & Places",
+  "keywords": [
+    "cloud",
+    "cloud with snow",
+    "cold",
+    "snow"
+  ],
+  "mappedToEmoticons": [
+    "1f328_cloudwithsnow"
+  ],
+  "tts": "cloud with snow",
+  "unicode": "1f328 fe0f"
+}

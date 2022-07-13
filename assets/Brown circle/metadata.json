@@ -1,0 +1,18 @@
+{
+  "cldr": "brown circle",
+  "fromVersion": "12.0",
+  "glyph": "🟤",
+  "glyphAsUtfInEmoticons": [
+    "1f7e4_browncircle"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "brown",
+    "circle"
+  ],
+  "mappedToEmoticons": [
+    "1f7e4_browncircle"
+  ],
+  "tts": "brown circle",
+  "unicode": "1f7e4"
+}

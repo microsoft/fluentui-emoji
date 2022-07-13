@@ -1,0 +1,20 @@
+{
+  "cldr": "orthodox cross",
+  "fromVersion": "1.0",
+  "glyph": "☦️",
+  "glyphAsUtfInEmoticons": [
+    "2626_orthodoxcross"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "Christian",
+    "cross",
+    "orthodox cross",
+    "religion"
+  ],
+  "mappedToEmoticons": [
+    "2626_orthodoxcross"
+  ],
+  "tts": "orthodox cross",
+  "unicode": "2626 fe0f"
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "badminton",
+  "fromVersion": "1.0",
+  "glyph": "🏸",
+  "glyphAsUtfInEmoticons": [
+    "1f3f8_badminton"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "badminton",
+    "birdie",
+    "game",
+    "racquet",
+    "shuttlecock"
+  ],
+  "mappedToEmoticons": [
+    "1f3f8_badminton"
+  ],
+  "tts": "badminton",
+  "unicode": "1f3f8"
+}

@@ -1,0 +1,27 @@
+{
+  "cldr": "woman playing handball",
+  "fromVersion": "4.0",
+  "glyph": "🤾‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "woman_playing_handball"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "handball",
+    "woman",
+    "woman playing handball"
+  ],
+  "mappedToEmoticons": [
+    "woman_playing_handball"
+  ],
+  "tts": "woman playing handball",
+  "unicode": "1f93e 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f93e 200d 2640 fe0f",
+    "1f93e 1f3fb 200d 2640 fe0f",
+    "1f93e 1f3fc 200d 2640 fe0f",
+    "1f93e 1f3fd 200d 2640 fe0f",
+    "1f93e 1f3fe 200d 2640 fe0f",
+    "1f93e 1f3ff 200d 2640 fe0f"
+  ]
+}

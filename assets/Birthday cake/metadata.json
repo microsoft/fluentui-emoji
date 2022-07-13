@@ -1,0 +1,22 @@
+{
+  "cldr": "birthday cake",
+  "fromVersion": "0.6",
+  "glyph": "🎂",
+  "glyphAsUtfInEmoticons": [
+    "cake"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "birthday",
+    "cake",
+    "celebration",
+    "dessert",
+    "pastry",
+    "sweet"
+  ],
+  "mappedToEmoticons": [
+    "cake"
+  ],
+  "tts": "birthday cake",
+  "unicode": "1f382"
+}

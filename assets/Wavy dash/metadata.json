@@ -1,0 +1,19 @@
+{
+  "cldr": "wavy dash",
+  "fromVersion": "0.6",
+  "glyph": "〰️",
+  "glyphAsUtfInEmoticons": [
+    "3030_wavydash"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "dash",
+    "punctuation",
+    "wavy"
+  ],
+  "mappedToEmoticons": [
+    "3030_wavydash"
+  ],
+  "tts": "wavy dash",
+  "unicode": "3030 fe0f"
+}

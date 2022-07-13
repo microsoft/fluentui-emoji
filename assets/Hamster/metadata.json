@@ -1,0 +1,19 @@
+{
+  "cldr": "hamster",
+  "fromVersion": "0.6",
+  "glyph": "🐹",
+  "glyphAsUtfInEmoticons": [
+    "1f439_hamsterface"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "face",
+    "hamster",
+    "pet"
+  ],
+  "mappedToEmoticons": [
+    "1f439_hamsterface"
+  ],
+  "tts": "hamster",
+  "unicode": "1f439"
+}

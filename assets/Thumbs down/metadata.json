@@ -1,0 +1,29 @@
+{
+  "cldr": "thumbs down",
+  "fromVersion": "0.6",
+  "glyph": "👎",
+  "glyphAsUtfInEmoticons": [
+    "no"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "-1",
+    "down",
+    "hand",
+    "thumb",
+    "thumbs down"
+  ],
+  "mappedToEmoticons": [
+    "no"
+  ],
+  "tts": "thumbs down",
+  "unicode": "1f44e",
+  "unicodeSkintones": [
+    "1f44e",
+    "1f44e 1f3fb",
+    "1f44e 1f3fc",
+    "1f44e 1f3fd",
+    "1f44e 1f3fe",
+    "1f44e 1f3ff"
+  ]
+}

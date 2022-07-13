@@ -1,0 +1,20 @@
+{
+  "cldr": "vertical traffic light",
+  "fromVersion": "1.0",
+  "glyph": "🚦",
+  "glyphAsUtfInEmoticons": [
+    "1f6a6_verticaltrafficlight"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "light",
+    "signal",
+    "traffic",
+    "vertical traffic light"
+  ],
+  "mappedToEmoticons": [
+    "1f6a6_verticaltrafficlight"
+  ],
+  "tts": "vertical traffic light",
+  "unicode": "1f6a6"
+}

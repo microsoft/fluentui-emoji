@@ -1,0 +1,21 @@
+{
+  "cldr": "Japanese “reserved” button",
+  "fromVersion": "0.6",
+  "glyph": "🈯",
+  "glyphAsUtfInEmoticons": [
+    "1f22f_reserved"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "“reserved”",
+    "ideograph",
+    "Japanese",
+    "Japanese “reserved” button",
+    "指"
+  ],
+  "mappedToEmoticons": [
+    "1f22f_reserved"
+  ],
+  "tts": "Japanese “reserved” button",
+  "unicode": "1f22f"
+}

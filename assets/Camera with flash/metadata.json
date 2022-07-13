@@ -1,0 +1,20 @@
+{
+  "cldr": "camera with flash",
+  "fromVersion": "1.0",
+  "glyph": "📸",
+  "glyphAsUtfInEmoticons": [
+    "camera"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "camera",
+    "camera with flash",
+    "flash",
+    "video"
+  ],
+  "mappedToEmoticons": [
+    "camera"
+  ],
+  "tts": "camera with flash",
+  "unicode": "1f4f8"
+}

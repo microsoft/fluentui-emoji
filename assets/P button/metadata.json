@@ -1,0 +1,15 @@
+{
+  "cldr": "P button",
+  "fromVersion": "0.6",
+  "glyph": "🅿️",
+  "group": "Symbols",
+  "keywords": [
+    "P button",
+    "parking"
+  ],
+  "mappedToEmoticons": [
+    "1f17f_parking"
+  ],
+  "tts": "P button",
+  "unicode": "1f17f fe0f"
+}

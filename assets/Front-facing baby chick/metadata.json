@@ -1,0 +1,20 @@
+{
+  "cldr": "front-facing baby chick",
+  "fromVersion": "0.6",
+  "glyph": "🐥",
+  "glyphAsUtfInEmoticons": [
+    "1f425_frontfacingbabychick"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "baby",
+    "bird",
+    "chick",
+    "front-facing baby chick"
+  ],
+  "mappedToEmoticons": [
+    "1f425_frontfacingbabychick"
+  ],
+  "tts": "front-facing baby chick",
+  "unicode": "1f425"
+}

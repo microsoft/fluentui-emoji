@@ -1,0 +1,18 @@
+{
+  "cldr": "pear",
+  "fromVersion": "1.0",
+  "glyph": "🍐",
+  "glyphAsUtfInEmoticons": [
+    "1f350_pear"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "fruit",
+    "pear"
+  ],
+  "mappedToEmoticons": [
+    "1f350_pear"
+  ],
+  "tts": "pear",
+  "unicode": "1f350"
+}

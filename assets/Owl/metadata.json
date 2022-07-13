@@ -1,0 +1,19 @@
+{
+  "cldr": "owl",
+  "fromVersion": "3.0",
+  "glyph": "🦉",
+  "glyphAsUtfInEmoticons": [
+    "1f989_owl"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "bird",
+    "owl",
+    "wise"
+  ],
+  "mappedToEmoticons": [
+    "1f989_owl"
+  ],
+  "tts": "owl",
+  "unicode": "1f989"
+}

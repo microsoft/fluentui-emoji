@@ -1,0 +1,19 @@
+{
+  "cldr": "kite",
+  "fromVersion": "12.0",
+  "glyph": "🪁",
+  "glyphAsUtfInEmoticons": [
+    "1fa81_kite"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "fly",
+    "kite",
+    "soar"
+  ],
+  "mappedToEmoticons": [
+    "1fa81_kite"
+  ],
+  "tts": "kite",
+  "unicode": "1fa81"
+}

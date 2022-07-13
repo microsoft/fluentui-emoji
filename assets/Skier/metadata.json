@@ -1,0 +1,19 @@
+{
+  "cldr": "skier",
+  "fromVersion": "0.7",
+  "glyph": "⛷️",
+  "glyphAsUtfInEmoticons": [
+    "skier"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "ski",
+    "skier",
+    "snow"
+  ],
+  "mappedToEmoticons": [
+    "skier"
+  ],
+  "tts": "skier",
+  "unicode": "26f7 fe0f"
+}

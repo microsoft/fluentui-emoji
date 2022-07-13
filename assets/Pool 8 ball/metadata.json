@@ -1,0 +1,22 @@
+{
+  "cldr": "pool 8 ball",
+  "fromVersion": "0.6",
+  "glyph": "🎱",
+  "glyphAsUtfInEmoticons": [
+    "eightball"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "8",
+    "ball",
+    "billiard",
+    "eight",
+    "game",
+    "pool 8 ball"
+  ],
+  "mappedToEmoticons": [
+    "eightball"
+  ],
+  "tts": "pool 8 ball",
+  "unicode": "1f3b1"
+}

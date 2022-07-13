@@ -1,0 +1,21 @@
+{
+  "cldr": "military helmet",
+  "fromVersion": "13.0",
+  "glyph": "🪖",
+  "glyphAsUtfInEmoticons": [
+    "militaryhelmet"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "army",
+    "helmet",
+    "military",
+    "soldier",
+    "warrior"
+  ],
+  "mappedToEmoticons": [
+    "militaryhelmet"
+  ],
+  "tts": "military helmet",
+  "unicode": "1fa96"
+}

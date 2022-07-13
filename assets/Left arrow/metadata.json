@@ -1,0 +1,21 @@
+{
+  "cldr": "left arrow",
+  "fromVersion": "0.6",
+  "glyph": "⬅️",
+  "glyphAsUtfInEmoticons": [
+    "2b05_leftwardsblackarrow"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "cardinal",
+    "direction",
+    "left arrow",
+    "west"
+  ],
+  "mappedToEmoticons": [
+    "2b05_leftwardsblackarrow"
+  ],
+  "tts": "left arrow",
+  "unicode": "2b05 fe0f"
+}

@@ -1,0 +1,20 @@
+{
+  "cldr": "sweat droplets",
+  "fromVersion": "0.6",
+  "glyph": "💦",
+  "glyphAsUtfInEmoticons": [
+    "1f4a6_splashingsweatsymbol"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "comic",
+    "splashing",
+    "sweat",
+    "sweat droplets"
+  ],
+  "mappedToEmoticons": [
+    "1f4a6_splashingsweatsymbol"
+  ],
+  "tts": "sweat droplets",
+  "unicode": "1f4a6"
+}

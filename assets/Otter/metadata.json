@@ -1,0 +1,19 @@
+{
+  "cldr": "otter",
+  "fromVersion": "12.0",
+  "glyph": "🦦",
+  "glyphAsUtfInEmoticons": [
+    "1f9a6_otter"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "fishing",
+    "otter",
+    "playful"
+  ],
+  "mappedToEmoticons": [
+    "1f9a6_otter"
+  ],
+  "tts": "otter",
+  "unicode": "1f9a6"
+}

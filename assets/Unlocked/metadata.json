@@ -1,0 +1,20 @@
+{
+  "cldr": "unlocked",
+  "fromVersion": "0.6",
+  "glyph": "🔓",
+  "glyphAsUtfInEmoticons": [
+    "1f513_unlocked"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "lock",
+    "open",
+    "unlock",
+    "unlocked"
+  ],
+  "mappedToEmoticons": [
+    "1f513_unlocked"
+  ],
+  "tts": "unlocked",
+  "unicode": "1f513"
+}

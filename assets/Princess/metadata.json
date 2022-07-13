@@ -1,0 +1,27 @@
+{
+  "cldr": "princess",
+  "fromVersion": "0.6",
+  "glyph": "👸",
+  "glyphAsUtfInEmoticons": [
+    "princess"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "fairy tale",
+    "fantasy",
+    "princess"
+  ],
+  "mappedToEmoticons": [
+    "princess"
+  ],
+  "tts": "princess",
+  "unicode": "1f478",
+  "unicodeSkintones": [
+    "1f478",
+    "1f478 1f3fb",
+    "1f478 1f3fc",
+    "1f478 1f3fd",
+    "1f478 1f3fe",
+    "1f478 1f3ff"
+  ]
+}

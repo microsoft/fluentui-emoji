@@ -1,0 +1,19 @@
+{
+  "cldr": "Japanese post office",
+  "fromVersion": "0.6",
+  "glyph": "🏣",
+  "glyphAsUtfInEmoticons": [
+    "1f3e3_japanesepostoffice"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "Japanese",
+    "Japanese post office",
+    "post"
+  ],
+  "mappedToEmoticons": [
+    "1f3e3_japanesepostoffice"
+  ],
+  "tts": "Japanese post office",
+  "unicode": "1f3e3"
+}

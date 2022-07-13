@@ -1,0 +1,19 @@
+{
+  "cldr": "potable water",
+  "fromVersion": "1.0",
+  "glyph": "🚰",
+  "glyphAsUtfInEmoticons": [
+    "1f6b0_potablewatersymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "drinking",
+    "potable",
+    "water"
+  ],
+  "mappedToEmoticons": [
+    "1f6b0_potablewatersymbol"
+  ],
+  "tts": "potable water",
+  "unicode": "1f6b0"
+}

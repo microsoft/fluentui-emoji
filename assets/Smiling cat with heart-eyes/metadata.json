@@ -1,0 +1,20 @@
+{
+  "cldr": "smiling cat with heart-eyes",
+  "fromVersion": "0.6",
+  "glyph": "😻",
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "cat",
+    "eye",
+    "face",
+    "heart",
+    "love",
+    "smile",
+    "smiling cat with heart-eyes"
+  ],
+  "mappedToEmoticons": [
+    "hearteyescat"
+  ],
+  "tts": "smiling cat with heart-eyes",
+  "unicode": "1f63b"
+}

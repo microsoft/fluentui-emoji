@@ -1,0 +1,27 @@
+{
+  "cldr": "man frowning",
+  "fromVersion": "4.0",
+  "glyph": "🙍‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "man_frowning"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "frowning",
+    "gesture",
+    "man"
+  ],
+  "mappedToEmoticons": [
+    "man_frowning"
+  ],
+  "tts": "man frowning",
+  "unicode": "1f64d 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f64d 200d 2642 fe0f",
+    "1f64d 1f3fb 200d 2642 fe0f",
+    "1f64d 1f3fc 200d 2642 fe0f",
+    "1f64d 1f3fd 200d 2642 fe0f",
+    "1f64d 1f3fe 200d 2642 fe0f",
+    "1f64d 1f3ff 200d 2642 fe0f"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cldr": "bell pepper",
+  "fromVersion": "13.0",
+  "glyph": "🫑",
+  "glyphAsUtfInEmoticons": [
+    "bellpepper"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bell pepper",
+    "capsicum",
+    "pepper",
+    "vegetable"
+  ],
+  "mappedToEmoticons": [
+    "bellpepper"
+  ],
+  "tts": "bell pepper",
+  "unicode": "1fad1"
+}

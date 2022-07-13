@@ -1,0 +1,21 @@
+{
+  "cldr": "peanuts",
+  "fromVersion": "3.0",
+  "glyph": "🥜",
+  "glyphAsUtfInEmoticons": [
+    "1f95c_peanuts"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "food",
+    "nut",
+    "peanut",
+    "peanuts",
+    "vegetable"
+  ],
+  "mappedToEmoticons": [
+    "1f95c_peanuts"
+  ],
+  "tts": "peanuts",
+  "unicode": "1f95c"
+}

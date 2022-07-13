@@ -1,0 +1,18 @@
+{
+  "cldr": "horse face",
+  "fromVersion": "0.6",
+  "glyph": "🐴",
+  "glyphAsUtfInEmoticons": [
+    "1f434_horseface"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "face",
+    "horse"
+  ],
+  "mappedToEmoticons": [
+    "1f434_horseface"
+  ],
+  "tts": "horse face",
+  "unicode": "1f434"
+}

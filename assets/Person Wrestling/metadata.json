@@ -1,0 +1,16 @@
+{
+  "cldr": "people wrestling",
+  "fromVersion": "3.0",
+  "glyph": "🤼",
+  "glyphAsUtfInEmoticons": [
+    "wrestlers"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "people wrestling",
+    "wrestle",
+    "wrestler"
+  ],
+  "tts": "people wrestling",
+  "unicode": "1f93c"
+}

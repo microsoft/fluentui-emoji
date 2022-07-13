@@ -1,0 +1,25 @@
+{
+  "cldr": "people with bunny ears",
+  "fromVersion": "0.6",
+  "glyph": "👯",
+  "glyphAsUtfInEmoticons": [
+    "people_with_bunny_ears"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "bunny ear",
+    "dancer",
+    "partying",
+    "people with bunny ears"
+  ],
+  "tts": "people with bunny ears",
+  "unicode": "1f46f",
+  "unicodeSkintones": [
+    "1f46f",
+    "1f46f 200d 2642 fe0f",
+    "1f46f 200d 2640 fe0f",
+    "1f9d6",
+    "1f9d6 1f3fb",
+    "1f9d6 1f3fc"
+  ]
+}

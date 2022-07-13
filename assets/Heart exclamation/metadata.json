@@ -1,0 +1,20 @@
+{
+  "cldr": "heart exclamation",
+  "fromVersion": "1.0",
+  "glyph": "❣️",
+  "glyphAsUtfInEmoticons": [
+    "2763_heartexclamation"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "exclamation",
+    "heart exclamation",
+    "mark",
+    "punctuation"
+  ],
+  "mappedToEmoticons": [
+    "2763_heartexclamation"
+  ],
+  "tts": "heart exclamation",
+  "unicode": "2763 fe0f"
+}

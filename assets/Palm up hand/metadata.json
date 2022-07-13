@@ -1,0 +1,29 @@
+{
+  "cldr": "palm up hand",
+  "fromVersion": "14.0",
+  "glyph": "🫴",
+  "glyphAsUtfInEmoticons": [
+    "palmuphand"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "beckon",
+    "catch",
+    "come",
+    "offer",
+    "palm up hand"
+  ],
+  "mappedToEmoticons": [
+    "palmuphand"
+  ],
+  "tts": "palm up hand",
+  "unicode": "1faf4",
+  "unicodeSkintones": [
+    "1faf4",
+    "1faf4 1f3fb",
+    "1faf4 1f3fc",
+    "1faf4 1f3fd",
+    "1faf4 1f3fe",
+    "1faf4 1f3ff"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "copyright",
+  "fromVersion": "0.6",
+  "glyph": "©️",
+  "glyphAsUtfInEmoticons": [
+    "00a9_copyrightsign"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "c",
+    "copyright"
+  ],
+  "mappedToEmoticons": [
+    "00a9_copyrightsign"
+  ],
+  "tts": "copyright",
+  "unicode": "00a9 fe0f"
+}

@@ -1,0 +1,16 @@
+{
+  "cldr": "linked paperclips",
+  "fromVersion": "0.7",
+  "glyph": "🖇️",
+  "group": "Objects",
+  "keywords": [
+    "link",
+    "linked paperclips",
+    "paperclip"
+  ],
+  "mappedToEmoticons": [
+    "1f587_linkedpaperclips"
+  ],
+  "tts": "linked paperclips",
+  "unicode": "1f587 fe0f"
+}

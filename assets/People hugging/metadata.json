@@ -1,0 +1,21 @@
+{
+  "cldr": "people hugging",
+  "fromVersion": "13.0",
+  "glyph": "🫂",
+  "glyphAsUtfInEmoticons": [
+    "peoplehugging"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "goodbye",
+    "hello",
+    "hug",
+    "people hugging",
+    "thanks"
+  ],
+  "mappedToEmoticons": [
+    "peoplehugging"
+  ],
+  "tts": "people hugging",
+  "unicode": "1fac2"
+}

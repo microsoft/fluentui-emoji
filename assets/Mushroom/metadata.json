@@ -1,0 +1,18 @@
+{
+  "cldr": "mushroom",
+  "fromVersion": "0.6",
+  "glyph": "🍄",
+  "glyphAsUtfInEmoticons": [
+    "1f344_mushroom"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "mushroom",
+    "toadstool"
+  ],
+  "mappedToEmoticons": [
+    "1f344_mushroom"
+  ],
+  "tts": "mushroom",
+  "unicode": "1f344"
+}

@@ -1,0 +1,27 @@
+{
+  "cldr": "open hands",
+  "fromVersion": "0.6",
+  "glyph": "👐",
+  "glyphAsUtfInEmoticons": [
+    "1f450_openhands"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "hand",
+    "open",
+    "open hands"
+  ],
+  "mappedToEmoticons": [
+    "1f450_openhands"
+  ],
+  "tts": "open hands",
+  "unicode": "1f450",
+  "unicodeSkintones": [
+    "1f450",
+    "1f450 1f3fb",
+    "1f450 1f3fc",
+    "1f450 1f3fd",
+    "1f450 1f3fe",
+    "1f450 1f3ff"
+  ]
+}

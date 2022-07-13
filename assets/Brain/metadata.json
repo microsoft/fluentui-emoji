@@ -1,0 +1,18 @@
+{
+  "cldr": "brain",
+  "fromVersion": "5.0",
+  "glyph": "🧠",
+  "glyphAsUtfInEmoticons": [
+    "1f9e0_brain"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "brain",
+    "intelligent"
+  ],
+  "mappedToEmoticons": [
+    "1f9e0_brain"
+  ],
+  "tts": "brain",
+  "unicode": "1f9e0"
+}

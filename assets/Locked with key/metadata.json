@@ -1,0 +1,22 @@
+{
+  "cldr": "locked with key",
+  "fromVersion": "0.6",
+  "glyph": "🔐",
+  "glyphAsUtfInEmoticons": [
+    "1f510_closedlockwithkey",
+    "1f510_lockedwithkey"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "closed",
+    "key",
+    "lock",
+    "locked with key",
+    "secure"
+  ],
+  "mappedToEmoticons": [
+    "1f510_lockedwithkey"
+  ],
+  "tts": "locked with key",
+  "unicode": "1f510"
+}

@@ -1,0 +1,17 @@
+{
+  "cldr": "elephant",
+  "fromVersion": "0.6",
+  "glyph": "🐘",
+  "glyphAsUtfInEmoticons": [
+    "elephant"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "elephant"
+  ],
+  "mappedToEmoticons": [
+    "elephant"
+  ],
+  "tts": "elephant",
+  "unicode": "1f418"
+}

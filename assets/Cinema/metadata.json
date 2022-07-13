@@ -1,0 +1,20 @@
+{
+  "cldr": "cinema",
+  "fromVersion": "0.6",
+  "glyph": "🎦",
+  "glyphAsUtfInEmoticons": [
+    "1f3a6_cinema"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "camera",
+    "cinema",
+    "film",
+    "movie"
+  ],
+  "mappedToEmoticons": [
+    "1f3a6_cinema"
+  ],
+  "tts": "cinema",
+  "unicode": "1f3a6"
+}

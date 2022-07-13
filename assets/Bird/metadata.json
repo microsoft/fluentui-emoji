@@ -1,0 +1,17 @@
+{
+  "cldr": "bird",
+  "fromVersion": "0.6",
+  "glyph": "🐦",
+  "glyphAsUtfInEmoticons": [
+    "1f426_bird"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "bird"
+  ],
+  "mappedToEmoticons": [
+    "1f426_bird"
+  ],
+  "tts": "bird",
+  "unicode": "1f426"
+}

@@ -1,0 +1,16 @@
+{
+  "cldr": "spouting whale",
+  "fromVersion": "0.6",
+  "glyph": "🐳",
+  "group": "Animals & Nature",
+  "keywords": [
+    "face",
+    "spouting",
+    "whale"
+  ],
+  "mappedToEmoticons": [
+    "spoutingwhale"
+  ],
+  "tts": "spouting whale",
+  "unicode": "1f433"
+}

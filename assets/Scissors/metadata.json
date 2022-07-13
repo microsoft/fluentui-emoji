@@ -1,0 +1,16 @@
+{
+  "cldr": "scissors",
+  "fromVersion": "0.6",
+  "glyph": "✂️",
+  "group": "Objects",
+  "keywords": [
+    "cutting",
+    "scissors",
+    "tool"
+  ],
+  "mappedToEmoticons": [
+    "2702_blackscissors"
+  ],
+  "tts": "scissors",
+  "unicode": "2702 fe0f"
+}

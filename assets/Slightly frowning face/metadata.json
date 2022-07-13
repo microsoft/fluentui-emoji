@@ -1,0 +1,19 @@
+{
+  "cldr": "slightly frowning face",
+  "fromVersion": "1.0",
+  "glyph": "🙁",
+  "glyphAsUtfInEmoticons": [
+    "sad"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "frown",
+    "slightly frowning face"
+  ],
+  "mappedToEmoticons": [
+    "sad"
+  ],
+  "tts": "slightly frowning face",
+  "unicode": "1f641"
+}

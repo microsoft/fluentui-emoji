@@ -1,0 +1,22 @@
+{
+  "cldr": "hot beverage",
+  "fromVersion": "0.6",
+  "glyph": "☕",
+  "glyphAsUtfInEmoticons": [
+    "coffee"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "beverage",
+    "coffee",
+    "drink",
+    "hot",
+    "steaming",
+    "tea"
+  ],
+  "mappedToEmoticons": [
+    "coffee"
+  ],
+  "tts": "hot beverage",
+  "unicode": "2615"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "keycap: asterisk",
+  "fromVersion": "2.0",
+  "glyph": "*️⃣",
+  "glyphAsUtfInEmoticons": [
+    "keycapnumberasterisk"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "keycap",
+    "asterisk"
+  ],
+  "mappedToEmoticons": [
+    "keycapnumberasterisk"
+  ],
+  "tts": "keycap: *",
+  "unicode": "002a fe0f 20e3"
+}

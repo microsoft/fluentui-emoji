@@ -1,0 +1,30 @@
+{
+  "cldr": "backhand index pointing up",
+  "fromVersion": "0.6",
+  "glyph": "👆",
+  "glyphAsUtfInEmoticons": [
+    "1f446_backhandindexpointingup"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "backhand",
+    "backhand index pointing up",
+    "finger",
+    "hand",
+    "point",
+    "up"
+  ],
+  "mappedToEmoticons": [
+    "1f446_backhandindexpointingup"
+  ],
+  "tts": "backhand index pointing up",
+  "unicode": "1f446",
+  "unicodeSkintones": [
+    "1f446",
+    "1f446 1f3fb",
+    "1f446 1f3fc",
+    "1f446 1f3fd",
+    "1f446 1f3fe",
+    "1f446 1f3ff"
+  ]
+}

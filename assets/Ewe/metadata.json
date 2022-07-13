@@ -1,0 +1,19 @@
+{
+  "cldr": "ewe",
+  "fromVersion": "0.6",
+  "glyph": "🐑",
+  "glyphAsUtfInEmoticons": [
+    "lamb"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "ewe",
+    "female",
+    "sheep"
+  ],
+  "mappedToEmoticons": [
+    "lamb"
+  ],
+  "tts": "ewe",
+  "unicode": "1f411"
+}

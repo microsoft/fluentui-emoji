@@ -1,0 +1,20 @@
+{
+  "cldr": "lab coat",
+  "fromVersion": "11.0",
+  "glyph": "🥼",
+  "glyphAsUtfInEmoticons": [
+    "1f97c_labcoat"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "doctor",
+    "experiment",
+    "lab coat",
+    "scientist"
+  ],
+  "mappedToEmoticons": [
+    "1f97c_labcoat"
+  ],
+  "tts": "lab coat",
+  "unicode": "1f97c"
+}

@@ -1,0 +1,15 @@
+{
+  "cldr": "auto rickshaw",
+  "fromVersion": "12.0",
+  "glyph": "🛺",
+  "group": "Travel & Places",
+  "keywords": [
+    "auto rickshaw",
+    "tuk tuk"
+  ],
+  "mappedToEmoticons": [
+    "rickshaw"
+  ],
+  "tts": "auto rickshaw",
+  "unicode": "1f6fa"
+}

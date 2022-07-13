@@ -1,0 +1,20 @@
+{
+  "cldr": "handbag",
+  "fromVersion": "0.6",
+  "glyph": "👜",
+  "glyphAsUtfInEmoticons": [
+    "1f45c_handbag"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "bag",
+    "clothing",
+    "handbag",
+    "purse"
+  ],
+  "mappedToEmoticons": [
+    "1f45c_handbag"
+  ],
+  "tts": "handbag",
+  "unicode": "1f45c"
+}

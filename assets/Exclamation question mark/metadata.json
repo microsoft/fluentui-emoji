@@ -1,0 +1,21 @@
+{
+  "cldr": "exclamation question mark",
+  "fromVersion": "0.6",
+  "glyph": "⁉️",
+  "group": "Symbols",
+  "keywords": [
+    "!",
+    "!?",
+    "?",
+    "exclamation",
+    "interrobang",
+    "mark",
+    "punctuation",
+    "question"
+  ],
+  "mappedToEmoticons": [
+    "exclamationquestionmark"
+  ],
+  "tts": "exclamation question mark",
+  "unicode": "2049 fe0f"
+}

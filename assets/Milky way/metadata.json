@@ -1,0 +1,18 @@
+{
+  "cldr": "milky way",
+  "fromVersion": "0.6",
+  "glyph": "🌌",
+  "glyphAsUtfInEmoticons": [
+    "1f30c_milkyway"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "milky way",
+    "space"
+  ],
+  "mappedToEmoticons": [
+    "1f30c_milkyway"
+  ],
+  "tts": "milky way",
+  "unicode": "1f30c"
+}

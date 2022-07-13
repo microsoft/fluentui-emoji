@@ -1,0 +1,18 @@
+{
+  "cldr": "NG button",
+  "fromVersion": "0.6",
+  "glyph": "🆖",
+  "glyphAsUtfInEmoticons": [
+    "1f196_squaredng"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "ng",
+    "NG button"
+  ],
+  "mappedToEmoticons": [
+    "1f196_squaredng"
+  ],
+  "tts": "NG button",
+  "unicode": "1f196"
+}

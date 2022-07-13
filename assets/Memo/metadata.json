@@ -1,0 +1,18 @@
+{
+  "cldr": "memo",
+  "fromVersion": "0.6",
+  "glyph": "📝",
+  "glyphAsUtfInEmoticons": [
+    "1f4dd_memo"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "memo",
+    "pencil"
+  ],
+  "mappedToEmoticons": [
+    "1f4dd_memo"
+  ],
+  "tts": "memo",
+  "unicode": "1f4dd"
+}

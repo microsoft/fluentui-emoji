@@ -1,0 +1,26 @@
+{
+  "cldr": "woman fairy",
+  "fromVersion": "5.0",
+  "glyph": "🧚‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "woman_fairy"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "Titania",
+    "woman fairy"
+  ],
+  "mappedToEmoticons": [
+    "woman_fairy"
+  ],
+  "tts": "woman fairy",
+  "unicode": "1f9da 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f9da 200d 2640 fe0f",
+    "1f9da 1f3fb 200d 2640 fe0f",
+    "1f9da 1f3fc 200d 2640 fe0f",
+    "1f9da 1f3fd 200d 2640 fe0f",
+    "1f9da 1f3fe 200d 2640 fe0f",
+    "1f9da 1f3ff 200d 2640 fe0f"
+  ]
+}

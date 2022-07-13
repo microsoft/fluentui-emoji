@@ -1,0 +1,15 @@
+{
+  "cldr": "pouring liquid",
+  "fromVersion": "14.0",
+  "glyph": "🫗",
+  "group": "Food & Drink",
+  "keywords": [
+    "drink",
+    "empty",
+    "glass",
+    "pouring liquid",
+    "spill"
+  ],
+  "tts": "pouring liquid",
+  "unicode": "1fad7"
+}

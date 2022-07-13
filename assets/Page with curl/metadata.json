@@ -1,0 +1,20 @@
+{
+  "cldr": "page with curl",
+  "fromVersion": "0.6",
+  "glyph": "📃",
+  "glyphAsUtfInEmoticons": [
+    "1f4c3_pagewithcurl"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "curl",
+    "document",
+    "page",
+    "page with curl"
+  ],
+  "mappedToEmoticons": [
+    "1f4c3_pagewithcurl"
+  ],
+  "tts": "page with curl",
+  "unicode": "1f4c3"
+}

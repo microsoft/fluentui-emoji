@@ -1,0 +1,26 @@
+{
+  "cldr": "deaf man",
+  "fromVersion": "12.0",
+  "glyph": "🧏‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "man_deaf"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "deaf",
+    "man"
+  ],
+  "mappedToEmoticons": [
+    "man_deaf"
+  ],
+  "tts": "deaf man",
+  "unicode": "1f9cf 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f9cf 200d 2642 fe0f",
+    "1f9cf 1f3fb 200d 2642 fe0f",
+    "1f9cf 1f3fc 200d 2642 fe0f",
+    "1f9cf 1f3fd 200d 2642 fe0f",
+    "1f9cf 1f3fe 200d 2642 fe0f",
+    "1f9cf 1f3ff 200d 2642 fe0f"
+  ]
+}

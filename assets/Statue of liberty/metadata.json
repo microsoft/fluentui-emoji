@@ -1,0 +1,19 @@
+{
+  "cldr": "Statue of Liberty",
+  "fromVersion": "0.6",
+  "glyph": "🗽",
+  "glyphAsUtfInEmoticons": [
+    "statueofliberty"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "liberty",
+    "statue",
+    "Statue of Liberty"
+  ],
+  "mappedToEmoticons": [
+    "statueofliberty"
+  ],
+  "tts": "Statue of Liberty",
+  "unicode": "1f5fd"
+}

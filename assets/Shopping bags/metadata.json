@@ -1,0 +1,17 @@
+{
+  "cldr": "shopping bags",
+  "fromVersion": "0.7",
+  "glyph": "🛍️",
+  "group": "Objects",
+  "keywords": [
+    "bag",
+    "hotel",
+    "shopping",
+    "shopping bags"
+  ],
+  "mappedToEmoticons": [
+    "shopping"
+  ],
+  "tts": "shopping bags",
+  "unicode": "1f6cd fe0f"
+}

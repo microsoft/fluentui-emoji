@@ -1,0 +1,18 @@
+{
+  "cldr": "keycap: 9",
+  "fromVersion": "0.6",
+  "glyph": "9️⃣",
+  "glyphAsUtfInEmoticons": [
+    "keycapdigitnine"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "keycap",
+    "nine"
+  ],
+  "mappedToEmoticons": [
+    "keycapdigitnine"
+  ],
+  "tts": "keycap: 9",
+  "unicode": "0039 fe0f 20e3"
+}

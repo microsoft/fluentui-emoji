@@ -1,0 +1,27 @@
+{
+  "cldr": "right-facing fist",
+  "fromVersion": "3.0",
+  "glyph": "🤜",
+  "glyphAsUtfInEmoticons": [
+    "1f91c_rightfacingfist"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "fist",
+    "right-facing fist",
+    "rightwards"
+  ],
+  "mappedToEmoticons": [
+    "1f91c_rightfacingfist"
+  ],
+  "tts": "right-facing fist",
+  "unicode": "1f91c",
+  "unicodeSkintones": [
+    "1f91c",
+    "1f91c 1f3fb",
+    "1f91c 1f3fc",
+    "1f91c 1f3fd",
+    "1f91c 1f3fe",
+    "1f91c 1f3ff"
+  ]
+}

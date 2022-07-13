@@ -1,0 +1,20 @@
+{
+  "cldr": "triangular ruler",
+  "fromVersion": "0.6",
+  "glyph": "📐",
+  "glyphAsUtfInEmoticons": [
+    "1f4d0_triangularruler"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "ruler",
+    "set",
+    "triangle",
+    "triangular ruler"
+  ],
+  "mappedToEmoticons": [
+    "1f4d0_triangularruler"
+  ],
+  "tts": "triangular ruler",
+  "unicode": "1f4d0"
+}

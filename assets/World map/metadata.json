@@ -1,0 +1,15 @@
+{
+  "cldr": "world map",
+  "fromVersion": "0.7",
+  "glyph": "🗺️",
+  "group": "Travel & Places",
+  "keywords": [
+    "map",
+    "world"
+  ],
+  "mappedToEmoticons": [
+    "1f5fa_worldmap"
+  ],
+  "tts": "world map",
+  "unicode": "1f5fa fe0f"
+}

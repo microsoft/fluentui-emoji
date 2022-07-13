@@ -1,0 +1,19 @@
+{
+  "cldr": "goat",
+  "fromVersion": "1.0",
+  "glyph": "🐐",
+  "glyphAsUtfInEmoticons": [
+    "1f410_goat"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "Capricorn",
+    "goat",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "1f410_goat"
+  ],
+  "tts": "goat",
+  "unicode": "1f410"
+}

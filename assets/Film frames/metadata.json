@@ -1,0 +1,17 @@
+{
+  "cldr": "film frames",
+  "fromVersion": "0.7",
+  "glyph": "🎞️",
+  "group": "Objects",
+  "keywords": [
+    "cinema",
+    "film",
+    "frames",
+    "movie"
+  ],
+  "mappedToEmoticons": [
+    "1f39e_filmframes"
+  ],
+  "tts": "film frames",
+  "unicode": "1f39e fe0f"
+}

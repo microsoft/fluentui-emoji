@@ -1,0 +1,21 @@
+{
+  "cldr": "star-struck",
+  "fromVersion": "5.0",
+  "glyph": "🤩",
+  "glyphAsUtfInEmoticons": [
+    "stareyes"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "eyes",
+    "face",
+    "grinning",
+    "star",
+    "star-struck"
+  ],
+  "mappedToEmoticons": [
+    "stareyes"
+  ],
+  "tts": "star-struck",
+  "unicode": "1f929"
+}

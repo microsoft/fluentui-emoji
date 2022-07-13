@@ -1,0 +1,16 @@
+{
+  "cldr": "shinto shrine",
+  "fromVersion": "0.7",
+  "glyph": "⛩️",
+  "group": "Travel & Places",
+  "keywords": [
+    "religion",
+    "shinto",
+    "shrine"
+  ],
+  "mappedToEmoticons": [
+    "26e9_shintoshrine"
+  ],
+  "tts": "shinto shrine",
+  "unicode": "26e9 fe0f"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "leaf fluttering in wind",
+  "fromVersion": "0.6",
+  "glyph": "🍃",
+  "group": "Animals & Nature",
+  "keywords": [
+    "blow",
+    "flutter",
+    "leaf",
+    "leaf fluttering in wind",
+    "wind"
+  ],
+  "mappedToEmoticons": [
+    "fallingleaf"
+  ],
+  "tts": "leaf fluttering in wind",
+  "unicode": "1f343"
+}

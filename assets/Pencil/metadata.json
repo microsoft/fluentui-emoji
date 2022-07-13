@@ -1,0 +1,14 @@
+{
+  "cldr": "pencil",
+  "fromVersion": "0.6",
+  "glyph": "✏️",
+  "group": "Objects",
+  "keywords": [
+    "pencil"
+  ],
+  "mappedToEmoticons": [
+    "270f_pencil"
+  ],
+  "tts": "pencil",
+  "unicode": "270f fe0f"
+}

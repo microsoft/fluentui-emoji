@@ -1,0 +1,20 @@
+{
+  "cldr": "beating heart",
+  "fromVersion": "0.6",
+  "glyph": "💓",
+  "glyphAsUtfInEmoticons": [
+    "1f493_beatingheart"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "beating",
+    "beating heart",
+    "heartbeat",
+    "pulsating"
+  ],
+  "mappedToEmoticons": [
+    "1f493_beatingheart"
+  ],
+  "tts": "beating heart",
+  "unicode": "1f493"
+}

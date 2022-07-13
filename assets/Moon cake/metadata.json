@@ -1,0 +1,20 @@
+{
+  "cldr": "moon cake",
+  "fromVersion": "11.0",
+  "glyph": "🥮",
+  "glyphAsUtfInEmoticons": [
+    "1f96e_mooncake"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "autumn",
+    "festival",
+    "moon cake",
+    "yuèbǐng"
+  ],
+  "mappedToEmoticons": [
+    "1f96e_mooncake"
+  ],
+  "tts": "moon cake",
+  "unicode": "1f96e"
+}

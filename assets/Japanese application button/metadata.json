@@ -1,0 +1,21 @@
+{
+  "cldr": "Japanese “application” button",
+  "fromVersion": "0.6",
+  "glyph": "🈸",
+  "glyphAsUtfInEmoticons": [
+    "1f238_application"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "“application”",
+    "ideograph",
+    "Japanese",
+    "Japanese “application” button",
+    "申"
+  ],
+  "mappedToEmoticons": [
+    "1f238_application"
+  ],
+  "tts": "Japanese “application” button",
+  "unicode": "1f238"
+}

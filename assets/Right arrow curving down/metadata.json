@@ -1,0 +1,16 @@
+{
+  "cldr": "right arrow curving down",
+  "fromVersion": "0.6",
+  "glyph": "⤵️",
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "down",
+    "right arrow curving down"
+  ],
+  "mappedToEmoticons": [
+    "2935_arrowcurveddownright"
+  ],
+  "tts": "right arrow curving down",
+  "unicode": "2935 fe0f"
+}

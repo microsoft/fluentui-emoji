@@ -1,0 +1,18 @@
+{
+  "cldr": "white flower",
+  "fromVersion": "0.6",
+  "glyph": "💮",
+  "glyphAsUtfInEmoticons": [
+    "1f4ae_whiteflower"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "flower",
+    "white flower"
+  ],
+  "mappedToEmoticons": [
+    "1f4ae_whiteflower"
+  ],
+  "tts": "white flower",
+  "unicode": "1f4ae"
+}

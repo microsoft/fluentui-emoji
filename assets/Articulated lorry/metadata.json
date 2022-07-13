@@ -1,0 +1,20 @@
+{
+  "cldr": "articulated lorry",
+  "fromVersion": "1.0",
+  "glyph": "🚛",
+  "glyphAsUtfInEmoticons": [
+    "1f69b_articulatedlorry"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "articulated lorry",
+    "lorry",
+    "semi",
+    "truck"
+  ],
+  "mappedToEmoticons": [
+    "1f69b_articulatedlorry"
+  ],
+  "tts": "articulated lorry",
+  "unicode": "1f69b"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "mate",
+  "fromVersion": "12.0",
+  "glyph": "🧉",
+  "glyphAsUtfInEmoticons": [
+    "1f9c9_mate"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "drink",
+    "mate"
+  ],
+  "mappedToEmoticons": [
+    "1f9c9_mate"
+  ],
+  "tts": "mate",
+  "unicode": "1f9c9"
+}

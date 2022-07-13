@@ -1,0 +1,20 @@
+{
+  "cldr": "hiking boot",
+  "fromVersion": "11.0",
+  "glyph": "🥾",
+  "glyphAsUtfInEmoticons": [
+    "1f97e_hikingboot"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "backpacking",
+    "boot",
+    "camping",
+    "hiking"
+  ],
+  "mappedToEmoticons": [
+    "1f97e_hikingboot"
+  ],
+  "tts": "hiking boot",
+  "unicode": "1f97e"
+}

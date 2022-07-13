@@ -1,0 +1,15 @@
+{
+  "cldr": "passenger ship",
+  "fromVersion": "0.7",
+  "glyph": "🛳️",
+  "group": "Travel & Places",
+  "keywords": [
+    "passenger",
+    "ship"
+  ],
+  "mappedToEmoticons": [
+    "1f6f3_passengership"
+  ],
+  "tts": "passenger ship",
+  "unicode": "1f6f3 fe0f"
+}

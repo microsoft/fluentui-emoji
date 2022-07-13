@@ -1,0 +1,19 @@
+{
+  "cldr": "station",
+  "fromVersion": "0.6",
+  "glyph": "🚉",
+  "glyphAsUtfInEmoticons": [
+    "1f689_station"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "railway",
+    "station",
+    "train"
+  ],
+  "mappedToEmoticons": [
+    "1f689_station"
+  ],
+  "tts": "station",
+  "unicode": "1f689"
+}

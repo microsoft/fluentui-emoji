@@ -1,0 +1,18 @@
+{
+  "cldr": "french fries",
+  "fromVersion": "0.6",
+  "glyph": "🍟",
+  "glyphAsUtfInEmoticons": [
+    "fries"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "french",
+    "fries"
+  ],
+  "mappedToEmoticons": [
+    "fries"
+  ],
+  "tts": "french fries",
+  "unicode": "1f35f"
+}

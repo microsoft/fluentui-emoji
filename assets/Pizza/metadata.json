@@ -1,0 +1,19 @@
+{
+  "cldr": "pizza",
+  "fromVersion": "0.6",
+  "glyph": "🍕",
+  "glyphAsUtfInEmoticons": [
+    "pizza"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "cheese",
+    "pizza",
+    "slice"
+  ],
+  "mappedToEmoticons": [
+    "pizzaslice"
+  ],
+  "tts": "pizza",
+  "unicode": "1f355"
+}

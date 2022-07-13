@@ -1,0 +1,19 @@
+{
+  "cldr": "non-potable water",
+  "fromVersion": "1.0",
+  "glyph": "🚱",
+  "glyphAsUtfInEmoticons": [
+    "1f6b1_nonpotablewatersymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "non-drinking",
+    "non-potable",
+    "water"
+  ],
+  "mappedToEmoticons": [
+    "1f6b1_nonpotablewatersymbol"
+  ],
+  "tts": "non-potable water",
+  "unicode": "1f6b1"
+}

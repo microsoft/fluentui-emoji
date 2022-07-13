@@ -1,0 +1,19 @@
+{
+  "cldr": "left speech bubble",
+  "fromVersion": "2.0",
+  "glyph": "🗨️",
+  "glyphAsUtfInEmoticons": [
+    "1f5e8_leftspeechbubble"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "dialog",
+    "left speech bubble",
+    "speech"
+  ],
+  "mappedToEmoticons": [
+    "1f5e8_leftspeechbubble"
+  ],
+  "tts": "left speech bubble",
+  "unicode": "1f5e8 fe0f"
+}

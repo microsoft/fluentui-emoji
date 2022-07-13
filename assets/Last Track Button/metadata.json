@@ -1,0 +1,18 @@
+{
+  "cldr": "last track button",
+  "fromVersion": "0.7",
+  "glyph": "⏮️",
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "last track button",
+    "previous scene",
+    "previous track",
+    "triangle"
+  ],
+  "mappedToEmoticons": [
+    "23ee_lasttrack"
+  ],
+  "tts": "last track button",
+  "unicode": "23ee fe0f"
+}

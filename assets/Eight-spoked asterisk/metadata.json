@@ -1,0 +1,19 @@
+{
+  "cldr": "eight-spoked asterisk",
+  "fromVersion": "0.6",
+  "glyph": "✳️",
+  "glyphAsUtfInEmoticons": [
+    "2733_eightspokedasterisk"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "*",
+    "asterisk",
+    "eight-spoked asterisk"
+  ],
+  "mappedToEmoticons": [
+    "2733_eightspokedasterisk"
+  ],
+  "tts": "eight-spoked asterisk",
+  "unicode": "2733 fe0f"
+}

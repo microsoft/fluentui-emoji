@@ -1,0 +1,17 @@
+{
+  "cldr": "couch and lamp",
+  "fromVersion": "0.7",
+  "glyph": "🛋️",
+  "group": "Objects",
+  "keywords": [
+    "couch",
+    "couch and lamp",
+    "hotel",
+    "lamp"
+  ],
+  "mappedToEmoticons": [
+    "1f6cb_couchandlamp"
+  ],
+  "tts": "couch and lamp",
+  "unicode": "1f6cb fe0f"
+}

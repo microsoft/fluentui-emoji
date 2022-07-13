@@ -1,0 +1,18 @@
+{
+  "cldr": "bread",
+  "fromVersion": "0.6",
+  "glyph": "🍞",
+  "glyphAsUtfInEmoticons": [
+    "1f35e_bread"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bread",
+    "loaf"
+  ],
+  "mappedToEmoticons": [
+    "1f35e_bread"
+  ],
+  "tts": "bread",
+  "unicode": "1f35e"
+}

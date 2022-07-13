@@ -1,0 +1,19 @@
+{
+  "cldr": "face savoring food",
+  "fromVersion": "0.6",
+  "glyph": "😋",
+  "glyphAsUtfInEmoticons": [
+    "tongueout"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "delicious",
+    "face",
+    "face savoring food",
+    "savouring",
+    "smile",
+    "yum"
+  ],
+  "tts": "face savoring food",
+  "unicode": "1f60b"
+}

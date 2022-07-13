@@ -1,0 +1,21 @@
+{
+  "cldr": "tumbler glass",
+  "fromVersion": "3.0",
+  "glyph": "🥃",
+  "glyphAsUtfInEmoticons": [
+    "1f943_tumblerglass"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "glass",
+    "liquor",
+    "shot",
+    "tumbler",
+    "whisky"
+  ],
+  "mappedToEmoticons": [
+    "1f943_tumblerglass"
+  ],
+  "tts": "tumbler glass",
+  "unicode": "1f943"
+}

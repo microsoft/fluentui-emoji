@@ -1,0 +1,20 @@
+{
+  "cldr": "fallen leaf",
+  "fromVersion": "0.6",
+  "glyph": "🍂",
+  "glyphAsUtfInEmoticons": [
+    "1f342_fallenleaf",
+    "fallingleaf"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "fallen leaf",
+    "falling",
+    "leaf"
+  ],
+  "mappedToEmoticons": [
+    "1f342_fallenleaf"
+  ],
+  "tts": "fallen leaf",
+  "unicode": "1f342"
+}

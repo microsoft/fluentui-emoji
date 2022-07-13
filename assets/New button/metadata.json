@@ -1,0 +1,18 @@
+{
+  "cldr": "NEW button",
+  "fromVersion": "0.6",
+  "glyph": "🆕",
+  "glyphAsUtfInEmoticons": [
+    "1f195_squarednew"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "new",
+    "NEW button"
+  ],
+  "mappedToEmoticons": [
+    "1f195_squarednew"
+  ],
+  "tts": "NEW button",
+  "unicode": "1f195"
+}

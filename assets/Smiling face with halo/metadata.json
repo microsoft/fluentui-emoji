@@ -1,0 +1,22 @@
+{
+  "cldr": "smiling face with halo",
+  "fromVersion": "1.0",
+  "glyph": "😇",
+  "glyphAsUtfInEmoticons": [
+    "angel"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "angel",
+    "face",
+    "fantasy",
+    "halo",
+    "innocent",
+    "smiling face with halo"
+  ],
+  "mappedToEmoticons": [
+    "angel"
+  ],
+  "tts": "smiling face with halo",
+  "unicode": "1f607"
+}

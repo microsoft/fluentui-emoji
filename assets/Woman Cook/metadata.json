@@ -1,0 +1,27 @@
+{
+  "cldr": "woman cook",
+  "fromVersion": "4.0",
+  "glyph": "👩‍🍳",
+  "glyphAsUtfInEmoticons": [
+    "womanchef"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "chef",
+    "cook",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "womanchef"
+  ],
+  "tts": "woman cook",
+  "unicode": "1f469 200d 1f373",
+  "unicodeSkintones": [
+    "1f469 200d 1f373",
+    "1f469 1f3fb 200d 1f373",
+    "1f469 1f3fc 200d 1f373",
+    "1f469 1f3fd 200d 1f373",
+    "1f469 1f3fe 200d 1f373",
+    "1f469 1f3ff 200d 1f373"
+  ]
+}

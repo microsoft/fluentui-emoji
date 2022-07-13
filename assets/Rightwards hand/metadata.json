@@ -1,0 +1,28 @@
+{
+  "cldr": "rightwards hand",
+  "fromVersion": "14.0",
+  "glyph": "🫱",
+  "glyphAsUtfInEmoticons": [
+    "rightwardshand"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "hand",
+    "right",
+    "rightward",
+    "rightwards hand"
+  ],
+  "mappedToEmoticons": [
+    "rightwardshand"
+  ],
+  "tts": "rightwards hand",
+  "unicode": "1faf1",
+  "unicodeSkintones": [
+    "1faf1",
+    "1faf1 1f3fb",
+    "1faf1 1f3fc",
+    "1faf1 1f3fd",
+    "1faf1 1f3fe",
+    "1faf1 1f3ff"
+  ]
+}

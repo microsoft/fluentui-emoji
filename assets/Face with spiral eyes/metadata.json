@@ -1,0 +1,19 @@
+{
+  "cldr": "face with spiral eyes",
+  "fromVersion": "13.1",
+  "glyph": "😵‍💫",
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "dizzy",
+    "face with spiral eyes",
+    "hypnotized",
+    "spiral",
+    "trouble",
+    "whoa"
+  ],
+  "mappedToEmoticons": [
+    "facewithspiraleyes"
+  ],
+  "tts": "face with spiral eyes",
+  "unicode": "1f635 200d 1f4ab"
+}

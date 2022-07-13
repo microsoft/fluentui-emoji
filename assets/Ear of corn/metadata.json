@@ -1,0 +1,21 @@
+{
+  "cldr": "ear of corn",
+  "fromVersion": "0.6",
+  "glyph": "🌽",
+  "glyphAsUtfInEmoticons": [
+    "1f33d_earofmaize"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "corn",
+    "ear",
+    "ear of corn",
+    "maize",
+    "maze"
+  ],
+  "mappedToEmoticons": [
+    "1f33d_earofmaize"
+  ],
+  "tts": "ear of corn",
+  "unicode": "1f33d"
+}

@@ -1,0 +1,16 @@
+{
+  "cldr": "guitar",
+  "fromVersion": "0.6",
+  "glyph": "🎸",
+  "group": "Objects",
+  "keywords": [
+    "guitar",
+    "instrument",
+    "music"
+  ],
+  "mappedToEmoticons": [
+    "guitar"
+  ],
+  "tts": "guitar",
+  "unicode": "1f3b8"
+}

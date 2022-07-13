@@ -1,0 +1,22 @@
+{
+  "cldr": "teacup without handle",
+  "fromVersion": "0.6",
+  "glyph": "🍵",
+  "glyphAsUtfInEmoticons": [
+    "chai"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "beverage",
+    "cup",
+    "drink",
+    "tea",
+    "teacup",
+    "teacup without handle"
+  ],
+  "mappedToEmoticons": [
+    "chai"
+  ],
+  "tts": "teacup without handle",
+  "unicode": "1f375"
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "white medium-small square",
+  "fromVersion": "0.6",
+  "glyph": "◽",
+  "glyphAsUtfInEmoticons": [
+    "25fd_whitemediumsmallsquare"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "geometric",
+    "square",
+    "white medium-small square"
+  ],
+  "mappedToEmoticons": [
+    "25fd_whitemediumsmallsquare"
+  ],
+  "tts": "white medium-small square",
+  "unicode": "25fd"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "keycap: 6",
+  "fromVersion": "0.6",
+  "glyph": "6️⃣",
+  "glyphAsUtfInEmoticons": [
+    "keycapdigitsix"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "keycap",
+    "six"
+  ],
+  "mappedToEmoticons": [
+    "keycapdigitsix"
+  ],
+  "tts": "keycap: 6",
+  "unicode": "0036 fe0f 20e3"
+}

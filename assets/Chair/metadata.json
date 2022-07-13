@@ -1,0 +1,19 @@
+{
+  "cldr": "chair",
+  "fromVersion": "12.0",
+  "glyph": "🪑",
+  "glyphAsUtfInEmoticons": [
+    "1fa91_chair"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "chair",
+    "seat",
+    "sit"
+  ],
+  "mappedToEmoticons": [
+    "1fa91_chair"
+  ],
+  "tts": "chair",
+  "unicode": "1fa91"
+}

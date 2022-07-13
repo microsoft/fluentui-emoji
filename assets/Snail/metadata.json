@@ -1,0 +1,17 @@
+{
+  "cldr": "snail",
+  "fromVersion": "0.6",
+  "glyph": "🐌",
+  "glyphAsUtfInEmoticons": [
+    "snail"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "snail"
+  ],
+  "mappedToEmoticons": [
+    "snail"
+  ],
+  "tts": "snail",
+  "unicode": "1f40c"
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "artist palette",
+  "fromVersion": "0.6",
+  "glyph": "🎨",
+  "glyphAsUtfInEmoticons": [
+    "1f3a8_artistpalette"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "art",
+    "artist palette",
+    "museum",
+    "painting",
+    "palette"
+  ],
+  "mappedToEmoticons": [
+    "1f3a8_artistpalette"
+  ],
+  "tts": "artist palette",
+  "unicode": "1f3a8"
+}

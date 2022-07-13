@@ -1,0 +1,20 @@
+{
+  "cldr": "honey pot",
+  "fromVersion": "0.6",
+  "glyph": "🍯",
+  "glyphAsUtfInEmoticons": [
+    "1f36f_honeypot"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "honey",
+    "honeypot",
+    "pot",
+    "sweet"
+  ],
+  "mappedToEmoticons": [
+    "1f36f_honeypot"
+  ],
+  "tts": "honey pot",
+  "unicode": "1f36f"
+}

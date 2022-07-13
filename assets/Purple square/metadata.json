@@ -1,0 +1,18 @@
+{
+  "cldr": "purple square",
+  "fromVersion": "12.0",
+  "glyph": "🟪",
+  "glyphAsUtfInEmoticons": [
+    "1f7ea_purplesquare"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "purple",
+    "square"
+  ],
+  "mappedToEmoticons": [
+    "1f7ea_purplesquare"
+  ],
+  "tts": "purple square",
+  "unicode": "1f7ea"
+}

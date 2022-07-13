@@ -1,0 +1,27 @@
+{
+  "cldr": "woman: red hair",
+  "fromVersion": "11.0",
+  "glyph": "👩‍🦰",
+  "glyphAsUtfInEmoticons": [
+    "1f469_200d_1f9b0_femaleredhaired"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "adult",
+    "red hair",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "1f469_200d_1f9b0_femaleredhaired"
+  ],
+  "tts": "woman: red hair",
+  "unicode": "1f469 200d 1f9b0",
+  "unicodeSkintones": [
+    "1f469 200d 1f9b0",
+    "1f469 1f3fb 200d 1f9b0",
+    "1f469 1f3fc 200d 1f9b0",
+    "1f469 1f3fd 200d 1f9b0",
+    "1f469 1f3fe 200d 1f9b0",
+    "1f469 1f3ff 200d 1f9b0"
+  ]
+}

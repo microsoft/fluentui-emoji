@@ -1,0 +1,18 @@
+{
+  "cldr": "purple circle",
+  "fromVersion": "12.0",
+  "glyph": "🟣",
+  "glyphAsUtfInEmoticons": [
+    "1f7e3_purplecircle"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "circle",
+    "purple"
+  ],
+  "mappedToEmoticons": [
+    "1f7e3_purplecircle"
+  ],
+  "tts": "purple circle",
+  "unicode": "1f7e3"
+}

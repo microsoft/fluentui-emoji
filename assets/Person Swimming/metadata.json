@@ -1,0 +1,26 @@
+{
+  "cldr": "person swimming",
+  "fromVersion": "0.6",
+  "glyph": "🏊",
+  "glyphAsUtfInEmoticons": [
+    "swimmer"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "person swimming",
+    "swim"
+  ],
+  "mappedToEmoticons": [
+    "personswimming"
+  ],
+  "tts": "person swimming",
+  "unicode": "1f3ca",
+  "unicodeSkintones": [
+    "1f3ca",
+    "1f3ca 1f3fb",
+    "1f3ca 1f3fc",
+    "1f3ca 1f3fd",
+    "1f3ca 1f3fe",
+    "1f3ca 1f3ff"
+  ]
+}

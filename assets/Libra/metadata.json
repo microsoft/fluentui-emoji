@@ -1,0 +1,21 @@
+{
+  "cldr": "Libra",
+  "fromVersion": "0.6",
+  "glyph": "♎",
+  "glyphAsUtfInEmoticons": [
+    "264e_libra"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "balance",
+    "justice",
+    "Libra",
+    "scales",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "264e_libra"
+  ],
+  "tts": "Libra",
+  "unicode": "264e"
+}

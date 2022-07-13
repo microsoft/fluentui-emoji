@@ -1,0 +1,20 @@
+{
+  "cldr": "steaming bowl",
+  "fromVersion": "0.6",
+  "glyph": "🍜",
+  "glyphAsUtfInEmoticons": [
+    "noodles"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bowl",
+    "noodle",
+    "ramen",
+    "steaming"
+  ],
+  "mappedToEmoticons": [
+    "noodles"
+  ],
+  "tts": "steaming bowl",
+  "unicode": "1f35c"
+}

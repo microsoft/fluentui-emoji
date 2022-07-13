@@ -1,0 +1,19 @@
+{
+  "cldr": "tropical drink",
+  "fromVersion": "0.6",
+  "glyph": "🍹",
+  "glyphAsUtfInEmoticons": [
+    "1f379_tropicaldrink"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bar",
+    "drink",
+    "tropical"
+  ],
+  "mappedToEmoticons": [
+    "1f379_tropicaldrink"
+  ],
+  "tts": "tropical drink",
+  "unicode": "1f379"
+}

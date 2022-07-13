@@ -1,0 +1,16 @@
+{
+  "cldr": "dog face",
+  "fromVersion": "0.6",
+  "glyph": "🐶",
+  "group": "Animals & Nature",
+  "keywords": [
+    "dog",
+    "face",
+    "pet"
+  ],
+  "mappedToEmoticons": [
+    "smiledog"
+  ],
+  "tts": "dog face",
+  "unicode": "1f436"
+}

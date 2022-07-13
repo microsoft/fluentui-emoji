@@ -1,0 +1,19 @@
+{
+  "cldr": "diya lamp",
+  "fromVersion": "12.0",
+  "glyph": "🪔",
+  "glyphAsUtfInEmoticons": [
+    "1fa94_diyalamp"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "diya",
+    "lamp",
+    "oil"
+  ],
+  "mappedToEmoticons": [
+    "1fa94_diyalamp"
+  ],
+  "tts": "diya lamp",
+  "unicode": "1fa94"
+}

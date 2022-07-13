@@ -1,0 +1,19 @@
+{
+  "cldr": "kiwi fruit",
+  "fromVersion": "3.0",
+  "glyph": "🥝",
+  "glyphAsUtfInEmoticons": [
+    "1f95d_kiwifruit"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "food",
+    "fruit",
+    "kiwi"
+  ],
+  "mappedToEmoticons": [
+    "1f95d_kiwifruit"
+  ],
+  "tts": "kiwi fruit",
+  "unicode": "1f95d"
+}

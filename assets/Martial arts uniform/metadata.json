@@ -1,0 +1,22 @@
+{
+  "cldr": "martial arts uniform",
+  "fromVersion": "3.0",
+  "glyph": "🥋",
+  "glyphAsUtfInEmoticons": [
+    "1f94b_martialartsuniform"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "judo",
+    "karate",
+    "martial arts",
+    "martial arts uniform",
+    "taekwondo",
+    "uniform"
+  ],
+  "mappedToEmoticons": [
+    "1f94b_martialartsuniform"
+  ],
+  "tts": "martial arts uniform",
+  "unicode": "1f94b"
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "up arrow",
+  "fromVersion": "0.6",
+  "glyph": "⬆️",
+  "glyphAsUtfInEmoticons": [
+    "2b06_upwardsblackarrow"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "cardinal",
+    "direction",
+    "north",
+    "up arrow"
+  ],
+  "mappedToEmoticons": [
+    "2b06_upwardsblackarrow"
+  ],
+  "tts": "up arrow",
+  "unicode": "2b06 fe0f"
+}

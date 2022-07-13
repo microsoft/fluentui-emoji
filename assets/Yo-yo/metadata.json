@@ -1,0 +1,19 @@
+{
+  "cldr": "yo-yo",
+  "fromVersion": "12.0",
+  "glyph": "🪀",
+  "glyphAsUtfInEmoticons": [
+    "1fa80_yoyo"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "fluctuate",
+    "toy",
+    "yo-yo"
+  ],
+  "mappedToEmoticons": [
+    "1fa80_yoyo"
+  ],
+  "tts": "yo-yo",
+  "unicode": "1fa80"
+}

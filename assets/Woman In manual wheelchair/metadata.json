@@ -1,0 +1,28 @@
+{
+  "cldr": "woman in manual wheelchair",
+  "fromVersion": "12.0",
+  "glyph": "👩‍🦽",
+  "glyphAsUtfInEmoticons": [
+    "woman_in_manual_wheelchair"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "accessibility",
+    "wheelchair",
+    "woman",
+    "woman in manual wheelchair"
+  ],
+  "mappedToEmoticons": [
+    "woman_in_manual_wheelchair"
+  ],
+  "tts": "woman in manual wheelchair",
+  "unicode": "1f469 200d 1f9bd",
+  "unicodeSkintones": [
+    "1f469 200d 1f9bd",
+    "1f469 1f3fb 200d 1f9bd",
+    "1f469 1f3fc 200d 1f9bd",
+    "1f469 1f3fd 200d 1f9bd",
+    "1f469 1f3fe 200d 1f9bd",
+    "1f469 1f3ff 200d 1f9bd"
+  ]
+}

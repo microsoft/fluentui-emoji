@@ -1,0 +1,28 @@
+{
+  "cldr": "person cartwheeling",
+  "fromVersion": "3.0",
+  "glyph": "🤸",
+  "glyphAsUtfInEmoticons": [
+    "1f938_personcartwheeling",
+    "cartwheeling"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "cartwheel",
+    "gymnastics",
+    "person cartwheeling"
+  ],
+  "mappedToEmoticons": [
+    "1f938_personcartwheeling"
+  ],
+  "tts": "person cartwheeling",
+  "unicode": "1f938",
+  "unicodeSkintones": [
+    "1f938",
+    "1f938 1f3fb",
+    "1f938 1f3fc",
+    "1f938 1f3fd",
+    "1f938 1f3fe",
+    "1f938 1f3ff"
+  ]
+}

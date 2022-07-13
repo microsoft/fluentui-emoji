@@ -1,0 +1,15 @@
+{
+  "cldr": "pen",
+  "fromVersion": "0.7",
+  "glyph": "🖊️",
+  "group": "Objects",
+  "keywords": [
+    "ballpoint",
+    "pen"
+  ],
+  "mappedToEmoticons": [
+    "1f58a_lowerleftballpointpen"
+  ],
+  "tts": "pen",
+  "unicode": "1f58a fe0f"
+}

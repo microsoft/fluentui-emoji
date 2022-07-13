@@ -1,0 +1,18 @@
+{
+  "cldr": "pineapple",
+  "fromVersion": "0.6",
+  "glyph": "🍍",
+  "glyphAsUtfInEmoticons": [
+    "pineapple"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "fruit",
+    "pineapple"
+  ],
+  "mappedToEmoticons": [
+    "pineapple"
+  ],
+  "tts": "pineapple",
+  "unicode": "1f34d"
+}

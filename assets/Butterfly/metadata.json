@@ -1,0 +1,19 @@
+{
+  "cldr": "butterfly",
+  "fromVersion": "3.0",
+  "glyph": "🦋",
+  "glyphAsUtfInEmoticons": [
+    "butterfly"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "butterfly",
+    "insect",
+    "pretty"
+  ],
+  "mappedToEmoticons": [
+    "butterfly"
+  ],
+  "tts": "butterfly",
+  "unicode": "1f98b"
+}

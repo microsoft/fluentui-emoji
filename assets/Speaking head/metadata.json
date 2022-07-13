@@ -1,0 +1,18 @@
+{
+  "cldr": "speaking head",
+  "fromVersion": "0.7",
+  "glyph": "🗣️",
+  "group": "People & Body",
+  "keywords": [
+    "face",
+    "head",
+    "silhouette",
+    "speak",
+    "speaking"
+  ],
+  "mappedToEmoticons": [
+    "1f5e3_speakingheadinsilhouette"
+  ],
+  "tts": "speaking head",
+  "unicode": "1f5e3 fe0f"
+}

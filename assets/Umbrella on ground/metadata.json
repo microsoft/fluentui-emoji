@@ -1,0 +1,17 @@
+{
+  "cldr": "umbrella on ground",
+  "fromVersion": "0.7",
+  "glyph": "⛱️",
+  "group": "Travel & Places",
+  "keywords": [
+    "rain",
+    "sun",
+    "umbrella",
+    "umbrella on ground"
+  ],
+  "mappedToEmoticons": [
+    "26f1_umbrellaonground"
+  ],
+  "tts": "umbrella on ground",
+  "unicode": "26f1 fe0f"
+}

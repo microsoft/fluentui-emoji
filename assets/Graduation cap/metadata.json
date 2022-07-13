@@ -1,0 +1,21 @@
+{
+  "cldr": "graduation cap",
+  "fromVersion": "0.6",
+  "glyph": "🎓",
+  "glyphAsUtfInEmoticons": [
+    "1f393_graduationcap"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "cap",
+    "celebration",
+    "clothing",
+    "graduation",
+    "hat"
+  ],
+  "mappedToEmoticons": [
+    "1f393_graduationcap"
+  ],
+  "tts": "graduation cap",
+  "unicode": "1f393"
+}

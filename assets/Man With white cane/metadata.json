@@ -1,0 +1,28 @@
+{
+  "cldr": "man with white cane",
+  "fromVersion": "12.0",
+  "glyph": "👨‍🦯",
+  "glyphAsUtfInEmoticons": [
+    "man_probing_cane"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "accessibility",
+    "blind",
+    "man",
+    "man with white cane"
+  ],
+  "mappedToEmoticons": [
+    "man_probing_cane"
+  ],
+  "tts": "man with white cane",
+  "unicode": "1f468 200d 1f9af",
+  "unicodeSkintones": [
+    "1f468 200d 1f9af",
+    "1f468 1f3fb 200d 1f9af",
+    "1f468 1f3fc 200d 1f9af",
+    "1f468 1f3fd 200d 1f9af",
+    "1f468 1f3fe 200d 1f9af",
+    "1f468 1f3ff 200d 1f9af"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "turkey",
+  "fromVersion": "1.0",
+  "glyph": "🦃",
+  "glyphAsUtfInEmoticons": [
+    "1f983_turkey",
+    "turkey"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "bird",
+    "turkey"
+  ],
+  "mappedToEmoticons": [
+    "1f983_turkey"
+  ],
+  "tts": "turkey",
+  "unicode": "1f983"
+}

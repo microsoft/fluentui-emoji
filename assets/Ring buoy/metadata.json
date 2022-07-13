@@ -1,0 +1,16 @@
+{
+  "cldr": "ring buoy",
+  "fromVersion": "14.0",
+  "glyph": "🛟",
+  "group": "Travel & Places",
+  "keywords": [
+    "float",
+    "life preserver",
+    "life saver",
+    "rescue",
+    "ring buoy",
+    "safety"
+  ],
+  "tts": "ring buoy",
+  "unicode": "1f6df"
+}

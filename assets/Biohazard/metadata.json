@@ -1,0 +1,18 @@
+{
+  "cldr": "biohazard",
+  "fromVersion": "1.0",
+  "glyph": "☣️",
+  "glyphAsUtfInEmoticons": [
+    "2623_biohazardsign"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "biohazard",
+    "sign"
+  ],
+  "mappedToEmoticons": [
+    "2623_biohazardsign"
+  ],
+  "tts": "biohazard",
+  "unicode": "2623 fe0f"
+}

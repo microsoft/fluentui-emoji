@@ -1,0 +1,20 @@
+{
+  "cldr": "red triangle pointed down",
+  "fromVersion": "0.6",
+  "glyph": "🔻",
+  "glyphAsUtfInEmoticons": [
+    "1f53b_downpointingredtriangle"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "down",
+    "geometric",
+    "red",
+    "red triangle pointed down"
+  ],
+  "mappedToEmoticons": [
+    "1f53b_downpointingredtriangle"
+  ],
+  "tts": "red triangle pointed down",
+  "unicode": "1f53b"
+}

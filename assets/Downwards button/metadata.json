@@ -1,0 +1,21 @@
+{
+  "cldr": "downwards button",
+  "fromVersion": "0.6",
+  "glyph": "🔽",
+  "glyphAsUtfInEmoticons": [
+    "1f53d_buttondownsmall"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "button",
+    "down",
+    "downwards button",
+    "red"
+  ],
+  "mappedToEmoticons": [
+    "1f53d_buttondownsmall"
+  ],
+  "tts": "downwards button",
+  "unicode": "1f53d"
+}

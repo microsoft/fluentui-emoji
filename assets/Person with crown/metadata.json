@@ -1,0 +1,23 @@
+{
+  "cldr": "person with crown",
+  "fromVersion": "14.0",
+  "glyph": "🫅",
+  "group": "People & Body",
+  "keywords": [
+    "monarch",
+    "noble",
+    "person with crown",
+    "regal",
+    "royalty"
+  ],
+  "tts": "person with crown",
+  "unicode": "1fac5",
+  "unicodeSkintones": [
+    "1fac5",
+    "1fac5 1f3fb",
+    "1fac5 1f3fc",
+    "1fac5 1f3fd",
+    "1fac5 1f3fe",
+    "1fac5 1f3ff"
+  ]
+}

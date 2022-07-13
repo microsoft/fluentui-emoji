@@ -1,0 +1,22 @@
+{
+  "cldr": "white question mark",
+  "fromVersion": "0.6",
+  "glyph": "❔",
+  "glyphAsUtfInEmoticons": [
+    "2754_whitequestionmarkornament"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "?",
+    "mark",
+    "outlined",
+    "punctuation",
+    "question",
+    "white question mark"
+  ],
+  "mappedToEmoticons": [
+    "2754_whitequestionmarkornament"
+  ],
+  "tts": "white question mark",
+  "unicode": "2754"
+}

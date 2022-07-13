@@ -1,0 +1,18 @@
+{
+  "cldr": "baseball",
+  "fromVersion": "0.6",
+  "glyph": "⚾",
+  "glyphAsUtfInEmoticons": [
+    "baseball"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "ball",
+    "baseball"
+  ],
+  "mappedToEmoticons": [
+    "baseball"
+  ],
+  "tts": "baseball",
+  "unicode": "26be"
+}

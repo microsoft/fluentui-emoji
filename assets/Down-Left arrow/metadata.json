@@ -1,0 +1,21 @@
+{
+  "cldr": "down-left arrow",
+  "fromVersion": "0.6",
+  "glyph": "↙️",
+  "glyphAsUtfInEmoticons": [
+    "2199_southwestarrow"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "direction",
+    "down-left arrow",
+    "intercardinal",
+    "southwest"
+  ],
+  "mappedToEmoticons": [
+    "2199_southwestarrow"
+  ],
+  "tts": "down-left arrow",
+  "unicode": "2199 fe0f"
+}

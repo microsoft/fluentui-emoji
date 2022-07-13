@@ -1,0 +1,20 @@
+{
+  "cldr": "sparkles",
+  "fromVersion": "0.6",
+  "glyph": "✨",
+  "glyphAsUtfInEmoticons": [
+    "2728_sparkles"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "*",
+    "sparkle",
+    "sparkles",
+    "star"
+  ],
+  "mappedToEmoticons": [
+    "2728_sparkles"
+  ],
+  "tts": "sparkles",
+  "unicode": "2728"
+}

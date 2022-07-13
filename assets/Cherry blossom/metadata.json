@@ -1,0 +1,19 @@
+{
+  "cldr": "cherry blossom",
+  "fromVersion": "0.6",
+  "glyph": "🌸",
+  "glyphAsUtfInEmoticons": [
+    "cherryblossom"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "blossom",
+    "cherry",
+    "flower"
+  ],
+  "mappedToEmoticons": [
+    "cherryblossom"
+  ],
+  "tts": "cherry blossom",
+  "unicode": "1f338"
+}

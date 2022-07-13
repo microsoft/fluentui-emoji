@@ -1,0 +1,19 @@
+{
+  "cldr": "movie camera",
+  "fromVersion": "0.6",
+  "glyph": "🎥",
+  "glyphAsUtfInEmoticons": [
+    "1f3a5_moviecamera"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "camera",
+    "cinema",
+    "movie"
+  ],
+  "mappedToEmoticons": [
+    "1f3a5_moviecamera"
+  ],
+  "tts": "movie camera",
+  "unicode": "1f3a5"
+}

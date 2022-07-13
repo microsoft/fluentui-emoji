@@ -1,0 +1,18 @@
+{
+  "cldr": "minibus",
+  "fromVersion": "1.0",
+  "glyph": "🚐",
+  "glyphAsUtfInEmoticons": [
+    "1f690_minibus"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "bus",
+    "minibus"
+  ],
+  "mappedToEmoticons": [
+    "1f690_minibus"
+  ],
+  "tts": "minibus",
+  "unicode": "1f690"
+}

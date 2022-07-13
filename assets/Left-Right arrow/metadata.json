@@ -1,0 +1,18 @@
+{
+  "cldr": "left-right arrow",
+  "fromVersion": "0.6",
+  "glyph": "↔️",
+  "glyphAsUtfInEmoticons": [
+    "2194_leftrightarrow"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "left-right arrow"
+  ],
+  "mappedToEmoticons": [
+    "2194_leftrightarrow"
+  ],
+  "tts": "left-right arrow",
+  "unicode": "2194 fe0f"
+}

@@ -1,0 +1,27 @@
+{
+  "cldr": "man lifting weights",
+  "fromVersion": "4.0",
+  "glyph": "🏋️‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "manliftingweights"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "man",
+    "man lifting weights",
+    "weight lifter"
+  ],
+  "mappedToEmoticons": [
+    "manliftingweights"
+  ],
+  "tts": "man lifting weights",
+  "unicode": "1f3cb fe0f 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f3cb fe0f 200d 2642 fe0f",
+    "1f3cb 1f3fb 200d 2642 fe0f",
+    "1f3cb 1f3fc 200d 2642 fe0f",
+    "1f3cb 1f3fd 200d 2642 fe0f",
+    "1f3cb 1f3fe 200d 2642 fe0f",
+    "1f3cb 1f3ff 200d 2642 fe0f"
+  ]
+}

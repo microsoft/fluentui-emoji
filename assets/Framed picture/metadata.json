@@ -1,0 +1,19 @@
+{
+  "cldr": "framed picture",
+  "fromVersion": "0.7",
+  "glyph": "🖼️",
+  "group": "Activities",
+  "keywords": [
+    "art",
+    "frame",
+    "framed picture",
+    "museum",
+    "painting",
+    "picture"
+  ],
+  "mappedToEmoticons": [
+    "1f5bc_framewithpicture"
+  ],
+  "tts": "framed picture",
+  "unicode": "1f5bc fe0f"
+}

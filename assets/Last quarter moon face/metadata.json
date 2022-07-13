@@ -1,0 +1,20 @@
+{
+  "cldr": "last quarter moon face",
+  "fromVersion": "0.7",
+  "glyph": "🌜",
+  "glyphAsUtfInEmoticons": [
+    "1f31c_lastquartermoonwithface"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "face",
+    "last quarter moon face",
+    "moon",
+    "quarter"
+  ],
+  "mappedToEmoticons": [
+    "1f31c_lastquartermoonwithface"
+  ],
+  "tts": "last quarter moon face",
+  "unicode": "1f31c"
+}

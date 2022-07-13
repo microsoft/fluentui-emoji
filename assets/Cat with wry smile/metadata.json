@@ -1,0 +1,22 @@
+{
+  "cldr": "cat with wry smile",
+  "fromVersion": "0.6",
+  "glyph": "😼",
+  "glyphAsUtfInEmoticons": [
+    "1f63c_catwithwrysmile"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "cat",
+    "cat with wry smile",
+    "face",
+    "ironic",
+    "smile",
+    "wry"
+  ],
+  "mappedToEmoticons": [
+    "1f63c_catwithwrysmile"
+  ],
+  "tts": "cat with wry smile",
+  "unicode": "1f63c"
+}

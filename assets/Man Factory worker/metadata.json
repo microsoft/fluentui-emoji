@@ -1,0 +1,29 @@
+{
+  "cldr": "man factory worker",
+  "fromVersion": "4.0",
+  "glyph": "👨‍🏭",
+  "glyphAsUtfInEmoticons": [
+    "manwelder"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "assembly",
+    "factory",
+    "industrial",
+    "man",
+    "worker"
+  ],
+  "mappedToEmoticons": [
+    "manwelder"
+  ],
+  "tts": "man factory worker",
+  "unicode": "1f468 200d 1f3ed",
+  "unicodeSkintones": [
+    "1f468 200d 1f3ed",
+    "1f468 1f3fb 200d 1f3ed",
+    "1f468 1f3fc 200d 1f3ed",
+    "1f468 1f3fd 200d 1f3ed",
+    "1f468 1f3fe 200d 1f3ed",
+    "1f468 1f3ff 200d 1f3ed"
+  ]
+}

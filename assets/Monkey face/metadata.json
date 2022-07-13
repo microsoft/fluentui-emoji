@@ -1,0 +1,15 @@
+{
+  "cldr": "monkey face",
+  "fromVersion": "0.6",
+  "glyph": "🐵",
+  "group": "Animals & Nature",
+  "keywords": [
+    "face",
+    "monkey"
+  ],
+  "mappedToEmoticons": [
+    "smilemonkey"
+  ],
+  "tts": "monkey face",
+  "unicode": "1f435"
+}

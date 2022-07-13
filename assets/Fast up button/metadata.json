@@ -1,0 +1,19 @@
+{
+  "cldr": "fast up button",
+  "fromVersion": "0.6",
+  "glyph": "⏫",
+  "glyphAsUtfInEmoticons": [
+    "23eb_fastupbutton"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "double",
+    "fast up button"
+  ],
+  "mappedToEmoticons": [
+    "23eb_fastupbutton"
+  ],
+  "tts": "fast up button",
+  "unicode": "23eb"
+}

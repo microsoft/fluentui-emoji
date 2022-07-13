@@ -1,0 +1,23 @@
+{
+  "cldr": "face screaming in fear",
+  "fromVersion": "0.6",
+  "glyph": "😱",
+  "glyphAsUtfInEmoticons": [
+    "screamingfear",
+    "shock"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "face screaming in fear",
+    "fear",
+    "munch",
+    "scared",
+    "scream"
+  ],
+  "mappedToEmoticons": [
+    "screamingfear"
+  ],
+  "tts": "face screaming in fear",
+  "unicode": "1f631"
+}

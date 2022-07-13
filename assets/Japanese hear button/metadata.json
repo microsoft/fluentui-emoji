@@ -1,0 +1,21 @@
+{
+  "cldr": "Japanese “here” button",
+  "fromVersion": "0.6",
+  "glyph": "🈁",
+  "glyphAsUtfInEmoticons": [
+    "1f201_squaredkatakanakoko"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "“here”",
+    "Japanese",
+    "Japanese “here” button",
+    "katakana",
+    "ココ"
+  ],
+  "mappedToEmoticons": [
+    "1f201_squaredkatakanakoko"
+  ],
+  "tts": "Japanese “here” button",
+  "unicode": "1f201"
+}

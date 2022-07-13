@@ -1,0 +1,15 @@
+{
+  "cldr": "spider",
+  "fromVersion": "0.7",
+  "glyph": "🕷️",
+  "group": "Animals & Nature",
+  "keywords": [
+    "insect",
+    "spider"
+  ],
+  "mappedToEmoticons": [
+    "spider"
+  ],
+  "tts": "spider",
+  "unicode": "1f577 fe0f"
+}

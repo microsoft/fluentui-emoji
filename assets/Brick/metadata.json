@@ -1,0 +1,21 @@
+{
+  "cldr": "brick",
+  "fromVersion": "11.0",
+  "glyph": "🧱",
+  "glyphAsUtfInEmoticons": [
+    "1f9f1_bricks"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "brick",
+    "bricks",
+    "clay",
+    "mortar",
+    "wall"
+  ],
+  "mappedToEmoticons": [
+    "1f9f1_bricks"
+  ],
+  "tts": "brick",
+  "unicode": "1f9f1"
+}

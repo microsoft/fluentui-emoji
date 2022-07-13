@@ -1,0 +1,18 @@
+{
+  "cldr": "tent",
+  "fromVersion": "0.6",
+  "glyph": "⛺",
+  "glyphAsUtfInEmoticons": [
+    "26fa_tent"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "camping",
+    "tent"
+  ],
+  "mappedToEmoticons": [
+    "26fa_tent"
+  ],
+  "tts": "tent",
+  "unicode": "26fa"
+}

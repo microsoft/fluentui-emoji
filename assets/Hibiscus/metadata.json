@@ -1,0 +1,18 @@
+{
+  "cldr": "hibiscus",
+  "fromVersion": "0.6",
+  "glyph": "🌺",
+  "glyphAsUtfInEmoticons": [
+    "1f33a_hibiscus"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "flower",
+    "hibiscus"
+  ],
+  "mappedToEmoticons": [
+    "1f33a_hibiscus"
+  ],
+  "tts": "hibiscus",
+  "unicode": "1f33a"
+}

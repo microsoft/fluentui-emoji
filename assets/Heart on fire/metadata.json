@@ -1,0 +1,19 @@
+{
+  "cldr": "heart on fire",
+  "fromVersion": "13.1",
+  "glyph": "❤️‍🔥",
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "burn",
+    "heart",
+    "heart on fire",
+    "love",
+    "lust",
+    "sacred heart"
+  ],
+  "mappedToEmoticons": [
+    "heartonfire"
+  ],
+  "tts": "heart on fire",
+  "unicode": "2764 fe0f 200d 1f525"
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "page facing up",
+  "fromVersion": "0.6",
+  "glyph": "📄",
+  "glyphAsUtfInEmoticons": [
+    "1f4c4_pagefacingup"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "document",
+    "page",
+    "page facing up"
+  ],
+  "mappedToEmoticons": [
+    "1f4c4_pagefacingup"
+  ],
+  "tts": "page facing up",
+  "unicode": "1f4c4"
+}

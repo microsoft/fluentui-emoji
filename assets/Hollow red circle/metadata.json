@@ -1,0 +1,21 @@
+{
+  "cldr": "hollow red circle",
+  "fromVersion": "0.6",
+  "glyph": "⭕",
+  "glyphAsUtfInEmoticons": [
+    "2b55_heavylargecircle"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "circle",
+    "hollow red circle",
+    "large",
+    "o",
+    "red"
+  ],
+  "mappedToEmoticons": [
+    "2b55_heavylargecircle"
+  ],
+  "tts": "hollow red circle",
+  "unicode": "2b55"
+}

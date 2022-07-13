@@ -1,0 +1,20 @@
+{
+  "cldr": "compass",
+  "fromVersion": "11.0",
+  "glyph": "🧭",
+  "glyphAsUtfInEmoticons": [
+    "1f9ed_compass"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "compass",
+    "magnetic",
+    "navigation",
+    "orienteering"
+  ],
+  "mappedToEmoticons": [
+    "1f9ed_compass"
+  ],
+  "tts": "compass",
+  "unicode": "1f9ed"
+}

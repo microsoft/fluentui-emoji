@@ -1,0 +1,18 @@
+{
+  "cldr": "ambulance",
+  "fromVersion": "0.6",
+  "glyph": "🚑",
+  "glyphAsUtfInEmoticons": [
+    "ambulance"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "ambulance",
+    "vehicle"
+  ],
+  "mappedToEmoticons": [
+    "ambulance"
+  ],
+  "tts": "ambulance",
+  "unicode": "1f691"
+}

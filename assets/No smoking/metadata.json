@@ -1,0 +1,21 @@
+{
+  "cldr": "no smoking",
+  "fromVersion": "0.6",
+  "glyph": "🚭",
+  "glyphAsUtfInEmoticons": [
+    "1f6ad_nosmokingsymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "forbidden",
+    "no",
+    "not",
+    "prohibited",
+    "smoking"
+  ],
+  "mappedToEmoticons": [
+    "1f6ad_nosmokingsymbol"
+  ],
+  "tts": "no smoking",
+  "unicode": "1f6ad"
+}

@@ -1,0 +1,20 @@
+{
+  "cldr": "shaved ice",
+  "fromVersion": "0.6",
+  "glyph": "🍧",
+  "glyphAsUtfInEmoticons": [
+    "1f367_shavedice"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "dessert",
+    "ice",
+    "shaved",
+    "sweet"
+  ],
+  "mappedToEmoticons": [
+    "1f367_shavedice"
+  ],
+  "tts": "shaved ice",
+  "unicode": "1f367"
+}

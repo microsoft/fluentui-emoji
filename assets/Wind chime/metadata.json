@@ -1,0 +1,20 @@
+{
+  "cldr": "wind chime",
+  "fromVersion": "0.6",
+  "glyph": "🎐",
+  "glyphAsUtfInEmoticons": [
+    "1f390_windchime"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "bell",
+    "celebration",
+    "chime",
+    "wind"
+  ],
+  "mappedToEmoticons": [
+    "1f390_windchime"
+  ],
+  "tts": "wind chime",
+  "unicode": "1f390"
+}

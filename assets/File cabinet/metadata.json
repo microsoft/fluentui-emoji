@@ -1,0 +1,16 @@
+{
+  "cldr": "file cabinet",
+  "fromVersion": "0.7",
+  "glyph": "🗄️",
+  "group": "Objects",
+  "keywords": [
+    "cabinet",
+    "file",
+    "filing"
+  ],
+  "mappedToEmoticons": [
+    "1f5c4_filecabinet"
+  ],
+  "tts": "file cabinet",
+  "unicode": "1f5c4 fe0f"
+}

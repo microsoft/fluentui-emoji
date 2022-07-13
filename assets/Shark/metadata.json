@@ -1,0 +1,18 @@
+{
+  "cldr": "shark",
+  "fromVersion": "3.0",
+  "glyph": "🦈",
+  "glyphAsUtfInEmoticons": [
+    "1f988_shark"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "fish",
+    "shark"
+  ],
+  "mappedToEmoticons": [
+    "1f988_shark"
+  ],
+  "tts": "shark",
+  "unicode": "1f988"
+}

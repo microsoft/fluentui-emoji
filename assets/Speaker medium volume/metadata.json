@@ -1,0 +1,18 @@
+{
+  "cldr": "speaker medium volume",
+  "fromVersion": "1.0",
+  "glyph": "🔉",
+  "glyphAsUtfInEmoticons": [
+    "1f509_speakerwithonesoundwave"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "medium",
+    "speaker medium volume"
+  ],
+  "mappedToEmoticons": [
+    "1f509_speakerwithonesoundwave"
+  ],
+  "tts": "speaker medium volume",
+  "unicode": "1f509"
+}

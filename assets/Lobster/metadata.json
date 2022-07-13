@@ -1,0 +1,20 @@
+{
+  "cldr": "lobster",
+  "fromVersion": "11.0",
+  "glyph": "🦞",
+  "glyphAsUtfInEmoticons": [
+    "1f99e_lobster"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bisque",
+    "claws",
+    "lobster",
+    "seafood"
+  ],
+  "mappedToEmoticons": [
+    "1f99e_lobster"
+  ],
+  "tts": "lobster",
+  "unicode": "1f99e"
+}

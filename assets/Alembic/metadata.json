@@ -1,0 +1,16 @@
+{
+  "cldr": "alembic",
+  "fromVersion": "1.0",
+  "glyph": "⚗️",
+  "group": "Objects",
+  "keywords": [
+    "alembic",
+    "chemistry",
+    "tool"
+  ],
+  "mappedToEmoticons": [
+    "2697_alembic"
+  ],
+  "tts": "alembic",
+  "unicode": "2697 fe0f"
+}

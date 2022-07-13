@@ -1,0 +1,18 @@
+{
+  "cldr": "butter",
+  "fromVersion": "12.0",
+  "glyph": "🧈",
+  "glyphAsUtfInEmoticons": [
+    "1f9c8_butter"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "butter",
+    "dairy"
+  ],
+  "mappedToEmoticons": [
+    "1f9c8_butter"
+  ],
+  "tts": "butter",
+  "unicode": "1f9c8"
+}

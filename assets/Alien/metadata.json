@@ -1,0 +1,22 @@
+{
+  "cldr": "alien",
+  "fromVersion": "0.6",
+  "glyph": "👽",
+  "glyphAsUtfInEmoticons": [
+    "1f47d_extraterrestrialalien"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "alien",
+    "creature",
+    "extraterrestrial",
+    "face",
+    "fantasy",
+    "ufo"
+  ],
+  "mappedToEmoticons": [
+    "1f47d_extraterrestrialalien"
+  ],
+  "tts": "alien",
+  "unicode": "1f47d"
+}

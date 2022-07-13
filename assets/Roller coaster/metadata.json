@@ -1,0 +1,19 @@
+{
+  "cldr": "roller coaster",
+  "fromVersion": "0.6",
+  "glyph": "🎢",
+  "glyphAsUtfInEmoticons": [
+    "1f3a2_rollercoaster"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "amusement park",
+    "coaster",
+    "roller"
+  ],
+  "mappedToEmoticons": [
+    "1f3a2_rollercoaster"
+  ],
+  "tts": "roller coaster",
+  "unicode": "1f3a2"
+}

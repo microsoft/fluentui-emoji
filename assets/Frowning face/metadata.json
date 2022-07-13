@@ -1,0 +1,16 @@
+{
+  "cldr": "frowning face",
+  "fromVersion": "0.7",
+  "glyph": "☹️",
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "frown",
+    "frowning face"
+  ],
+  "mappedToEmoticons": [
+    "2639_frowningface"
+  ],
+  "tts": "frowning face",
+  "unicode": "2639 fe0f"
+}

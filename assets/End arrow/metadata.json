@@ -1,0 +1,19 @@
+{
+  "cldr": "END arrow",
+  "fromVersion": "0.6",
+  "glyph": "🔚",
+  "glyphAsUtfInEmoticons": [
+    "1f51a_endwithleftwardsarrowabove"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "end",
+    "END arrow"
+  ],
+  "mappedToEmoticons": [
+    "1f51a_endwithleftwardsarrowabove"
+  ],
+  "tts": "END arrow",
+  "unicode": "1f51a"
+}

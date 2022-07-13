@@ -1,0 +1,28 @@
+{
+  "cldr": "woman rowing boat",
+  "fromVersion": "4.0",
+  "glyph": "🚣‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "woman_rowing_boat"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "boat",
+    "rowboat",
+    "woman",
+    "woman rowing boat"
+  ],
+  "mappedToEmoticons": [
+    "woman_rowing_boat"
+  ],
+  "tts": "woman rowing boat",
+  "unicode": "1f6a3 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f6a3 200d 2640 fe0f",
+    "1f6a3 1f3fb 200d 2640 fe0f",
+    "1f6a3 1f3fc 200d 2640 fe0f",
+    "1f6a3 1f3fd 200d 2640 fe0f",
+    "1f6a3 1f3fe 200d 2640 fe0f",
+    "1f6a3 1f3ff 200d 2640 fe0f"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "cldr": "woman pilot",
+  "fromVersion": "4.0",
+  "glyph": "👩‍✈️",
+  "glyphAsUtfInEmoticons": [
+    "womanpilot"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "pilot",
+    "plane",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "womanpilot"
+  ],
+  "tts": "woman pilot",
+  "unicode": "1f469 200d 2708 fe0f",
+  "unicodeSkintones": [
+    "1f469 200d 2708 fe0f",
+    "1f469 1f3fb 200d 2708 fe0f",
+    "1f469 1f3fc 200d 2708 fe0f",
+    "1f469 1f3fd 200d 2708 fe0f",
+    "1f469 1f3fe 200d 2708 fe0f",
+    "1f469 1f3ff 200d 2708 fe0f"
+  ]
+}

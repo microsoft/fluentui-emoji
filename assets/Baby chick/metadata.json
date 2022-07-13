@@ -1,0 +1,19 @@
+{
+  "cldr": "baby chick",
+  "fromVersion": "0.6",
+  "glyph": "🐤",
+  "glyphAsUtfInEmoticons": [
+    "1f424_babychick"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "baby",
+    "bird",
+    "chick"
+  ],
+  "mappedToEmoticons": [
+    "1f424_babychick"
+  ],
+  "tts": "baby chick",
+  "unicode": "1f424"
+}

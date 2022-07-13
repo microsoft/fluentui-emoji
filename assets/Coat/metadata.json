@@ -1,0 +1,18 @@
+{
+  "cldr": "coat",
+  "fromVersion": "5.0",
+  "glyph": "🧥",
+  "glyphAsUtfInEmoticons": [
+    "1f9e5_coat"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "coat",
+    "jacket"
+  ],
+  "mappedToEmoticons": [
+    "1f9e5_coat"
+  ],
+  "tts": "coat",
+  "unicode": "1f9e5"
+}

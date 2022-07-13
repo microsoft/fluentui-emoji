@@ -1,0 +1,29 @@
+{
+  "cldr": "man",
+  "fromVersion": "0.6",
+  "glyph": "👨",
+  "glyphAsUtfInEmoticons": [
+    "man",
+    "man_student",
+    "manstudent",
+    "smileman"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "adult",
+    "man"
+  ],
+  "mappedToEmoticons": [
+    "smileman"
+  ],
+  "tts": "man",
+  "unicode": "1f468",
+  "unicodeSkintones": [
+    "1f468",
+    "1f468 1f3fb",
+    "1f468 1f3fc",
+    "1f468 1f3fd",
+    "1f468 1f3fe",
+    "1f468 1f3ff"
+  ]
+}

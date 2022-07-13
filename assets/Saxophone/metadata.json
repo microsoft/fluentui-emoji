@@ -1,0 +1,20 @@
+{
+  "cldr": "saxophone",
+  "fromVersion": "0.6",
+  "glyph": "🎷",
+  "glyphAsUtfInEmoticons": [
+    "1f3b7_saxophone"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "instrument",
+    "music",
+    "sax",
+    "saxophone"
+  ],
+  "mappedToEmoticons": [
+    "1f3b7_saxophone"
+  ],
+  "tts": "saxophone",
+  "unicode": "1f3b7"
+}

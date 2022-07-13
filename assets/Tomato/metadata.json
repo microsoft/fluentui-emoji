@@ -1,0 +1,19 @@
+{
+  "cldr": "tomato",
+  "fromVersion": "0.6",
+  "glyph": "🍅",
+  "glyphAsUtfInEmoticons": [
+    "1f345_tomato"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "fruit",
+    "tomato",
+    "vegetable"
+  ],
+  "mappedToEmoticons": [
+    "1f345_tomato"
+  ],
+  "tts": "tomato",
+  "unicode": "1f345"
+}

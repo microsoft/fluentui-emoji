@@ -1,0 +1,18 @@
+{
+  "cldr": "rooster",
+  "fromVersion": "1.0",
+  "glyph": "🐓",
+  "glyphAsUtfInEmoticons": [
+    "1f413_rooster"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "bird",
+    "rooster"
+  ],
+  "mappedToEmoticons": [
+    "1f413_rooster"
+  ],
+  "tts": "rooster",
+  "unicode": "1f413"
+}

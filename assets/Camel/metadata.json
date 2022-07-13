@@ -1,0 +1,19 @@
+{
+  "cldr": "camel",
+  "fromVersion": "1.0",
+  "glyph": "🐪",
+  "glyphAsUtfInEmoticons": [
+    "1f42a_dromedarycamel"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "camel",
+    "dromedary",
+    "hump"
+  ],
+  "mappedToEmoticons": [
+    "1f42a_dromedarycamel"
+  ],
+  "tts": "camel",
+  "unicode": "1f42a"
+}

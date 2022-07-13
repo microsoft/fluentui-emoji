@@ -1,0 +1,20 @@
+{
+  "cldr": "lion",
+  "fromVersion": "1.0",
+  "glyph": "🦁",
+  "glyphAsUtfInEmoticons": [
+    "lion"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "face",
+    "Leo",
+    "lion",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "lion"
+  ],
+  "tts": "lion",
+  "unicode": "1f981"
+}

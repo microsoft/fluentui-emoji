@@ -1,0 +1,21 @@
+{
+  "cldr": "partying face",
+  "fromVersion": "11.0",
+  "glyph": "🥳",
+  "glyphAsUtfInEmoticons": [
+    "party"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "celebration",
+    "hat",
+    "horn",
+    "party",
+    "partying face"
+  ],
+  "mappedToEmoticons": [
+    "party"
+  ],
+  "tts": "partying face",
+  "unicode": "1f973"
+}

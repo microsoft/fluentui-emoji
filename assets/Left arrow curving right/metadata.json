@@ -1,0 +1,18 @@
+{
+  "cldr": "left arrow curving right",
+  "fromVersion": "0.6",
+  "glyph": "↪️",
+  "glyphAsUtfInEmoticons": [
+    "21aa_rightwardsarrowwithhook"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "left arrow curving right"
+  ],
+  "mappedToEmoticons": [
+    "21aa_rightwardsarrowwithhook"
+  ],
+  "tts": "left arrow curving right",
+  "unicode": "21aa fe0f"
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "wolf",
+  "fromVersion": "0.6",
+  "glyph": "🐺",
+  "glyphAsUtfInEmoticons": [
+    "1f43a_wolfface",
+    "werewolfhowl"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "face",
+    "wolf"
+  ],
+  "mappedToEmoticons": [
+    "1f43a_wolfface"
+  ],
+  "tts": "wolf",
+  "unicode": "1f43a"
+}

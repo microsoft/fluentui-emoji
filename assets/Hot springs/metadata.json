@@ -1,0 +1,17 @@
+{
+  "cldr": "hot springs",
+  "fromVersion": "0.6",
+  "glyph": "♨️",
+  "group": "Travel & Places",
+  "keywords": [
+    "hot",
+    "hotsprings",
+    "springs",
+    "steaming"
+  ],
+  "mappedToEmoticons": [
+    "2668_hotsprings"
+  ],
+  "tts": "hot springs",
+  "unicode": "2668 fe0f"
+}

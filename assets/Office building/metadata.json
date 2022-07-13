@@ -1,0 +1,18 @@
+{
+  "cldr": "office building",
+  "fromVersion": "0.6",
+  "glyph": "🏢",
+  "glyphAsUtfInEmoticons": [
+    "1f3e2_officebuilding"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "building",
+    "office building"
+  ],
+  "mappedToEmoticons": [
+    "1f3e2_officebuilding"
+  ],
+  "tts": "office building",
+  "unicode": "1f3e2"
+}

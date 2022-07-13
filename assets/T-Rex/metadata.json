@@ -1,0 +1,15 @@
+{
+  "cldr": "T-Rex",
+  "fromVersion": "5.0",
+  "glyph": "🦖",
+  "group": "Animals & Nature",
+  "keywords": [
+    "T-Rex",
+    "Tyrannosaurus Rex"
+  ],
+  "mappedToEmoticons": [
+    "win10"
+  ],
+  "tts": "T-Rex",
+  "unicode": "1f996"
+}

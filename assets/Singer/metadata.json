@@ -1,0 +1,26 @@
+{
+  "cldr": "singer",
+  "fromVersion": "12.1",
+  "glyph": "🧑‍🎤",
+  "group": "People & Body",
+  "keywords": [
+    "actor",
+    "entertainer",
+    "rock",
+    "singer",
+    "star"
+  ],
+  "mappedToEmoticons": [
+    "personsinger"
+  ],
+  "tts": "singer",
+  "unicode": "1f9d1 200d 1f3a4",
+  "unicodeSkintones": [
+    "1f9d1 200d 1f3a4",
+    "1f9d1 1f3fb 200d 1f3a4",
+    "1f9d1 1f3fc 200d 1f3a4",
+    "1f9d1 1f3fd 200d 1f3a4",
+    "1f9d1 1f3fe 200d 1f3a4",
+    "1f9d1 1f3ff 200d 1f3a4"
+  ]
+}

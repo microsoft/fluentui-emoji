@@ -1,0 +1,22 @@
+{
+  "cldr": "hear-no-evil monkey",
+  "fromVersion": "0.6",
+  "glyph": "🙉",
+  "glyphAsUtfInEmoticons": [
+    "hearnoevil"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "evil",
+    "face",
+    "forbidden",
+    "hear",
+    "hear-no-evil monkey",
+    "monkey"
+  ],
+  "mappedToEmoticons": [
+    "hearnoevil"
+  ],
+  "tts": "hear-no-evil monkey",
+  "unicode": "1f649"
+}

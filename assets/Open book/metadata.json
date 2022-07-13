@@ -1,0 +1,18 @@
+{
+  "cldr": "open book",
+  "fromVersion": "0.6",
+  "glyph": "📖",
+  "glyphAsUtfInEmoticons": [
+    "1f4d6_openbook"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "book",
+    "open"
+  ],
+  "mappedToEmoticons": [
+    "1f4d6_openbook"
+  ],
+  "tts": "open book",
+  "unicode": "1f4d6"
+}

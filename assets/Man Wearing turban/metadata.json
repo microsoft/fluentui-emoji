@@ -1,0 +1,27 @@
+{
+  "cldr": "man wearing turban",
+  "fromVersion": "4.0",
+  "glyph": "👳‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "man_wearing_turban"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "man",
+    "man wearing turban",
+    "turban"
+  ],
+  "mappedToEmoticons": [
+    "man_wearing_turban"
+  ],
+  "tts": "man wearing turban",
+  "unicode": "1f473 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f473 200d 2642 fe0f",
+    "1f473 1f3fb 200d 2642 fe0f",
+    "1f473 1f3fc 200d 2642 fe0f",
+    "1f473 1f3fd 200d 2642 fe0f",
+    "1f473 1f3fe 200d 2642 fe0f",
+    "1f473 1f3ff 200d 2642 fe0f"
+  ]
+}

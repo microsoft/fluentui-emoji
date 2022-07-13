@@ -1,0 +1,20 @@
+{
+  "cldr": "t-shirt",
+  "fromVersion": "0.6",
+  "glyph": "👕",
+  "glyphAsUtfInEmoticons": [
+    "1f455_tshirt"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "clothing",
+    "shirt",
+    "t-shirt",
+    "tshirt"
+  ],
+  "mappedToEmoticons": [
+    "1f455_tshirt"
+  ],
+  "tts": "t-shirt",
+  "unicode": "1f455"
+}

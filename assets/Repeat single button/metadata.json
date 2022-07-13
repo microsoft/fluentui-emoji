@@ -1,0 +1,20 @@
+{
+  "cldr": "repeat single button",
+  "fromVersion": "1.0",
+  "glyph": "🔂",
+  "glyphAsUtfInEmoticons": [
+    "1f502_repeatsingle"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "clockwise",
+    "once",
+    "repeat single button"
+  ],
+  "mappedToEmoticons": [
+    "1f502_repeatsingle"
+  ],
+  "tts": "repeat single button",
+  "unicode": "1f502"
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "cyclone",
+  "fromVersion": "0.6",
+  "glyph": "🌀",
+  "glyphAsUtfInEmoticons": [
+    "1f300_cyclone"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "cyclone",
+    "dizzy",
+    "hurricane",
+    "twister",
+    "typhoon"
+  ],
+  "mappedToEmoticons": [
+    "1f300_cyclone"
+  ],
+  "tts": "cyclone",
+  "unicode": "1f300"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "brown square",
+  "fromVersion": "12.0",
+  "glyph": "🟫",
+  "glyphAsUtfInEmoticons": [
+    "1f7eb_brownsquare"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "brown",
+    "square"
+  ],
+  "mappedToEmoticons": [
+    "1f7eb_brownsquare"
+  ],
+  "tts": "brown square",
+  "unicode": "1f7eb"
+}

@@ -1,0 +1,23 @@
+{
+  "cldr": "toothbrush",
+  "fromVersion": "13.0",
+  "glyph": "🪥",
+  "glyphAsUtfInEmoticons": [
+    "toothbrush"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "bathroom",
+    "brush",
+    "clean",
+    "dental",
+    "hygiene",
+    "teeth",
+    "toothbrush"
+  ],
+  "mappedToEmoticons": [
+    "toothbrush"
+  ],
+  "tts": "toothbrush",
+  "unicode": "1faa5"
+}

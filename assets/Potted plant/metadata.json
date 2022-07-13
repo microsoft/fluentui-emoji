@@ -1,0 +1,23 @@
+{
+  "cldr": "potted plant",
+  "fromVersion": "13.0",
+  "glyph": "🪴",
+  "glyphAsUtfInEmoticons": [
+    "pottedplant"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "boring",
+    "grow",
+    "house",
+    "nurturing",
+    "plant",
+    "potted plant",
+    "useless"
+  ],
+  "mappedToEmoticons": [
+    "pottedplant"
+  ],
+  "tts": "potted plant",
+  "unicode": "1fab4"
+}

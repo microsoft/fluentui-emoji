@@ -1,0 +1,19 @@
+{
+  "cldr": "rescue worker’s helmet",
+  "fromVersion": "0.7",
+  "glyph": "⛑️",
+  "group": "Objects",
+  "keywords": [
+    "aid",
+    "cross",
+    "face",
+    "hat",
+    "helmet",
+    "rescue worker’s helmet"
+  ],
+  "mappedToEmoticons": [
+    "26d1_helmetwithwhitecross"
+  ],
+  "tts": "rescue worker’s helmet",
+  "unicode": "26d1 fe0f"
+}

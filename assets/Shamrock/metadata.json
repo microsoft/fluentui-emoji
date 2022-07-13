@@ -1,0 +1,15 @@
+{
+  "cldr": "shamrock",
+  "fromVersion": "1.0",
+  "glyph": "☘️",
+  "group": "Animals & Nature",
+  "keywords": [
+    "plant",
+    "shamrock"
+  ],
+  "mappedToEmoticons": [
+    "2618_shamrock"
+  ],
+  "tts": "shamrock",
+  "unicode": "2618 fe0f"
+}

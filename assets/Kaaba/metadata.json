@@ -1,0 +1,20 @@
+{
+  "cldr": "kaaba",
+  "fromVersion": "1.0",
+  "glyph": "🕋",
+  "glyphAsUtfInEmoticons": [
+    "1f54b_kaaba"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "islam",
+    "kaaba",
+    "Muslim",
+    "religion"
+  ],
+  "mappedToEmoticons": [
+    "1f54b_kaaba"
+  ],
+  "tts": "kaaba",
+  "unicode": "1f54b"
+}

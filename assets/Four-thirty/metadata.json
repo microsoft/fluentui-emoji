@@ -1,0 +1,22 @@
+{
+  "cldr": "four-thirty",
+  "fromVersion": "0.7",
+  "glyph": "🕟",
+  "glyphAsUtfInEmoticons": [
+    "1f55f_fourthirty"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "4",
+    "4:30",
+    "clock",
+    "four",
+    "four-thirty",
+    "thirty"
+  ],
+  "mappedToEmoticons": [
+    "1f55f_fourthirty"
+  ],
+  "tts": "four-thirty",
+  "unicode": "1f55f"
+}

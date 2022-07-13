@@ -1,0 +1,19 @@
+{
+  "cldr": "last quarter moon",
+  "fromVersion": "1.0",
+  "glyph": "🌗",
+  "glyphAsUtfInEmoticons": [
+    "1f317_lastquartermoonsymbol"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "last quarter moon",
+    "moon",
+    "quarter"
+  ],
+  "mappedToEmoticons": [
+    "1f317_lastquartermoonsymbol"
+  ],
+  "tts": "last quarter moon",
+  "unicode": "1f317"
+}

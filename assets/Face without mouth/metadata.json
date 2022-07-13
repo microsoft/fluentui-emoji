@@ -1,0 +1,21 @@
+{
+  "cldr": "face without mouth",
+  "fromVersion": "1.0",
+  "glyph": "😶",
+  "glyphAsUtfInEmoticons": [
+    "blankface"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "face without mouth",
+    "mouth",
+    "quiet",
+    "silent"
+  ],
+  "mappedToEmoticons": [
+    "blankface"
+  ],
+  "tts": "face without mouth",
+  "unicode": "1f636"
+}
