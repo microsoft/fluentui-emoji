@@ -1,0 +1,18 @@
+{
+  "cldr": "blue square",
+  "fromVersion": "12.0",
+  "glyph": "🟦",
+  "glyphAsUtfInEmoticons": [
+    "1f7e6_bluesquare"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "blue",
+    "square"
+  ],
+  "mappedToEmoticons": [
+    "1f7e6_bluesquare"
+  ],
+  "tts": "blue square",
+  "unicode": "1f7e6"
+}

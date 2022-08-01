@@ -1,0 +1,18 @@
+{
+  "cldr": "green square",
+  "fromVersion": "12.0",
+  "glyph": "🟩",
+  "glyphAsUtfInEmoticons": [
+    "1f7e9_greensquare"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "green",
+    "square"
+  ],
+  "mappedToEmoticons": [
+    "1f7e9_greensquare"
+  ],
+  "tts": "green square",
+  "unicode": "1f7e9"
+}
