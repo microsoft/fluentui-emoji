@@ -1,0 +1,17 @@
+{
+  "cldr": "chequered flag",
+  "fromVersion": "0.6",
+  "glyph": "🏁",
+  "glyphAsUtfInEmoticons": [
+    "1f3c1_chequeredflag"
+  ],
+  "group": "Flags",
+  "keywords": [
+    "checkered",
+    "chequered",
+    "chequered flag",
+    "racing"
+  ],
+  "tts": "chequered flag",
+  "unicode": "1f3c1"
+}

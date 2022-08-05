@@ -1,0 +1,18 @@
+{
+  "cldr": "crossed flags",
+  "fromVersion": "0.6",
+  "glyph": "🎌",
+  "glyphAsUtfInEmoticons": [
+    "1f38c_crossedflags"
+  ],
+  "group": "Flags",
+  "keywords": [
+    "celebration",
+    "cross",
+    "crossed",
+    "crossed flags",
+    "Japanese"
+  ],
+  "tts": "crossed flags",
+  "unicode": "1f38c"
+}

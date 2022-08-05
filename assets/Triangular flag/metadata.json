@@ -1,0 +1,15 @@
+{
+  "cldr": "triangular flag",
+  "fromVersion": "0.6",
+  "glyph": "🚩",
+  "glyphAsUtfInEmoticons": [
+    "1f6a9_triangularflagonpost"
+  ],
+  "group": "Flags",
+  "keywords": [
+    "post",
+    "triangular flag"
+  ],
+  "tts": "triangular flag",
+  "unicode": "1f6a9"
+}

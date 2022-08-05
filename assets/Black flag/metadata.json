@@ -1,0 +1,15 @@
+{
+  "cldr": "black flag",
+  "fromVersion": "1.0",
+  "glyph": "🏴",
+  "glyphAsUtfInEmoticons": [
+    "1f3f4_blackflag"
+  ],
+  "group": "Flags",
+  "keywords": [
+    "black flag",
+    "waving"
+  ],
+  "tts": "black flag",
+  "unicode": "1f3f4"
+}
