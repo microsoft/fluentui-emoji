@@ -1,0 +1,16 @@
+{
+  "cldr": "rainbow flag",
+  "fromVersion": "4.0",
+  "glyph": "🏳️‍🌈",
+  "glyphAsUtfInEmoticons": [
+    "flaggaypride"
+  ],
+  "group": "Flags",
+  "keywords": [
+    "pride",
+    "rainbow",
+    "rainbow flag"
+  ],
+  "tts": "rainbow flag",
+  "unicode": "1f3f3 fe0f 200d 1f308"
+}
