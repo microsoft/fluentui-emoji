@@ -1,0 +1,20 @@
+{
+  "cldr": "dashing away",
+  "fromVersion": "0.6",
+  "glyph": "💨",
+  "glyphAsUtfInEmoticons": [
+    "1f4a8_dashsymbol"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "comic",
+    "dash",
+    "dashing away",
+    "running"
+  ],
+  "mappedToEmoticons": [
+    "1f4a8_dashsymbol"
+  ],
+  "tts": "dashing away",
+  "unicode": "1f4a8"
+}

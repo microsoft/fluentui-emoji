@@ -1,0 +1,19 @@
+{
+  "cldr": "oyster",
+  "fromVersion": "12.0",
+  "glyph": "🦪",
+  "glyphAsUtfInEmoticons": [
+    "1f9aa_oyster"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "diving",
+    "oyster",
+    "pearl"
+  ],
+  "mappedToEmoticons": [
+    "1f9aa_oyster"
+  ],
+  "tts": "oyster",
+  "unicode": "1f9aa"
+}

@@ -1,0 +1,15 @@
+{
+  "cldr": "coffin",
+  "fromVersion": "1.0",
+  "glyph": "⚰️",
+  "group": "Objects",
+  "keywords": [
+    "coffin",
+    "death"
+  ],
+  "mappedToEmoticons": [
+    "26b0_coffin"
+  ],
+  "tts": "coffin",
+  "unicode": "26b0 fe0f"
+}

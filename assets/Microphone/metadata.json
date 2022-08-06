@@ -1,0 +1,19 @@
+{
+  "cldr": "microphone",
+  "fromVersion": "0.6",
+  "glyph": "🎤",
+  "glyphAsUtfInEmoticons": [
+    "1f3a4_microphone"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "karaoke",
+    "mic",
+    "microphone"
+  ],
+  "mappedToEmoticons": [
+    "1f3a4_microphone"
+  ],
+  "tts": "microphone",
+  "unicode": "1f3a4"
+}

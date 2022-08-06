@@ -1,0 +1,19 @@
+{
+  "cldr": "egg",
+  "fromVersion": "3.0",
+  "glyph": "🥚",
+  "glyphAsUtfInEmoticons": [
+    "1f95a_egg"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "breakfast",
+    "egg",
+    "food"
+  ],
+  "mappedToEmoticons": [
+    "1f95a_egg"
+  ],
+  "tts": "egg",
+  "unicode": "1f95a"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "sports medal",
+  "fromVersion": "1.0",
+  "glyph": "🏅",
+  "glyphAsUtfInEmoticons": [
+    "1f3c5_sportsmedal"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "medal",
+    "sports medal"
+  ],
+  "mappedToEmoticons": [
+    "1f3c5_sportsmedal"
+  ],
+  "tts": "sports medal",
+  "unicode": "1f3c5"
+}

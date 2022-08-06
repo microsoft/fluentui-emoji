@@ -1,0 +1,16 @@
+{
+  "cldr": "card index dividers",
+  "fromVersion": "0.7",
+  "glyph": "🗂️",
+  "group": "Objects",
+  "keywords": [
+    "card",
+    "dividers",
+    "index"
+  ],
+  "mappedToEmoticons": [
+    "1f5c2_cardindexdividers"
+  ],
+  "tts": "card index dividers",
+  "unicode": "1f5c2 fe0f"
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "divide",
+  "fromVersion": "0.6",
+  "glyph": "➗",
+  "glyphAsUtfInEmoticons": [
+    "2797_heavydivisionsign"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "÷",
+    "divide",
+    "division",
+    "math",
+    "sign"
+  ],
+  "mappedToEmoticons": [
+    "2797_heavydivisionsign"
+  ],
+  "tts": "divide",
+  "unicode": "2797"
+}

@@ -1,0 +1,22 @@
+{
+  "cldr": "cityscape at dusk",
+  "fromVersion": "0.6",
+  "glyph": "🌆",
+  "glyphAsUtfInEmoticons": [
+    "1f306_cityscapeatdusk"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "city",
+    "cityscape at dusk",
+    "dusk",
+    "evening",
+    "landscape",
+    "sunset"
+  ],
+  "mappedToEmoticons": [
+    "1f306_cityscapeatdusk"
+  ],
+  "tts": "cityscape at dusk",
+  "unicode": "1f306"
+}

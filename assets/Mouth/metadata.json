@@ -1,0 +1,18 @@
+{
+  "cldr": "mouth",
+  "fromVersion": "0.6",
+  "glyph": "👄",
+  "glyphAsUtfInEmoticons": [
+    "1f444_mouth"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "lips",
+    "mouth"
+  ],
+  "mappedToEmoticons": [
+    "1f444_mouth"
+  ],
+  "tts": "mouth",
+  "unicode": "1f444"
+}

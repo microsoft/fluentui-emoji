@@ -1,0 +1,20 @@
+{
+  "cldr": "party popper",
+  "fromVersion": "0.6",
+  "glyph": "🎉",
+  "glyphAsUtfInEmoticons": [
+    "1f389_partypopper"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "celebration",
+    "party",
+    "popper",
+    "tada"
+  ],
+  "mappedToEmoticons": [
+    "1f389_partypopper"
+  ],
+  "tts": "party popper",
+  "unicode": "1f389"
+}

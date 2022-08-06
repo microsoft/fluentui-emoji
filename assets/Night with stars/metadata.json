@@ -1,0 +1,19 @@
+{
+  "cldr": "night with stars",
+  "fromVersion": "0.6",
+  "glyph": "🌃",
+  "glyphAsUtfInEmoticons": [
+    "1f303_nightwithstars"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "night",
+    "night with stars",
+    "star"
+  ],
+  "mappedToEmoticons": [
+    "1f303_nightwithstars"
+  ],
+  "tts": "night with stars",
+  "unicode": "1f303"
+}

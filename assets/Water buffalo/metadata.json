@@ -1,0 +1,18 @@
+{
+  "cldr": "water buffalo",
+  "fromVersion": "1.0",
+  "glyph": "🐃",
+  "glyphAsUtfInEmoticons": [
+    "1f403_waterbuffalo"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "buffalo",
+    "water"
+  ],
+  "mappedToEmoticons": [
+    "1f403_waterbuffalo"
+  ],
+  "tts": "water buffalo",
+  "unicode": "1f403"
+}

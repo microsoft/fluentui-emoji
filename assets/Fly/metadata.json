@@ -1,0 +1,21 @@
+{
+  "cldr": "fly",
+  "fromVersion": "13.0",
+  "glyph": "🪰",
+  "glyphAsUtfInEmoticons": [
+    "fly"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "disease",
+    "fly",
+    "maggot",
+    "pest",
+    "rotting"
+  ],
+  "mappedToEmoticons": [
+    "fly"
+  ],
+  "tts": "fly",
+  "unicode": "1fab0"
+}

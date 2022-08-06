@@ -1,0 +1,20 @@
+{
+  "cldr": "face exhaling",
+  "fromVersion": "13.1",
+  "glyph": "😮‍💨",
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "exhale",
+    "face exhaling",
+    "gasp",
+    "groan",
+    "relief",
+    "whisper",
+    "whistle"
+  ],
+  "mappedToEmoticons": [
+    "faceexhaling"
+  ],
+  "tts": "face exhaling",
+  "unicode": "1f62e 200d 1f4a8"
+}

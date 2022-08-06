@@ -1,0 +1,19 @@
+{
+  "cldr": "hospital",
+  "fromVersion": "0.6",
+  "glyph": "🏥",
+  "glyphAsUtfInEmoticons": [
+    "1f3e5_hospital"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "doctor",
+    "hospital",
+    "medicine"
+  ],
+  "mappedToEmoticons": [
+    "1f3e5_hospital"
+  ],
+  "tts": "hospital",
+  "unicode": "1f3e5"
+}

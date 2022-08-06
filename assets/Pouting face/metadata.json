@@ -1,0 +1,22 @@
+{
+  "cldr": "pouting face",
+  "fromVersion": "0.6",
+  "glyph": "😡",
+  "glyphAsUtfInEmoticons": [
+    "angryface"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "angry",
+    "face",
+    "mad",
+    "pouting",
+    "rage",
+    "red"
+  ],
+  "mappedToEmoticons": [
+    "angryface"
+  ],
+  "tts": "pouting face",
+  "unicode": "1f621"
+}

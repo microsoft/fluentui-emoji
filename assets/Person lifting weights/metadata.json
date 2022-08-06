@@ -1,0 +1,27 @@
+{
+  "cldr": "person lifting weights",
+  "fromVersion": "0.7",
+  "glyph": "🏋️",
+  "glyphAsUtfInEmoticons": [
+    "weight_lifter"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "lifter",
+    "person lifting weights",
+    "weight"
+  ],
+  "mappedToEmoticons": [
+    "weight_lifter"
+  ],
+  "tts": "person lifting weights",
+  "unicode": "1f3cb fe0f",
+  "unicodeSkintones": [
+    "1f3cb fe0f",
+    "1f3cb 1f3fb",
+    "1f3cb 1f3fc",
+    "1f3cb 1f3fd",
+    "1f3cb 1f3fe",
+    "1f3cb 1f3ff"
+  ]
+}

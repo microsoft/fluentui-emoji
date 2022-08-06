@@ -1,0 +1,18 @@
+{
+  "cldr": "hammer and wrench",
+  "fromVersion": "0.7",
+  "glyph": "🛠️",
+  "group": "Objects",
+  "keywords": [
+    "hammer",
+    "hammer and wrench",
+    "spanner",
+    "tool",
+    "wrench"
+  ],
+  "mappedToEmoticons": [
+    "1f6e0_hammerandwrench"
+  ],
+  "tts": "hammer and wrench",
+  "unicode": "1f6e0 fe0f"
+}

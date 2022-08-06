@@ -1,0 +1,21 @@
+{
+  "cldr": "right anger bubble",
+  "fromVersion": "0.7",
+  "glyph": "🗯️",
+  "glyphAsUtfInEmoticons": [
+    "1f5ef_rightangerbubble"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "angry",
+    "balloon",
+    "bubble",
+    "mad",
+    "right anger bubble"
+  ],
+  "mappedToEmoticons": [
+    "1f5ef_rightangerbubble"
+  ],
+  "tts": "right anger bubble",
+  "unicode": "1f5ef fe0f"
+}

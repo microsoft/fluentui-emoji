@@ -1,0 +1,22 @@
+{
+  "cldr": "stuffed flatbread",
+  "fromVersion": "3.0",
+  "glyph": "🥙",
+  "glyphAsUtfInEmoticons": [
+    "1f959_stuffedflatbread"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "falafel",
+    "flatbread",
+    "food",
+    "gyro",
+    "kebab",
+    "stuffed"
+  ],
+  "mappedToEmoticons": [
+    "1f959_stuffedflatbread"
+  ],
+  "tts": "stuffed flatbread",
+  "unicode": "1f959"
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "Ophiuchus",
+  "fromVersion": "0.6",
+  "glyph": "⛎",
+  "glyphAsUtfInEmoticons": [
+    "26ce_ophiuchus"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "bearer",
+    "Ophiuchus",
+    "serpent",
+    "snake",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "26ce_ophiuchus"
+  ],
+  "tts": "Ophiuchus",
+  "unicode": "26ce"
+}

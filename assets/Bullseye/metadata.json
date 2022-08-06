@@ -1,0 +1,22 @@
+{
+  "cldr": "bullseye",
+  "fromVersion": "0.6",
+  "glyph": "🎯",
+  "glyphAsUtfInEmoticons": [
+    "target"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "bullseye",
+    "dart",
+    "direct hit",
+    "game",
+    "hit",
+    "target"
+  ],
+  "mappedToEmoticons": [
+    "target"
+  ],
+  "tts": "bullseye",
+  "unicode": "1f3af"
+}

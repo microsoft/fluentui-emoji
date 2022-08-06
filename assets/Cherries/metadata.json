@@ -1,0 +1,21 @@
+{
+  "cldr": "cherries",
+  "fromVersion": "0.6",
+  "glyph": "🍒",
+  "glyphAsUtfInEmoticons": [
+    "cherries"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "berries",
+    "cherries",
+    "cherry",
+    "fruit",
+    "red"
+  ],
+  "mappedToEmoticons": [
+    "cherries"
+  ],
+  "tts": "cherries",
+  "unicode": "1f352"
+}

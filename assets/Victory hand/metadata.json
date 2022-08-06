@@ -1,0 +1,24 @@
+{
+  "cldr": "victory hand",
+  "fromVersion": "0.6",
+  "glyph": "✌️",
+  "group": "People & Body",
+  "keywords": [
+    "hand",
+    "v",
+    "victory"
+  ],
+  "mappedToEmoticons": [
+    "victory"
+  ],
+  "tts": "victory hand",
+  "unicode": "270c fe0f",
+  "unicodeSkintones": [
+    "270c fe0f",
+    "270c 1f3fb",
+    "270c 1f3fc",
+    "270c 1f3fd",
+    "270c 1f3fe",
+    "270c 1f3ff"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "monorail",
+  "fromVersion": "1.0",
+  "glyph": "🚝",
+  "glyphAsUtfInEmoticons": [
+    "1f69d_monorail"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "monorail",
+    "vehicle"
+  ],
+  "mappedToEmoticons": [
+    "1f69d_monorail"
+  ],
+  "tts": "monorail",
+  "unicode": "1f69d"
+}

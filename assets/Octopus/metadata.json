@@ -1,0 +1,17 @@
+{
+  "cldr": "octopus",
+  "fromVersion": "0.6",
+  "glyph": "🐙",
+  "glyphAsUtfInEmoticons": [
+    "octopus"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "octopus"
+  ],
+  "mappedToEmoticons": [
+    "octopus"
+  ],
+  "tts": "octopus",
+  "unicode": "1f419"
+}

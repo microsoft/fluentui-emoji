@@ -1,0 +1,16 @@
+{
+  "cldr": "snowflake",
+  "fromVersion": "0.6",
+  "glyph": "❄️",
+  "group": "Travel & Places",
+  "keywords": [
+    "cold",
+    "snow",
+    "snowflake"
+  ],
+  "mappedToEmoticons": [
+    "snowflake"
+  ],
+  "tts": "snowflake",
+  "unicode": "2744 fe0f"
+}

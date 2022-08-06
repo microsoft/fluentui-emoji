@@ -1,0 +1,20 @@
+{
+  "cldr": "two-hump camel",
+  "fromVersion": "0.6",
+  "glyph": "🐫",
+  "glyphAsUtfInEmoticons": [
+    "1f42b_bactriancamel"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "bactrian",
+    "camel",
+    "hump",
+    "two-hump camel"
+  ],
+  "mappedToEmoticons": [
+    "1f42b_bactriancamel"
+  ],
+  "tts": "two-hump camel",
+  "unicode": "1f42b"
+}

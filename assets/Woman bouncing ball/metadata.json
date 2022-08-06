@@ -1,0 +1,27 @@
+{
+  "cldr": "woman bouncing ball",
+  "fromVersion": "4.0",
+  "glyph": "⛹️‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "woman_bouncing_ball"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "ball",
+    "woman",
+    "woman bouncing ball"
+  ],
+  "mappedToEmoticons": [
+    "woman_bouncing_ball"
+  ],
+  "tts": "woman bouncing ball",
+  "unicode": "26f9 fe0f 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "26f9 fe0f 200d 2640 fe0f",
+    "26f9 1f3fb 200d 2640 fe0f",
+    "26f9 1f3fc 200d 2640 fe0f",
+    "26f9 1f3fd 200d 2640 fe0f",
+    "26f9 1f3fe 200d 2640 fe0f",
+    "26f9 1f3ff 200d 2640 fe0f"
+  ]
+}

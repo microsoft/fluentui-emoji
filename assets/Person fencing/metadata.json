@@ -1,0 +1,20 @@
+{
+  "cldr": "person fencing",
+  "fromVersion": "3.0",
+  "glyph": "🤺",
+  "glyphAsUtfInEmoticons": [
+    "womanfencer"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "fencer",
+    "fencing",
+    "person fencing",
+    "sword"
+  ],
+  "mappedToEmoticons": [
+    "womanfencer"
+  ],
+  "tts": "person fencing",
+  "unicode": "1f93a"
+}

@@ -1,0 +1,27 @@
+{
+  "cldr": "selfie",
+  "fromVersion": "3.0",
+  "glyph": "🤳",
+  "glyphAsUtfInEmoticons": [
+    "selfie"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "camera",
+    "phone",
+    "selfie"
+  ],
+  "mappedToEmoticons": [
+    "selfiehand"
+  ],
+  "tts": "selfie",
+  "unicode": "1f933",
+  "unicodeSkintones": [
+    "1f933",
+    "1f933 1f3fb",
+    "1f933 1f3fc",
+    "1f933 1f3fd",
+    "1f933 1f3fe",
+    "1f933 1f3ff"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "orange circle",
+  "fromVersion": "12.0",
+  "glyph": "🟠",
+  "glyphAsUtfInEmoticons": [
+    "1f7e0_orangecircle"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "circle",
+    "orange"
+  ],
+  "mappedToEmoticons": [
+    "1f7e0_orangecircle"
+  ],
+  "tts": "orange circle",
+  "unicode": "1f7e0"
+}

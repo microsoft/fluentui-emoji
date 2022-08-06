@@ -1,0 +1,20 @@
+{
+  "cldr": "love letter",
+  "fromVersion": "0.6",
+  "glyph": "💌",
+  "glyphAsUtfInEmoticons": [
+    "loveletter"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "heart",
+    "letter",
+    "love",
+    "mail"
+  ],
+  "mappedToEmoticons": [
+    "loveletter"
+  ],
+  "tts": "love letter",
+  "unicode": "1f48c"
+}

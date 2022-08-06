@@ -1,0 +1,22 @@
+{
+  "cldr": "ten-thirty",
+  "fromVersion": "0.7",
+  "glyph": "🕥",
+  "glyphAsUtfInEmoticons": [
+    "1f565_tenthirty"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "10",
+    "10:30",
+    "clock",
+    "ten",
+    "ten-thirty",
+    "thirty"
+  ],
+  "mappedToEmoticons": [
+    "1f565_tenthirty"
+  ],
+  "tts": "ten-thirty",
+  "unicode": "1f565"
+}

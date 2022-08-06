@@ -1,0 +1,19 @@
+{
+  "cldr": "litter in bin sign",
+  "fromVersion": "1.0",
+  "glyph": "🚮",
+  "glyphAsUtfInEmoticons": [
+    "1f6ae_putlitterinitsplacesymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "litter",
+    "litter bin",
+    "litter in bin sign"
+  ],
+  "mappedToEmoticons": [
+    "1f6ae_putlitterinitsplacesymbol"
+  ],
+  "tts": "litter in bin sign",
+  "unicode": "1f6ae"
+}

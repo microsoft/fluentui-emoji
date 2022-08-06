@@ -1,0 +1,17 @@
+{
+  "cldr": "warning",
+  "fromVersion": "0.6",
+  "glyph": "⚠️",
+  "glyphAsUtfInEmoticons": [
+    "26a0_warningsign"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "warning"
+  ],
+  "mappedToEmoticons": [
+    "26a0_warningsign"
+  ],
+  "tts": "warning",
+  "unicode": "26a0 fe0f"
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "sport utility vehicle",
+  "fromVersion": "0.6",
+  "glyph": "🚙",
+  "glyphAsUtfInEmoticons": [
+    "1f699_recreationalvehicle"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "recreational",
+    "sport utility",
+    "sport utility vehicle"
+  ],
+  "mappedToEmoticons": [
+    "1f699_recreationalvehicle"
+  ],
+  "tts": "sport utility vehicle",
+  "unicode": "1f699"
+}

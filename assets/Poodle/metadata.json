@@ -1,0 +1,18 @@
+{
+  "cldr": "poodle",
+  "fromVersion": "0.6",
+  "glyph": "🐩",
+  "glyphAsUtfInEmoticons": [
+    "1f429_poodle"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "dog",
+    "poodle"
+  ],
+  "mappedToEmoticons": [
+    "1f429_poodle"
+  ],
+  "tts": "poodle",
+  "unicode": "1f429"
+}

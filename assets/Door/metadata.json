@@ -1,0 +1,17 @@
+{
+  "cldr": "door",
+  "fromVersion": "0.6",
+  "glyph": "🚪",
+  "glyphAsUtfInEmoticons": [
+    "1f6aa_door"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "door"
+  ],
+  "mappedToEmoticons": [
+    "1f6aa_door"
+  ],
+  "tts": "door",
+  "unicode": "1f6aa"
+}

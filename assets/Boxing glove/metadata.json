@@ -1,0 +1,18 @@
+{
+  "cldr": "boxing glove",
+  "fromVersion": "3.0",
+  "glyph": "🥊",
+  "glyphAsUtfInEmoticons": [
+    "punch"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "boxing",
+    "glove"
+  ],
+  "mappedToEmoticons": [
+    "boxingglove"
+  ],
+  "tts": "boxing glove",
+  "unicode": "1f94a"
+}

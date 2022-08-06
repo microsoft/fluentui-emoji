@@ -1,0 +1,16 @@
+{
+  "cldr": "snowman",
+  "fromVersion": "0.7",
+  "glyph": "☃️",
+  "group": "Travel & Places",
+  "keywords": [
+    "cold",
+    "snow",
+    "snowman"
+  ],
+  "mappedToEmoticons": [
+    "snegovik"
+  ],
+  "tts": "snowman",
+  "unicode": "2603 fe0f"
+}

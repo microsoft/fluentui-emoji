@@ -1,0 +1,30 @@
+{
+  "cldr": "woman superhero",
+  "fromVersion": "11.0",
+  "glyph": "🦸‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "hero"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "good",
+    "hero",
+    "heroine",
+    "superpower",
+    "woman",
+    "woman superhero"
+  ],
+  "mappedToEmoticons": [
+    "hero"
+  ],
+  "tts": "woman superhero",
+  "unicode": "1f9b8 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f9b8 200d 2640 fe0f",
+    "1f9b8 1f3fb 200d 2640 fe0f",
+    "1f9b8 1f3fc 200d 2640 fe0f",
+    "1f9b8 1f3fd 200d 2640 fe0f",
+    "1f9b8 1f3fe 200d 2640 fe0f",
+    "1f9b8 1f3ff 200d 2640 fe0f"
+  ]
+}

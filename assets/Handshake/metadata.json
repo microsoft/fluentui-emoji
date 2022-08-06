@@ -1,0 +1,29 @@
+{
+  "cldr": "handshake",
+  "fromVersion": "3.0",
+  "glyph": "🤝",
+  "glyphAsUtfInEmoticons": [
+    "handshake"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "agreement",
+    "hand",
+    "handshake",
+    "meeting",
+    "shake"
+  ],
+  "mappedToEmoticons": [
+    "handshake"
+  ],
+  "tts": "handshake",
+  "unicode": "1f91d",
+  "unicodeSkintones": [
+    "1f91d",
+    "1f64f",
+    "1f64f 1f3fb",
+    "1f64f 1f3fc",
+    "1f64f 1f3fd",
+    "1f64f 1f3fe"
+  ]
+}

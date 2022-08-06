@@ -1,0 +1,26 @@
+{
+  "cldr": "woman surfing",
+  "fromVersion": "4.0",
+  "glyph": "🏄‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "womansurfer"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "surfing",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "womansurfer"
+  ],
+  "tts": "woman surfing",
+  "unicode": "1f3c4 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f3c4 200d 2640 fe0f",
+    "1f3c4 1f3fb 200d 2640 fe0f",
+    "1f3c4 1f3fc 200d 2640 fe0f",
+    "1f3c4 1f3fd 200d 2640 fe0f",
+    "1f3c4 1f3fe 200d 2640 fe0f",
+    "1f3c4 1f3ff 200d 2640 fe0f"
+  ]
+}

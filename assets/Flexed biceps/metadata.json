@@ -1,0 +1,29 @@
+{
+  "cldr": "flexed biceps",
+  "fromVersion": "0.6",
+  "glyph": "💪",
+  "glyphAsUtfInEmoticons": [
+    "muscle"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "biceps",
+    "comic",
+    "flex",
+    "flexed biceps",
+    "muscle"
+  ],
+  "mappedToEmoticons": [
+    "muscle"
+  ],
+  "tts": "flexed biceps",
+  "unicode": "1f4aa",
+  "unicodeSkintones": [
+    "1f4aa",
+    "1f4aa 1f3fb",
+    "1f4aa 1f3fc",
+    "1f4aa 1f3fd",
+    "1f4aa 1f3fe",
+    "1f4aa 1f3ff"
+  ]
+}

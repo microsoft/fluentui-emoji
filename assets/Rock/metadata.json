@@ -1,0 +1,21 @@
+{
+  "cldr": "rock",
+  "fromVersion": "13.0",
+  "glyph": "🪨",
+  "glyphAsUtfInEmoticons": [
+    "stone"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "boulder",
+    "heavy",
+    "rock",
+    "solid",
+    "stone"
+  ],
+  "mappedToEmoticons": [
+    "stone"
+  ],
+  "tts": "rock",
+  "unicode": "1faa8"
+}

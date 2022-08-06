@@ -1,0 +1,18 @@
+{
+  "cldr": "kimono",
+  "fromVersion": "0.6",
+  "glyph": "👘",
+  "glyphAsUtfInEmoticons": [
+    "1f458_kimono"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "clothing",
+    "kimono"
+  ],
+  "mappedToEmoticons": [
+    "1f458_kimono"
+  ],
+  "tts": "kimono",
+  "unicode": "1f458"
+}

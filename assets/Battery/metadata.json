@@ -1,0 +1,17 @@
+{
+  "cldr": "battery",
+  "fromVersion": "0.6",
+  "glyph": "🔋",
+  "glyphAsUtfInEmoticons": [
+    "1f50b_battery"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "battery"
+  ],
+  "mappedToEmoticons": [
+    "1f50b_battery"
+  ],
+  "tts": "battery",
+  "unicode": "1f50b"
+}

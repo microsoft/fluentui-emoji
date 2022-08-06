@@ -1,0 +1,19 @@
+{
+  "cldr": "oncoming police car",
+  "fromVersion": "0.7",
+  "glyph": "🚔",
+  "glyphAsUtfInEmoticons": [
+    "1f694_oncomingpolicecar"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "car",
+    "oncoming",
+    "police"
+  ],
+  "mappedToEmoticons": [
+    "1f694_oncomingpolicecar"
+  ],
+  "tts": "oncoming police car",
+  "unicode": "1f694"
+}

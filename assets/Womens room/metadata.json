@@ -1,0 +1,21 @@
+{
+  "cldr": "women’s room",
+  "fromVersion": "0.6",
+  "glyph": "🚺",
+  "glyphAsUtfInEmoticons": [
+    "1f6ba_womenssymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "lavatory",
+    "restroom",
+    "wc",
+    "woman",
+    "women’s room"
+  ],
+  "mappedToEmoticons": [
+    "1f6ba_womenssymbol"
+  ],
+  "tts": "women’s room",
+  "unicode": "1f6ba"
+}

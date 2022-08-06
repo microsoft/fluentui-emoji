@@ -1,0 +1,18 @@
+{
+  "cldr": "transgender flag",
+  "fromVersion": "13.0",
+  "glyph": "🏳️‍⚧️",
+  "group": "Flags",
+  "keywords": [
+    "flag",
+    "light blue",
+    "pink",
+    "transgender",
+    "white"
+  ],
+  "mappedToEmoticons": [
+    "flagtransgender"
+  ],
+  "tts": "transgender flag",
+  "unicode": "1f3f3 fe0f 200d 26a7 fe0f"
+}

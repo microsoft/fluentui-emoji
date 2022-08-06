@@ -1,0 +1,20 @@
+{
+  "cldr": "swan",
+  "fromVersion": "11.0",
+  "glyph": "🦢",
+  "glyphAsUtfInEmoticons": [
+    "1f9a2_swan"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "bird",
+    "cygnet",
+    "swan",
+    "ugly duckling"
+  ],
+  "mappedToEmoticons": [
+    "1f9a2_swan"
+  ],
+  "tts": "swan",
+  "unicode": "1f9a2"
+}

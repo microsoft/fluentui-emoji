@@ -1,0 +1,22 @@
+{
+  "cldr": "mosquito",
+  "fromVersion": "11.0",
+  "glyph": "🦟",
+  "glyphAsUtfInEmoticons": [
+    "1f99f_mosquito"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "disease",
+    "fever",
+    "malaria",
+    "mosquito",
+    "pest",
+    "virus"
+  ],
+  "mappedToEmoticons": [
+    "1f99f_mosquito"
+  ],
+  "tts": "mosquito",
+  "unicode": "1f99f"
+}

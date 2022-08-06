@@ -1,0 +1,19 @@
+{
+  "cldr": "dotted six-pointed star",
+  "fromVersion": "0.6",
+  "glyph": "🔯",
+  "glyphAsUtfInEmoticons": [
+    "1f52f_starwithdot"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "dotted six-pointed star",
+    "fortune",
+    "star"
+  ],
+  "mappedToEmoticons": [
+    "1f52f_starwithdot"
+  ],
+  "tts": "dotted six-pointed star",
+  "unicode": "1f52f"
+}

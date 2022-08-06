@@ -1,0 +1,21 @@
+{
+  "cldr": "ATM sign",
+  "fromVersion": "0.6",
+  "glyph": "🏧",
+  "glyphAsUtfInEmoticons": [
+    "1f3e7_automatedtellermachine"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "atm",
+    "ATM sign",
+    "automated",
+    "bank",
+    "teller"
+  ],
+  "mappedToEmoticons": [
+    "1f3e7_automatedtellermachine"
+  ],
+  "tts": "ATM sign",
+  "unicode": "1f3e7"
+}

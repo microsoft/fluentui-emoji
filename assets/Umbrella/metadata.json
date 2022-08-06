@@ -1,0 +1,19 @@
+{
+  "cldr": "umbrella",
+  "fromVersion": "0.7",
+  "glyph": "☂️",
+  "glyphAsUtfInEmoticons": [
+    "2602_umbrella"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "clothing",
+    "rain",
+    "umbrella"
+  ],
+  "mappedToEmoticons": [
+    "2602_umbrella"
+  ],
+  "tts": "umbrella",
+  "unicode": "2602 fe0f"
+}

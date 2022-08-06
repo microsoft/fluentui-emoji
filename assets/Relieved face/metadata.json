@@ -1,0 +1,18 @@
+{
+  "cldr": "relieved face",
+  "fromVersion": "0.6",
+  "glyph": "😌",
+  "glyphAsUtfInEmoticons": [
+    "relieved"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "relieved"
+  ],
+  "mappedToEmoticons": [
+    "relieved"
+  ],
+  "tts": "relieved face",
+  "unicode": "1f60c"
+}

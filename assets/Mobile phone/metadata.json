@@ -1,0 +1,20 @@
+{
+  "cldr": "mobile phone",
+  "fromVersion": "0.6",
+  "glyph": "📱",
+  "glyphAsUtfInEmoticons": [
+    "phone"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "cell",
+    "mobile",
+    "phone",
+    "telephone"
+  ],
+  "mappedToEmoticons": [
+    "phone"
+  ],
+  "tts": "mobile phone",
+  "unicode": "1f4f1"
+}

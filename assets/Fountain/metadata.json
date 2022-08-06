@@ -1,0 +1,17 @@
+{
+  "cldr": "fountain",
+  "fromVersion": "0.6",
+  "glyph": "⛲",
+  "glyphAsUtfInEmoticons": [
+    "26f2_fountain"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "fountain"
+  ],
+  "mappedToEmoticons": [
+    "26f2_fountain"
+  ],
+  "tts": "fountain",
+  "unicode": "26f2"
+}

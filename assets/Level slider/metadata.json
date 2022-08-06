@@ -1,0 +1,16 @@
+{
+  "cldr": "level slider",
+  "fromVersion": "0.7",
+  "glyph": "🎚️",
+  "group": "Objects",
+  "keywords": [
+    "level",
+    "music",
+    "slider"
+  ],
+  "mappedToEmoticons": [
+    "1f39a_levelslider"
+  ],
+  "tts": "level slider",
+  "unicode": "1f39a fe0f"
+}

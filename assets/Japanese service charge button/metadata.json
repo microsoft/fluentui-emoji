@@ -1,0 +1,21 @@
+{
+  "cldr": "Japanese “service charge” button",
+  "fromVersion": "0.6",
+  "glyph": "🈂️",
+  "glyphAsUtfInEmoticons": [
+    "1f202_squaredkatakanasa"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "“service charge”",
+    "Japanese",
+    "Japanese “service charge” button",
+    "katakana",
+    "サ"
+  ],
+  "mappedToEmoticons": [
+    "1f202_squaredkatakanasa"
+  ],
+  "tts": "Japanese “service charge” button",
+  "unicode": "1f202 fe0f"
+}

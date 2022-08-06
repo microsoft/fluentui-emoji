@@ -1,0 +1,18 @@
+{
+  "cldr": "pig",
+  "fromVersion": "1.0",
+  "glyph": "🐖",
+  "glyphAsUtfInEmoticons": [
+    "pig"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "pig",
+    "sow"
+  ],
+  "mappedToEmoticons": [
+    "pig"
+  ],
+  "tts": "pig",
+  "unicode": "1f416"
+}

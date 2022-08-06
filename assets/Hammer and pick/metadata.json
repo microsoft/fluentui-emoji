@@ -1,0 +1,17 @@
+{
+  "cldr": "hammer and pick",
+  "fromVersion": "1.0",
+  "glyph": "⚒️",
+  "group": "Objects",
+  "keywords": [
+    "hammer",
+    "hammer and pick",
+    "pick",
+    "tool"
+  ],
+  "mappedToEmoticons": [
+    "2692_hammerandpick"
+  ],
+  "tts": "hammer and pick",
+  "unicode": "2692 fe0f"
+}

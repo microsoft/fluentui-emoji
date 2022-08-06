@@ -1,0 +1,22 @@
+{
+  "cldr": "open mailbox with lowered flag",
+  "fromVersion": "0.7",
+  "glyph": "📭",
+  "glyphAsUtfInEmoticons": [
+    "1f4ed_openmailboxwithloweredflag"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "lowered",
+    "mail",
+    "mailbox",
+    "open",
+    "open mailbox with lowered flag",
+    "postbox"
+  ],
+  "mappedToEmoticons": [
+    "1f4ed_openmailboxwithloweredflag"
+  ],
+  "tts": "open mailbox with lowered flag",
+  "unicode": "1f4ed"
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "volleyball",
+  "fromVersion": "1.0",
+  "glyph": "🏐",
+  "glyphAsUtfInEmoticons": [
+    "1f3d0_volleyball"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "ball",
+    "game",
+    "volleyball"
+  ],
+  "mappedToEmoticons": [
+    "1f3d0_volleyball"
+  ],
+  "tts": "volleyball",
+  "unicode": "1f3d0"
+}

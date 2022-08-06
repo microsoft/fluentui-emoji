@@ -1,0 +1,19 @@
+{
+  "cldr": "curling stone",
+  "fromVersion": "5.0",
+  "glyph": "🥌",
+  "glyphAsUtfInEmoticons": [
+    "1f94c_curlingstone"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "curling stone",
+    "game",
+    "rock"
+  ],
+  "mappedToEmoticons": [
+    "1f94c_curlingstone"
+  ],
+  "tts": "curling stone",
+  "unicode": "1f94c"
+}

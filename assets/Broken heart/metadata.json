@@ -1,0 +1,19 @@
+{
+  "cldr": "broken heart",
+  "fromVersion": "0.6",
+  "glyph": "💔",
+  "glyphAsUtfInEmoticons": [
+    "brokenheart"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "break",
+    "broken",
+    "broken heart"
+  ],
+  "mappedToEmoticons": [
+    "brokenheart"
+  ],
+  "tts": "broken heart",
+  "unicode": "1f494"
+}

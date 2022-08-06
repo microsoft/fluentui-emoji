@@ -1,0 +1,19 @@
+{
+  "cldr": "black medium-small square",
+  "fromVersion": "0.6",
+  "glyph": "◾",
+  "glyphAsUtfInEmoticons": [
+    "25fe_blackmediumsmallsquare"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "black medium-small square",
+    "geometric",
+    "square"
+  ],
+  "mappedToEmoticons": [
+    "25fe_blackmediumsmallsquare"
+  ],
+  "tts": "black medium-small square",
+  "unicode": "25fe"
+}

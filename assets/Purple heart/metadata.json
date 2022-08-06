@@ -1,0 +1,18 @@
+{
+  "cldr": "purple heart",
+  "fromVersion": "0.6",
+  "glyph": "💜",
+  "glyphAsUtfInEmoticons": [
+    "heartpurple"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "purple",
+    "purple heart"
+  ],
+  "mappedToEmoticons": [
+    "heartpurple"
+  ],
+  "tts": "purple heart",
+  "unicode": "1f49c"
+}

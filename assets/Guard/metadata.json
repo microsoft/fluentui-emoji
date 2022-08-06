@@ -1,0 +1,25 @@
+{
+  "cldr": "guard",
+  "fromVersion": "0.6",
+  "glyph": "💂",
+  "glyphAsUtfInEmoticons": [
+    "guard"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "guard"
+  ],
+  "mappedToEmoticons": [
+    "guard"
+  ],
+  "tts": "guard",
+  "unicode": "1f482",
+  "unicodeSkintones": [
+    "1f482",
+    "1f482 1f3fb",
+    "1f482 1f3fc",
+    "1f482 1f3fd",
+    "1f482 1f3fe",
+    "1f482 1f3ff"
+  ]
+}

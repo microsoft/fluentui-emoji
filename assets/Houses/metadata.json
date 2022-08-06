@@ -1,0 +1,14 @@
+{
+  "cldr": "houses",
+  "fromVersion": "0.7",
+  "glyph": "🏘️",
+  "group": "Travel & Places",
+  "keywords": [
+    "houses"
+  ],
+  "mappedToEmoticons": [
+    "1f3d8_housebuildings"
+  ],
+  "tts": "houses",
+  "unicode": "1f3d8 fe0f"
+}

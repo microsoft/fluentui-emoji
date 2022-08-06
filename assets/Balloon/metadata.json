@@ -1,0 +1,18 @@
+{
+  "cldr": "balloon",
+  "fromVersion": "0.6",
+  "glyph": "🎈",
+  "glyphAsUtfInEmoticons": [
+    "1f388_balloon"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "balloon",
+    "celebration"
+  ],
+  "mappedToEmoticons": [
+    "1f388_balloon"
+  ],
+  "tts": "balloon",
+  "unicode": "1f388"
+}

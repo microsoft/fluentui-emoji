@@ -1,0 +1,22 @@
+{
+  "cldr": "red envelope",
+  "fromVersion": "11.0",
+  "glyph": "🧧",
+  "glyphAsUtfInEmoticons": [
+    "1f9e7_redenvelope"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "gift",
+    "good luck",
+    "hóngbāo",
+    "lai see",
+    "money",
+    "red envelope"
+  ],
+  "mappedToEmoticons": [
+    "1f9e7_redenvelope"
+  ],
+  "tts": "red envelope",
+  "unicode": "1f9e7"
+}

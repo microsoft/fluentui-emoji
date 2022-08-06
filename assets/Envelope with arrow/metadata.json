@@ -1,0 +1,22 @@
+{
+  "cldr": "envelope with arrow",
+  "fromVersion": "0.6",
+  "glyph": "📩",
+  "glyphAsUtfInEmoticons": [
+    "1f4e9_envelopewitharrow"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "arrow",
+    "e-mail",
+    "email",
+    "envelope",
+    "envelope with arrow",
+    "outgoing"
+  ],
+  "mappedToEmoticons": [
+    "1f4e9_envelopewitharrow"
+  ],
+  "tts": "envelope with arrow",
+  "unicode": "1f4e9"
+}

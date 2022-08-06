@@ -1,0 +1,18 @@
+{
+  "cldr": "skateboard",
+  "fromVersion": "11.0",
+  "glyph": "🛹",
+  "glyphAsUtfInEmoticons": [
+    "skate"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "board",
+    "skateboard"
+  ],
+  "mappedToEmoticons": [
+    "skate"
+  ],
+  "tts": "skateboard",
+  "unicode": "1f6f9"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "takeout box",
+  "fromVersion": "5.0",
+  "glyph": "🥡",
+  "glyphAsUtfInEmoticons": [
+    "1f961_takeoutbox"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "oyster pail",
+    "takeout box"
+  ],
+  "mappedToEmoticons": [
+    "1f961_takeoutbox"
+  ],
+  "tts": "takeout box",
+  "unicode": "1f961"
+}

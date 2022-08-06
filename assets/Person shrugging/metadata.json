@@ -1,0 +1,29 @@
+{
+  "cldr": "person shrugging",
+  "fromVersion": "3.0",
+  "glyph": "🤷",
+  "glyphAsUtfInEmoticons": [
+    "manshrug"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "doubt",
+    "ignorance",
+    "indifference",
+    "person shrugging",
+    "shrug"
+  ],
+  "mappedToEmoticons": [
+    "shrug"
+  ],
+  "tts": "person shrugging",
+  "unicode": "1f937",
+  "unicodeSkintones": [
+    "1f937",
+    "1f937 1f3fb",
+    "1f937 1f3fc",
+    "1f937 1f3fd",
+    "1f937 1f3fe",
+    "1f937 1f3ff"
+  ]
+}

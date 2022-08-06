@@ -1,0 +1,18 @@
+{
+  "cldr": "bus stop",
+  "fromVersion": "0.6",
+  "glyph": "🚏",
+  "glyphAsUtfInEmoticons": [
+    "1f68f_busstop"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "bus",
+    "stop"
+  ],
+  "mappedToEmoticons": [
+    "1f68f_busstop"
+  ],
+  "tts": "bus stop",
+  "unicode": "1f68f"
+}

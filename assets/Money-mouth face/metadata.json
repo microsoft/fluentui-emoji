@@ -1,0 +1,20 @@
+{
+  "cldr": "money-mouth face",
+  "fromVersion": "1.0",
+  "glyph": "🤑",
+  "glyphAsUtfInEmoticons": [
+    "1f911_moneymouthface"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "money",
+    "money-mouth face",
+    "mouth"
+  ],
+  "mappedToEmoticons": [
+    "1f911_moneymouthface"
+  ],
+  "tts": "money-mouth face",
+  "unicode": "1f911"
+}

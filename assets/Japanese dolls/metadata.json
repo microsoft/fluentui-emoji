@@ -1,0 +1,21 @@
+{
+  "cldr": "Japanese dolls",
+  "fromVersion": "0.6",
+  "glyph": "🎎",
+  "glyphAsUtfInEmoticons": [
+    "1f38e_japanesedolls"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "celebration",
+    "doll",
+    "festival",
+    "Japanese",
+    "Japanese dolls"
+  ],
+  "mappedToEmoticons": [
+    "1f38e_japanesedolls"
+  ],
+  "tts": "Japanese dolls",
+  "unicode": "1f38e"
+}

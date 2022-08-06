@@ -1,0 +1,18 @@
+{
+  "cldr": "roller skate",
+  "fromVersion": "13.0",
+  "glyph": "🛼",
+  "glyphAsUtfInEmoticons": [
+    "rollerskate"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "roller",
+    "skate"
+  ],
+  "mappedToEmoticons": [
+    "rollerskate"
+  ],
+  "tts": "roller skate",
+  "unicode": "1f6fc"
+}

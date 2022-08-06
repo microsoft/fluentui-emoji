@@ -1,0 +1,19 @@
+{
+  "cldr": "grapes",
+  "fromVersion": "0.6",
+  "glyph": "🍇",
+  "glyphAsUtfInEmoticons": [
+    "grapes"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "fruit",
+    "grape",
+    "grapes"
+  ],
+  "mappedToEmoticons": [
+    "grapes"
+  ],
+  "tts": "grapes",
+  "unicode": "1f347"
+}

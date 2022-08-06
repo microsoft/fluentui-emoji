@@ -1,0 +1,21 @@
+{
+  "cldr": "Japanese “discount” button",
+  "fromVersion": "0.6",
+  "glyph": "🈹",
+  "glyphAsUtfInEmoticons": [
+    "1f239_discount"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "“discount”",
+    "ideograph",
+    "Japanese",
+    "Japanese “discount” button",
+    "割"
+  ],
+  "mappedToEmoticons": [
+    "1f239_discount"
+  ],
+  "tts": "Japanese “discount” button",
+  "unicode": "1f239"
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "shopping cart",
+  "fromVersion": "3.0",
+  "glyph": "🛒",
+  "glyphAsUtfInEmoticons": [
+    "1f6d2_shoppingtrolley"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "cart",
+    "shopping",
+    "trolley"
+  ],
+  "mappedToEmoticons": [
+    "1f6d2_shoppingtrolley"
+  ],
+  "tts": "shopping cart",
+  "unicode": "1f6d2"
+}

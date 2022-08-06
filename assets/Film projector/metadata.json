@@ -1,0 +1,18 @@
+{
+  "cldr": "film projector",
+  "fromVersion": "0.7",
+  "glyph": "📽️",
+  "group": "Objects",
+  "keywords": [
+    "cinema",
+    "film",
+    "movie",
+    "projector",
+    "video"
+  ],
+  "mappedToEmoticons": [
+    "1f4fd_filmprojector"
+  ],
+  "tts": "film projector",
+  "unicode": "1f4fd fe0f"
+}

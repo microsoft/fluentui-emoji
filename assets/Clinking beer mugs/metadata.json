@@ -1,0 +1,22 @@
+{
+  "cldr": "clinking beer mugs",
+  "fromVersion": "0.6",
+  "glyph": "🍻",
+  "glyphAsUtfInEmoticons": [
+    "1f37b_clinkingbeermugs"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bar",
+    "beer",
+    "clink",
+    "clinking beer mugs",
+    "drink",
+    "mug"
+  ],
+  "mappedToEmoticons": [
+    "1f37b_clinkingbeermugs"
+  ],
+  "tts": "clinking beer mugs",
+  "unicode": "1f37b"
+}

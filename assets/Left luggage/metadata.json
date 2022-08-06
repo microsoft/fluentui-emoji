@@ -1,0 +1,20 @@
+{
+  "cldr": "left luggage",
+  "fromVersion": "1.0",
+  "glyph": "🛅",
+  "glyphAsUtfInEmoticons": [
+    "1f6c5_leftluggage"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "baggage",
+    "left luggage",
+    "locker",
+    "luggage"
+  ],
+  "mappedToEmoticons": [
+    "1f6c5_leftluggage"
+  ],
+  "tts": "left luggage",
+  "unicode": "1f6c5"
+}

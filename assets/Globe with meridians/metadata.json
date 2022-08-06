@@ -1,0 +1,21 @@
+{
+  "cldr": "globe with meridians",
+  "fromVersion": "1.0",
+  "glyph": "🌐",
+  "glyphAsUtfInEmoticons": [
+    "1f310_globewithmeridians"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "earth",
+    "globe",
+    "globe with meridians",
+    "meridians",
+    "world"
+  ],
+  "mappedToEmoticons": [
+    "1f310_globewithmeridians"
+  ],
+  "tts": "globe with meridians",
+  "unicode": "1f310"
+}

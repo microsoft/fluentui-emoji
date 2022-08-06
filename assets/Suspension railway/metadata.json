@@ -1,0 +1,18 @@
+{
+  "cldr": "suspension railway",
+  "fromVersion": "1.0",
+  "glyph": "🚟",
+  "glyphAsUtfInEmoticons": [
+    "1f69f_suspensionrailway"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "railway",
+    "suspension"
+  ],
+  "mappedToEmoticons": [
+    "1f69f_suspensionrailway"
+  ],
+  "tts": "suspension railway",
+  "unicode": "1f69f"
+}

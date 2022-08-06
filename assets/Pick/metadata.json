@@ -1,0 +1,16 @@
+{
+  "cldr": "pick",
+  "fromVersion": "0.7",
+  "glyph": "⛏️",
+  "group": "Objects",
+  "keywords": [
+    "mining",
+    "pick",
+    "tool"
+  ],
+  "mappedToEmoticons": [
+    "26cf_pick"
+  ],
+  "tts": "pick",
+  "unicode": "26cf fe0f"
+}

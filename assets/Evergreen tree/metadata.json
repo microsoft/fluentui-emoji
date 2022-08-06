@@ -1,0 +1,18 @@
+{
+  "cldr": "evergreen tree",
+  "fromVersion": "1.0",
+  "glyph": "🌲",
+  "glyphAsUtfInEmoticons": [
+    "evergreentree"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "evergreen tree",
+    "tree"
+  ],
+  "mappedToEmoticons": [
+    "evergreentree"
+  ],
+  "tts": "evergreen tree",
+  "unicode": "1f332"
+}

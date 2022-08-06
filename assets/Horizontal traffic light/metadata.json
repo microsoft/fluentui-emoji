@@ -1,0 +1,20 @@
+{
+  "cldr": "horizontal traffic light",
+  "fromVersion": "0.6",
+  "glyph": "🚥",
+  "glyphAsUtfInEmoticons": [
+    "1f6a5_horizontaltrafficlight"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "horizontal traffic light",
+    "light",
+    "signal",
+    "traffic"
+  ],
+  "mappedToEmoticons": [
+    "1f6a5_horizontaltrafficlight"
+  ],
+  "tts": "horizontal traffic light",
+  "unicode": "1f6a5"
+}

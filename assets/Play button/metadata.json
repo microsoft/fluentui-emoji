@@ -1,0 +1,21 @@
+{
+  "cldr": "play button",
+  "fromVersion": "0.6",
+  "glyph": "▶️",
+  "glyphAsUtfInEmoticons": [
+    "25b6_blackrightpointingtriangle"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "play",
+    "play button",
+    "right",
+    "triangle"
+  ],
+  "mappedToEmoticons": [
+    "25b6_blackrightpointingtriangle"
+  ],
+  "tts": "play button",
+  "unicode": "25b6 fe0f"
+}

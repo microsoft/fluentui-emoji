@@ -1,0 +1,18 @@
+{
+  "cldr": "keycap: 0",
+  "fromVersion": "0.6",
+  "glyph": "0️⃣",
+  "glyphAsUtfInEmoticons": [
+    "keycapdigitzero"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "keycap",
+    "zero"
+  ],
+  "mappedToEmoticons": [
+    "keycapdigitzero"
+  ],
+  "tts": "keycap: 0",
+  "unicode": "0030 fe0f 20e3"
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "field hockey",
+  "fromVersion": "1.0",
+  "glyph": "🏑",
+  "glyphAsUtfInEmoticons": [
+    "1f3d1_fieldhockeystickandball"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "ball",
+    "field",
+    "game",
+    "hockey",
+    "stick"
+  ],
+  "mappedToEmoticons": [
+    "1f3d1_fieldhockeystickandball"
+  ],
+  "tts": "field hockey",
+  "unicode": "1f3d1"
+}

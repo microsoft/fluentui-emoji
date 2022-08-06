@@ -1,0 +1,20 @@
+{
+  "cldr": "lollipop",
+  "fromVersion": "0.6",
+  "glyph": "🍭",
+  "glyphAsUtfInEmoticons": [
+    "1f36d_lollipop"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "candy",
+    "dessert",
+    "lollipop",
+    "sweet"
+  ],
+  "mappedToEmoticons": [
+    "1f36d_lollipop"
+  ],
+  "tts": "lollipop",
+  "unicode": "1f36d"
+}

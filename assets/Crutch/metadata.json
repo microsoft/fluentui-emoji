@@ -1,0 +1,16 @@
+{
+  "cldr": "crutch",
+  "fromVersion": "14.0",
+  "glyph": "🩼",
+  "group": "Objects",
+  "keywords": [
+    "cane",
+    "crutch",
+    "disability",
+    "hurt",
+    "mobility aid",
+    "stick"
+  ],
+  "tts": "crutch",
+  "unicode": "1fa7c"
+}

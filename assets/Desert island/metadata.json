@@ -1,0 +1,15 @@
+{
+  "cldr": "desert island",
+  "fromVersion": "0.7",
+  "glyph": "🏝️",
+  "group": "Travel & Places",
+  "keywords": [
+    "desert",
+    "island"
+  ],
+  "mappedToEmoticons": [
+    "island"
+  ],
+  "tts": "desert island",
+  "unicode": "1f3dd fe0f"
+}

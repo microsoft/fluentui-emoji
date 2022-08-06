@@ -1,0 +1,19 @@
+{
+  "cldr": "tangerine",
+  "fromVersion": "0.6",
+  "glyph": "🍊",
+  "glyphAsUtfInEmoticons": [
+    "orange"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "fruit",
+    "orange",
+    "tangerine"
+  ],
+  "mappedToEmoticons": [
+    "orange"
+  ],
+  "tts": "tangerine",
+  "unicode": "1f34a"
+}

@@ -1,0 +1,16 @@
+{
+  "cldr": "military medal",
+  "fromVersion": "0.7",
+  "glyph": "🎖️",
+  "group": "Activities",
+  "keywords": [
+    "celebration",
+    "medal",
+    "military"
+  ],
+  "mappedToEmoticons": [
+    "1f396_militarymedal"
+  ],
+  "tts": "military medal",
+  "unicode": "1f396 fe0f"
+}

@@ -1,0 +1,27 @@
+{
+  "cldr": "man pouting",
+  "fromVersion": "4.0",
+  "glyph": "🙎‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "man_pouting"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "gesture",
+    "man",
+    "pouting"
+  ],
+  "mappedToEmoticons": [
+    "man_pouting"
+  ],
+  "tts": "man pouting",
+  "unicode": "1f64e 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f64e 200d 2642 fe0f",
+    "1f64e 1f3fb 200d 2642 fe0f",
+    "1f64e 1f3fc 200d 2642 fe0f",
+    "1f64e 1f3fd 200d 2642 fe0f",
+    "1f64e 1f3fe 200d 2642 fe0f",
+    "1f64e 1f3ff 200d 2642 fe0f"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cldr": "trolleybus",
+  "fromVersion": "1.0",
+  "glyph": "🚎",
+  "glyphAsUtfInEmoticons": [
+    "1f68e_trolleybus"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "bus",
+    "tram",
+    "trolley",
+    "trolleybus"
+  ],
+  "mappedToEmoticons": [
+    "1f68e_trolleybus"
+  ],
+  "tts": "trolleybus",
+  "unicode": "1f68e"
+}

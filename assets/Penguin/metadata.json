@@ -1,0 +1,18 @@
+{
+  "cldr": "penguin",
+  "fromVersion": "0.6",
+  "glyph": "🐧",
+  "glyphAsUtfInEmoticons": [
+    "penguin"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "bird",
+    "penguin"
+  ],
+  "mappedToEmoticons": [
+    "penguin"
+  ],
+  "tts": "penguin",
+  "unicode": "1f427"
+}

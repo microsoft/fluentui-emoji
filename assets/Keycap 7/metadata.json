@@ -1,0 +1,18 @@
+{
+  "cldr": "keycap: 7",
+  "fromVersion": "0.6",
+  "glyph": "7️⃣",
+  "glyphAsUtfInEmoticons": [
+    "keycapdigitseven"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "keycap",
+    "seven"
+  ],
+  "mappedToEmoticons": [
+    "keycapdigitseven"
+  ],
+  "tts": "keycap: 7",
+  "unicode": "0037 fe0f 20e3"
+}

@@ -1,0 +1,20 @@
+{
+  "cldr": "Taurus",
+  "fromVersion": "0.6",
+  "glyph": "♉",
+  "glyphAsUtfInEmoticons": [
+    "2649_taurus"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "bull",
+    "ox",
+    "Taurus",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "2649_taurus"
+  ],
+  "tts": "Taurus",
+  "unicode": "2649"
+}

@@ -1,0 +1,22 @@
+{
+  "cldr": "bell with slash",
+  "fromVersion": "1.0",
+  "glyph": "🔕",
+  "glyphAsUtfInEmoticons": [
+    "1f515_bellwithslash"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "bell",
+    "bell with slash",
+    "forbidden",
+    "mute",
+    "quiet",
+    "silent"
+  ],
+  "mappedToEmoticons": [
+    "1f515_bellwithslash"
+  ],
+  "tts": "bell with slash",
+  "unicode": "1f515"
+}

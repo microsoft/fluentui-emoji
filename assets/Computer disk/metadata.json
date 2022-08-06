@@ -1,0 +1,20 @@
+{
+  "cldr": "computer disk",
+  "fromVersion": "0.6",
+  "glyph": "💽",
+  "glyphAsUtfInEmoticons": [
+    "1f4bd_minidisc"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "computer",
+    "disk",
+    "minidisk",
+    "optical"
+  ],
+  "mappedToEmoticons": [
+    "1f4bd_minidisc"
+  ],
+  "tts": "computer disk",
+  "unicode": "1f4bd"
+}

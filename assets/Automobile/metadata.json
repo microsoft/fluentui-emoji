@@ -1,0 +1,18 @@
+{
+  "cldr": "automobile",
+  "fromVersion": "0.6",
+  "glyph": "🚗",
+  "glyphAsUtfInEmoticons": [
+    "car"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "automobile",
+    "car"
+  ],
+  "mappedToEmoticons": [
+    "car"
+  ],
+  "tts": "automobile",
+  "unicode": "1f697"
+}

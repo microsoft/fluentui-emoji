@@ -1,0 +1,17 @@
+{
+  "cldr": "fleur-de-lis",
+  "fromVersion": "1.0",
+  "glyph": "⚜️",
+  "glyphAsUtfInEmoticons": [
+    "269c_fleurdelis"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "fleur-de-lis"
+  ],
+  "mappedToEmoticons": [
+    "269c_fleurdelis"
+  ],
+  "tts": "fleur-de-lis",
+  "unicode": "269c fe0f"
+}

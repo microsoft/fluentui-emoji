@@ -1,0 +1,18 @@
+{
+  "cldr": "tongue",
+  "fromVersion": "0.6",
+  "glyph": "👅",
+  "glyphAsUtfInEmoticons": [
+    "1f445_tongue"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "body",
+    "tongue"
+  ],
+  "mappedToEmoticons": [
+    "1f445_tongue"
+  ],
+  "tts": "tongue",
+  "unicode": "1f445"
+}

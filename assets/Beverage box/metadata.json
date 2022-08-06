@@ -1,0 +1,21 @@
+{
+  "cldr": "beverage box",
+  "fromVersion": "12.0",
+  "glyph": "🧃",
+  "glyphAsUtfInEmoticons": [
+    "1f9c3_beveragebox"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "beverage",
+    "box",
+    "juice",
+    "straw",
+    "sweet"
+  ],
+  "mappedToEmoticons": [
+    "1f9c3_beveragebox"
+  ],
+  "tts": "beverage box",
+  "unicode": "1f9c3"
+}

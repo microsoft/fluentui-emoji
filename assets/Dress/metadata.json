@@ -1,0 +1,18 @@
+{
+  "cldr": "dress",
+  "fromVersion": "0.6",
+  "glyph": "👗",
+  "glyphAsUtfInEmoticons": [
+    "1f457_dress"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "clothing",
+    "dress"
+  ],
+  "mappedToEmoticons": [
+    "1f457_dress"
+  ],
+  "tts": "dress",
+  "unicode": "1f457"
+}

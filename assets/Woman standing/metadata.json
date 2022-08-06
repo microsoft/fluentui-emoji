@@ -1,0 +1,26 @@
+{
+  "cldr": "woman standing",
+  "fromVersion": "12.0",
+  "glyph": "🧍‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "womanstanding"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "standing",
+    "woman"
+  ],
+  "mappedToEmoticons": [
+    "womanstanding"
+  ],
+  "tts": "woman standing",
+  "unicode": "1f9cd 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f9cd 200d 2640 fe0f",
+    "1f9cd 1f3fb 200d 2640 fe0f",
+    "1f9cd 1f3fc 200d 2640 fe0f",
+    "1f9cd 1f3fd 200d 2640 fe0f",
+    "1f9cd 1f3fe 200d 2640 fe0f",
+    "1f9cd 1f3ff 200d 2640 fe0f"
+  ]
+}

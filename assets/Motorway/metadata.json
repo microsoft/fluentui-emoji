@@ -1,0 +1,16 @@
+{
+  "cldr": "motorway",
+  "fromVersion": "0.7",
+  "glyph": "🛣️",
+  "group": "Travel & Places",
+  "keywords": [
+    "highway",
+    "motorway",
+    "road"
+  ],
+  "mappedToEmoticons": [
+    "1f6e3_motorway"
+  ],
+  "tts": "motorway",
+  "unicode": "1f6e3 fe0f"
+}

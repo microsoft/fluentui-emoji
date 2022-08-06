@@ -1,0 +1,18 @@
+{
+  "cldr": "pig face",
+  "fromVersion": "0.6",
+  "glyph": "🐷",
+  "glyphAsUtfInEmoticons": [
+    "1f437_pigface"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "face",
+    "pig"
+  ],
+  "mappedToEmoticons": [
+    "1f437_pigface"
+  ],
+  "tts": "pig face",
+  "unicode": "1f437"
+}

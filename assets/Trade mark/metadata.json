@@ -1,0 +1,20 @@
+{
+  "cldr": "trade mark",
+  "fromVersion": "0.6",
+  "glyph": "™️",
+  "glyphAsUtfInEmoticons": [
+    "2122_trademarksign"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "mark",
+    "tm",
+    "trade mark",
+    "trademark"
+  ],
+  "mappedToEmoticons": [
+    "2122_trademarksign"
+  ],
+  "tts": "trade mark",
+  "unicode": "2122 fe0f"
+}

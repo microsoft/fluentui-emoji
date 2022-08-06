@@ -1,0 +1,18 @@
+{
+  "cldr": "ant",
+  "fromVersion": "0.6",
+  "glyph": "🐜",
+  "glyphAsUtfInEmoticons": [
+    "1f41c_ant"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "ant",
+    "insect"
+  ],
+  "mappedToEmoticons": [
+    "1f41c_ant"
+  ],
+  "tts": "ant",
+  "unicode": "1f41c"
+}

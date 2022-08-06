@@ -1,0 +1,20 @@
+{
+  "cldr": "chocolate bar",
+  "fromVersion": "0.6",
+  "glyph": "🍫",
+  "glyphAsUtfInEmoticons": [
+    "1f36b_chocolatebar"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bar",
+    "chocolate",
+    "dessert",
+    "sweet"
+  ],
+  "mappedToEmoticons": [
+    "1f36b_chocolatebar"
+  ],
+  "tts": "chocolate bar",
+  "unicode": "1f36b"
+}

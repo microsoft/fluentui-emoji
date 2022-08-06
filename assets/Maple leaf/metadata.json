@@ -1,0 +1,19 @@
+{
+  "cldr": "maple leaf",
+  "fromVersion": "0.6",
+  "glyph": "🍁",
+  "glyphAsUtfInEmoticons": [
+    "1f341_mapleleaf"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "falling",
+    "leaf",
+    "maple"
+  ],
+  "mappedToEmoticons": [
+    "1f341_mapleleaf"
+  ],
+  "tts": "maple leaf",
+  "unicode": "1f341"
+}

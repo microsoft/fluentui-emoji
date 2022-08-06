@@ -1,0 +1,19 @@
+{
+  "cldr": "black circle",
+  "fromVersion": "0.6",
+  "glyph": "⚫",
+  "glyphAsUtfInEmoticons": [
+    "26ab_mediumblackcircle"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "black circle",
+    "circle",
+    "geometric"
+  ],
+  "mappedToEmoticons": [
+    "26ab_mediumblackcircle"
+  ],
+  "tts": "black circle",
+  "unicode": "26ab"
+}

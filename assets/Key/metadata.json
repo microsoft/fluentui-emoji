@@ -1,0 +1,20 @@
+{
+  "cldr": "key",
+  "fromVersion": "0.6",
+  "glyph": "🔑",
+  "glyphAsUtfInEmoticons": [
+    "1f511_key",
+    "key"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "key",
+    "lock",
+    "password"
+  ],
+  "mappedToEmoticons": [
+    "1f511_key"
+  ],
+  "tts": "key",
+  "unicode": "1f511"
+}

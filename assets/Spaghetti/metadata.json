@@ -1,0 +1,18 @@
+{
+  "cldr": "spaghetti",
+  "fromVersion": "0.6",
+  "glyph": "🍝",
+  "glyphAsUtfInEmoticons": [
+    "1f35d_spaghetti"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "pasta",
+    "spaghetti"
+  ],
+  "mappedToEmoticons": [
+    "1f35d_spaghetti"
+  ],
+  "tts": "spaghetti",
+  "unicode": "1f35d"
+}

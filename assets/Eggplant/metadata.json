@@ -1,0 +1,19 @@
+{
+  "cldr": "eggplant",
+  "fromVersion": "0.6",
+  "glyph": "🍆",
+  "glyphAsUtfInEmoticons": [
+    "aubergine"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "aubergine",
+    "eggplant",
+    "vegetable"
+  ],
+  "mappedToEmoticons": [
+    "aubergine"
+  ],
+  "tts": "eggplant",
+  "unicode": "1f346"
+}

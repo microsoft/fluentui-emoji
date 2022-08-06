@@ -1,0 +1,19 @@
+{
+  "cldr": "grinning cat",
+  "fromVersion": "0.6",
+  "glyph": "😺",
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "cat",
+    "face",
+    "grinning",
+    "mouth",
+    "open",
+    "smile"
+  ],
+  "mappedToEmoticons": [
+    "smilecat"
+  ],
+  "tts": "grinning cat",
+  "unicode": "1f63a"
+}

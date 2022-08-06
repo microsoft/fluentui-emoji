@@ -1,0 +1,19 @@
+{
+  "cldr": "flamingo",
+  "fromVersion": "12.0",
+  "glyph": "🦩",
+  "glyphAsUtfInEmoticons": [
+    "1f9a9_flamingo"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "flamboyant",
+    "flamingo",
+    "tropical"
+  ],
+  "mappedToEmoticons": [
+    "1f9a9_flamingo"
+  ],
+  "tts": "flamingo",
+  "unicode": "1f9a9"
+}

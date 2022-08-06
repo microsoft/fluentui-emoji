@@ -1,0 +1,19 @@
+{
+  "cldr": "mountain railway",
+  "fromVersion": "1.0",
+  "glyph": "🚞",
+  "glyphAsUtfInEmoticons": [
+    "1f69e_mountainrailway"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "car",
+    "mountain",
+    "railway"
+  ],
+  "mappedToEmoticons": [
+    "1f69e_mountainrailway"
+  ],
+  "tts": "mountain railway",
+  "unicode": "1f69e"
+}

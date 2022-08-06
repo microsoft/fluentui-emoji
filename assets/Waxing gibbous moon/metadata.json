@@ -1,0 +1,19 @@
+{
+  "cldr": "waxing gibbous moon",
+  "fromVersion": "0.6",
+  "glyph": "🌔",
+  "glyphAsUtfInEmoticons": [
+    "1f314_waxinggibbousmoonsymbol"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "gibbous",
+    "moon",
+    "waxing"
+  ],
+  "mappedToEmoticons": [
+    "1f314_waxinggibbousmoonsymbol"
+  ],
+  "tts": "waxing gibbous moon",
+  "unicode": "1f314"
+}

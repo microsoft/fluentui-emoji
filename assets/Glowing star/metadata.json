@@ -1,0 +1,22 @@
+{
+  "cldr": "glowing star",
+  "fromVersion": "0.6",
+  "glyph": "🌟",
+  "glyphAsUtfInEmoticons": [
+    "1f31f_glowingstar"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "glittery",
+    "glow",
+    "glowing star",
+    "shining",
+    "sparkle",
+    "star"
+  ],
+  "mappedToEmoticons": [
+    "1f31f_glowingstar"
+  ],
+  "tts": "glowing star",
+  "unicode": "1f31f"
+}

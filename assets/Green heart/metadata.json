@@ -1,0 +1,18 @@
+{
+  "cldr": "green heart",
+  "fromVersion": "0.6",
+  "glyph": "💚",
+  "glyphAsUtfInEmoticons": [
+    "heartgreen"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "green",
+    "green heart"
+  ],
+  "mappedToEmoticons": [
+    "heartgreen"
+  ],
+  "tts": "green heart",
+  "unicode": "1f49a"
+}

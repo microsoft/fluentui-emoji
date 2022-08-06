@@ -1,0 +1,19 @@
+{
+  "cldr": "carp streamer",
+  "fromVersion": "0.6",
+  "glyph": "🎏",
+  "glyphAsUtfInEmoticons": [
+    "1f38f_carpstreamer"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "carp",
+    "celebration",
+    "streamer"
+  ],
+  "mappedToEmoticons": [
+    "1f38f_carpstreamer"
+  ],
+  "tts": "carp streamer",
+  "unicode": "1f38f"
+}

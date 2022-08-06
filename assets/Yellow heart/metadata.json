@@ -1,0 +1,18 @@
+{
+  "cldr": "yellow heart",
+  "fromVersion": "0.6",
+  "glyph": "💛",
+  "glyphAsUtfInEmoticons": [
+    "heartyellow"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "yellow",
+    "yellow heart"
+  ],
+  "mappedToEmoticons": [
+    "heartyellow"
+  ],
+  "tts": "yellow heart",
+  "unicode": "1f49b"
+}

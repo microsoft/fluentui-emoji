@@ -1,0 +1,27 @@
+{
+  "cldr": "raised back of hand",
+  "fromVersion": "3.0",
+  "glyph": "🤚",
+  "glyphAsUtfInEmoticons": [
+    "1f91a_raisedbackofhand"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "backhand",
+    "raised",
+    "raised back of hand"
+  ],
+  "mappedToEmoticons": [
+    "1f91a_raisedbackofhand"
+  ],
+  "tts": "raised back of hand",
+  "unicode": "1f91a",
+  "unicodeSkintones": [
+    "1f91a",
+    "1f91a 1f3fb",
+    "1f91a 1f3fc",
+    "1f91a 1f3fd",
+    "1f91a 1f3fe",
+    "1f91a 1f3ff"
+  ]
+}

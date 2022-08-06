@@ -1,0 +1,22 @@
+{
+  "cldr": "petri dish",
+  "fromVersion": "11.0",
+  "glyph": "🧫",
+  "glyphAsUtfInEmoticons": [
+    "1f9eb_petridish"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "bacteria",
+    "biologist",
+    "biology",
+    "culture",
+    "lab",
+    "petri dish"
+  ],
+  "mappedToEmoticons": [
+    "1f9eb_petridish"
+  ],
+  "tts": "petri dish",
+  "unicode": "1f9eb"
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "bullet train",
+  "fromVersion": "0.6",
+  "glyph": "🚅",
+  "glyphAsUtfInEmoticons": [
+    "1f685_bullettrain"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "bullet",
+    "railway",
+    "shinkansen",
+    "speed",
+    "train"
+  ],
+  "mappedToEmoticons": [
+    "1f685_bullettrain"
+  ],
+  "tts": "bullet train",
+  "unicode": "1f685"
+}

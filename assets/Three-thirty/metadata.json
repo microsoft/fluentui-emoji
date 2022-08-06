@@ -1,0 +1,22 @@
+{
+  "cldr": "three-thirty",
+  "fromVersion": "0.7",
+  "glyph": "🕞",
+  "glyphAsUtfInEmoticons": [
+    "1f55e_threethirty"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "3",
+    "3:30",
+    "clock",
+    "thirty",
+    "three",
+    "three-thirty"
+  ],
+  "mappedToEmoticons": [
+    "1f55e_threethirty"
+  ],
+  "tts": "three-thirty",
+  "unicode": "1f55e"
+}

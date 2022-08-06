@@ -1,0 +1,15 @@
+{
+  "cldr": "identification card",
+  "fromVersion": "14.0",
+  "glyph": "🪪",
+  "group": "Objects",
+  "keywords": [
+    "credentials",
+    "ID",
+    "identification card",
+    "license",
+    "security"
+  ],
+  "tts": "identification card",
+  "unicode": "1faaa"
+}

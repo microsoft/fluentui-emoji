@@ -1,0 +1,18 @@
+{
+  "cldr": "sparkle",
+  "fromVersion": "0.6",
+  "glyph": "❇️",
+  "glyphAsUtfInEmoticons": [
+    "2747_sparkle"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "*",
+    "sparkle"
+  ],
+  "mappedToEmoticons": [
+    "2747_sparkle"
+  ],
+  "tts": "sparkle",
+  "unicode": "2747 fe0f"
+}

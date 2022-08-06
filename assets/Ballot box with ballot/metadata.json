@@ -1,0 +1,16 @@
+{
+  "cldr": "ballot box with ballot",
+  "fromVersion": "0.7",
+  "glyph": "🗳️",
+  "group": "Objects",
+  "keywords": [
+    "ballot",
+    "ballot box with ballot",
+    "box"
+  ],
+  "mappedToEmoticons": [
+    "1f5f3_ballotboxwithballot"
+  ],
+  "tts": "ballot box with ballot",
+  "unicode": "1f5f3 fe0f"
+}

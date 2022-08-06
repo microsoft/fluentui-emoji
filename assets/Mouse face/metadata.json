@@ -1,0 +1,18 @@
+{
+  "cldr": "mouse face",
+  "fromVersion": "0.6",
+  "glyph": "🐭",
+  "glyphAsUtfInEmoticons": [
+    "1f42d_mouseface"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "face",
+    "mouse"
+  ],
+  "mappedToEmoticons": [
+    "1f42d_mouseface"
+  ],
+  "tts": "mouse face",
+  "unicode": "1f42d"
+}

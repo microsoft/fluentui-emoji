@@ -1,0 +1,15 @@
+{
+  "cldr": "candle",
+  "fromVersion": "0.7",
+  "glyph": "🕯️",
+  "group": "Objects",
+  "keywords": [
+    "candle",
+    "light"
+  ],
+  "mappedToEmoticons": [
+    "1f56f_candle"
+  ],
+  "tts": "candle",
+  "unicode": "1f56f fe0f"
+}

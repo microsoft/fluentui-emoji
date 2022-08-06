@@ -1,0 +1,18 @@
+{
+  "cldr": "oncoming bus",
+  "fromVersion": "0.7",
+  "glyph": "🚍",
+  "glyphAsUtfInEmoticons": [
+    "1f68d_oncomingbus"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "bus",
+    "oncoming"
+  ],
+  "mappedToEmoticons": [
+    "1f68d_oncomingbus"
+  ],
+  "tts": "oncoming bus",
+  "unicode": "1f68d"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "love hotel",
+  "fromVersion": "0.6",
+  "glyph": "🏩",
+  "glyphAsUtfInEmoticons": [
+    "1f3e9_lovehotel"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "hotel",
+    "love"
+  ],
+  "mappedToEmoticons": [
+    "1f3e9_lovehotel"
+  ],
+  "tts": "love hotel",
+  "unicode": "1f3e9"
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "rocket",
+  "fromVersion": "0.6",
+  "glyph": "🚀",
+  "glyphAsUtfInEmoticons": [
+    "launch"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "rocket",
+    "space"
+  ],
+  "mappedToEmoticons": [
+    "launch"
+  ],
+  "tts": "rocket",
+  "unicode": "1f680"
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "post office",
+  "fromVersion": "1.0",
+  "glyph": "🏤",
+  "glyphAsUtfInEmoticons": [
+    "1f3e4_europeanpostoffice"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "European",
+    "post",
+    "post office"
+  ],
+  "mappedToEmoticons": [
+    "1f3e4_europeanpostoffice"
+  ],
+  "tts": "post office",
+  "unicode": "1f3e4"
+}

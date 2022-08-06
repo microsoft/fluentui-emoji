@@ -1,0 +1,21 @@
+{
+  "cldr": "water closet",
+  "fromVersion": "0.6",
+  "glyph": "🚾",
+  "glyphAsUtfInEmoticons": [
+    "1f6be_watercloset"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "closet",
+    "lavatory",
+    "restroom",
+    "water",
+    "wc"
+  ],
+  "mappedToEmoticons": [
+    "1f6be_watercloset"
+  ],
+  "tts": "water closet",
+  "unicode": "1f6be"
+}

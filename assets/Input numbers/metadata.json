@@ -1,0 +1,19 @@
+{
+  "cldr": "input numbers",
+  "fromVersion": "0.6",
+  "glyph": "🔢",
+  "glyphAsUtfInEmoticons": [
+    "1f522_inputsymbolfornumbers"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "1234",
+    "input",
+    "numbers"
+  ],
+  "mappedToEmoticons": [
+    "1f522_inputsymbolfornumbers"
+  ],
+  "tts": "input numbers",
+  "unicode": "1f522"
+}

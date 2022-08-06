@@ -1,0 +1,15 @@
+{
+  "cldr": "shield",
+  "fromVersion": "0.7",
+  "glyph": "🛡️",
+  "group": "Objects",
+  "keywords": [
+    "shield",
+    "weapon"
+  ],
+  "mappedToEmoticons": [
+    "1f6e1_shield"
+  ],
+  "tts": "shield",
+  "unicode": "1f6e1 fe0f"
+}

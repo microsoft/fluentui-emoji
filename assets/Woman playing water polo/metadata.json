@@ -1,0 +1,27 @@
+{
+  "cldr": "woman playing water polo",
+  "fromVersion": "4.0",
+  "glyph": "🤽‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "woman_playing_water_polo"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "water polo",
+    "woman",
+    "woman playing water polo"
+  ],
+  "mappedToEmoticons": [
+    "woman_playing_water_polo"
+  ],
+  "tts": "woman playing water polo",
+  "unicode": "1f93d 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f93d 200d 2640 fe0f",
+    "1f93d 1f3fb 200d 2640 fe0f",
+    "1f93d 1f3fc 200d 2640 fe0f",
+    "1f93d 1f3fd 200d 2640 fe0f",
+    "1f93d 1f3fe 200d 2640 fe0f",
+    "1f93d 1f3ff 200d 2640 fe0f"
+  ]
+}

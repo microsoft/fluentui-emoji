@@ -1,0 +1,21 @@
+{
+  "cldr": "pause button",
+  "fromVersion": "0.7",
+  "glyph": "⏸️",
+  "glyphAsUtfInEmoticons": [
+    "23f8_doubleverticalbar"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "bar",
+    "double",
+    "pause",
+    "pause button",
+    "vertical"
+  ],
+  "mappedToEmoticons": [
+    "23f8_doubleverticalbar"
+  ],
+  "tts": "pause button",
+  "unicode": "23f8 fe0f"
+}

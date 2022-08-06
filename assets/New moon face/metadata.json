@@ -1,0 +1,19 @@
+{
+  "cldr": "new moon face",
+  "fromVersion": "1.0",
+  "glyph": "🌚",
+  "glyphAsUtfInEmoticons": [
+    "1f31a_newmoonwithface"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "face",
+    "moon",
+    "new moon face"
+  ],
+  "mappedToEmoticons": [
+    "1f31a_newmoonwithface"
+  ],
+  "tts": "new moon face",
+  "unicode": "1f31a"
+}

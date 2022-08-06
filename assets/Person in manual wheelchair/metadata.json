@@ -1,0 +1,24 @@
+{
+  "cldr": "person in manual wheelchair",
+  "fromVersion": "12.1",
+  "glyph": "🧑‍🦽",
+  "group": "People & Body",
+  "keywords": [
+    "accessibility",
+    "person in manual wheelchair",
+    "wheelchair"
+  ],
+  "mappedToEmoticons": [
+    "personinmanualwheelchair"
+  ],
+  "tts": "person in manual wheelchair",
+  "unicode": "1f9d1 200d 1f9bd",
+  "unicodeSkintones": [
+    "1f9d1 200d 1f9bd",
+    "1f9d1 1f3fb 200d 1f9bd",
+    "1f9d1 1f3fc 200d 1f9bd",
+    "1f9d1 1f3fd 200d 1f9bd",
+    "1f9d1 1f3fe 200d 1f9bd",
+    "1f9d1 1f3ff 200d 1f9bd"
+  ]
+}

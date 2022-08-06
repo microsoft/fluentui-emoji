@@ -1,0 +1,30 @@
+{
+  "cldr": "person with veil",
+  "fromVersion": "0.6",
+  "glyph": "👰",
+  "glyphAsUtfInEmoticons": [
+    "bride_with_veil",
+    "personwithveil"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "bride",
+    "person",
+    "person with veil",
+    "veil",
+    "wedding"
+  ],
+  "mappedToEmoticons": [
+    "personwithveil"
+  ],
+  "tts": "person with veil",
+  "unicode": "1f470",
+  "unicodeSkintones": [
+    "1f470",
+    "1f470 1f3fb",
+    "1f470 1f3fc",
+    "1f470 1f3fd",
+    "1f470 1f3fe",
+    "1f470 1f3ff"
+  ]
+}

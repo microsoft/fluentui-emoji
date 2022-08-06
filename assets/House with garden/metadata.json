@@ -1,0 +1,20 @@
+{
+  "cldr": "house with garden",
+  "fromVersion": "0.6",
+  "glyph": "🏡",
+  "glyphAsUtfInEmoticons": [
+    "1f3e1_housewithgarden"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "garden",
+    "home",
+    "house",
+    "house with garden"
+  ],
+  "mappedToEmoticons": [
+    "1f3e1_housewithgarden"
+  ],
+  "tts": "house with garden",
+  "unicode": "1f3e1"
+}

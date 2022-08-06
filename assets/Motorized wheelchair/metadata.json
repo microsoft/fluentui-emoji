@@ -1,0 +1,18 @@
+{
+  "cldr": "motorized wheelchair",
+  "fromVersion": "12.0",
+  "glyph": "🦼",
+  "glyphAsUtfInEmoticons": [
+    "1f9bc_motorizedwheelchair"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "accessibility",
+    "motorized wheelchair"
+  ],
+  "mappedToEmoticons": [
+    "1f9bc_motorizedwheelchair"
+  ],
+  "tts": "motorized wheelchair",
+  "unicode": "1f9bc"
+}

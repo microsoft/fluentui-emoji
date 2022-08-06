@@ -1,0 +1,20 @@
+{
+  "cldr": "shrimp",
+  "fromVersion": "3.0",
+  "glyph": "🦐",
+  "glyphAsUtfInEmoticons": [
+    "1f990_shrimp"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "food",
+    "shellfish",
+    "shrimp",
+    "small"
+  ],
+  "mappedToEmoticons": [
+    "1f990_shrimp"
+  ],
+  "tts": "shrimp",
+  "unicode": "1f990"
+}

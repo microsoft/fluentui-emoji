@@ -1,0 +1,27 @@
+{
+  "cldr": "man astronaut",
+  "fromVersion": "4.0",
+  "glyph": "👨‍🚀",
+  "glyphAsUtfInEmoticons": [
+    "manastronaut"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "astronaut",
+    "man",
+    "rocket"
+  ],
+  "mappedToEmoticons": [
+    "manastronaut"
+  ],
+  "tts": "man astronaut",
+  "unicode": "1f468 200d 1f680",
+  "unicodeSkintones": [
+    "1f468 200d 1f680",
+    "1f468 1f3fb 200d 1f680",
+    "1f468 1f3fc 200d 1f680",
+    "1f468 1f3fd 200d 1f680",
+    "1f468 1f3fe 200d 1f680",
+    "1f468 1f3ff 200d 1f680"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "axe",
+  "fromVersion": "12.0",
+  "glyph": "🪓",
+  "glyphAsUtfInEmoticons": [
+    "1fa93_axe"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "axe",
+    "chop",
+    "hatchet",
+    "split",
+    "wood"
+  ],
+  "mappedToEmoticons": [
+    "1fa93_axe"
+  ],
+  "tts": "axe",
+  "unicode": "1fa93"
+}

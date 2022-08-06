@@ -1,0 +1,19 @@
+{
+  "cldr": "dog",
+  "fromVersion": "0.7",
+  "glyph": "🐕",
+  "glyphAsUtfInEmoticons": [
+    "1f415_200d_1f9ba_servicedog",
+    "dog"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "dog",
+    "pet"
+  ],
+  "mappedToEmoticons": [
+    "dog"
+  ],
+  "tts": "dog",
+  "unicode": "1f415"
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "musical score",
+  "fromVersion": "0.6",
+  "glyph": "🎼",
+  "glyphAsUtfInEmoticons": [
+    "1f3bc_musicalscore"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "music",
+    "musical score",
+    "score"
+  ],
+  "mappedToEmoticons": [
+    "1f3bc_musicalscore"
+  ],
+  "tts": "musical score",
+  "unicode": "1f3bc"
+}

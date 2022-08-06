@@ -1,0 +1,21 @@
+{
+  "cldr": "menorah",
+  "fromVersion": "1.0",
+  "glyph": "🕎",
+  "glyphAsUtfInEmoticons": [
+    "1f54e_menorahwithninebranches",
+    "hanukkah"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "candelabrum",
+    "candlestick",
+    "menorah",
+    "religion"
+  ],
+  "mappedToEmoticons": [
+    "1f54e_menorahwithninebranches"
+  ],
+  "tts": "menorah",
+  "unicode": "1f54e"
+}

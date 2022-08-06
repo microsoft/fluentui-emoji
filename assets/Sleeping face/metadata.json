@@ -1,0 +1,17 @@
+{
+  "cldr": "sleeping face",
+  "fromVersion": "1.0",
+  "glyph": "😴",
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "sleep",
+    "sleeping face",
+    "zzz"
+  ],
+  "mappedToEmoticons": [
+    "sleepingface"
+  ],
+  "tts": "sleeping face",
+  "unicode": "1f634"
+}

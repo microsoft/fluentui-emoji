@@ -1,0 +1,18 @@
+{
+  "cldr": "chestnut",
+  "fromVersion": "0.6",
+  "glyph": "🌰",
+  "glyphAsUtfInEmoticons": [
+    "1f330_chestnut"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "chestnut",
+    "plant"
+  ],
+  "mappedToEmoticons": [
+    "1f330_chestnut"
+  ],
+  "tts": "chestnut",
+  "unicode": "1f330"
+}

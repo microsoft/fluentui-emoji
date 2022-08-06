@@ -1,0 +1,22 @@
+{
+  "cldr": "coin",
+  "fromVersion": "13.0",
+  "glyph": "🪙",
+  "glyphAsUtfInEmoticons": [
+    "coin"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "coin",
+    "gold",
+    "metal",
+    "money",
+    "silver",
+    "treasure"
+  ],
+  "mappedToEmoticons": [
+    "coin"
+  ],
+  "tts": "coin",
+  "unicode": "1fa99"
+}

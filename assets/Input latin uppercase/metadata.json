@@ -1,0 +1,21 @@
+{
+  "cldr": "input latin uppercase",
+  "fromVersion": "0.6",
+  "glyph": "🔠",
+  "glyphAsUtfInEmoticons": [
+    "1f520_uppercaseabcd"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "ABCD",
+    "input",
+    "latin",
+    "letters",
+    "uppercase"
+  ],
+  "mappedToEmoticons": [
+    "1f520_uppercaseabcd"
+  ],
+  "tts": "input latin uppercase",
+  "unicode": "1f520"
+}

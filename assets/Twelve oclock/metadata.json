@@ -1,0 +1,22 @@
+{
+  "cldr": "twelve o’clock",
+  "fromVersion": "0.6",
+  "glyph": "🕛",
+  "glyphAsUtfInEmoticons": [
+    "1f55b_twelveoclock"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "00",
+    "12",
+    "12:00",
+    "clock",
+    "o’clock",
+    "twelve"
+  ],
+  "mappedToEmoticons": [
+    "1f55b_twelveoclock"
+  ],
+  "tts": "twelve o’clock",
+  "unicode": "1f55b"
+}

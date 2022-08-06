@@ -1,0 +1,21 @@
+{
+  "cldr": "plunger",
+  "fromVersion": "13.0",
+  "glyph": "🪠",
+  "glyphAsUtfInEmoticons": [
+    "plunger"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "force cup",
+    "plumber",
+    "plunger",
+    "suction",
+    "toilet"
+  ],
+  "mappedToEmoticons": [
+    "plunger"
+  ],
+  "tts": "plunger",
+  "unicode": "1faa0"
+}

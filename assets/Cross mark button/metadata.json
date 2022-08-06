@@ -1,0 +1,21 @@
+{
+  "cldr": "cross mark button",
+  "fromVersion": "0.6",
+  "glyph": "❎",
+  "glyphAsUtfInEmoticons": [
+    "274e_negativesquaredcrossmark"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "×",
+    "cross mark button",
+    "mark",
+    "square",
+    "x"
+  ],
+  "mappedToEmoticons": [
+    "274e_negativesquaredcrossmark"
+  ],
+  "tts": "cross mark button",
+  "unicode": "274e"
+}

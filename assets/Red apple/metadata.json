@@ -1,0 +1,19 @@
+{
+  "cldr": "red apple",
+  "fromVersion": "0.6",
+  "glyph": "🍎",
+  "glyphAsUtfInEmoticons": [
+    "apple"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "apple",
+    "fruit",
+    "red"
+  ],
+  "mappedToEmoticons": [
+    "apple"
+  ],
+  "tts": "red apple",
+  "unicode": "1f34e"
+}

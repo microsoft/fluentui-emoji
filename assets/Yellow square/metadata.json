@@ -1,0 +1,18 @@
+{
+  "cldr": "yellow square",
+  "fromVersion": "12.0",
+  "glyph": "🟨",
+  "glyphAsUtfInEmoticons": [
+    "1f7e8_yellowsquare"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "square",
+    "yellow"
+  ],
+  "mappedToEmoticons": [
+    "1f7e8_yellowsquare"
+  ],
+  "tts": "yellow square",
+  "unicode": "1f7e8"
+}

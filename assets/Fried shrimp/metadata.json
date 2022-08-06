@@ -1,0 +1,20 @@
+{
+  "cldr": "fried shrimp",
+  "fromVersion": "0.6",
+  "glyph": "🍤",
+  "glyphAsUtfInEmoticons": [
+    "1f364_friedshrimp"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "fried",
+    "prawn",
+    "shrimp",
+    "tempura"
+  ],
+  "mappedToEmoticons": [
+    "1f364_friedshrimp"
+  ],
+  "tts": "fried shrimp",
+  "unicode": "1f364"
+}

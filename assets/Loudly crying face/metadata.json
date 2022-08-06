@@ -1,0 +1,22 @@
+{
+  "cldr": "loudly crying face",
+  "fromVersion": "0.6",
+  "glyph": "😭",
+  "glyphAsUtfInEmoticons": [
+    "loudlycrying"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "cry",
+    "face",
+    "loudly crying face",
+    "sad",
+    "sob",
+    "tear"
+  ],
+  "mappedToEmoticons": [
+    "loudlycrying"
+  ],
+  "tts": "loudly crying face",
+  "unicode": "1f62d"
+}

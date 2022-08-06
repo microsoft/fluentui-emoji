@@ -1,0 +1,19 @@
+{
+  "cldr": "shuffle tracks button",
+  "fromVersion": "1.0",
+  "glyph": "🔀",
+  "glyphAsUtfInEmoticons": [
+    "1f500_twistedrightwardsarrows"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "arrow",
+    "crossed",
+    "shuffle tracks button"
+  ],
+  "mappedToEmoticons": [
+    "1f500_twistedrightwardsarrows"
+  ],
+  "tts": "shuffle tracks button",
+  "unicode": "1f500"
+}

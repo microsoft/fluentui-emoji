@@ -1,0 +1,20 @@
+{
+  "cldr": "3rd place medal",
+  "fromVersion": "3.0",
+  "glyph": "🥉",
+  "glyphAsUtfInEmoticons": [
+    "bronzemedal"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "3rd place medal",
+    "bronze",
+    "medal",
+    "third"
+  ],
+  "mappedToEmoticons": [
+    "bronzemedal"
+  ],
+  "tts": "3rd place medal",
+  "unicode": "1f949"
+}

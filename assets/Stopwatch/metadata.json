@@ -1,0 +1,15 @@
+{
+  "cldr": "stopwatch",
+  "fromVersion": "1.0",
+  "glyph": "⏱️",
+  "group": "Travel & Places",
+  "keywords": [
+    "clock",
+    "stopwatch"
+  ],
+  "mappedToEmoticons": [
+    "23f1_stopwatch"
+  ],
+  "tts": "stopwatch",
+  "unicode": "23f1 fe0f"
+}

@@ -1,0 +1,25 @@
+{
+  "cldr": "factory worker",
+  "fromVersion": "12.1",
+  "glyph": "🧑‍🏭",
+  "group": "People & Body",
+  "keywords": [
+    "assembly",
+    "factory",
+    "industrial",
+    "worker"
+  ],
+  "mappedToEmoticons": [
+    "personwelder"
+  ],
+  "tts": "factory worker",
+  "unicode": "1f9d1 200d 1f3ed",
+  "unicodeSkintones": [
+    "1f9d1 200d 1f3ed",
+    "1f9d1 1f3fb 200d 1f3ed",
+    "1f9d1 1f3fc 200d 1f3ed",
+    "1f9d1 1f3fd 200d 1f3ed",
+    "1f9d1 1f3fe 200d 1f3ed",
+    "1f9d1 1f3ff 200d 1f3ed"
+  ]
+}

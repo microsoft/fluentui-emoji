@@ -1,0 +1,22 @@
+{
+  "cldr": "one o’clock",
+  "fromVersion": "0.6",
+  "glyph": "🕐",
+  "glyphAsUtfInEmoticons": [
+    "1f550_oneoclock"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "00",
+    "1",
+    "1:00",
+    "clock",
+    "o’clock",
+    "one"
+  ],
+  "mappedToEmoticons": [
+    "1f550_oneoclock"
+  ],
+  "tts": "one o’clock",
+  "unicode": "1f550"
+}

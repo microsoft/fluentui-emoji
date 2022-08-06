@@ -1,0 +1,19 @@
+{
+  "cldr": "postbox",
+  "fromVersion": "0.6",
+  "glyph": "📮",
+  "glyphAsUtfInEmoticons": [
+    "1f4ee_postbox"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "mail",
+    "mailbox",
+    "postbox"
+  ],
+  "mappedToEmoticons": [
+    "1f4ee_postbox"
+  ],
+  "tts": "postbox",
+  "unicode": "1f4ee"
+}

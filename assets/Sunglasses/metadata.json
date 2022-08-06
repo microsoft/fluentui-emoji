@@ -1,0 +1,21 @@
+{
+  "cldr": "sunglasses",
+  "fromVersion": "0.7",
+  "glyph": "🕶️",
+  "glyphAsUtfInEmoticons": [
+    "1f576_sunglasses"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "dark",
+    "eye",
+    "eyewear",
+    "glasses",
+    "sunglasses"
+  ],
+  "mappedToEmoticons": [
+    "1f576_sunglasses"
+  ],
+  "tts": "sunglasses",
+  "unicode": "1f576 fe0f"
+}

@@ -1,0 +1,22 @@
+{
+  "cldr": "inbox tray",
+  "fromVersion": "0.6",
+  "glyph": "📥",
+  "glyphAsUtfInEmoticons": [
+    "1f4e5_inboxtray"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "box",
+    "inbox",
+    "letter",
+    "mail",
+    "receive",
+    "tray"
+  ],
+  "mappedToEmoticons": [
+    "1f4e5_inboxtray"
+  ],
+  "tts": "inbox tray",
+  "unicode": "1f4e5"
+}

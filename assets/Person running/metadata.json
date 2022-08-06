@@ -1,0 +1,28 @@
+{
+  "cldr": "person running",
+  "fromVersion": "0.6",
+  "glyph": "🏃",
+  "glyphAsUtfInEmoticons": [
+    "gottarun",
+    "runner"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "marathon",
+    "person running",
+    "running"
+  ],
+  "mappedToEmoticons": [
+    "runner"
+  ],
+  "tts": "person running",
+  "unicode": "1f3c3",
+  "unicodeSkintones": [
+    "1f3c3",
+    "1f3c3 1f3fb",
+    "1f3c3 1f3fc",
+    "1f3c3 1f3fd",
+    "1f3c3 1f3fe",
+    "1f3c3 1f3ff"
+  ]
+}

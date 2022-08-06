@@ -1,0 +1,27 @@
+{
+  "cldr": "detective",
+  "fromVersion": "0.7",
+  "glyph": "🕵️",
+  "glyphAsUtfInEmoticons": [
+    "detective"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "detective",
+    "sleuth",
+    "spy"
+  ],
+  "mappedToEmoticons": [
+    "detective"
+  ],
+  "tts": "detective",
+  "unicode": "1f575 fe0f",
+  "unicodeSkintones": [
+    "1f575 fe0f",
+    "1f575 1f3fb",
+    "1f575 1f3fc",
+    "1f575 1f3fd",
+    "1f575 1f3fe",
+    "1f575 1f3ff"
+  ]
+}

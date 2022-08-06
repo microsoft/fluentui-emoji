@@ -1,0 +1,27 @@
+{
+  "cldr": "person taking bath",
+  "fromVersion": "0.6",
+  "glyph": "🛀",
+  "glyphAsUtfInEmoticons": [
+    "womanbath"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "bath",
+    "bathtub",
+    "person taking bath"
+  ],
+  "mappedToEmoticons": [
+    "womanbath"
+  ],
+  "tts": "person taking bath",
+  "unicode": "1f6c0",
+  "unicodeSkintones": [
+    "1f6c0",
+    "1f6c0 1f3fb",
+    "1f6c0 1f3fc",
+    "1f6c0 1f3fd",
+    "1f6c0 1f3fe",
+    "1f6c0 1f3ff"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "kissing face",
+  "fromVersion": "1.0",
+  "glyph": "😗",
+  "glyphAsUtfInEmoticons": [
+    "kiss"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "kiss",
+    "kissing face"
+  ],
+  "mappedToEmoticons": [
+    "kiss"
+  ],
+  "tts": "kissing face",
+  "unicode": "1f617"
+}

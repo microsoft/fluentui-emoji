@@ -1,0 +1,18 @@
+{
+  "cldr": "billed cap",
+  "fromVersion": "5.0",
+  "glyph": "🧢",
+  "glyphAsUtfInEmoticons": [
+    "1f9e2_billedcap"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "baseball cap",
+    "billed cap"
+  ],
+  "mappedToEmoticons": [
+    "1f9e2_billedcap"
+  ],
+  "tts": "billed cap",
+  "unicode": "1f9e2"
+}

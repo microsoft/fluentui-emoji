@@ -1,0 +1,21 @@
+{
+  "cldr": "growing heart",
+  "fromVersion": "0.6",
+  "glyph": "💗",
+  "glyphAsUtfInEmoticons": [
+    "growingheart"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "excited",
+    "growing",
+    "growing heart",
+    "nervous",
+    "pulse"
+  ],
+  "mappedToEmoticons": [
+    "growingheart"
+  ],
+  "tts": "growing heart",
+  "unicode": "1f497"
+}

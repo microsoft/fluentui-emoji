@@ -1,0 +1,14 @@
+{
+  "cldr": "camping",
+  "fromVersion": "0.7",
+  "glyph": "🏕️",
+  "group": "Travel & Places",
+  "keywords": [
+    "camping"
+  ],
+  "mappedToEmoticons": [
+    "1f3d5_camping"
+  ],
+  "tts": "camping",
+  "unicode": "1f3d5 fe0f"
+}

@@ -1,0 +1,21 @@
+{
+  "cldr": "wine glass",
+  "fromVersion": "0.6",
+  "glyph": "🍷",
+  "glyphAsUtfInEmoticons": [
+    "redwine"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "bar",
+    "beverage",
+    "drink",
+    "glass",
+    "wine"
+  ],
+  "mappedToEmoticons": [
+    "redwine"
+  ],
+  "tts": "wine glass",
+  "unicode": "1f377"
+}

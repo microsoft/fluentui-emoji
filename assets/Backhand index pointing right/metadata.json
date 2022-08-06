@@ -1,0 +1,30 @@
+{
+  "cldr": "backhand index pointing right",
+  "fromVersion": "0.6",
+  "glyph": "👉",
+  "glyphAsUtfInEmoticons": [
+    "pointrightindex"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "backhand",
+    "backhand index pointing right",
+    "finger",
+    "hand",
+    "index",
+    "point"
+  ],
+  "mappedToEmoticons": [
+    "pointrightindex"
+  ],
+  "tts": "backhand index pointing right",
+  "unicode": "1f449",
+  "unicodeSkintones": [
+    "1f449",
+    "1f449 1f3fb",
+    "1f449 1f3fc",
+    "1f449 1f3fd",
+    "1f449 1f3fe",
+    "1f449 1f3ff"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "cldr": "spiral shell",
+  "fromVersion": "0.6",
+  "glyph": "🐚",
+  "glyphAsUtfInEmoticons": [
+    "1f41a_spiralshell"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "shell",
+    "spiral"
+  ],
+  "mappedToEmoticons": [
+    "1f41a_spiralshell"
+  ],
+  "tts": "spiral shell",
+  "unicode": "1f41a"
+}

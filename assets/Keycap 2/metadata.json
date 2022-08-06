@@ -1,0 +1,18 @@
+{
+  "cldr": "keycap: 2",
+  "fromVersion": "0.6",
+  "glyph": "2️⃣",
+  "glyphAsUtfInEmoticons": [
+    "keycapdigittwo"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "keycap",
+    "two"
+  ],
+  "mappedToEmoticons": [
+    "keycapdigittwo"
+  ],
+  "tts": "keycap: 2",
+  "unicode": "0032 fe0f 20e3"
+}

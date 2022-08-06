@@ -1,0 +1,19 @@
+{
+  "cldr": "restroom",
+  "fromVersion": "0.6",
+  "glyph": "🚻",
+  "glyphAsUtfInEmoticons": [
+    "1f6bb_restroom"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "lavatory",
+    "restroom",
+    "WC"
+  ],
+  "mappedToEmoticons": [
+    "1f6bb_restroom"
+  ],
+  "tts": "restroom",
+  "unicode": "1f6bb"
+}

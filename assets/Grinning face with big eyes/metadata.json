@@ -1,0 +1,22 @@
+{
+  "cldr": "grinning face with big eyes",
+  "fromVersion": "0.6",
+  "glyph": "😃",
+  "glyphAsUtfInEmoticons": [
+    "1f603_grinningfacewithbigeyes",
+    "happyface"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face",
+    "grinning face with big eyes",
+    "mouth",
+    "open",
+    "smile"
+  ],
+  "mappedToEmoticons": [
+    "happyface"
+  ],
+  "tts": "grinning face with big eyes",
+  "unicode": "1f603"
+}

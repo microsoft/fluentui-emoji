@@ -1,0 +1,22 @@
+{
+  "cldr": "outbox tray",
+  "fromVersion": "0.6",
+  "glyph": "📤",
+  "glyphAsUtfInEmoticons": [
+    "1f4e4_outboxtray"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "box",
+    "letter",
+    "mail",
+    "outbox",
+    "sent",
+    "tray"
+  ],
+  "mappedToEmoticons": [
+    "1f4e4_outboxtray"
+  ],
+  "tts": "outbox tray",
+  "unicode": "1f4e4"
+}

@@ -1,0 +1,25 @@
+{
+  "cldr": "man feeding baby",
+  "fromVersion": "13.0",
+  "glyph": "👨‍🍼",
+  "group": "People & Body",
+  "keywords": [
+    "baby",
+    "feeding",
+    "man",
+    "nursing"
+  ],
+  "mappedToEmoticons": [
+    "manbottlefeeding"
+  ],
+  "tts": "man feeding baby",
+  "unicode": "1f468 200d 1f37c",
+  "unicodeSkintones": [
+    "1f468 200d 1f37c",
+    "1f468 1f3fb 200d 1f37c",
+    "1f468 1f3fc 200d 1f37c",
+    "1f468 1f3fd 200d 1f37c",
+    "1f468 1f3fe 200d 1f37c",
+    "1f468 1f3ff 200d 1f37c"
+  ]
+}

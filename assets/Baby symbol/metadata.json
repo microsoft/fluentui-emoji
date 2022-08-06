@@ -1,0 +1,19 @@
+{
+  "cldr": "baby symbol",
+  "fromVersion": "0.6",
+  "glyph": "🚼",
+  "glyphAsUtfInEmoticons": [
+    "1f6bc_babysymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "baby",
+    "baby symbol",
+    "changing"
+  ],
+  "mappedToEmoticons": [
+    "1f6bc_babysymbol"
+  ],
+  "tts": "baby symbol",
+  "unicode": "1f6bc"
+}

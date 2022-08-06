@@ -1,0 +1,17 @@
+{
+  "cldr": "snow-capped mountain",
+  "fromVersion": "0.7",
+  "glyph": "🏔️",
+  "group": "Travel & Places",
+  "keywords": [
+    "cold",
+    "mountain",
+    "snow",
+    "snow-capped mountain"
+  ],
+  "mappedToEmoticons": [
+    "1f3d4_snowcappedmountain"
+  ],
+  "tts": "snow-capped mountain",
+  "unicode": "1f3d4 fe0f"
+}

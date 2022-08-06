@@ -1,0 +1,18 @@
+{
+  "cldr": "keycap: 5",
+  "fromVersion": "0.6",
+  "glyph": "5️⃣",
+  "glyphAsUtfInEmoticons": [
+    "keycapdigitfive"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "keycap",
+    "five"
+  ],
+  "mappedToEmoticons": [
+    "keycapdigitfive"
+  ],
+  "tts": "keycap: 5",
+  "unicode": "0035 fe0f 20e3"
+}

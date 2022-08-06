@@ -1,0 +1,21 @@
+{
+  "cldr": "minus",
+  "fromVersion": "0.6",
+  "glyph": "➖",
+  "glyphAsUtfInEmoticons": [
+    "2796_heavyminussign"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "-",
+    "−",
+    "math",
+    "minus",
+    "sign"
+  ],
+  "mappedToEmoticons": [
+    "2796_heavyminussign"
+  ],
+  "tts": "minus",
+  "unicode": "2796"
+}

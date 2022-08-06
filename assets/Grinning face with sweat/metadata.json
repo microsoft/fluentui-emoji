@@ -1,0 +1,22 @@
+{
+  "cldr": "grinning face with sweat",
+  "fromVersion": "0.6",
+  "glyph": "😅",
+  "glyphAsUtfInEmoticons": [
+    "sweatgrinning"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "cold",
+    "face",
+    "grinning face with sweat",
+    "open",
+    "smile",
+    "sweat"
+  ],
+  "mappedToEmoticons": [
+    "sweatgrinning"
+  ],
+  "tts": "grinning face with sweat",
+  "unicode": "1f605"
+}

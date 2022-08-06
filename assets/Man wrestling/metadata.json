@@ -1,0 +1,16 @@
+{
+  "cldr": "men wrestling",
+  "fromVersion": "4.0",
+  "glyph": "🤼‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "menwrestling"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "men",
+    "men wrestling",
+    "wrestle"
+  ],
+  "tts": "men wrestling",
+  "unicode": "1f93c 200d 2642 fe0f"
+}

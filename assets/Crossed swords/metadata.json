@@ -1,0 +1,16 @@
+{
+  "cldr": "crossed swords",
+  "fromVersion": "1.0",
+  "glyph": "⚔️",
+  "group": "Objects",
+  "keywords": [
+    "crossed",
+    "swords",
+    "weapon"
+  ],
+  "mappedToEmoticons": [
+    "2694_crossedswords"
+  ],
+  "tts": "crossed swords",
+  "unicode": "2694 fe0f"
+}

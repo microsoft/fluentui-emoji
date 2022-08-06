@@ -1,0 +1,20 @@
+{
+  "cldr": "footprints",
+  "fromVersion": "0.6",
+  "glyph": "👣",
+  "glyphAsUtfInEmoticons": [
+    "1f463_footprints"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "clothing",
+    "footprint",
+    "footprints",
+    "print"
+  ],
+  "mappedToEmoticons": [
+    "1f463_footprints"
+  ],
+  "tts": "footprints",
+  "unicode": "1f463"
+}

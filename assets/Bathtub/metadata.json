@@ -1,0 +1,18 @@
+{
+  "cldr": "bathtub",
+  "fromVersion": "1.0",
+  "glyph": "🛁",
+  "glyphAsUtfInEmoticons": [
+    "1f6c1_bathtub"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "bath",
+    "bathtub"
+  ],
+  "mappedToEmoticons": [
+    "1f6c1_bathtub"
+  ],
+  "tts": "bathtub",
+  "unicode": "1f6c1"
+}

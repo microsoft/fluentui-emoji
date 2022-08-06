@@ -1,0 +1,22 @@
+{
+  "cldr": "railway car",
+  "fromVersion": "0.6",
+  "glyph": "🚃",
+  "glyphAsUtfInEmoticons": [
+    "1f683_railwaycar"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "car",
+    "electric",
+    "railway",
+    "train",
+    "tram",
+    "trolleybus"
+  ],
+  "mappedToEmoticons": [
+    "1f683_railwaycar"
+  ],
+  "tts": "railway car",
+  "unicode": "1f683"
+}

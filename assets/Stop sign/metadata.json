@@ -1,0 +1,19 @@
+{
+  "cldr": "stop sign",
+  "fromVersion": "3.0",
+  "glyph": "🛑",
+  "glyphAsUtfInEmoticons": [
+    "stop"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "octagonal",
+    "sign",
+    "stop"
+  ],
+  "mappedToEmoticons": [
+    "stopsign"
+  ],
+  "tts": "stop sign",
+  "unicode": "1f6d1"
+}

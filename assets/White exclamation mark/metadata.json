@@ -1,0 +1,22 @@
+{
+  "cldr": "white exclamation mark",
+  "fromVersion": "0.6",
+  "glyph": "❕",
+  "glyphAsUtfInEmoticons": [
+    "2755_whiteexclamationmark"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "!",
+    "exclamation",
+    "mark",
+    "outlined",
+    "punctuation",
+    "white exclamation mark"
+  ],
+  "mappedToEmoticons": [
+    "2755_whiteexclamationmark"
+  ],
+  "tts": "white exclamation mark",
+  "unicode": "2755"
+}

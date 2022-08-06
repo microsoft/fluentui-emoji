@@ -1,0 +1,17 @@
+{
+  "cldr": "link",
+  "fromVersion": "0.6",
+  "glyph": "🔗",
+  "glyphAsUtfInEmoticons": [
+    "1f517_linksymbol"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "link"
+  ],
+  "mappedToEmoticons": [
+    "1f517_linksymbol"
+  ],
+  "tts": "link",
+  "unicode": "1f517"
+}

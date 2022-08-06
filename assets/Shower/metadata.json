@@ -1,0 +1,18 @@
+{
+  "cldr": "shower",
+  "fromVersion": "1.0",
+  "glyph": "🚿",
+  "glyphAsUtfInEmoticons": [
+    "1f6bf_shower"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "shower",
+    "water"
+  ],
+  "mappedToEmoticons": [
+    "1f6bf_shower"
+  ],
+  "tts": "shower",
+  "unicode": "1f6bf"
+}

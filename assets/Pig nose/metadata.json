@@ -1,0 +1,19 @@
+{
+  "cldr": "pig nose",
+  "fromVersion": "0.6",
+  "glyph": "🐽",
+  "glyphAsUtfInEmoticons": [
+    "1f43d_pignose"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "face",
+    "nose",
+    "pig"
+  ],
+  "mappedToEmoticons": [
+    "1f43d_pignose"
+  ],
+  "tts": "pig nose",
+  "unicode": "1f43d"
+}

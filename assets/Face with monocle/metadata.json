@@ -1,0 +1,19 @@
+{
+  "cldr": "face with monocle",
+  "fromVersion": "5.0",
+  "glyph": "🧐",
+  "glyphAsUtfInEmoticons": [
+    "1f9d0_facewithmonocle",
+    "movember"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "face with monocle",
+    "stuffy"
+  ],
+  "mappedToEmoticons": [
+    "1f9d0_facewithmonocle"
+  ],
+  "tts": "face with monocle",
+  "unicode": "1f9d0"
+}

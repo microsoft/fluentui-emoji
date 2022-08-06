@@ -1,0 +1,27 @@
+{
+  "cldr": "man construction worker",
+  "fromVersion": "4.0",
+  "glyph": "👷‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "man_construction_worker"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "construction",
+    "man",
+    "worker"
+  ],
+  "mappedToEmoticons": [
+    "man_construction_worker"
+  ],
+  "tts": "man construction worker",
+  "unicode": "1f477 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f477 200d 2642 fe0f",
+    "1f477 1f3fb 200d 2642 fe0f",
+    "1f477 1f3fc 200d 2642 fe0f",
+    "1f477 1f3fd 200d 2642 fe0f",
+    "1f477 1f3fe 200d 2642 fe0f",
+    "1f477 1f3ff 200d 2642 fe0f"
+  ]
+}

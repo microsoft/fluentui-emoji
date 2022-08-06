@@ -1,0 +1,27 @@
+{
+  "cldr": "person rowing boat",
+  "fromVersion": "1.0",
+  "glyph": "🚣",
+  "glyphAsUtfInEmoticons": [
+    "row_boat"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "boat",
+    "person rowing boat",
+    "rowboat"
+  ],
+  "mappedToEmoticons": [
+    "personrowingboat"
+  ],
+  "tts": "person rowing boat",
+  "unicode": "1f6a3",
+  "unicodeSkintones": [
+    "1f6a3",
+    "1f6a3 1f3fb",
+    "1f6a3 1f3fc",
+    "1f6a3 1f3fd",
+    "1f6a3 1f3fe",
+    "1f6a3 1f3ff"
+  ]
+}

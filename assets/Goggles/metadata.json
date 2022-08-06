@@ -1,0 +1,20 @@
+{
+  "cldr": "goggles",
+  "fromVersion": "11.0",
+  "glyph": "🥽",
+  "glyphAsUtfInEmoticons": [
+    "1f97d_goggles"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "eye protection",
+    "goggles",
+    "swimming",
+    "welding"
+  ],
+  "mappedToEmoticons": [
+    "1f97d_goggles"
+  ],
+  "tts": "goggles",
+  "unicode": "1f97d"
+}

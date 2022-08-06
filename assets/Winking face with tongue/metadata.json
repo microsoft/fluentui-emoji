@@ -1,0 +1,22 @@
+{
+  "cldr": "winking face with tongue",
+  "fromVersion": "0.6",
+  "glyph": "😜",
+  "glyphAsUtfInEmoticons": [
+    "winktongueout"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "eye",
+    "face",
+    "joke",
+    "tongue",
+    "wink",
+    "winking face with tongue"
+  ],
+  "mappedToEmoticons": [
+    "winktongueout"
+  ],
+  "tts": "winking face with tongue",
+  "unicode": "1f61c"
+}

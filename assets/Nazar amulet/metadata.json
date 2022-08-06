@@ -1,0 +1,22 @@
+{
+  "cldr": "nazar amulet",
+  "fromVersion": "11.0",
+  "glyph": "🧿",
+  "glyphAsUtfInEmoticons": [
+    "1f9ff_nazaramulet"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "bead",
+    "charm",
+    "evil-eye",
+    "nazar",
+    "nazar amulet",
+    "talisman"
+  ],
+  "mappedToEmoticons": [
+    "1f9ff_nazaramulet"
+  ],
+  "tts": "nazar amulet",
+  "unicode": "1f9ff"
+}

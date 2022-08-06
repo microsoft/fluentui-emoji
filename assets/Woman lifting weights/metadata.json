@@ -1,0 +1,27 @@
+{
+  "cldr": "woman lifting weights",
+  "fromVersion": "4.0",
+  "glyph": "🏋️‍♀️",
+  "glyphAsUtfInEmoticons": [
+    "woman_weight_lifter"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "weight lifter",
+    "woman",
+    "woman lifting weights"
+  ],
+  "mappedToEmoticons": [
+    "woman_weight_lifter"
+  ],
+  "tts": "woman lifting weights",
+  "unicode": "1f3cb fe0f 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f3cb fe0f 200d 2640 fe0f",
+    "1f3cb 1f3fb 200d 2640 fe0f",
+    "1f3cb 1f3fc 200d 2640 fe0f",
+    "1f3cb 1f3fd 200d 2640 fe0f",
+    "1f3cb 1f3fe 200d 2640 fe0f",
+    "1f3cb 1f3ff 200d 2640 fe0f"
+  ]
+}

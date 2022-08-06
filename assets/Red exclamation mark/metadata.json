@@ -1,0 +1,21 @@
+{
+  "cldr": "red exclamation mark",
+  "fromVersion": "0.6",
+  "glyph": "❗",
+  "glyphAsUtfInEmoticons": [
+    "2757_heavyexclamationmarksymbol"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "!",
+    "exclamation",
+    "mark",
+    "punctuation",
+    "red exclamation mark"
+  ],
+  "mappedToEmoticons": [
+    "2757_heavyexclamationmarksymbol"
+  ],
+  "tts": "red exclamation mark",
+  "unicode": "2757"
+}

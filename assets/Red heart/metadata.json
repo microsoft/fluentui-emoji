@@ -1,0 +1,18 @@
+{
+  "cldr": "red heart",
+  "fromVersion": "0.6",
+  "glyph": "❤️",
+  "glyphAsUtfInEmoticons": [
+    "heart"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "heart",
+    "red heart"
+  ],
+  "mappedToEmoticons": [
+    "heart"
+  ],
+  "tts": "red heart",
+  "unicode": "2764 fe0f"
+}

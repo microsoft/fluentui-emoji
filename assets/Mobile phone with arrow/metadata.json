@@ -1,0 +1,22 @@
+{
+  "cldr": "mobile phone with arrow",
+  "fromVersion": "0.6",
+  "glyph": "📲",
+  "glyphAsUtfInEmoticons": [
+    "1f4f2_mobilephonewitharrow"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "arrow",
+    "cell",
+    "mobile",
+    "mobile phone with arrow",
+    "phone",
+    "receive"
+  ],
+  "mappedToEmoticons": [
+    "1f4f2_mobilephonewitharrow"
+  ],
+  "tts": "mobile phone with arrow",
+  "unicode": "1f4f2"
+}

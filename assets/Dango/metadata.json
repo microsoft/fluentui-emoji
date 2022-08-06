@@ -1,0 +1,22 @@
+{
+  "cldr": "dango",
+  "fromVersion": "0.6",
+  "glyph": "🍡",
+  "glyphAsUtfInEmoticons": [
+    "1f361_dango"
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "dango",
+    "dessert",
+    "Japanese",
+    "skewer",
+    "stick",
+    "sweet"
+  ],
+  "mappedToEmoticons": [
+    "1f361_dango"
+  ],
+  "tts": "dango",
+  "unicode": "1f361"
+}

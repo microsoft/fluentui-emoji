@@ -1,0 +1,19 @@
+{
+  "cldr": "volcano",
+  "fromVersion": "0.6",
+  "glyph": "🌋",
+  "glyphAsUtfInEmoticons": [
+    "1f30b_volcano"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "eruption",
+    "mountain",
+    "volcano"
+  ],
+  "mappedToEmoticons": [
+    "1f30b_volcano"
+  ],
+  "tts": "volcano",
+  "unicode": "1f30b"
+}

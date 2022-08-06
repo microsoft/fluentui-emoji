@@ -1,0 +1,20 @@
+{
+  "cldr": "mosque",
+  "fromVersion": "1.0",
+  "glyph": "🕌",
+  "glyphAsUtfInEmoticons": [
+    "1f54c_mosque"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "islam",
+    "mosque",
+    "Muslim",
+    "religion"
+  ],
+  "mappedToEmoticons": [
+    "1f54c_mosque"
+  ],
+  "tts": "mosque",
+  "unicode": "1f54c"
+}

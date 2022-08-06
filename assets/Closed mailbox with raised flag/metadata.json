@@ -1,0 +1,21 @@
+{
+  "cldr": "closed mailbox with raised flag",
+  "fromVersion": "0.6",
+  "glyph": "📫",
+  "glyphAsUtfInEmoticons": [
+    "1f4eb_mailboxclosedflagup"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "closed",
+    "closed mailbox with raised flag",
+    "mail",
+    "mailbox",
+    "postbox"
+  ],
+  "mappedToEmoticons": [
+    "1f4eb_mailboxclosedflagup"
+  ],
+  "tts": "closed mailbox with raised flag",
+  "unicode": "1f4eb"
+}

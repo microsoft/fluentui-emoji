@@ -1,0 +1,18 @@
+{
+  "cldr": "blowfish",
+  "fromVersion": "0.6",
+  "glyph": "🐡",
+  "glyphAsUtfInEmoticons": [
+    "1f421_blowfish"
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "blowfish",
+    "fish"
+  ],
+  "mappedToEmoticons": [
+    "1f421_blowfish"
+  ],
+  "tts": "blowfish",
+  "unicode": "1f421"
+}

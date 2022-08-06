@@ -1,0 +1,27 @@
+{
+  "cldr": "construction worker",
+  "fromVersion": "0.6",
+  "glyph": "👷",
+  "glyphAsUtfInEmoticons": [
+    "construction_worker"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "construction",
+    "hat",
+    "worker"
+  ],
+  "mappedToEmoticons": [
+    "construction_worker"
+  ],
+  "tts": "construction worker",
+  "unicode": "1f477",
+  "unicodeSkintones": [
+    "1f477",
+    "1f477 1f3fb",
+    "1f477 1f3fc",
+    "1f477 1f3fd",
+    "1f477 1f3fe",
+    "1f477 1f3ff"
+  ]
+}

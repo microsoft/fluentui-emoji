@@ -1,0 +1,18 @@
+{
+  "cldr": "circus tent",
+  "fromVersion": "0.6",
+  "glyph": "🎪",
+  "glyphAsUtfInEmoticons": [
+    "1f3aa_circustent"
+  ],
+  "group": "Travel & Places",
+  "keywords": [
+    "circus",
+    "tent"
+  ],
+  "mappedToEmoticons": [
+    "1f3aa_circustent"
+  ],
+  "tts": "circus tent",
+  "unicode": "1f3aa"
+}

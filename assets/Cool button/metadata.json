@@ -1,0 +1,18 @@
+{
+  "cldr": "COOL button",
+  "fromVersion": "0.6",
+  "glyph": "🆒",
+  "glyphAsUtfInEmoticons": [
+    "1f192_squaredcool"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "cool",
+    "COOL button"
+  ],
+  "mappedToEmoticons": [
+    "1f192_squaredcool"
+  ],
+  "tts": "COOL button",
+  "unicode": "1f192"
+}

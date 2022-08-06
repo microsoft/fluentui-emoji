@@ -1,0 +1,18 @@
+{
+  "cldr": "orange heart",
+  "fromVersion": "5.0",
+  "glyph": "🧡",
+  "glyphAsUtfInEmoticons": [
+    "heartorange"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "orange",
+    "orange heart"
+  ],
+  "mappedToEmoticons": [
+    "heartorange"
+  ],
+  "tts": "orange heart",
+  "unicode": "1f9e1"
+}

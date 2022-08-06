@@ -1,0 +1,19 @@
+{
+  "cldr": "zombie",
+  "fromVersion": "5.0",
+  "glyph": "🧟",
+  "glyphAsUtfInEmoticons": [
+    "zombie"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "undead",
+    "walking dead",
+    "zombie"
+  ],
+  "mappedToEmoticons": [
+    "personzombie"
+  ],
+  "tts": "zombie",
+  "unicode": "1f9df"
+}

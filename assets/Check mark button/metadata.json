@@ -1,0 +1,20 @@
+{
+  "cldr": "check mark button",
+  "fromVersion": "0.6",
+  "glyph": "✅",
+  "glyphAsUtfInEmoticons": [
+    "2705_whiteheavycheckmark"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "✓",
+    "button",
+    "check",
+    "mark"
+  ],
+  "mappedToEmoticons": [
+    "2705_whiteheavycheckmark"
+  ],
+  "tts": "check mark button",
+  "unicode": "2705"
+}

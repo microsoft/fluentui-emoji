@@ -1,0 +1,17 @@
+{
+  "cldr": "bell",
+  "fromVersion": "0.6",
+  "glyph": "🔔",
+  "glyphAsUtfInEmoticons": [
+    "bell"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "bell"
+  ],
+  "mappedToEmoticons": [
+    "bell"
+  ],
+  "tts": "bell",
+  "unicode": "1f514"
+}

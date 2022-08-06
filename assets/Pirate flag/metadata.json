@@ -1,0 +1,18 @@
+{
+  "cldr": "pirate flag",
+  "fromVersion": "11.0",
+  "glyph": "🏴‍☠️",
+  "glyphAsUtfInEmoticons": [
+    "1f3f4_200d_2620_fe0f_pirateflag"
+  ],
+  "group": "Flags",
+  "keywords": [
+    "Jolly Roger",
+    "pirate",
+    "pirate flag",
+    "plunder",
+    "treasure"
+  ],
+  "tts": "pirate flag",
+  "unicode": "1f3f4 200d 2620 fe0f"
+}

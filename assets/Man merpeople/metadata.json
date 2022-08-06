@@ -1,0 +1,26 @@
+{
+  "cldr": "merman",
+  "fromVersion": "5.0",
+  "glyph": "🧜‍♂️",
+  "glyphAsUtfInEmoticons": [
+    "merman"
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "merman",
+    "Triton"
+  ],
+  "mappedToEmoticons": [
+    "merman"
+  ],
+  "tts": "merman",
+  "unicode": "1f9dc 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f9dc 200d 2642 fe0f",
+    "1f9dc 1f3fb 200d 2642 fe0f",
+    "1f9dc 1f3fc 200d 2642 fe0f",
+    "1f9dc 1f3fd 200d 2642 fe0f",
+    "1f9dc 1f3fe 200d 2642 fe0f",
+    "1f9dc 1f3ff 200d 2642 fe0f"
+  ]
+}

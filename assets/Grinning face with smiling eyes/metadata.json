@@ -1,0 +1,22 @@
+{
+  "cldr": "grinning face with smiling eyes",
+  "fromVersion": "0.6",
+  "glyph": "😄",
+  "glyphAsUtfInEmoticons": [
+    "happyeyes"
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "eye",
+    "face",
+    "grinning face with smiling eyes",
+    "mouth",
+    "open",
+    "smile"
+  ],
+  "mappedToEmoticons": [
+    "happyeyes"
+  ],
+  "tts": "grinning face with smiling eyes",
+  "unicode": "1f604"
+}

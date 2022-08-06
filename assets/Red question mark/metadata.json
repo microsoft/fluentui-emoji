@@ -1,0 +1,21 @@
+{
+  "cldr": "red question mark",
+  "fromVersion": "0.6",
+  "glyph": "❓",
+  "glyphAsUtfInEmoticons": [
+    "2753_blackquestionmarkornament"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "?",
+    "mark",
+    "punctuation",
+    "question",
+    "red question mark"
+  ],
+  "mappedToEmoticons": [
+    "2753_blackquestionmarkornament"
+  ],
+  "tts": "red question mark",
+  "unicode": "2753"
+}

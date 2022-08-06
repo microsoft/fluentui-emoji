@@ -1,0 +1,15 @@
+{
+  "cldr": "classical building",
+  "fromVersion": "0.7",
+  "glyph": "🏛️",
+  "group": "Travel & Places",
+  "keywords": [
+    "classical",
+    "classical building"
+  ],
+  "mappedToEmoticons": [
+    "1f3db_classicalbuilding"
+  ],
+  "tts": "classical building",
+  "unicode": "1f3db fe0f"
+}

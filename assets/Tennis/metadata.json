@@ -1,0 +1,20 @@
+{
+  "cldr": "tennis",
+  "fromVersion": "0.6",
+  "glyph": "🎾",
+  "glyphAsUtfInEmoticons": [
+    "tennisball",
+    "tennisfail"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "ball",
+    "racquet",
+    "tennis"
+  ],
+  "mappedToEmoticons": [
+    "tennisball"
+  ],
+  "tts": "tennis",
+  "unicode": "1f3be"
+}

@@ -1,0 +1,19 @@
+{
+  "cldr": "Gemini",
+  "fromVersion": "0.6",
+  "glyph": "♊",
+  "glyphAsUtfInEmoticons": [
+    "264a_gemini"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "Gemini",
+    "twins",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "264a_gemini"
+  ],
+  "tts": "Gemini",
+  "unicode": "264a"
+}

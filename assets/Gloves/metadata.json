@@ -1,0 +1,18 @@
+{
+  "cldr": "gloves",
+  "fromVersion": "5.0",
+  "glyph": "🧤",
+  "glyphAsUtfInEmoticons": [
+    "1f9e4_gloves"
+  ],
+  "group": "Objects",
+  "keywords": [
+    "gloves",
+    "hand"
+  ],
+  "mappedToEmoticons": [
+    "1f9e4_gloves"
+  ],
+  "tts": "gloves",
+  "unicode": "1f9e4"
+}

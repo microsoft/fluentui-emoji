@@ -1,0 +1,15 @@
+{
+  "cldr": "building construction",
+  "fromVersion": "0.7",
+  "glyph": "🏗️",
+  "group": "Travel & Places",
+  "keywords": [
+    "building construction",
+    "construction"
+  ],
+  "mappedToEmoticons": [
+    "1f3d7_buildingconstruction"
+  ],
+  "tts": "building construction",
+  "unicode": "1f3d7 fe0f"
+}

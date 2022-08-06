@@ -1,0 +1,19 @@
+{
+  "cldr": "Aries",
+  "fromVersion": "0.6",
+  "glyph": "♈",
+  "glyphAsUtfInEmoticons": [
+    "2648_aries"
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "Aries",
+    "ram",
+    "zodiac"
+  ],
+  "mappedToEmoticons": [
+    "2648_aries"
+  ],
+  "tts": "Aries",
+  "unicode": "2648"
+}
