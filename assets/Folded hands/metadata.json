@@ -20,5 +20,13 @@
     "praying"
   ],
   "tts": "folded hands",
-  "unicode": "1f64f"
+  "unicode": "1f64f",
+  "unicodeSkintones": [
+    "1f64f",
+    "1f64f 1f3fb",
+    "1f64f 1f3fc",
+    "1f64f 1f3fd",
+    "1f64f 1f3fe",
+    "1f64f 1f3ff"
+  ]
 }
