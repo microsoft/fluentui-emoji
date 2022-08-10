@@ -15,5 +15,13 @@
     "steam_room"
   ],
   "tts": "person in steamy room",
-  "unicode": "1f9d6"
+  "unicode": "1f9d6",
+  "unicodeSkintones": [
+    "1f9d6",
+    "1f9d6 1f3fb",
+    "1f9d6 1f3fc",
+    "1f9d6 1f3fd",
+    "1f9d6 1f3fe",
+    "1f9d6 1f3ff"
+  ]
 }
