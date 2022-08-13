@@ -15,4 +15,4 @@ Please feel free to [open a GitHub issue](https://github.com/microsoft/fluentui-
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments.
 
 ## Open Source Notice
-Not all emojis can be open-sourced (because of trademarks). This list includes: the Clippy-like paperclip, national flags, technologist and video games emojis
+Not all emojis can be open-sourced (because of trademarks). This list includes: the Clippy-like paperclip, national flags, technologist emojis and video game emojis
