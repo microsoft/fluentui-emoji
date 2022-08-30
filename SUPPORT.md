@@ -8,4 +8,4 @@ feature request as a new Issue.
 
 ## Microsoft Support Policy  
 
-Support for the Fluent Emoji are limited to the resources listed above.
+Support for the Fluent Emoji is limited to the resources listed above.
