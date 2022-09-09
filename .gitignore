@@ -105,3 +105,12 @@ dist
 
 # MacOS DS_Store
 **/.DS_Store
+
+# Python
+venv/
+__pycache__
+*.py[cod]
+
+# project
+svgs/
+build/
