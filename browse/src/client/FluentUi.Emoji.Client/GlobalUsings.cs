@@ -1,0 +1,13 @@
+﻿global using System.Diagnostics;
+global using System.Net.Http;
+global using System.Net.Http.Json;
+global using FluentUi.Emoji.Client;
+global using FluentUi.Emoji.Client.Models;
+global using FluentUi.Emoji.Client.Services;
+global using Microsoft.AspNetCore.Components;
+global using Microsoft.AspNetCore.Components.Web;
+global using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+global using Microsoft.Extensions.Caching.Memory;
+global using Microsoft.JSInterop;
+global using MudBlazor;
+global using MudBlazor.Services;

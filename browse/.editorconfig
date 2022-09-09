@@ -1,0 +1,84 @@
+# To learn more about .editorconfig see https://aka.ms/editorconfigdocs
+############################### 
+# Core EditorConfig Options   # 
+############################### 
+root = true 
+
+# All files 
+[*] 
+indent_style = space 
+file_header_template = Copyright (c) David Pine. All rights reserved.\nLicensed under the MIT License.
+
+# Code files 
+[*.cs] 
+indent_size = 4
+tab_width = 4
+trim_trailing_whitespace = true
+
+############################### 
+# .NET Coding Conventions     # 
+############################### 
+[*.cs] 
+# Organize usings 
+dotnet_separate_import_directive_groups = false
+dotnet_sort_system_directives_first = true
+
+# namespace style
+csharp_style_namespace_declarations=file_scoped:suggestion
+
+# this. preferences 
+dotnet_style_qualification_for_field = false:error 
+dotnet_style_qualification_for_property = false:error 
+dotnet_style_qualification_for_method = false:error 
+dotnet_style_qualification_for_event = false:error
+
+# New line preferences 
+csharp_new_line_before_open_brace = all 
+
+# Indentation preferences 
+csharp_indent_case_contents = true 
+csharp_indent_switch_labels = true 
+csharp_indent_labels = flush_left 
+
+# Space preferences 
+csharp_space_after_keywords_in_control_flow_statements = true 
+
+# Parentheses preferences 
+dotnet_style_parentheses_in_arithmetic_binary_operators = always_for_clarity:error 
+dotnet_style_parentheses_in_relational_binary_operators = always_for_clarity:error 
+dotnet_style_parentheses_in_other_binary_operators = always_for_clarity:error 
+dotnet_style_parentheses_in_other_operators = never_if_unnecessary:error 
+
+# Expression-level preferences 
+dotnet_style_prefer_auto_properties = true:error 
+dotnet_style_prefer_is_null_check_over_reference_equality_method = true:error 
+
+# CSharp code style settings:
+csharp_style_var_for_built_in_types = true:error
+csharp_style_var_when_type_is_apparent = true:error
+csharp_style_var_elsewhere = true:error
+
+# Patern matching
+csharp_style_pattern_matching_over_is_with_cast_check = true:error
+csharp_style_pattern_matching_over_as_with_null_check = true:error
+
+## Naming Conventions
+# Async methods should have [Async] suffix
+[*.cs]
+dotnet_naming_rule.async_method_must_end_with_async.symbols = async_methods
+dotnet_naming_symbols.async_methods.applicable_kinds = method
+dotnet_naming_symbols.async_methods.applicable_accessibilities = *
+dotnet_naming_symbols.async_methods.required_modifiers= async
+
+dotnet_naming_rule.async_method_must_end_with_async.style = async_suffix
+dotnet_naming_style.async_suffix.required_suffix = Async
+
+dotnet_naming_rule.async_method_must_end_with_async.severity = error
+
+# const fields use pascal casing
+dotnet_naming_rule.const_fields_use_pascal_casing.symbols = const_fields
+dotnet_naming_symbols.const_fields.applicable_kinds = field
+dotnet_naming_symbols.const_fields.applicable_accessibilities = *
+dotnet_naming_symbols.const_fields.required_modifiers = const
+
+dotnet_naming_rule.const_fields_use_pascal_casing.severity = error
