@@ -1,4 +1,5 @@
 <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_28327_3099)">
 <path d="M30 18.79C29.89 11.17 23.66 6 16 6C8.34 6 2.11 11.17 2 18.79C2 18.86 2 18.93 2 19C2 23.42 5.58 27 10 27H22C26.42 27 30 23.42 30 19C30 18.93 30 18.86 30 18.79Z" fill="url(#paint0_linear_28327_3099)"/>
 <path d="M30 18.79C29.89 11.17 23.66 6 16 6C8.34 6 2.11 11.17 2 18.79C2 18.86 2 18.93 2 19C2 23.42 5.58 27 10 27H22C26.42 27 30 23.42 30 19C30 18.93 30 18.86 30 18.79Z" fill="url(#paint1_radial_28327_3099)"/>
 <path d="M30 18.79C29.89 11.17 23.66 6 16 6C8.34 6 2.11 11.17 2 18.79C2 18.86 2 18.93 2 19C2 23.42 5.58 27 10 27H22C26.42 27 30 23.42 30 19C30 18.93 30 18.86 30 18.79Z" fill="url(#paint2_radial_28327_3099)"/>
@@ -16,6 +17,7 @@
 </g>
 <g filter="url(#filter2_f_28327_3099)">
 <path d="M10.6471 21.3126C9.54378 21.3126 8.65094 20.4198 8.65094 19.3164V15.2188" stroke="url(#paint11_linear_28327_3099)" stroke-width="0.8" stroke-linecap="round"/>
+</g>
 </g>
 <defs>
 <filter id="filter0_f_28327_3099" x="14.5" y="6.0625" width="15.7943" height="15.75" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -83,5 +85,8 @@
 <stop offset="0.359375" stop-color="#735A69"/>
 <stop offset="1" stop-color="#5E4755" stop-opacity="0.25"/>
 </linearGradient>
+<clipPath id="clip0_28327_3099">
+<rect width="32" height="32" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
 </defs>
 </svg>
