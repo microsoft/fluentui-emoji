@@ -15,5 +15,13 @@
     "skier"
   ],
   "tts": "skier",
-  "unicode": "26f7 fe0f"
+  "unicode": "26f7 fe0f",
+  "unicodeSkintones": [
+    "26f7",
+    "26f7 1f3fb fe0f",
+    "26f7 1f3fc fe0f",
+    "26f7 1f3fd fe0f",
+    "26f7 1f3fe fe0f",
+    "26f7 1f3ff fe0f"
+  ]
 }
