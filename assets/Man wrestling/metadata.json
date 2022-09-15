@@ -12,5 +12,13 @@
     "wrestle"
   ],
   "tts": "men wrestling",
-  "unicode": "1f93c 200d 2642 fe0f"
+  "unicode": "1f93c 200d 2642 fe0f",
+  "unicodeSkintones": [
+    "1f93c 200d 2642 fe0f",
+    "1f93c 1f3fb 200d 2642 fe0f",
+    "1f93c 1f3fc 200d 2642 fe0f",
+    "1f93c 1f3fd 200d 2642 fe0f",
+    "1f93c 1f3fe 200d 2642 fe0f",
+    "1f93c 1f3ff 200d 2642 fe0f"
+  ]
 }
