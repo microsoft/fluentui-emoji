@@ -12,5 +12,13 @@
     "wrestler"
   ],
   "tts": "people wrestling",
-  "unicode": "1f93c"
+  "unicode": "1f93c",
+  "unicodeSkintones": [
+    "1f93c",
+    "1f93c 1f3fb",
+    "1f93c 1f3fc",
+    "1f93c 1f3fd",
+    "1f93c 1f3fe",
+    "1f93c 1f3ff"
+  ]
 }
