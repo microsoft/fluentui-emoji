@@ -1,4 +1,5 @@
-<svg width="32" height="37" viewBox="0 0 32 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_31_1427)">
 <path d="M15.9989 29.9978C25.3333 29.9978 29.9978 23.7303 29.9978 15.9989C29.9978 8.26751 25.3333 2 15.9989 2C6.66443 2 2 8.26751 2 15.9989C2 23.7303 6.66443 29.9978 15.9989 29.9978Z" fill="url(#paint0_radial_31_1427)"/>
 <path d="M15.9989 29.9978C25.3333 29.9978 29.9978 23.7303 29.9978 15.9989C29.9978 8.26751 25.3333 2 15.9989 2C6.66443 2 2 8.26751 2 15.9989C2 23.7303 6.66443 29.9978 15.9989 29.9978Z" fill="url(#paint1_linear_31_1427)"/>
 <path d="M15.9989 29.9978C25.3333 29.9978 29.9978 23.7303 29.9978 15.9989C29.9978 8.26751 25.3333 2 15.9989 2C6.66443 2 2 8.26751 2 15.9989C2 23.7303 6.66443 29.9978 15.9989 29.9978Z" fill="url(#paint2_radial_31_1427)" fill-opacity="0.6"/>
@@ -14,6 +15,7 @@
 <path d="M10.25 10.25C10.25 10.25 11 13.25 14.25 13.25" stroke="url(#paint10_linear_31_1427)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M21.75 10.25C21.75 10.25 21 13.25 17.75 13.25" stroke="url(#paint11_linear_31_1427)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M12 25C12.3333 24.3333 13.6 23 16 23C18.4 23 19.6667 24.3333 20 25" stroke="url(#paint12_linear_31_1427)" stroke-width="2" stroke-linecap="round"/>
+</g>
 <defs>
 <radialGradient id="paint0_radial_31_1427" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(21.5 10) rotate(94.5739) scale(25.0799)">
 <stop stop-color="#FF7961"/>
@@ -69,5 +71,8 @@
 <stop stop-color="#4F3C43"/>
 <stop offset="1" stop-color="#512756"/>
 </linearGradient>
+<clipPath id="clip0_31_1427">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
 </defs>
 </svg>
