@@ -1,0 +1,27 @@
+{
+    "cldr": "prince",
+    "fromVersion": "0.6",
+    "glyph": "🤴",
+    "glyphAsUtfInEmoticons": [
+      "prince"
+    ],
+    "group": "People & Body",
+    "keywords": [
+      "fairy tale",
+      "fantasy",
+      "prince"
+    ],
+    "mappedToEmoticons": [
+      "prince"
+    ],
+    "tts": "prince",
+    "unicode": "1f934",
+    "unicodeSkintones": [
+      "1f934",
+      "1f934 1f3fb",
+      "1f934 1f3fc",
+      "1f934 1f3fd",
+      "1f934 1f3fe",
+      "1f934 1f3ff"
+    ]
+  }

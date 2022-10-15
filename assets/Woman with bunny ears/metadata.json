@@ -12,7 +12,15 @@
     "partying",
     "women",
     "women with bunny ears"
-  ],
+  ], 
   "tts": "women with bunny ears",
-  "unicode": "1f46f 200d 2640 fe0f"
+  "unicode": "1f46f 200d 2640 fe0f",
+  "unicodeSkintones": [
+    "1f46f 200d 2640 fe0f",
+    "1f46f 1f3fb 200d 2640 fe0f",
+    "1f46f 1f3fc 200d 2640 fe0f",
+    "1f46f 1f3fd 200d 2640 fe0f",
+    "1f46f 1f3fe 200d 2640 fe0f",
+    "1f46f 1f3ff 200d 2640 fe0f"
+  ]
 }
