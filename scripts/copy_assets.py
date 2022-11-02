@@ -85,7 +85,7 @@ def main():
     opts = ap.parse_args()
 
 
-        opts.group = groups
+    opts.group = groups
 
     if not opts.svgs:
         opts.svgs = opts.assets.parent / "svgs"
