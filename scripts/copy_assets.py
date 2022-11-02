@@ -10,7 +10,7 @@ import json
 from pathlib import Path
 import shutil
 
-from utils import groups, styles, get_popular
+from utils import groups, styles
 
 fp = {
     "1f3fb": "Light",
@@ -81,14 +81,10 @@ def main():
                      action='append',
                      default=[],
                      )
-    mxg.add_argument("--popular",
-                     type=int)
 
     opts = ap.parse_args()
 
-    if bool(opts.popular):
-        opts.popular = get_popular(opts.popular)
-    elif opts.group == []:
+
         opts.group = groups
 
     if not opts.svgs:
@@ -127,10 +123,7 @@ def move_files(metadata_path, opts):
     with open(metadata_path) as mf:
         metadata = json.load(mf)
 
-    if opts.popular:
-        if metadata.get('cldr') not in opts.popular:
-            return
-    elif metadata.get('group') not in opts.group:
+    if metadata.get('group') not in opts.group:
         return
 
     parent = metadata_path.parent
