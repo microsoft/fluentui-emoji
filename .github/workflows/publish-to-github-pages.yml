@@ -1,0 +1,50 @@
+name: publish demo
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'The reason for running the workflow'
+        required: true
+        default: 'Manual run'
+
+permissions:
+  contents: write
+
+jobs:
+  deploy-to-github-pages:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - name: 'Print manual run reason'
+      if: ${{ github.event_name == 'workflow_dispatch' }}
+      run: |
+        echo 'Reason: ${{ github.event.inputs.reason }}'
+    - name: Setup .NET SDK
+      uses: actions/setup-dotnet@main
+      with:
+        dotnet-version: 8.0.x
+    - name: Publish .NET Project
+      run: dotnet publish browse/src/client/Fluent.Emoji/Fluent.Emoji.csproj -c Release -o release
+
+    # Changes the base-tag in index.html from '/' to '/fluentui-blazor' to match GitHub Pages repository subdirectory
+    - name: Change base-tag in index.html from / to /fluentui-blazor
+      run: sed -i 's/<base href="\/" \/>/<base href="\/fluentui-blazor\/" \/>/g' release/wwwroot/index.html
+
+    # Copy index.html to 404.html to serve the same file when a file is not found
+    - name: copy index.html to 404.html
+      run: cp release/wwwroot/index.html release/wwwroot/404.html
+
+    # Add .nojekyll file to tell GitHub pages to not treat this as a Jekyll project.
+    # Allow files and folders starting with an underscore
+    - name: Add .nojekyll file
+      run: touch release/wwwroot/.nojekyll
+
+    - name: Commit wwwroot to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@3.7.1
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: release/wwwroot

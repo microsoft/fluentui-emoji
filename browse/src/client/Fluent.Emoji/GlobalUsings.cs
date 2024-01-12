@@ -1,9 +1,9 @@
 ﻿global using System.Diagnostics;
 global using System.Net.Http;
 global using System.Net.Http.Json;
-global using FluentUi.Emoji.Client;
-global using FluentUi.Emoji.Client.Models;
-global using FluentUi.Emoji.Client.Services;
+global using Fluent.Emoji;
+global using Fluent.Emoji.Models;
+global using Fluent.Emoji.Services;
 global using Microsoft.AspNetCore.Components;
 global using Microsoft.AspNetCore.Components.Web;
 global using Microsoft.AspNetCore.Components.WebAssembly.Hosting;

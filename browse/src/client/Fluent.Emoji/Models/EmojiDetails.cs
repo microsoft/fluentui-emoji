@@ -1,7 +1,7 @@
 ﻿// Copyright (c) David Pine. All rights reserved.
 // Licensed under the MIT License.
 
-namespace FluentUi.Emoji.Client.Models;
+namespace Fluent.Emoji.Models;
 
 public readonly record struct EmojiDetails(
     Metadata Metadata,

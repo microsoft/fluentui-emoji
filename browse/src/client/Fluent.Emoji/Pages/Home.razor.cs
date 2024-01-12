@@ -1,9 +1,9 @@
-﻿// Copyright (c) David Pine. All rights reserved.
+﻿// Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
 
-namespace FluentUi.Emoji.Client.Pages;
+namespace Fluent.Emoji.Pages;
 
-public sealed partial class Index
+public sealed partial class Home
 {
     private Dictionary<string, EmojiDetails>? _emoji;
     private string? _search;
@@ -18,14 +18,14 @@ public sealed partial class Index
             }
 
             return _emoji.Where(kvp =>
-                    {
-                        var (name, emoji) = kvp;
-                        return name.Contains(_search, StringComparison.OrdinalIgnoreCase)
-                            || emoji.Metadata.Keywords.Any(
-                                k => k.Contains(_search, StringComparison.OrdinalIgnoreCase));
-                    })
+            {
+                var (name, emoji) = kvp;
+                return name.Contains(_search, StringComparison.OrdinalIgnoreCase)
+                    || emoji.Metadata.Keywords.Any(
+                        k => k.Contains(_search, StringComparison.OrdinalIgnoreCase));
+            })
                     .ToDictionary(
-                        kvp => kvp.Key, kvp => kvp.Value);
+                        static kvp => kvp.Key, static kvp => kvp.Value);
         }
     }
 

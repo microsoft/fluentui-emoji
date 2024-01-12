@@ -3,19 +3,24 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>Fluent Emoji</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Microsoft—Fluent Emoji</title>
     <base href="/" />
-    <link href="css/app.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/app.css" />
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
     <link href="_content/MudBlazor/MudBlazor.min.css" rel="stylesheet" />
-    <link href="manifest.json" rel="manifest" />
-    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
-    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="Fluent.Emoji.styles.css" rel="stylesheet" />
 </head>
 
 <body>
-    <div id="app">Loading...</div>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
 
     <div id="blazor-error-ui">
         An unhandled error has occurred.
@@ -23,8 +28,8 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
-    <script>navigator.serviceWorker.register('service-worker.js');</script>
     <script src="_content/MudBlazor/MudBlazor.min.js"></script>
+    <script src="app.js"></script>
 </body>
 
 </html>

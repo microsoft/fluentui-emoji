@@ -7,7 +7,9 @@ root = true
 # All files 
 [*] 
 indent_style = space 
-file_header_template = Copyright (c) David Pine. All rights reserved.\nLicensed under the MIT License.
+indent_size = 2
+tab_width = 2
+file_header_template = Copyright (c) Microsoft Corporation. All rights reserved.\nLicensed under the MIT License.
 
 # Code files 
 [*.cs] 

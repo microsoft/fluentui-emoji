@@ -1,0 +1,40 @@
+﻿@inherits LayoutComponentBase
+
+<MudThemeProvider @bind-IsDarkMode="@IsDarkTheme"
+                  Theme="_theme" />
+<MudDialogProvider FullWidth="true"
+                   MaxWidth="MaxWidth.Medium"
+                   CloseButton="true"
+                   DisableBackdropClick="false"
+                   Position="DialogPosition.Center"
+                   CloseOnEscapeKey="true" />
+<MudSnackbarProvider />
+
+<MudLayout>
+    <MudAppBar Elevation="10">
+        <MudIcon Icon="@Icons.Custom.Brands.Microsoft" Size="Size.Large" Color="Color.Inherit" />
+        <MudText Typo="Typo.h5" Class="ml-3">Fluent Emoji</MudText>
+        <MudSpacer />
+        <MudTooltip Duration="1_000" Text=@ThemeIconText Arrow=true Placement="Placement.Left">
+            <MudIconButton Size="Size.Large" Color="@Color.Inherit"
+                           Icon="@ThemeIcon" OnClick="OnToggleDarkMode" />
+        </MudTooltip>
+        <MudTooltip Duration="1_000" Text="Open the GitHub Microsoft Fluent Emoji repository link (in new tab)?" Arrow=true Placement="Placement.Left">
+            <MudIconButton Icon="@Icons.Custom.Brands.GitHub" Color="Color.Inherit"
+                           Size="Size.Large" Target="_blank"
+                           Href="https://github.com/microsoft/fluentui-emoji" />
+        </MudTooltip>
+    </MudAppBar>
+    <MudMainContent id="app-content">
+        <MudContainer Fixed="true">
+            @Body
+        </MudContainer>
+    </MudMainContent>
+</MudLayout>
+
+<MudScrollToTop VisibleCssClass="visible absolute"
+                HiddenCssClass="invisible"
+                Selector="#app-content">
+    <MudFab Color="Color.Inherit" IconSize="Size.Large"
+            StartIcon="@Icons.Material.TwoTone.ArrowUpward" />
+</MudScrollToTop>
