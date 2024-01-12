@@ -8,6 +8,18 @@ public sealed partial class Home
     private Dictionary<string, EmojiDetails>? _emoji;
     private string? _search;
 
+    private Dictionary<string, Dictionary<string, EmojiDetails>>? Emoji
+    {
+        get
+        {
+            var groups = FilteredEmoji?.GroupBy(e => e.Value.Metadata.Group);
+
+            return groups?.ToDictionary(
+                static g => g.Key,
+                static g => g.OrderBy(x => x.Key).ToDictionary());
+        }
+    }
+
     private Dictionary<string, EmojiDetails>? FilteredEmoji
     {
         get
@@ -24,13 +36,12 @@ public sealed partial class Home
                     || emoji.Metadata.Keywords.Any(
                         k => k.Contains(_search, StringComparison.OrdinalIgnoreCase));
             })
-                    .ToDictionary(
-                        static kvp => kvp.Key, static kvp => kvp.Value);
+                    .ToDictionary(static kvp => kvp.Key, static kvp => kvp.Value);
         }
     }
 
     [Inject]
-    private EmojiService EmojiService { get; set; } = null!;
+    public required EmojiService EmojiService { get; set; }
 
     protected override async Task OnInitializedAsync()
     {

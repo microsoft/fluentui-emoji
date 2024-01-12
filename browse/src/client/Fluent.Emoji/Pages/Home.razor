@@ -4,22 +4,26 @@
               IconSize="Size.Large" DebounceInterval="500" Adornment="Adornment.End" Clearable="true"
               InputMode="InputMode.none" AdornmentIcon="@Icons.Material.Filled.Search" AdornmentColor="Color.Primary" Class="py-4" />
 
-@if (FilteredEmoji is null)
+@if (Emoji is null)
 {
-    <MudProgressLinear Color="Color.Primary"
-                        Size="Size.Large" Rounded="true" Indeterminate="true" Class="my-7" />
+    <MudProgressCircular Color="Color.Primary" Style="height:5rem;width:5rem;" Indeterminate="true" />
 }
 else
 {
-    <MudGrid Spacing="4" Justify="Justify.Center" id="grid">
-        @foreach (var (name, emoji) in FilteredEmoji)
-        {
-            <MudItem xs="2">
-                <MudPaper MaxHeight="256" MaxWidth="256" Elevation="3" Class="pa-3">
-                    <MudImage Fluid="true" Src=@emoji.DefaultImage Class="rounded-lg"
-                              ObjectPosition="ObjectPosition.Center" />
-                </MudPaper>
-            </MudItem>
-        }
-    </MudGrid>
+    @foreach (var (group, emojiMap) in Emoji)
+    {
+        <MudText Typo="Typo.h5" Class="pb-4">@group</MudText>
+        <MudGrid Spacing="4" Justify="Justify.Center" Class="pb-4">
+            @foreach (var (name, emoji) in emojiMap)
+            {
+                <MudItem xs="2">
+                    <MudPaper MaxHeight="256" MaxWidth="256" Elevation="3" Class="pa-3">
+                        <MudImage Fluid="true" Src=@emoji.DefaultImage Class="rounded-lg"
+                                  ObjectPosition="ObjectPosition.Center" />
+                        <MudText Typo="Typo.body1" Align="Align.Center">@name</MudText>
+                    </MudPaper>
+                </MudItem>
+            }
+        </MudGrid>
+    }
 }
