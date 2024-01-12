@@ -29,9 +29,9 @@ jobs:
     - name: Publish .NET Project
       run: dotnet publish browse/src/client/Fluent.Emoji/Fluent.Emoji.csproj -c Release -o release
 
-    # Changes the base-tag in index.html from '/' to '/fluentui-blazor' to match GitHub Pages repository subdirectory
-    - name: Change base-tag in index.html from / to /fluentui-blazor
-      run: sed -i 's/<base href="\/" \/>/<base href="\/fluentui-blazor\/" \/>/g' release/wwwroot/index.html
+    # Changes the base-tag in index.html from '/' to '/fluentui-emoji' to match GitHub Pages repository subdirectory
+    - name: Change base-tag in index.html from / to /fluentui-emoji
+      run: sed -i 's/<base href="\/" \/>/<base href="\/fluentui-emoji\/" \/>/g' release/wwwroot/index.html
 
     # Copy index.html to 404.html to serve the same file when a file is not found
     - name: copy index.html to 404.html
