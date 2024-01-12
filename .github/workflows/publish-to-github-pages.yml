@@ -2,7 +2,7 @@ name: publish demo
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, add-browser ]
   workflow_dispatch:
     inputs:
       reason:
