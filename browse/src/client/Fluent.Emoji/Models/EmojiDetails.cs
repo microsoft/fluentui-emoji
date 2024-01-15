@@ -22,4 +22,14 @@ public readonly record struct EmojiDetails(
             return imageRoute;
         }
     }
+
+    public string? ImageFromType(string type)
+    {
+        return Routes.FirstOrDefault(route =>
+        {
+            var routeSegment = $"/{type}/";
+            return route.Contains(routeSegment, StringComparison.OrdinalIgnoreCase);
+
+        }) ?? DefaultImage;
+    }
 }

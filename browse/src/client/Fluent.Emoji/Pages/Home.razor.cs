@@ -10,6 +10,7 @@ public sealed partial class Home
 
     private string _version = "";
     private IEnumerable<string> _versions = new HashSet<string>();
+    private string _emojiType = "3D";
 
     private Dictionary<string, Dictionary<string, EmojiDetails>> Emoji
     {

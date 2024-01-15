@@ -2,24 +2,34 @@
 
 @if (_emoji is null)
 {
-    <MudProgressCircular Color="Color.Primary" Style="height:5rem;width:5rem;" Indeterminate="true" />
+    <MudProgressCircular Color="Color.Secondary" Style="height:5rem;width:5rem;" Indeterminate="true" />
 }
 else
 {
     <MudTextField @bind-Value="_filter" Label="Filter" Variant="Variant.Outlined" AutoFocus="true"
                   IconSize="Size.Large" DebounceInterval="350" Adornment="Adornment.End" Clearable="true"
                   InputMode="InputMode.text" AdornmentIcon="@Icons.Material.Filled.Search"
-                  AdornmentColor="Color.Primary" Placeholder="Filter by keyword or name" Class="py-4" />
+                  AdornmentColor="Color.Secondary" Placeholder="Filter by keyword or name" Class="py-4" />
 
-    <MudSelect T="string" Label="Versions" @bind-Value="_version" SelectAll="true" Class="pb-4"
-               @bind-SelectedValues="_versions" MultiSelection="true" Variant="Variant.Outlined">
-        @foreach (var version in State.EmojiVersions)
-        {
-            <MudSelectItem T="string" Value="@version">
-                v@(version)
-            </MudSelectItem>
-        }
+    <MudStack Row="true" Class="pb-4">
+        <MudSelect T="string" Label="Versions" @bind-Value="_version" SelectAll="true"
+                   @bind-SelectedValues="_versions" MultiSelection="true" Variant="Variant.Outlined">
+            @foreach (var version in State.EmojiVersions)
+            {
+                <MudSelectItem T="string" Value="@version">
+                    v@(version)
+                </MudSelectItem>
+            }
         </MudSelect>
+
+        <MudToggleGroup T="string" SelectionMode="SelectionMode.SingleSelection" @bind-Value="_emojiType" 
+                        Dense="true" Color="Color.Secondary" CheckMark FixedContent>
+            <MudToggleItem Value="@("3D")" Text="3D" />
+            <MudToggleItem Value="@("Color")" Text="Color" />
+            <MudToggleItem Value="@("Flat")" Text="Flat" />
+            <MudToggleItem Value="@("High Contrast")" Text="High Contrast" />
+        </MudToggleGroup>
+    </MudStack>
 
     @foreach (var (group, emojiMap) in Emoji)
     {
@@ -28,13 +38,13 @@ else
         <MudGrid Spacing="2" Justify="Justify.Center" Class="pb-4">
             @foreach (var (name, emoji) in emojiMap)
             {
-                <MudItem xs="7" sm="6" md="5" lg="4" xl="3" xxl="2">
+                <MudItem sm="6" lg="4" xxl="2">
                     <MudPaper MaxHeight="256" MaxWidth="256" Elevation="3" Class="pa-3">
                         <MudPaper Elevation="1" Class="pa-1">
                             @{
                                 var alt = $"Image of {name} emoji";
                             }
-                            <MudImage Fluid="true" Src=@emoji.DefaultImage
+                            <MudImage Fluid="true" Src=@emoji.ImageFromType(_emojiType)
                                       Alt="@alt" Class="rounded-lg"
                                       ObjectPosition="ObjectPosition.Center" />
                         </MudPaper>

@@ -40,6 +40,6 @@ public partial class StringDigitComparer : IComparer<string>
         return x.CompareTo(y);
     }
 
-    [GeneratedRegex("^(d+)")]
+    [GeneratedRegex(@"(\d*\.?\d+)")]
     private static partial Regex DigitRegex();
 }
