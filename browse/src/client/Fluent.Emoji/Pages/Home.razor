@@ -11,8 +11,8 @@ else
                   InputMode="InputMode.text" AdornmentIcon="@Icons.Material.Filled.Search"
                   AdornmentColor="Color.Secondary" Placeholder="Filter by keyword or name" Class="py-4" />
 
-      <MudSelect T="string" Label="Versions" @bind-Value="_version" SelectAll="true"
-                  @bind-SelectedValues="_versions" MultiSelection="true" Variant="Variant.Outlined">
+      <MudSelect T="string" Label="Versions" @bind-Value="_version" SelectAll="true" Class="pb-4"
+                 @bind-SelectedValues="_versions" MultiSelection="true" Variant="Variant.Outlined">
           @foreach (var version in State.EmojiVersions)
           {
               <MudSelectItem T="string" Value="@version">
@@ -39,9 +39,15 @@ else
                                       ObjectPosition="ObjectPosition.Center" />
                         </MudPaper>
                         <MudText Typo="Typo.body1" Align="Align.Center" Class="pt-3">@name</MudText>
-                        <MudChip Variant="Variant.Text" Color="Color.Info" Size="Size.Small">
-                            v@(emoji.Metadata.FromVersion)
-                        </MudChip>
+                        <div class="d-flex align-content-center">
+                            <MudChip Variant="Variant.Text" Color="Color.Info">
+                                v@(emoji.Metadata.FromVersion)
+                            </MudChip>
+                            <MudSpacer />
+                            <MudChip Variant="Variant.Text" Color="Color.Success" Class="align-self-end">
+                                U+@(emoji.Metadata.Unicode)
+                            </MudChip>
+                        </div>
                     </MudPaper>
                 </MudItem>
             }
