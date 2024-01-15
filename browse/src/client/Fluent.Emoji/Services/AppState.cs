@@ -3,9 +3,10 @@
 
 namespace Fluent.Emoji.Services;
 
-public sealed class AppState(ILocalStorageService storage)
+public sealed class AppState(ILocalStorageService storage, IMemoryCache cache)
 {
     private const string ThemePreferenceKey = "theme-preference";
+    private const string EmojiVersionsKey = "emoji-versions";
 
     private ThemePreference _systemTheme = ThemePreference.System;
     private ThemePreference? _userThemePreference;
@@ -43,6 +44,19 @@ public sealed class AppState(ILocalStorageService storage)
                 _userThemePreference = value;
                 storage.SetItem(ThemePreferenceKey, value);
 
+                AppStateChanged();
+            }
+        }
+    }
+
+    public HashSet<string> EmojiVersions
+    {
+        get => cache.Get<HashSet<string>>(EmojiVersionsKey) ?? [];
+        set
+        {
+            if (value != EmojiVersions)
+            {
+                cache.Set(EmojiVersionsKey, value);
                 AppStateChanged();
             }
         }

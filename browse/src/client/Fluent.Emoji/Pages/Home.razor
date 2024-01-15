@@ -1,33 +1,50 @@
 ﻿@page "/"
 
-<MudTextField @bind-Value="_search" Label="Search" Variant="Variant.Outlined" AutoFocus="true"
-              IconSize="Size.Large" DebounceInterval="500" Adornment="Adornment.End" Clearable="true"
-              InputMode="InputMode.none" AdornmentIcon="@Icons.Material.Filled.Search" AdornmentColor="Color.Primary" Class="py-4" />
-
-@if (Emoji is null)
+@if (_emoji is null)
 {
     <MudProgressCircular Color="Color.Primary" Style="height:5rem;width:5rem;" Indeterminate="true" />
 }
 else
 {
+    <MudTextField @bind-Value="_filter" Label="Filter" Variant="Variant.Outlined" AutoFocus="true"
+                  IconSize="Size.Large" DebounceInterval="350" Adornment="Adornment.End" Clearable="true"
+                  InputMode="InputMode.text" AdornmentIcon="@Icons.Material.Filled.Search"
+                  AdornmentColor="Color.Primary" Placeholder="Filter by keyword or name" Class="py-4" />
+
+    <MudSelect T="string" Label="Versions" @bind-Value="_version" SelectAll="true" Class="pb-4"
+               @bind-SelectedValues="_versions" MultiSelection="true" Variant="Variant.Outlined">
+        @foreach (var version in State.EmojiVersions)
+        {
+            <MudSelectItem T="string" Value="@version">
+                v@(version)
+            </MudSelectItem>
+        }
+        </MudSelect>
+
     @foreach (var (group, emojiMap) in Emoji)
     {
-        <MudText Typo="Typo.h5" Class="pb-4">@group</MudText>
+        <MudText Typo="Typo.h5" Class="pb-4">@group (@(emojiMap.Count))</MudText>
         <MudDivider DividerType="DividerType.FullWidth" Vertical="false" Class="pb-4" />
-        <MudGrid Spacing="4" Justify="Justify.Center" Class="pb-4">
+        <MudGrid Spacing="2" Justify="Justify.Center" Class="pb-4">
             @foreach (var (name, emoji) in emojiMap)
             {
-                <MudItem xs="2">
+                <MudItem xs="7" sm="6" md="5" lg="4" xl="3" xxl="2">
                     <MudPaper MaxHeight="256" MaxWidth="256" Elevation="3" Class="pa-3">
-                        <MudImage Fluid="true" Src=@emoji.DefaultImage Class="rounded-lg"
-                                  ObjectPosition="ObjectPosition.Center" />
+                        <MudPaper Elevation="1" Class="pa-1">
+                            @{
+                                var alt = $"Image of {name} emoji";
+                            }
+                            <MudImage Fluid="true" Src=@emoji.DefaultImage
+                                      Alt="@alt" Class="rounded-lg"
+                                      ObjectPosition="ObjectPosition.Center" />
+                        </MudPaper>
                         <MudText Typo="Typo.body1" Align="Align.Center">@name</MudText>
-                        <MudChip Variant="Variant.Text" Color="Color.Success" Size="Size.Small">
-                          v@(emoji.Metadata.FromVersion)
+                        <MudChip Variant="Variant.Text" Color="Color.Info" Size="Size.Small">
+                            v@(emoji.Metadata.FromVersion)
                         </MudChip>
                     </MudPaper>
                 </MudItem>
             }
-        </MudGrid>
+            </MudGrid>
     }
 }

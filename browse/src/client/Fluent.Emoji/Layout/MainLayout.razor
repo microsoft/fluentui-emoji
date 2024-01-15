@@ -13,7 +13,7 @@
 <MudLayout>
     <MudAppBar Elevation="10">
         <MudIcon Icon="@Icons.Custom.Brands.Microsoft" Size="Size.Large" Color="Color.Inherit" />
-        <MudText Typo="Typo.h5" Class="ml-3">Fluent Emoji</MudText>
+        <MudText Typo="Typo.h5" Color="Color.Secondary" Class="ml-3">Fluent Emoji</MudText>
         <MudSpacer />
         <MudTooltip Duration="1_000" Text=@ThemeIconText Arrow=true Placement="Placement.Left">
             <MudIconButton Size="Size.Large" Color="@Color.Inherit"
@@ -26,14 +26,19 @@
         </MudTooltip>
     </MudAppBar>
     <MudMainContent>
-        <MudContainer Fixed="true">
+        <MudContainer>
             @Body
+            <MudScrollToTop Style="z-index:2000;">
+                <MudFab Color="Color.Secondary" IconSize="Size.Large"
+                        StartIcon="@Icons.Material.TwoTone.ArrowUpward" />
+            </MudScrollToTop>
+        </MudContainer>
+        <MudContainer MaxWidth="MaxWidth.Large">
+            <MudToolBar DisableGutters="true" Dense="true">
+                <MudText Typo="Typo.body1">Copyright © @DateTime.Now.Year Microsoft—Fluent Emoji.</MudText>
+                <MudSpacer />
+                <MudText Typo="Typo.body1">Powered by .NET @Environment.Version.ToString()</MudText>
+            </MudToolBar>
         </MudContainer>
     </MudMainContent>
 </MudLayout>
-
-<MudScrollToTop VisibleCssClass="visible absolute"
-                HiddenCssClass="invisible">
-    <MudFab Color="Color.Inherit" IconSize="Size.Large"
-            StartIcon="@Icons.Material.TwoTone.ArrowUpward" />
-</MudScrollToTop>

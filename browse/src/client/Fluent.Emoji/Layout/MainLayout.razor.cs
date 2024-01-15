@@ -45,16 +45,16 @@ public sealed partial class MainLayout : IDisposable
         },
     };
 
-    bool IsDarkTheme { get; set; }
+    private bool IsDarkTheme { get; set; }
 
-    string ThemeIcon => State.UserThemePreference switch
+    private string ThemeIcon => State.UserThemePreference switch
     {
         ThemePreference.Dark => Icons.Material.TwoTone.DarkMode,
         ThemePreference.Light => Icons.Material.TwoTone.LightMode,
         _ => Icons.Material.TwoTone.AutoMode,
     };
 
-    string ThemeIconText => State.UserThemePreference switch
+    private string ThemeIconText => State.UserThemePreference switch
     {
         ThemePreference.Dark => "Switch to System Theme mode",
         ThemePreference.Light => "Switch to Dark Theme mode",
@@ -68,7 +68,6 @@ public sealed partial class MainLayout : IDisposable
     protected override void OnInitialized()
     {
         State.StateChanged += StateHasChanged;
-
 
         var prefersDarkScheme =
             AppService.OnPrefersDarkSchemeChanged(PrefersDarkSchemeHandler);
@@ -86,7 +85,7 @@ public sealed partial class MainLayout : IDisposable
             _ => State.SystemTheme is ThemePreference.Dark
         };
 
-    void PrefersDarkSchemeHandler(bool prefersDarkScheme)
+    private void PrefersDarkSchemeHandler(bool prefersDarkScheme)
     {
         Logger.LogInformation(
             "Prefers dark scheme: {Value}",
@@ -100,7 +99,7 @@ public sealed partial class MainLayout : IDisposable
         StateHasChanged();
     }
 
-    void OnToggleDarkMode()
+    private void OnToggleDarkMode()
     {
         switch (State.UserThemePreference)
         {
