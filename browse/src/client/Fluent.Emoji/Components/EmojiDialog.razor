@@ -1,61 +1,25 @@
-﻿@namespace Fluent.Emoji.Components
-
-<MudDialog DisableSidePadding="true">
+﻿<MudDialog DisableSidePadding="true">
     <DialogContent>
         <MudContainer Style="max-height: 60vh; overflow-y: scroll">
             <pre>
               <code class="language-json">
-                    @if (Loading)
-                    {
-                        @LoadingJson
-                    }
-                    else
-                    {
-                        @Json
-                    }
-              </code>
-            </pre>
+                  @if (Loading)
+                  {
+                      @LoadingJson
+                  }
+                  else
+                  {
+                      @Json
+                  }
+                </code>
+              </pre>
         </MudContainer>
     </DialogContent>
     <DialogActions>
         <MudButton Variant="Variant.Filled" Color="Color.Secondary"
-                   OnClick="Ok" Class="ma-4" Size="Size.Large" 
+                   OnClick="Ok" Class="ma-4" Size="Size.Large"
                    StartIcon="@Icons.Material.Filled.Check">
-          Ok
+            Ok
         </MudButton>
     </DialogActions>
 </MudDialog>
-
-@code {
-    static JsonSerializerOptions s_options = new() { WriteIndented = true };
-
-    bool Loading { get; set; } = true;
-
-    string LoadingJson = """{ "loading": true, "msg": "please wait..." }""";
-
-    string Json { get; set; } = "";
-
-    [CascadingParameter] public required MudDialogInstance MudDialog { get; set; }
-
-    [Parameter, EditorRequired] public required EmojiDetails Details { get; set; }
-
-    [Inject] public required IJSRuntime JS { get; set; }
-
-    protected override async Task OnInitializedAsync()
-    {
-        try
-        {
-            await JS.InvokeVoidAsync("highlight");
-            Json = JsonSerializer.Serialize(Details, s_options);
-        }
-        finally
-        {
-            Loading = false;
-
-            await InvokeAsync(StateHasChanged);
-            await JS.InvokeVoidAsync("highlight");
-        }
-    }
-
-    private void Ok() => MudDialog.Close(DialogResult.Ok(true));
-}

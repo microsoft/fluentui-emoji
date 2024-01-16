@@ -1,4 +1,7 @@
-﻿global using System.Net.Http;
+﻿// Copyright (c) Microsoft Corporation. All rights reserved.
+// Licensed under the MIT License.
+
+global using System.Net.Http;
 global using System.Net.Http.Json;
 
 global using Fluent.Emoji;

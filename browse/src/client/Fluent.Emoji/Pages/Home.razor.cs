@@ -9,7 +9,7 @@ public sealed partial class Home
     private string? _filter;
 
     private string _version = "";
-    private IEnumerable<string> _versions = new HashSet<string>();
+    private IEnumerable<string> _versions = [];
 
     private IEnumerable<KeyValuePair<string, EmojiDetails>>? FilteredEmoji
     {
@@ -74,7 +74,7 @@ public sealed partial class Home
             $"{details.Metadata.Glyph} — {name}",
             new DialogParameters<EmojiDialog>
             {
-                { x => x.Details, details }
+                { x => x.MetadataUrl, $"emoji/{details.Metadata.Cldr.Replace(' ', '_')}/metadata.json" }
             },
             new()
             {

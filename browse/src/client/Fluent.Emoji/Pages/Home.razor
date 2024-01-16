@@ -29,7 +29,7 @@ else
             @foreach (var (name, emoji) in emojiMap)
             {
                 <MudItem sm="6" lg="3" xl="2">
-                    <MudPaper MaxHeight="256" MaxWidth="256" Elevation="3" Class="pa-3 clickable"
+                    <MudPaper MaxHeight="256" MaxWidth="256" Elevation="3" Outlined="true" Class="pa-3 clickable"
                               @onclick="_ => ShowEmojiDialog(name, emoji)">
                         <MudPaper Elevation="3" Class="pa-1 darken">
                             @{
@@ -45,15 +45,9 @@ else
                                 @name — @emoji.Metadata.Glyph
                             </MudText>
                         </MudTooltip>
-                        <div class="d-flex align-content-center">
-                            <MudChip Variant="Variant.Text" Color="Color.Primary">
-                                v@(emoji.Metadata.FromVersion)
-                            </MudChip>
-                            <MudSpacer />
-                            <MudChip Variant="Variant.Text" Color="Color.Secondary" Class="align-self-end">
-                                U+@(emoji.Metadata.Unicode)
-                            </MudChip>
-                        </div>
+                        <MudChip Variant="Variant.Text" Color="Color.Primary">
+                            v@(emoji.Metadata.FromVersion)
+                        </MudChip>
                     </MudPaper>
                 </MudItem>
             }
