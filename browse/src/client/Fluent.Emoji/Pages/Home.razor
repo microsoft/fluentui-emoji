@@ -21,7 +21,7 @@ else
         }
         </MudSelect>
 
-    @foreach (var (group, emojiMap) in Emoji)
+    @foreach (var (group, emojiMap) in GroupedEmoji)
     {
         <MudText Typo="Typo.h5" Class="pb-4">@group (@(emojiMap.Count))</MudText>
         <MudDivider DividerType="DividerType.FullWidth" Vertical="false" Class="pb-4" />
