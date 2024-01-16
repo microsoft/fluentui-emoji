@@ -31,26 +31,30 @@
 
     bool Loading { get; set; } = true;
 
-    string LoadingJson = """{ "loading": true }""";
+    string LoadingJson = """{ "loading": true, "msg": "please wait..." }""";
 
-    string Json { get; set; }
+    string Json { get; set; } = "";
 
     [CascadingParameter] public required MudDialogInstance MudDialog { get; set; }
 
     [Parameter, EditorRequired] public required EmojiDetails Details { get; set; }
 
-    protected override async Task OnParametersSetAsync()
-    {
-        await base.OnParametersSetAsync();
+    [Inject] public required IJSRuntime JS { get; set; }
 
+    protected override async Task OnInitializedAsync()
+    {
         try
         {
+            await JS.InvokeVoidAsync("hljs.highlightAll");
+
             Json = JsonSerializer.Serialize(Details, s_options);
         }
         finally
         {
             Loading = false;
+
             await InvokeAsync(StateHasChanged);
+            await JS.InvokeVoidAsync("hljs.highlightAll");
         }
     }
 

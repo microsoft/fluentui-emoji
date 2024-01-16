@@ -118,7 +118,7 @@ code {
 }
 
   .clickable:hover {
-    filter: brightness(103%);
+    filter: brightness(107%);
   }
 
 .full-width {
@@ -126,5 +126,5 @@ code {
 }
 
 .blurred-bg {
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(3px);
 }
