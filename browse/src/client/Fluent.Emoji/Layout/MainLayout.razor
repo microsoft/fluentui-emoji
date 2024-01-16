@@ -3,12 +3,16 @@
 <MudThemeProvider @bind-IsDarkMode="@IsDarkTheme"
                   Theme="_theme" />
 <MudDialogProvider FullWidth="true"
-                   MaxWidth="MaxWidth.Medium"
+                   MaxWidth="MaxWidth.Small"
                    CloseButton="true"
                    DisableBackdropClick="false"
                    Position="DialogPosition.Center"
                    CloseOnEscapeKey="true" />
 <MudSnackbarProvider />
+
+<HeadContent>
+    <ConditionalHeadContent IsDarkTheme="@IsDarkTheme" />
+</HeadContent>
 
 <MudLayout>
     <MudAppBar Elevation="10">

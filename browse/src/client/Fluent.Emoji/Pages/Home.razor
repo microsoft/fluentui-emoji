@@ -29,7 +29,8 @@ else
             @foreach (var (name, emoji) in emojiMap)
             {
                 <MudItem sm="6" lg="3" xl="2">
-                    <MudPaper MaxHeight="256" MaxWidth="256" Elevation="3" Class="pa-3 clickable">
+                    <MudPaper MaxHeight="256" MaxWidth="256" Elevation="3" Class="pa-3 clickable"
+                              @onclick="_ => ShowEmojiDialog(name, emoji)">
                         <MudPaper Elevation="3" Class="pa-1 darken">
                             @{
                                 var alt = $"Image of {name} emoji";

@@ -1,0 +1,58 @@
+﻿@namespace Fluent.Emoji.Components
+
+<MudDialog DisableSidePadding="true">
+    <DialogContent>
+        <MudContainer Style="max-height: 300px; overflow-y: scroll">
+            <pre>
+              <code class="language-json">
+                    @if (Loading)
+                    {
+                        @LoadingJson
+                    }
+                    else
+                    {
+                        @Json
+                    }
+              </code>
+            </pre>
+        </MudContainer>
+    </DialogContent>
+    <DialogActions>
+        <MudButton Variant="Variant.Filled" Color="Color.Secondary"
+                   OnClick="Ok" Class="ma-4" Size="Size.Large" 
+                   StartIcon="@Icons.Material.Filled.Check">
+          Ok
+        </MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    static JsonSerializerOptions s_options = new() { WriteIndented = true };
+
+    bool Loading { get; set; } = true;
+
+    string LoadingJson = """{ "loading": true }""";
+
+    string Json { get; set; }
+
+    [CascadingParameter] public required MudDialogInstance MudDialog { get; set; }
+
+    [Parameter, EditorRequired] public required EmojiDetails Details { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        await base.OnParametersSetAsync();
+
+        try
+        {
+            Json = JsonSerializer.Serialize(Details, s_options);
+        }
+        finally
+        {
+            Loading = false;
+            await InvokeAsync(StateHasChanged);
+        }
+    }
+
+    private void Ok() => MudDialog.Close(DialogResult.Ok(true));
+}

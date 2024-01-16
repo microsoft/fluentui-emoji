@@ -118,9 +118,13 @@ code {
 }
 
   .clickable:hover {
-    box-shadow: inset 0 0 10px 10px rgba(255, 255, 255, 0.1);
+    filter: brightness(103%);
   }
 
 .full-width {
   width: 100% !important;
+}
+
+.blurred-bg {
+  backdrop-filter: blur(10px);
 }

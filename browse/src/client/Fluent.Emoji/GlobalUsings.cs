@@ -3,6 +3,7 @@ global using System.Net.Http.Json;
 
 global using Fluent.Emoji;
 global using Fluent.Emoji.Comparers;
+global using Fluent.Emoji.Components;
 global using Fluent.Emoji.Models;
 global using Fluent.Emoji.Services;
 

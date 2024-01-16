@@ -57,6 +57,8 @@ public sealed partial class Home
 
     [Inject] public required AppState State { get; set; }
 
+    [Inject] public required IDialogService DialogService { get; set; }
+
     protected override async Task OnInitializedAsync()
     {
         _emoji = await EmojiService.GetAllEmojiAsync();
@@ -68,4 +70,16 @@ public sealed partial class Home
                     .OrderBy(static version => version, StringDigitComparer.Instance)
                     .ToHashSet() ?? [];
     }
+
+    private async Task ShowEmojiDialog(string name, EmojiDetails details) =>
+        await DialogService.ShowAsync<EmojiDialog>(
+            $"{details.Metadata.Glyph} — {name}",
+            new DialogParameters<EmojiDialog>
+            {
+                { x => x.Details, details }
+            },
+            new()
+            {
+                ClassBackground = "blurred-bg"
+            });
 }
