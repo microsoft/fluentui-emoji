@@ -45,8 +45,7 @@
     {
         try
         {
-            await JS.InvokeVoidAsync("hljs.highlightAll");
-
+            await JS.InvokeVoidAsync("highlight");
             Json = JsonSerializer.Serialize(Details, s_options);
         }
         finally
@@ -54,7 +53,7 @@
             Loading = false;
 
             await InvokeAsync(StateHasChanged);
-            await JS.InvokeVoidAsync("hljs.highlightAll");
+            await JS.InvokeVoidAsync("highlight");
         }
     }
 

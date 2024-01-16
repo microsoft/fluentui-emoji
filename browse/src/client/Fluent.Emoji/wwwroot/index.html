@@ -34,7 +34,11 @@
     <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/languages/csharp.min.js" defer></script>
     <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/languages/javascript.min.js" defer></script>
     <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/languages/json.min.js" defer></script>
-    <script>hljs.highlightAll();</script>
+    <script>
+        window.highlight = () => {
+            hljs.highlightAll();
+        };
+    </script>
 </body>
 
 </html>
