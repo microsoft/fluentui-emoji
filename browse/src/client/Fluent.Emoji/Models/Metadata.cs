@@ -3,7 +3,7 @@
 
 namespace Fluent.Emoji.Models;
 
-public readonly record struct Metadata(
+public record class Metadata(
     string Cldr,
     string FromVersion,
     string Glyph,

@@ -3,7 +3,7 @@
 
 namespace Fluent.Emoji.Models;
 
-public readonly record struct EmojiDetails(
+public record class EmojiDetails(
     Metadata Metadata,
     string[] Routes,
     bool? HasVariations = null)

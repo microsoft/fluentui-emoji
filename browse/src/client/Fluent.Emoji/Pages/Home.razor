@@ -2,7 +2,7 @@
 
 @if (_emoji is null)
 {
-    <MudProgressLinear Color="Color.Secondary" Style="height:5rem;width:5rem;" Indeterminate="true" />
+    <MudSpacer />
 }
 else
 {
@@ -11,15 +11,15 @@ else
                   InputMode="InputMode.text" AdornmentIcon="@Icons.Material.Filled.Search"
                   Placeholder="Filter by keyword or name" Class="py-4" />
 
-      <MudSelect T="string" Label="Versions" @bind-Value="_version" SelectAll="true" Class="pb-4"
-                 @bind-SelectedValues="_versions" MultiSelection="true" Variant="Variant.Outlined">
-          @foreach (var version in State.EmojiVersions)
-          {
-              <MudSelectItem T="string" Value="@version">
-                  v@(version)
-              </MudSelectItem>
-          }
-      </MudSelect>
+    <MudSelect T="string" Label="Versions" @bind-Value="_version" SelectAll="true" Class="pb-4"
+               @bind-SelectedValues="_versions" MultiSelection="true" Variant="Variant.Outlined">
+        @foreach (var version in State.EmojiVersions)
+        {
+            <MudSelectItem T="string" Value="@version">
+                v@(version)
+            </MudSelectItem>
+        }
+        </MudSelect>
 
     @foreach (var (group, emojiMap) in Emoji)
     {
@@ -41,9 +41,9 @@ else
                         </MudPaper>
                         <MudTooltip Text="@($"{name} — {emoji.Metadata.Glyph}")" Placement="Placement.Top"
                                     RootClass="full-width">
-                          <MudText Typo="Typo.body1" Align="Align.Center" Class="pt-3 ellipsis">
-                              @name — @emoji.Metadata.Glyph
-                          </MudText>
+                            <MudText Typo="Typo.body1" Align="Align.Center" Class="pt-3 ellipsis">
+                                @name — @emoji.Metadata.Glyph
+                            </MudText>
                         </MudTooltip>
                         <div class="d-flex align-content-center">
                             <MudChip Variant="Variant.Text" Color="Color.Primary">
