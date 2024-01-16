@@ -11,20 +11,6 @@ public sealed partial class Home
     private string _version = "";
     private IEnumerable<string> _versions = new HashSet<string>();
 
-    private Dictionary<string, Dictionary<string, EmojiDetails>> GroupedEmoji
-    {
-        get
-        {
-            var groups =
-                FilteredEmoji?.GroupBy(static kvp => kvp.Value.Metadata.Group);
-
-            return groups?.ToDictionary(
-                static g => g.Key,
-                static g => g.OrderBy(static x => x.Key).ToDictionary())
-                ?? [];
-        }
-    }
-
     private IEnumerable<KeyValuePair<string, EmojiDetails>>? FilteredEmoji
     {
         get
@@ -48,6 +34,20 @@ public sealed partial class Home
                     || emoji.Metadata.Keywords.Any(
                         k => k.Contains(_filter, StringComparison.OrdinalIgnoreCase));
             });
+        }
+    }
+
+    private Dictionary<string, Dictionary<string, EmojiDetails>> GroupedEmoji
+    {
+        get
+        {
+            var groups =
+                FilteredEmoji?.GroupBy(static kvp => kvp.Value.Metadata.Group);
+
+            return groups?.ToDictionary(
+                static g => g.Key,
+                static g => g.OrderBy(static x => x.Key).ToDictionary())
+                ?? [];
         }
     }
 

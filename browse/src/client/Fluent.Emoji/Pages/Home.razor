@@ -36,7 +36,7 @@ else
                                 var alt = $"Image of {name} emoji";
                             }
                             <MudImage Fluid="true" Src=@emoji.DefaultImage
-                                      Alt="@alt" Class="rounded-lg"
+                                      Alt="@alt" Class="rounded-lg" loading="lazy"
                                       ObjectPosition="ObjectPosition.Center" />
                         </MudPaper>
                         <MudTooltip Text="@($"{name} — {emoji.Metadata.Glyph}")" Placement="Placement.Top"
