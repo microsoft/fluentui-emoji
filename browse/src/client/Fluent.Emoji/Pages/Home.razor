@@ -19,10 +19,12 @@ else
                 v@(version)
             </MudSelectItem>
         }
-        </MudSelect>
+    </MudSelect>
 
-    @foreach (var (group, emojiMap) in GroupedEmoji)
-    {
+    <Virtualize Items="@GroupedEmoji" Context="kvp">
+        @{
+            var (group, emojiMap) = kvp;
+        }
         <MudText Typo="Typo.h5" Class="pb-4">@group (@(emojiMap.Count))</MudText>
         <MudDivider DividerType="DividerType.FullWidth" Vertical="false" Class="pb-4" />
         <MudGrid Spacing="2" Justify="Justify.Center" Class="pb-4">
@@ -51,6 +53,6 @@ else
                     </MudPaper>
                 </MudItem>
             }
-            </MudGrid>
-    }
+        </MudGrid>
+    </Virtualize>
 }
