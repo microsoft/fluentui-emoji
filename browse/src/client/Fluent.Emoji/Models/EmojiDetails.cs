@@ -15,7 +15,7 @@ public record class EmojiDetails(
             var hasVariations = HasVariations.GetValueOrDefault();
             var imageRoute = Routes.FirstOrDefault(route =>
             {
-                var routeSegment = hasVariations ? "/Default/" : "/3D/";
+                var routeSegment = hasVariations ? "/default/" : "/3d/";
                 return route.Contains(routeSegment, StringComparison.OrdinalIgnoreCase);
             });
 
