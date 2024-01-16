@@ -1,0 +1,21 @@
+﻿::deep .darken {
+  filter: brightness(.9);
+}
+
+::deep .ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+::deep .clickable {
+    cursor: pointer;
+}
+
+::deep .clickable:hover {
+    filter: brightness(1.1);
+}
+
+::deep .full-width {
+    width: 100%;
+}

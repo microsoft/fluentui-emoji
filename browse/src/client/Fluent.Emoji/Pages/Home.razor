@@ -2,14 +2,14 @@
 
 @if (_emoji is null)
 {
-    <MudProgressCircular Color="Color.Secondary" Style="height:5rem;width:5rem;" Indeterminate="true" />
+    <MudProgressLinear Color="Color.Secondary" Style="height:5rem;width:5rem;" Indeterminate="true" />
 }
 else
 {
     <MudTextField @bind-Value="_filter" Label="Filter" Variant="Variant.Outlined" AutoFocus="true"
                   IconSize="Size.Large" DebounceInterval="350" Adornment="Adornment.End" Clearable="true"
                   InputMode="InputMode.text" AdornmentIcon="@Icons.Material.Filled.Search"
-                  AdornmentColor="Color.Secondary" Placeholder="Filter by keyword or name" Class="py-4" />
+                  Placeholder="Filter by keyword or name" Class="py-4" />
 
       <MudSelect T="string" Label="Versions" @bind-Value="_version" SelectAll="true" Class="pb-4"
                  @bind-SelectedValues="_versions" MultiSelection="true" Variant="Variant.Outlined">
@@ -29,8 +29,8 @@ else
             @foreach (var (name, emoji) in emojiMap)
             {
                 <MudItem sm="6" lg="3" xl="2">
-                    <MudPaper MaxHeight="256" MaxWidth="256" Elevation="3" Class="pa-3">
-                        <MudPaper Elevation="3" Class="pa-1">
+                    <MudPaper MaxHeight="256" MaxWidth="256" Elevation="3" Class="pa-3 clickable">
+                        <MudPaper Elevation="3" Class="pa-1 darken">
                             @{
                                 var alt = $"Image of {name} emoji";
                             }
@@ -38,13 +38,18 @@ else
                                       Alt="@alt" Class="rounded-lg"
                                       ObjectPosition="ObjectPosition.Center" />
                         </MudPaper>
-                        <MudText Typo="Typo.body1" Align="Align.Center" Class="pt-3">@name</MudText>
+                        <MudTooltip Text="@($"{name} — {emoji.Metadata.Glyph}")" Placement="Placement.Top"
+                                    Class="d-flex align-content-center full-width">
+                          <MudText Typo="Typo.body1" Align="Align.Center" Class="pt-3 ellipsis">
+                              @name — @emoji.Metadata.Glyph
+                          </MudText>
+                        </MudTooltip>
                         <div class="d-flex align-content-center">
-                            <MudChip Variant="Variant.Text" Color="Color.Info">
+                            <MudChip Variant="Variant.Text" Color="Color.Primary">
                                 v@(emoji.Metadata.FromVersion)
                             </MudChip>
                             <MudSpacer />
-                            <MudChip Variant="Variant.Text" Color="Color.Success" Class="align-self-end">
+                            <MudChip Variant="Variant.Text" Color="Color.Secondary" Class="align-self-end">
                                 U+@(emoji.Metadata.Unicode)
                             </MudChip>
                         </div>
