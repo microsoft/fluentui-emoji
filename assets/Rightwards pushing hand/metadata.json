@@ -2,7 +2,9 @@
 	"cldr": "rightwards pushing hand",
 	"fromVersion": "15.0",
 	"glyph": "🫸",
-	"glyphAsUtfInEmoticons": ["pushright"],
+	"glyphAsUtfInEmoticons": [
+		"pushright"
+	],
 	"group": "People & Body",
 	"keywords": [
 		"high five",
@@ -13,7 +15,9 @@
 		"stop",
 		"wait"
 	],
-	"mappedToEmoticons": ["pushright"],
+	"mappedToEmoticons": [
+		"pushright"
+	],
 	"tts": "rightwards pushing hand",
 	"unicode": "1faf8",
 	"unicodeSkintones": [

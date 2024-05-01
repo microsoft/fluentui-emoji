@@ -2,7 +2,9 @@
 	"cldr": "donkey",
 	"fromVersion": "15.0",
 	"glyph": "🫏",
-	"glyphAsUtfInEmoticons": ["donkey"],
+	"glyphAsUtfInEmoticons": [
+		"donkey"
+	],
 	"group": "Animals & Nature",
 	"keywords": [
 		"animal",
@@ -13,7 +15,9 @@
 		"mule",
 		"stubborn"
 	],
-	"mappedToEmoticons": ["donkey"],
+	"mappedToEmoticons": [
+		"donkey"
+	],
 	"tts": "donkey",
 	"unicode": "1facf"
 }

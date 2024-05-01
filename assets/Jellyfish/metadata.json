@@ -3,7 +3,9 @@
 	"fromVersion": "15.0",
 	"glyph": "🪼",
 	"group": "Animals & Nature",
-	"glyphAsUtfInEmoticons": ["jellyfish"],
+	"glyphAsUtfInEmoticons": [
+		"jellyfish"
+	],
 	"keywords": [
 		"burn",
 		"invertebrate",
@@ -13,7 +15,9 @@
 		"ouch",
 		"stinger"
 	],
-	"mappedToEmoticons": ["jellyfish"],
+	"mappedToEmoticons": [
+		"jellyfish"
+	],
 	"tts": "jellyfish",
 	"unicode": "1fabc"
 }

@@ -2,10 +2,20 @@
 	"cldr": "grey heart",
 	"fromVersion": "15.0",
 	"glyph": "🩶",
-	"glyphAsUtfInEmoticons": ["heartgrey"],
+	"glyphAsUtfInEmoticons": [
+		"heartgrey"
+	],
 	"group": "Smileys & Emotion",
-	"keywords": ["gray", "grey heart", "heart", "silver", "slate"],
-	"mappedToEmoticons": ["heartgrey"],
+	"keywords": [
+		"gray",
+		"grey heart",
+		"heart",
+		"silver",
+		"slate"
+	],
+	"mappedToEmoticons": [
+		"heartgrey"
+	],
 	"tts": "grey heart",
 	"unicode": "1fa76"
 }
