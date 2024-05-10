@@ -1,0 +1,23 @@
+{
+  "cldr": "person running facing right",
+  "fromVersion": "15.1",
+  "glyph": "🏃‍➡️",
+  "glyphAsUtfInEmoticons": [],
+  "group": "People & Body",
+  "keywords": [
+    "marathon",
+    "person running",
+    "running"
+  ],
+  "mappedToEmoticons": [],
+  "tts": "",
+  "unicode": "1f3c3 200d 27a1 fe0f",
+  "unicodeSkintones": [
+    "1f3c3 200d 27a1 fe0f",
+    "1f3c3 1f3fb 200d 27a1 fe0f",
+    "1f3c3 1f3c3 200d 27a1 fe0f",
+    "1f3c3 1f3fd 200d 27a1 fe0f",
+    "1f3c3 1f3fe 200d 27a1 fe0f",
+    "1f3c3 1f3ff 200d 27a1 fe0f"
+  ]
+}
