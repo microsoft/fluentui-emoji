@@ -1,0 +1,19 @@
+{
+  "cldr": "video game",
+  "fromVersion": "0.6",
+  "glyph": "🎮",
+  "glyphAsUtfInEmoticons": [
+    "1f3ae_videogame"
+  ],
+  "group": "Activities",
+  "keywords": [
+    "video game",
+    "controller",
+    "game"
+  ],
+  "mappedToEmoticons": [
+    "1f3ae_videogame"
+  ],
+  "tts": "video game",
+  "unicode": "1f3ae"
+}
