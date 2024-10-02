@@ -1,0 +1,22 @@
+{
+	"cldr": "hyacinth",
+	"fromVersion": "15.0",
+	"glyph": "🪻",
+	"glyphAsUtfInEmoticons": [
+		"hyacinth"
+	],
+	"group": "Animals & Nature",
+	"keywords": [
+		"bluebonnet",
+		"flower",
+		"hyacinth",
+		"lavender",
+		"lupine",
+		"snapdragon"
+	],
+	"mappedToEmoticons": [
+		"hyacinth"
+	],
+	"tts": "hyacinth",
+	"unicode": "1fabb"
+}

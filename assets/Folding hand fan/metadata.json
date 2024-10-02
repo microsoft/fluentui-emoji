@@ -1,0 +1,23 @@
+{
+	"cldr": "folding hand fan",
+	"fromVersion": "15.0",
+	"glyph": "🪭",
+	"glyphAsUtfInEmoticons": [
+		"fan"
+	],
+	"group": "Objects",
+	"keywords": [
+		"cooling",
+		"dance",
+		"fan",
+		"flutter",
+		"folding hand fan",
+		"hot",
+		"shy"
+	],
+	"mappedToEmoticons": [
+		"fan"
+	],
+	"tts": "folding hand fan",
+	"unicode": "1faad"
+}

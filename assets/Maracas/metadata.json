@@ -1,0 +1,22 @@
+{
+	"cldr": "maracas",
+	"fromVersion": "15.0",
+	"glyph": "🪇",
+	"glyphAsUtfInEmoticons": [
+		"maracas"
+	],
+	"group": "Objects",
+	"keywords": [
+		"instrument",
+		"maracas",
+		"music",
+		"percussion",
+		"rattle",
+		"shake"
+	],
+	"mappedToEmoticons": [
+		"maracas"
+	],
+	"tts": "maracas",
+	"unicode": "1fa87"
+}

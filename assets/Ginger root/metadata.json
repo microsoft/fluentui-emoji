@@ -1,0 +1,20 @@
+{
+	"cldr": "ginger root",
+	"fromVersion": "15.0",
+	"glyph": "🫚",
+	"glyphAsUtfInEmoticons": [
+		"ginger"
+	],
+	"group": "Food & Drink",
+	"keywords": [
+		"beer",
+		"ginger root",
+		"root",
+		"spice"
+	],
+	"mappedToEmoticons": [
+		"ginger"
+	],
+	"tts": "ginger root",
+	"unicode": "1fada"
+}
