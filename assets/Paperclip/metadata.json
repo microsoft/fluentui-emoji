@@ -1,0 +1,11 @@
+{
+  "cldr": "paperclip",
+  "fromVersion": "0.6",
+  "glyph": "📎",
+  "glyphAsUtfInEmoticons": ["1f4ce_paperclip"],
+  "group": "Objects",
+  "keywords": ["paperclip"],
+  "mappedToEmoticons": ["1f4ce_paperclip"],
+  "tts": "paperclip",
+  "unicode": "1f4ce"
+}
