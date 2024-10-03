@@ -1,0 +1,18 @@
+{
+  "name": "generate-font",
+  "version": "0.0.1",
+  "description": "Generates a font file from the assets in this project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stijn de Witt",
+  "license": "MIT",
+  "devDependencies": {
+    "svg2ttf": "^6.0.3",
+    "svgicons2svgfont": "^12.0.0",
+    "ttf2woff2": "^5.0.0"
+  }
+}
