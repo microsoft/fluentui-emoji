@@ -1,0 +1,15 @@
+﻿@if (IsDarkTheme)
+{
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/github-dark-dimmed.min.css">
+}
+else
+{
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/github.min.css">
+}
+
+@code {
+    [Parameter, EditorRequired]
+    public bool IsDarkTheme { get; set; }
+}
