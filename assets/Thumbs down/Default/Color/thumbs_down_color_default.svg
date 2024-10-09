@@ -28,8 +28,6 @@
 <rect x="5.75587" y="16.4863" width="5.79717" height="10.0511" rx="2.89858" transform="rotate(-90 5.75587 16.4863)" fill="url(#paint18_radial_20020_3042)"/>
 <rect x="5.75587" y="16.4863" width="5.79717" height="10.0511" rx="2.89858" transform="rotate(-90 5.75587 16.4863)" fill="url(#paint19_radial_20020_3042)"/>
 <rect x="5.75587" y="16.4863" width="5.79717" height="10.0511" rx="2.89858" transform="rotate(-90 5.75587 16.4863)" fill="url(#paint20_radial_20020_3042)"/>
-<path d="M19.1066 29.0815C19.8394 28.4822 20.3071 27.5709 20.3071 26.5504L20.3071 26.3595L18.83 26.3595C18.8248 26.5562 18.8346 27.0598 18.9154 27.5008L18.932 27.5916C19.0139 28.0359 19.1077 28.5453 19.1066 29.0815Z" fill="url(#paint21_linear_20020_3042)"/>
-<path d="M19.1066 29.0815C19.8394 28.4822 20.3071 27.5709 20.3071 26.5504L20.3071 26.3595L18.83 26.3595C18.8248 26.5562 18.8346 27.0598 18.9154 27.5008L18.932 27.5916C19.0139 28.0359 19.1077 28.5453 19.1066 29.0815Z" fill="url(#paint22_radial_20020_3042)"/>
 <defs>
 <filter id="filter0_i_20020_3042" x="9.17961" y="2.18152" width="18.9331" height="27.6371" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
