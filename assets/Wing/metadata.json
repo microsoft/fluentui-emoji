@@ -1,0 +1,23 @@
+{
+	"cldr": "wing",
+	"fromVersion": "15.0",
+	"glyph": "🪽",
+	"glyphAsUtfInEmoticons": [
+		"wing",
+		"wingleft"
+	],
+	"group": "Animals & Nature",
+	"keywords": [
+		"angelic",
+		"aviation",
+		"bird",
+		"flying",
+		"mythology",
+		"wing"
+	],
+	"mappedToEmoticons": [
+		"wing"
+	],
+	"tts": "wing",
+	"unicode": "1fabd"
+}

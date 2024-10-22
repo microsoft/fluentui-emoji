@@ -1,0 +1,21 @@
+{
+	"cldr": "pink heart",
+	"fromVersion": "15.0",
+	"glyph": "🩷",
+	"glyphAsUtfInEmoticons": [
+		"heartpink"
+	],
+	"group": "Smileys & Emotion",
+	"keywords": [
+		"cute",
+		"heart",
+		"like",
+		"love",
+		"pink"
+	],
+	"mappedToEmoticons": [
+		"heartpink"
+	],
+	"tts": "pink heart",
+	"unicode": "1fa77"
+}

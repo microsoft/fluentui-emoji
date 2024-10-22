@@ -1,0 +1,23 @@
+{
+	"cldr": "donkey",
+	"fromVersion": "15.0",
+	"glyph": "🫏",
+	"glyphAsUtfInEmoticons": [
+		"donkey"
+	],
+	"group": "Animals & Nature",
+	"keywords": [
+		"animal",
+		"ass",
+		"burro",
+		"donkey",
+		"mammal",
+		"mule",
+		"stubborn"
+	],
+	"mappedToEmoticons": [
+		"donkey"
+	],
+	"tts": "donkey",
+	"unicode": "1facf"
+}

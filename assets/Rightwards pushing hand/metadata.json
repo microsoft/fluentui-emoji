@@ -1,0 +1,31 @@
+{
+	"cldr": "rightwards pushing hand",
+	"fromVersion": "15.0",
+	"glyph": "🫸",
+	"glyphAsUtfInEmoticons": [
+		"pushright"
+	],
+	"group": "People & Body",
+	"keywords": [
+		"high five",
+		"push",
+		"refuse",
+		"rightward",
+		"rightwards pushing hand",
+		"stop",
+		"wait"
+	],
+	"mappedToEmoticons": [
+		"pushright"
+	],
+	"tts": "rightwards pushing hand",
+	"unicode": "1faf8",
+	"unicodeSkintones": [
+		"1faf8",
+		"1faf8 1f3fb",
+		"1faf8 1f3fc",
+		"1faf8 1f3fd",
+		"1faf8 1f3fe",
+		"1faf8 1f3ff"
+	]
+}

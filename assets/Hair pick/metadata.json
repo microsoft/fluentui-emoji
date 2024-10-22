@@ -1,0 +1,20 @@
+{
+	"cldr": "hair pick",
+	"fromVersion": "15.0",
+	"glyph": "🪮",
+	"glyphAsUtfInEmoticons": [
+		"hairpick"
+	],
+	"group": "Objects",
+	"keywords": [
+		"Afro",
+		"comb",
+		"hair",
+		"pick"
+	],
+	"mappedToEmoticons": [
+		"hairpick"
+	],
+	"tts": "hair pick",
+	"unicode": "1faae"
+}

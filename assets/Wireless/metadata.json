@@ -1,0 +1,20 @@
+{
+	"cldr": "wireless",
+	"fromVersion": "15.0",
+	"glyph": "🛜",
+	"glyphAsUtfInEmoticons": [
+		"wifi"
+	],
+	"group": "Symbols",
+	"keywords": [
+		"computer",
+		"internet",
+		"network",
+		"wireless"
+	],
+	"mappedToEmoticons": [
+		"wifi"
+	],
+	"tts": "wireless",
+	"unicode": "1f6dc"
+}

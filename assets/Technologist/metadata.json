@@ -1,0 +1,26 @@
+{
+  "cldr": "technologist",
+  "fromVersion": "12.1",
+  "glyph": "🧑‍💻",
+  "group": "People & Body",
+  "keywords": [
+    "coder",
+    "developer",
+    "inventor",
+    "software",
+    "technologist"
+  ],
+  "mappedToEmoticons": [
+    "persondeveloper"
+  ],
+  "tts": "technologist",
+  "unicode": "1f9d1 200d 1f4bb",
+  "unicodeSkintones": [
+    "1f9d1 200d 1f4bb",
+    "1f9d1 1f3fb 200d 1f4bb",
+    "1f9d1 1f3fc 200d 1f4bb",
+    "1f9d1 1f3fd 200d 1f4bb",
+    "1f9d1 1f3fe 200d 1f4bb",
+    "1f9d1 1f3ff 200d 1f4bb"
+  ]
+}

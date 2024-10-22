@@ -1,0 +1,22 @@
+{
+	"cldr": "pea pod",
+	"fromVersion": "15.0",
+	"glyph": "🫛",
+	"glyphAsUtfInEmoticons": [
+		"peapod"
+	],
+	"group": "Food & Drink",
+	"keywords": [
+		"beans",
+		"edamame",
+		"legume",
+		"pea",
+		"pod",
+		"vegetable"
+	],
+	"mappedToEmoticons": [
+		"peapod"
+	],
+	"tts": "pea pod",
+	"unicode": "1fadb"
+}

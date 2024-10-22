@@ -1,0 +1,16 @@
+{
+  "cldr": "brown mushroom",
+  "fromVersion": "15.1",
+  "glyph": "🍄‍🟫",
+  "group": "Food & Drink",
+  "keywords": [
+    "brown mushroom",
+    "food",
+    "fungus",
+    "nature",
+    "vegetable"
+  ],
+  "mappedToEmoticons": [],
+  "tts": "",
+  "unicode": "1f344 200d 1f7eb"
+}

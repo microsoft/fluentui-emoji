@@ -1,0 +1,23 @@
+{
+	"cldr": "jellyfish",
+	"fromVersion": "15.0",
+	"glyph": "🪼",
+	"group": "Animals & Nature",
+	"glyphAsUtfInEmoticons": [
+		"jellyfish"
+	],
+	"keywords": [
+		"burn",
+		"invertebrate",
+		"jelly",
+		"jellyfish",
+		"marine",
+		"ouch",
+		"stinger"
+	],
+	"mappedToEmoticons": [
+		"jellyfish"
+	],
+	"tts": "jellyfish",
+	"unicode": "1fabc"
+}

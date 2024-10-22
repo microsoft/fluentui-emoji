@@ -1,0 +1,19 @@
+{
+	"cldr": "khanda",
+	"fromVersion": "15.0",
+	"glyph": "🪯",
+	"glyphAsUtfInEmoticons": [
+		"khanda"
+	],
+	"group": "Symbols",
+	"keywords": [
+		"khanda",
+		"religion",
+		"Sikh"
+	],
+	"mappedToEmoticons": [
+		"khanda"
+	],
+	"tts": "khanda",
+	"unicode": "1faaf"
+}

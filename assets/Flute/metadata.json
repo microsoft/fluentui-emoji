@@ -1,0 +1,22 @@
+{
+	"cldr": "flute",
+	"fromVersion": "15.0",
+	"glyph": "🪈",
+	"glyphAsUtfInEmoticons": [
+		"flute"
+	],
+	"group": "Objects",
+	"keywords": [
+		"fife",
+		"flute",
+		"music",
+		"pipe",
+		"recorder",
+		"woodwind"
+	],
+	"mappedToEmoticons": [
+		"flute"
+	],
+	"tts": "flute",
+	"unicode": "1fa88"
+}

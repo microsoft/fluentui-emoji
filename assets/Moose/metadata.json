@@ -1,0 +1,21 @@
+{
+	"cldr": "moose",
+	"fromVersion": "15.0",
+	"glyph": "🫎",
+	"glyphAsUtfInEmoticons": [
+		"moose"
+	],
+	"group": "Animals & Nature",
+	"keywords": [
+		"animal",
+		"antlers",
+		"elk",
+		"mammal",
+		"moose"
+	],
+	"mappedToEmoticons": [
+		"moose"
+	],
+	"tts": "moose",
+	"unicode": "1face"
+}
