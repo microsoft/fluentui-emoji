@@ -1,0 +1,22 @@
+{
+  "cldr": "person in manual wheelchair facing right",
+  "fromVersion": "15.1",
+  "glyph": "🧑‍🦽‍➡️",
+  "group": "People & Body",
+  "keywords": [
+    "accessibility",
+    "person in manual wheelchair",
+    "wheelchair"
+  ],
+  "mappedToEmoticons": [],
+  "tts": "",
+  "unicode": "1f9d1 200d 1f9bd 200d 27a1 fe0f",
+  "unicodeSkintones": [
+    "1f9d1 200d 1f9bd 200d 27a1 fe0f",
+    "1f9d1 1f3fb 200d 1f9bd 200d 27a1 fe0f",
+    "1f9d1 1f3fc 200d 1f9bd 200d 27a1 fe0f",
+    "1f9d1 1f3fd 200d 1f9bd 200d 27a1 fe0f",
+    "1f9d1 1f3fe 200d 1f9bd 200d 27a1 fe0f",
+    "1f9d1 1f3ff 200d 1f9bd 200d 27a1 fe0f"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "cldr": "woman technologist",
+  "fromVersion": "4.0",
+  "glyph": "👩‍💻",
+  "glyphAsUtfInEmoticons": ["womandeveloper"],
+  "group": "People & Body",
+  "keywords": [
+    "coder",
+    "developer",
+    "inventor",
+    "software",
+    "technologist",
+    "woman"
+  ],
+  "mappedToEmoticons": ["womandeveloper"],
+  "tts": "woman technologist",
+  "unicode": "1f469 200d 1f4bb",
+  "unicodeSkintones": [
+    "1f469 200d 1f4bb",
+    "1f469 1f3fb 200d 1f4bb",
+    "1f469 1f3fc 200d 1f4bb",
+    "1f469 1f3fd 200d 1f4bb",
+    "1f469 1f3fe 200d 1f4bb",
+    "1f469 1f3ff 200d 1f4bb"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+	"cldr": "shaking face",
+	"fromVersion": "15.0",
+	"glyph": "🫨",
+	"glyphAsUtfInEmoticons": [
+		"shaking"
+	],
+	"group": "Smileys & Emotion",
+	"keywords": [
+		"earthquake",
+		"face",
+		"shaking",
+		"shock",
+		"vibrate"
+	],
+	"mappedToEmoticons": [
+		"shaking"
+	],
+	"tts": "shaking face",
+	"unicode": "1fae8"
+}

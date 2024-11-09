@@ -1,0 +1,21 @@
+{
+	"cldr": "goose",
+	"fromVersion": "15.0",
+	"glyph": "🪿",
+	"glyphAsUtfInEmoticons": [
+		"goose"
+	],
+	"group": "Animals & Nature",
+	"keywords": [
+		"bird",
+		"fowl",
+		"goose",
+		"honk",
+		"silly"
+	],
+	"mappedToEmoticons": [
+		"goose"
+	],
+	"tts": "goose",
+	"unicode": "1fabf"
+}
