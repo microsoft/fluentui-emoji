@@ -1,0 +1,23 @@
+{
+  "cldr": "shovel",
+  "fromVersion": "16.0",
+  "glyph": "🪏",
+  "glyphAsUtfInEmoticons": [
+  ],
+  "group": "Objects",
+  "keywords": [
+    "bury",
+    "dig",
+    "garden",
+    "hole",
+    "plant",
+    "scoop",
+    "shovel",
+    "snow",
+    "spade"
+  ],
+  "mappedToEmoticons": [
+  ],
+  "tts": "shovel",
+  "unicode": "1fa8f"
+}

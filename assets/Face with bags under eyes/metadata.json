@@ -1,0 +1,24 @@
+{
+  "cldr": "face with bags under eyes",
+  "fromVersion": "16.0",
+  "glyph": "🫩",
+  "glyphAsUtfInEmoticons": [
+  ],
+  "group": "Smileys & Emotion",
+  "keywords": [
+    "bags",
+    "bored",
+    "exhausted",
+    "eyes",
+    "face",
+    "fatigued",
+    "late",
+    "sleepy",
+    "tired",
+    "weary"
+  ],
+  "mappedToEmoticons": [
+  ],
+  "tts": "face with bags under eyes",
+  "unicode": "1fae9"
+}

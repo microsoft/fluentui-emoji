@@ -1,0 +1,20 @@
+{
+  "cldr": "harp",
+  "fromVersion": "16.0",
+  "glyph": "🪉",
+  "glyphAsUtfInEmoticons": [
+  ],
+  "group": "Objects",
+  "keywords": [
+    "cupid",
+    "harp",
+    "instrument",
+    "love",
+    "music",
+    "orchestra"
+  ],
+  "mappedToEmoticons": [
+  ],
+  "tts": "harp",
+  "unicode": "1fa89"
+}

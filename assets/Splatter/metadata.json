@@ -1,0 +1,23 @@
+{
+  "cldr": "splatter",
+  "fromVersion": "16.0",
+  "glyph": "🫟",
+  "glyphAsUtfInEmoticons": [
+  ],
+  "group": "Symbols",
+  "keywords": [
+    "drip",
+    "holi",
+    "ink",
+    "liquid",
+    "mess",
+    "paint",
+    "spill",
+    "splatter",
+    "stain"
+  ],
+  "mappedToEmoticons": [
+  ],
+  "tts": "shovel",
+  "unicode": "1fadf"
+}

@@ -1,0 +1,24 @@
+{
+  "cldr": "leafless tree",
+  "fromVersion": "16.0",
+  "glyph": "🪾",
+  "glyphAsUtfInEmoticons": [
+  ],
+  "group": "Animals & Nature",
+  "keywords": [
+    "bare",
+    "barren",
+    "branches",
+    "dead",
+    "drought",
+    "leafless",
+    "tree",
+    "trunk",
+    "winter",
+    "wood"
+  ],
+  "mappedToEmoticons": [
+  ],
+  "tts": "leafless tree",
+  "unicode": "1fabe"
+}

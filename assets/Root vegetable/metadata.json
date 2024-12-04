@@ -1,0 +1,23 @@
+{
+  "cldr": "root vegetable",
+  "fromVersion": "16.0",
+  "glyph": "🫜",
+  "glyphAsUtfInEmoticons": [
+  ],
+  "group": "Food & Drink",
+  "keywords": [
+    "beet",
+    "food",
+    "garden",
+    "radish",
+    "root",
+    "salad",
+    "turnip",
+    "vegetable",
+    "vegetarian"
+  ],
+  "mappedToEmoticons": [
+  ],
+  "tts": "root vegetable",
+  "unicode": "1fadc"
+}

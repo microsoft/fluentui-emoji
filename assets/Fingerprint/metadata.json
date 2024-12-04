@@ -1,0 +1,24 @@
+{
+  "cldr": "fingerprint",
+  "fromVersion": "16.0",
+  "glyph": "🫆",
+  "glyphAsUtfInEmoticons": [
+  ],
+  "group": "People & Body",
+  "keywords": [
+    "clue",
+    "crime",
+    "detective",
+    "fingerprint",
+    "forensics",
+    "identity",
+    "mystery",
+    "print",
+    "safety",
+    "trace"
+  ],
+  "mappedToEmoticons": [
+  ],
+  "tts": "fingerprint",
+  "unicode": "1fac6"
+}
