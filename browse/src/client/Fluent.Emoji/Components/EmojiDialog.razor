@@ -1,0 +1,25 @@
+﻿<MudDialog DisableSidePadding="true">
+    <DialogContent>
+        <MudContainer Style="max-height: 60vh; overflow-y: scroll">
+            <pre>
+              <code class="language-json">
+                  @if (Loading)
+                  {
+                      @LoadingJson
+                  }
+                  else
+                  {
+                      @Json
+                  }
+                </code>
+              </pre>
+        </MudContainer>
+    </DialogContent>
+    <DialogActions>
+        <MudButton Variant="Variant.Filled" Color="Color.Secondary"
+                   OnClick="Ok" Class="ma-4" Size="Size.Large"
+                   StartIcon="@Icons.Material.Filled.Check">
+            Ok
+        </MudButton>
+    </DialogActions>
+</MudDialog>
