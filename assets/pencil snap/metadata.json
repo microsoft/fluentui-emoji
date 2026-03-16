@@ -1,0 +1,16 @@
+{
+  "cldr": "pencil",
+  "fromVersion": "4.1.0",
+  "glyph": "🩮",
+  "group": "Objects",
+  "keywords": [
+    "pencil",
+    "snapped",
+    "snap"
+  ],
+  "mappedToEmoticons": [
+    "1fa6e_pencil_snap"
+  ],
+  "tts": "pencil snap",
+  "unicode": "1fa6e"
+}
