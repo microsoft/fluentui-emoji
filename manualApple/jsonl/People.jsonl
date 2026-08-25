@@ -1,0 +1,164 @@
+{"image":"data/People/santa_claus.png","caption":"Santa Claus"}
+{"image":"data/People/boy.png","caption":"boy"}
+{"image":"data/People/girl.png","caption":"girl"}
+{"image":"data/People/man_farmer.png","caption":"man farmer"}
+{"image":"data/People/man_cook.png","caption":"man cook"}
+{"image":"data/People/man_feeding_baby.png","caption":"man feeding baby"}
+{"image":"data/People/man_student.png","caption":"man student"}
+{"image":"data/People/man_singer.png","caption":"man singer"}
+{"image":"data/People/man_artist.png","caption":"man artist"}
+{"image":"data/People/man_teacher.png","caption":"man teacher"}
+{"image":"data/People/man_factory_worker.png","caption":"man factory worker"}
+{"image":"data/People/man_technologist.png","caption":"man technologist"}
+{"image":"data/People/man_office_worker.png","caption":"man office worker"}
+{"image":"data/People/man_mechanic.png","caption":"man mechanic"}
+{"image":"data/People/man_scientist.png","caption":"man scientist"}
+{"image":"data/People/man_astronaut.png","caption":"man astronaut"}
+{"image":"data/People/man_firefighter.png","caption":"man firefighter"}
+{"image":"data/People/man_red_hair.png","caption":"man: red hair"}
+{"image":"data/People/man_curly_hair.png","caption":"man: curly hair"}
+{"image":"data/People/man_bald.png","caption":"man: bald"}
+{"image":"data/People/man_white_hair.png","caption":"man: white hair"}
+{"image":"data/People/man_health_worker.png","caption":"man health worker"}
+{"image":"data/People/man_judge.png","caption":"man judge"}
+{"image":"data/People/man_pilot.png","caption":"man pilot"}
+{"image":"data/People/man.png","caption":"man"}
+{"image":"data/People/woman_farmer.png","caption":"woman farmer"}
+{"image":"data/People/woman_cook.png","caption":"woman cook"}
+{"image":"data/People/woman_feeding_baby.png","caption":"woman feeding baby"}
+{"image":"data/People/woman_student.png","caption":"woman student"}
+{"image":"data/People/woman_singer.png","caption":"woman singer"}
+{"image":"data/People/woman_artist.png","caption":"woman artist"}
+{"image":"data/People/woman_teacher.png","caption":"woman teacher"}
+{"image":"data/People/woman_factory_worker.png","caption":"woman factory worker"}
+{"image":"data/People/woman_technologist.png","caption":"woman technologist"}
+{"image":"data/People/woman_office_worker.png","caption":"woman office worker"}
+{"image":"data/People/woman_mechanic.png","caption":"woman mechanic"}
+{"image":"data/People/woman_scientist.png","caption":"woman scientist"}
+{"image":"data/People/woman_astronaut.png","caption":"woman astronaut"}
+{"image":"data/People/woman_firefighter.png","caption":"woman firefighter"}
+{"image":"data/People/woman_red_hair.png","caption":"woman: red hair"}
+{"image":"data/People/woman_curly_hair.png","caption":"woman: curly hair"}
+{"image":"data/People/woman_bald.png","caption":"woman: bald"}
+{"image":"data/People/woman_white_hair.png","caption":"woman: white hair"}
+{"image":"data/People/woman_health_worker.png","caption":"woman health worker"}
+{"image":"data/People/woman_judge.png","caption":"woman judge"}
+{"image":"data/People/woman_pilot.png","caption":"woman pilot"}
+{"image":"data/People/woman.png","caption":"woman"}
+{"image":"data/People/woman_police_officer.png","caption":"woman police officer"}
+{"image":"data/People/man_police_officer.png","caption":"man police officer"}
+{"image":"data/People/police_officer.png","caption":"police officer"}
+{"image":"data/People/woman_with_veil.png","caption":"woman with veil"}
+{"image":"data/People/man_with_veil.png","caption":"man with veil"}
+{"image":"data/People/person_with_veil.png","caption":"person with veil"}
+{"image":"data/People/woman_blond_hair.png","caption":"woman: blond hair"}
+{"image":"data/People/man_blond_hair.png","caption":"man: blond hair"}
+{"image":"data/People/person_blond_hair.png","caption":"person: blond hair"}
+{"image":"data/People/person_with_skullcap.png","caption":"person with skullcap"}
+{"image":"data/People/woman_wearing_turban.png","caption":"woman wearing turban"}
+{"image":"data/People/man_wearing_turban.png","caption":"man wearing turban"}
+{"image":"data/People/person_wearing_turban.png","caption":"person wearing turban"}
+{"image":"data/People/old_man.png","caption":"old man"}
+{"image":"data/People/old_woman.png","caption":"old woman"}
+{"image":"data/People/baby.png","caption":"baby"}
+{"image":"data/People/woman_construction_worker.png","caption":"woman construction worker"}
+{"image":"data/People/man_construction_worker.png","caption":"man construction worker"}
+{"image":"data/People/construction_worker.png","caption":"construction worker"}
+{"image":"data/People/princess.png","caption":"princess"}
+{"image":"data/People/baby_angel.png","caption":"baby angel"}
+{"image":"data/People/woman_tipping_hand.png","caption":"woman tipping hand"}
+{"image":"data/People/man_tipping_hand.png","caption":"man tipping hand"}
+{"image":"data/People/person_tipping_hand.png","caption":"person tipping hand"}
+{"image":"data/People/woman_guard.png","caption":"woman guard"}
+{"image":"data/People/man_guard.png","caption":"man guard"}
+{"image":"data/People/guard.png","caption":"guard"}
+{"image":"data/People/woman_getting_massage.png","caption":"woman getting massage"}
+{"image":"data/People/man_getting_massage.png","caption":"man getting massage"}
+{"image":"data/People/person_getting_massage.png","caption":"person getting massage"}
+{"image":"data/People/woman_getting_haircut.png","caption":"woman getting haircut"}
+{"image":"data/People/man_getting_haircut.png","caption":"man getting haircut"}
+{"image":"data/People/person_getting_haircut.png","caption":"person getting haircut"}
+{"image":"data/People/woman_detective.png","caption":"woman detective"}
+{"image":"data/People/man_detective.png","caption":"man detective"}
+{"image":"data/People/woman_gesturing_no.png","caption":"woman gesturing NO"}
+{"image":"data/People/man_gesturing_no.png","caption":"man gesturing NO"}
+{"image":"data/People/person_gesturing_no.png","caption":"person gesturing NO"}
+{"image":"data/People/woman_gesturing_ok.png","caption":"woman gesturing OK"}
+{"image":"data/People/man_gesturing_ok.png","caption":"man gesturing OK"}
+{"image":"data/People/person_gesturing_ok.png","caption":"person gesturing OK"}
+{"image":"data/People/woman_bowing.png","caption":"woman bowing"}
+{"image":"data/People/man_bowing.png","caption":"man bowing"}
+{"image":"data/People/person_bowing.png","caption":"person bowing"}
+{"image":"data/People/woman_raising_hand.png","caption":"woman raising hand"}
+{"image":"data/People/man_raising_hand.png","caption":"man raising hand"}
+{"image":"data/People/person_raising_hand.png","caption":"person raising hand"}
+{"image":"data/People/woman_frowning.png","caption":"woman frowning"}
+{"image":"data/People/man_frowning.png","caption":"man frowning"}
+{"image":"data/People/person_frowning.png","caption":"person frowning"}
+{"image":"data/People/woman_pouting.png","caption":"woman pouting"}
+{"image":"data/People/man_pouting.png","caption":"man pouting"}
+{"image":"data/People/person_pouting.png","caption":"person pouting"}
+{"image":"data/People/woman_facepalming.png","caption":"woman facepalming"}
+{"image":"data/People/man_facepalming.png","caption":"man facepalming"}
+{"image":"data/People/person_facepalming.png","caption":"person facepalming"}
+{"image":"data/People/pregnant_woman.png","caption":"pregnant woman"}
+{"image":"data/People/breast-feeding.png","caption":"breast-feeding"}
+{"image":"data/People/prince.png","caption":"prince"}
+{"image":"data/People/woman_in_tuxedo.png","caption":"woman in tuxedo"}
+{"image":"data/People/man_in_tuxedo.png","caption":"man in tuxedo"}
+{"image":"data/People/person_in_tuxedo.png","caption":"person in tuxedo"}
+{"image":"data/People/mrs_claus.png","caption":"Mrs. Claus"}
+{"image":"data/People/woman_shrugging.png","caption":"woman shrugging"}
+{"image":"data/People/man_shrugging.png","caption":"man shrugging"}
+{"image":"data/People/person_shrugging.png","caption":"person shrugging"}
+{"image":"data/People/ninja.png","caption":"ninja"}
+{"image":"data/People/woman_superhero.png","caption":"woman superhero"}
+{"image":"data/People/man_superhero.png","caption":"man superhero"}
+{"image":"data/People/superhero.png","caption":"superhero"}
+{"image":"data/People/woman_supervillain.png","caption":"woman supervillain"}
+{"image":"data/People/man_supervillain.png","caption":"man supervillain"}
+{"image":"data/People/supervillain.png","caption":"supervillain"}
+{"image":"data/People/deaf_woman.png","caption":"deaf woman"}
+{"image":"data/People/deaf_man.png","caption":"deaf man"}
+{"image":"data/People/deaf_person.png","caption":"deaf person"}
+{"image":"data/People/farmer.png","caption":"farmer"}
+{"image":"data/People/cook.png","caption":"cook"}
+{"image":"data/People/person_feeding_baby.png","caption":"person feeding baby"}
+{"image":"data/People/mx_claus.png","caption":"Mx Claus"}
+{"image":"data/People/student.png","caption":"student"}
+{"image":"data/People/singer.png","caption":"singer"}
+{"image":"data/People/artist.png","caption":"artist"}
+{"image":"data/People/teacher.png","caption":"teacher"}
+{"image":"data/People/factory_worker.png","caption":"factory worker"}
+{"image":"data/People/technologist.png","caption":"technologist"}
+{"image":"data/People/office_worker.png","caption":"office worker"}
+{"image":"data/People/mechanic.png","caption":"mechanic"}
+{"image":"data/People/scientist.png","caption":"scientist"}
+{"image":"data/People/astronaut.png","caption":"astronaut"}
+{"image":"data/People/firefighter.png","caption":"firefighter"}
+{"image":"data/People/person_red_hair.png","caption":"person: red hair"}
+{"image":"data/People/person_curly_hair.png","caption":"person: curly hair"}
+{"image":"data/People/person_bald.png","caption":"person: bald"}
+{"image":"data/People/person_white_hair.png","caption":"person: white hair"}
+{"image":"data/People/health_worker.png","caption":"health worker"}
+{"image":"data/People/judge.png","caption":"judge"}
+{"image":"data/People/pilot.png","caption":"pilot"}
+{"image":"data/People/person.png","caption":"person"}
+{"image":"data/People/child.png","caption":"child"}
+{"image":"data/People/older_person.png","caption":"older person"}
+{"image":"data/People/woman_beard.png","caption":"woman: beard"}
+{"image":"data/People/man_beard.png","caption":"man: beard"}
+{"image":"data/People/person_beard.png","caption":"person: beard"}
+{"image":"data/People/woman_with_headscarf.png","caption":"woman with headscarf"}
+{"image":"data/People/woman_mage.png","caption":"woman mage"}
+{"image":"data/People/man_mage.png","caption":"man mage"}
+{"image":"data/People/mage.png","caption":"mage"}
+{"image":"data/People/woman_vampire.png","caption":"woman vampire"}
+{"image":"data/People/man_vampire.png","caption":"man vampire"}
+{"image":"data/People/vampire.png","caption":"vampire"}
+{"image":"data/People/woman_elf.png","caption":"woman elf"}
+{"image":"data/People/man_elf.png","caption":"man elf"}
+{"image":"data/People/elf.png","caption":"elf"}
+{"image":"data/People/pregnant_man.png","caption":"pregnant man"}
+{"image":"data/People/pregnant_person.png","caption":"pregnant person"}
+{"image":"data/People/person_with_crown.png","caption":"person with crown"}

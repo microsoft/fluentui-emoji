@@ -1,0 +1,34 @@
+{
+  "name": "fluentui-emoji-dataset",
+  "version": "1.0.0",
+  "description": "Generate JSONL training dataset from FluentUI emoji assets",
+  "main": "generate_fluent_dataset.js",
+  "scripts": {
+    "start": "node generate_fluent_dataset.js",
+    "generate": "node generate_dataset.js",
+    "generate:fluent": "node generate_fluent_dataset.js",
+    "generate:apple": "node generate_apple_dataset.js",
+    "generate:google": "node generate_google_dataset.js",
+    "generate:openmoji": "node generate_openmoji_dataset.js",
+    "generate:twitter": "node generate_twitter_dataset.js",
+    "generate:all": "npm run generate:fluent && npm run generate:apple && npm run generate:google && npm run generate:openmoji && npm run generate:twitter",
+    "generate:all:default": "npm run generate:fluent -- --default-only && npm run generate:apple -- --default-only && npm run generate:google -- --default-only && npm run generate:openmoji -- --default-only && npm run generate:twitter -- --default-only",
+    "png:svgs": "node scripts/convert_svgs_to_pngs.js --size 512 --style Color --out 512x512-fluent",
+    "png:test": "node scripts/convert_svgs_to_pngs.js --size 512 --test 5 --style Color --out 512x512-fluent",
+    "png:twitter": "node scripts/convert_twitter_svgs_to_pngs.js --size 512",
+    "png:twitter:test": "node scripts/convert_twitter_svgs_to_pngs.js --size 512 --test 10",
+    "clean:manual": "node scripts/clean_manuals.js"
+  },
+  "keywords": [
+    "emoji",
+    "dataset",
+    "machine-learning",
+    "fluentui"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
+
