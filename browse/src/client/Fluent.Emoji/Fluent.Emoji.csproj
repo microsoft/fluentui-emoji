@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+
+  <PropertyGroup>
+	  <TargetFramework>net8.0</TargetFramework>
+	  <Nullable>enable</Nullable>
+	  <ImplicitUsings>enable</ImplicitUsings>
+    <StaticWebAssetBasePath>/</StaticWebAssetBasePath>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="Blazor.LocalStorage.WebAssembly" Version="8.0.0" />
+	  <PackageReference Include="Blazor.SessionStorage.WebAssembly" Version="8.0.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.1" />
+	  <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.1" PrivateAssets="all" />
+	  <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="8.0.0" />
+	  <PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
+	  <PackageReference Include="MudBlazor" Version="6.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <Content Include="..\..\..\..\assets\**\*.*">
+	    <Link>$([System.Text.RegularExpressions.Regex]::Replace("wwwroot\emoji\%(RecursiveDir)%(FileName)%(Extension)", "\s", "_").ToLower())</Link>
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\emoji\all.g.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
