@@ -1,0 +1,31 @@
+name: 🐛 Bug Report
+description: Create a bug report to help improve!
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ##### ⏱️ Before you start...
+        - Are you sure that you are looking at the most recent version of the repo?
+        - Have you checked whether or not a similar bug has already been reported?
+  - type: textarea
+    attributes:
+      label: 🪟 What file(s) are this issue present in?
+      placeholder: /assets/Rainbow flag/3D
+    validations:
+      required:true
+  - type: textarea
+    attributes:
+      label: 📄 Description
+      description: A clear and concise description of what the error is.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 🤔 Expected outcome
+      description: What exactly should this emoji look like?
+  - type: textarea
+    attributes:
+      label: 📸 Assets
+      description: |
+        A list of assets (errors, screenshots, emoji) relevant to the bug.
