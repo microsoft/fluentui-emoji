@@ -1,0 +1,505 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+@parent = [g_1f468 g_1f468_1f3fb g_1f468_1f3fc g_1f468_1f3fd g_1f468_1f3fe g_1f468_1f3ff g_1f469 g_1f469_1f3fb g_1f469_1f3fc g_1f469_1f3fd g_1f469_1f3fe g_1f469_1f3ff g_1f9d1 g_1f9d1_1f3fb g_1f9d1_1f3fc g_1f9d1_1f3fd g_1f9d1_1f3fe g_1f9d1_1f3ff];
+@parentLeft = [g_1f468_0 g_1f468_1f3fb_0 g_1f468_1f3fc_0 g_1f468_1f3fd_0 g_1f468_1f3fe_0 g_1f468_1f3ff_0 g_1f469_0 g_1f469_1f3fb_0 g_1f469_1f3fc_0 g_1f469_1f3fd_0 g_1f469_1f3fe_0 g_1f469_1f3ff_0 g_1f9d1_0 g_1f9d1_1f3fb_0 g_1f9d1_1f3fc_0 g_1f9d1_1f3fd_0 g_1f9d1_1f3fe_0 g_1f9d1_1f3ff_0];
+@parentRight = [g_1f468_1 g_1f468_1f3fb_1 g_1f468_1f3fc_1 g_1f468_1f3fd_1 g_1f468_1f3fe_1 g_1f468_1f3ff_1 g_1f469_1 g_1f469_1f3fb_1 g_1f469_1f3fc_1 g_1f469_1f3fd_1 g_1f469_1f3fe_1 g_1f469_1f3ff_1 g_1f9d1_1 g_1f9d1_1f3fb_1 g_1f9d1_1f3fc_1 g_1f9d1_1f3fd_1 g_1f9d1_1f3fe_1 g_1f9d1_1f3ff_1];
+@children = [g_1f466 g_1f466_1f3fb g_1f466_1f3fc g_1f466_1f3fd g_1f466_1f3fe g_1f466_1f3ff g_1f467 g_1f467_1f3fb g_1f467_1f3fc g_1f467_1f3fd g_1f467_1f3fe g_1f467_1f3ff g_1f9d2 g_1f9d2_1f3fb g_1f9d2_1f3fc g_1f9d2_1f3fd g_1f9d2_1f3fe g_1f9d2_1f3ff];
+@childrenRight = [g_1f466_1 g_1f466_1f3fb_1 g_1f466_1f3fc_1 g_1f466_1f3fd_1 g_1f466_1f3fe_1 g_1f466_1f3ff_1 g_1f467_1 g_1f467_1f3fb_1 g_1f467_1f3fc_1 g_1f467_1f3fd_1 g_1f467_1f3fe_1 g_1f467_1f3ff_1 g_1f9d2_1 g_1f9d2_1f3fb_1 g_1f9d2_1f3fc_1 g_1f9d2_1f3fd_1 g_1f9d2_1f3fe_1 g_1f9d2_1f3ff_1];
+@holdingHandLeft = [g_1f91d_0_0_6 g_1f91d_0_1_6 g_1f91d_0_2_6 g_1f91d_0_3_6 g_1f91d_0_4_6 g_1f91d_0_5_6 g_1f91d_1_0_6 g_1f91d_1_1_6 g_1f91d_1_2_6 g_1f91d_1_3_6 g_1f91d_1_4_6 g_1f91d_1_5_6 g_1f91d_2_0_6 g_1f91d_2_1_6 g_1f91d_2_2_6 g_1f91d_2_3_6 g_1f91d_2_4_6 g_1f91d_2_5_6];
+@holdingHandRight = [g_1f91d_0_0_7 g_1f91d_0_1_7 g_1f91d_0_2_7 g_1f91d_0_3_7 g_1f91d_0_4_7 g_1f91d_0_5_7 g_1f91d_1_0_7 g_1f91d_1_1_7 g_1f91d_1_2_7 g_1f91d_1_3_7 g_1f91d_1_4_7 g_1f91d_1_5_7 g_1f91d_2_0_7 g_1f91d_2_1_7 g_1f91d_2_2_7 g_1f91d_2_3_7 g_1f91d_2_4_7 g_1f91d_2_5_7];
+@kissLeft = [g_1f48b_0_0_6 g_1f48b_0_1_6 g_1f48b_0_2_6 g_1f48b_0_3_6 g_1f48b_0_4_6 g_1f48b_0_5_6 g_1f48b_1_0_6 g_1f48b_1_1_6 g_1f48b_1_2_6 g_1f48b_1_3_6 g_1f48b_1_4_6 g_1f48b_1_5_6 g_1f48b_2_0_6 g_1f48b_2_1_6 g_1f48b_2_2_6 g_1f48b_2_3_6 g_1f48b_2_4_6 g_1f48b_2_5_6];
+@kissRight = [g_1f48b_0_0_7 g_1f48b_0_1_7 g_1f48b_0_2_7 g_1f48b_0_3_7 g_1f48b_0_4_7 g_1f48b_0_5_7 g_1f48b_1_0_7 g_1f48b_1_1_7 g_1f48b_1_2_7 g_1f48b_1_3_7 g_1f48b_1_4_7 g_1f48b_1_5_7 g_1f48b_2_0_7 g_1f48b_2_1_7 g_1f48b_2_2_7 g_1f48b_2_3_7 g_1f48b_2_4_7 g_1f48b_2_5_7];
+@coupleLeft = [g_1f491_0_0_6 g_1f491_0_1_6 g_1f491_0_2_6 g_1f491_0_3_6 g_1f491_0_4_6 g_1f491_0_5_6 g_1f491_1_0_6 g_1f491_1_1_6 g_1f491_1_2_6 g_1f491_1_3_6 g_1f491_1_4_6 g_1f491_1_5_6 g_1f491_2_0_6 g_1f491_2_1_6 g_1f491_2_2_6 g_1f491_2_3_6 g_1f491_2_4_6 g_1f491_2_5_6];
+@coupleRight = [g_1f491_0_0_7 g_1f491_0_1_7 g_1f491_0_2_7 g_1f491_0_3_7 g_1f491_0_4_7 g_1f491_0_5_7 g_1f491_1_0_7 g_1f491_1_1_7 g_1f491_1_2_7 g_1f491_1_3_7 g_1f491_1_4_7 g_1f491_1_5_7 g_1f491_2_0_7 g_1f491_2_1_7 g_1f491_2_2_7 g_1f491_2_3_7 g_1f491_2_4_7 g_1f491_2_5_7];
+@leftwardsHand = [g_1faf2 g_1faf2_1f3fb g_1faf2_1f3fc g_1faf2_1f3fd g_1faf2_1f3fe g_1faf2_1f3ff];
+@rightwardsHand = [g_1faf1 g_1faf1_1f3fb g_1faf1_1f3fc g_1faf1_1f3fd g_1faf1_1f3fe g_1faf1_1f3ff];
+@handshakeLeft = [g_1faf2_0 g_1faf2_1 g_1faf2_2 g_1faf2_3 g_1faf2_4 g_1faf2_5];
+@handshakeRight = [g_1faf1_0 g_1faf1_1 g_1faf1_2 g_1faf1_3 g_1faf1_4 g_1faf1_5];
+
+
+lookup family_parent_to_leftparent {
+  sub @parent by @parentLeft;
+} family_parent_to_leftparent;
+
+lookup family_parent_to_rightparent {
+  sub @parent by @parentRight;
+} family_parent_to_rightparent;
+
+lookup combo_heart {
+  sub g_2764 by g_2764_0;
+} combo_heart;
+
+lookup family_parent_parent {
+  sub g_200d g_1f468 by g_1f468_1;
+  sub g_200d g_1f468_1f3fb by g_1f468_1f3fb_1;
+  sub g_200d g_1f468_1f3fc by g_1f468_1f3fc_1;
+  sub g_200d g_1f468_1f3fd by g_1f468_1f3fd_1;
+  sub g_200d g_1f468_1f3fe by g_1f468_1f3fe_1;
+  sub g_200d g_1f468_1f3ff by g_1f468_1f3ff_1;
+  sub g_200d g_1f469 by g_1f469_1;
+  sub g_200d g_1f469_1f3fb by g_1f469_1f3fb_1;
+  sub g_200d g_1f469_1f3fc by g_1f469_1f3fc_1;
+  sub g_200d g_1f469_1f3fd by g_1f469_1f3fd_1;
+  sub g_200d g_1f469_1f3fe by g_1f469_1f3fe_1;
+  sub g_200d g_1f469_1f3ff by g_1f469_1f3ff_1;
+  sub g_200d g_1f9d1 by g_1f9d1_1;
+  sub g_200d g_1f9d1_1f3fb by g_1f9d1_1f3fb_1;
+  sub g_200d g_1f9d1_1f3fc by g_1f9d1_1f3fc_1;
+  sub g_200d g_1f9d1_1f3fd by g_1f9d1_1f3fd_1;
+  sub g_200d g_1f9d1_1f3fe by g_1f9d1_1f3fe_1;
+  sub g_200d g_1f9d1_1f3ff by g_1f9d1_1f3ff_1;
+} family_parent_parent;
+
+lookup family_parent_parent_child {
+  sub g_200d g_1f466 by g_1f466_1;
+  sub g_200d g_1f466_1f3fb by g_1f466_1f3fb_1;
+  sub g_200d g_1f466_1f3fc by g_1f466_1f3fc_1;
+  sub g_200d g_1f466_1f3fd by g_1f466_1f3fd_1;
+  sub g_200d g_1f466_1f3fe by g_1f466_1f3fe_1;
+  sub g_200d g_1f466_1f3ff by g_1f466_1f3ff_1;
+  sub g_200d g_1f467 by g_1f467_1;
+  sub g_200d g_1f467_1f3fb by g_1f467_1f3fb_1;
+  sub g_200d g_1f467_1f3fc by g_1f467_1f3fc_1;
+  sub g_200d g_1f467_1f3fd by g_1f467_1f3fd_1;
+  sub g_200d g_1f467_1f3fe by g_1f467_1f3fe_1;
+  sub g_200d g_1f467_1f3ff by g_1f467_1f3ff_1;
+  sub g_200d g_1f9d2 by g_1f9d2_1;
+  sub g_200d g_1f9d2_1f3fb by g_1f9d2_1f3fb_1;
+  sub g_200d g_1f9d2_1f3fc by g_1f9d2_1f3fc_1;
+  sub g_200d g_1f9d2_1f3fd by g_1f9d2_1f3fd_1;
+  sub g_200d g_1f9d2_1f3fe by g_1f9d2_1f3fe_1;
+  sub g_200d g_1f9d2_1f3ff by g_1f9d2_1f3ff_1;
+} family_parent_parent_child;
+
+lookup holding_hand_left {
+  sub g_1f468 g_200d g_1f91d by g_1f91d_1_0_6;
+  sub g_1f468_1f3fb g_200d g_1f91d by g_1f91d_1_1_6;
+  sub g_1f468_1f3fc g_200d g_1f91d by g_1f91d_1_2_6;
+  sub g_1f468_1f3fd g_200d g_1f91d by g_1f91d_1_3_6;
+  sub g_1f468_1f3fe g_200d g_1f91d by g_1f91d_1_4_6;
+  sub g_1f468_1f3ff g_200d g_1f91d by g_1f91d_1_5_6;
+  sub g_1f469 g_200d g_1f91d by g_1f91d_2_0_6;
+  sub g_1f469_1f3fb g_200d g_1f91d by g_1f91d_2_1_6;
+  sub g_1f469_1f3fc g_200d g_1f91d by g_1f91d_2_2_6;
+  sub g_1f469_1f3fd g_200d g_1f91d by g_1f91d_2_3_6;
+  sub g_1f469_1f3fe g_200d g_1f91d by g_1f91d_2_4_6;
+  sub g_1f469_1f3ff g_200d g_1f91d by g_1f91d_2_5_6;
+  sub g_1f9d1 g_200d g_1f91d by g_1f91d_0_0_6;
+  sub g_1f9d1_1f3fb g_200d g_1f91d by g_1f91d_0_1_6;
+  sub g_1f9d1_1f3fc g_200d g_1f91d by g_1f91d_0_2_6;
+  sub g_1f9d1_1f3fd g_200d g_1f91d by g_1f91d_0_3_6;
+  sub g_1f9d1_1f3fe g_200d g_1f91d by g_1f91d_0_4_6;
+  sub g_1f9d1_1f3ff g_200d g_1f91d by g_1f91d_0_5_6;
+} holding_hand_left;
+
+lookup holding_hand_right {
+  sub g_200d g_1f468 by g_1f91d_1_0_7;
+  sub g_200d g_1f468_1f3fb by g_1f91d_1_1_7;
+  sub g_200d g_1f468_1f3fc by g_1f91d_1_2_7;
+  sub g_200d g_1f468_1f3fd by g_1f91d_1_3_7;
+  sub g_200d g_1f468_1f3fe by g_1f91d_1_4_7;
+  sub g_200d g_1f468_1f3ff by g_1f91d_1_5_7;
+  sub g_200d g_1f469 by g_1f91d_2_0_7;
+  sub g_200d g_1f469_1f3fb by g_1f91d_2_1_7;
+  sub g_200d g_1f469_1f3fc by g_1f91d_2_2_7;
+  sub g_200d g_1f469_1f3fd by g_1f91d_2_3_7;
+  sub g_200d g_1f469_1f3fe by g_1f91d_2_4_7;
+  sub g_200d g_1f469_1f3ff by g_1f91d_2_5_7;
+  sub g_200d g_1f9d1 by g_1f91d_0_0_7;
+  sub g_200d g_1f9d1_1f3fb by g_1f91d_0_1_7;
+  sub g_200d g_1f9d1_1f3fc by g_1f91d_0_2_7;
+  sub g_200d g_1f9d1_1f3fd by g_1f91d_0_3_7;
+  sub g_200d g_1f9d1_1f3fe by g_1f91d_0_4_7;
+  sub g_200d g_1f9d1_1f3ff by g_1f91d_0_5_7;
+} holding_hand_right;
+
+lookup kiss_left {
+  sub g_1f468 g_200d by g_1f48b_1_0_6;
+  sub g_1f468_1f3fb g_200d by g_1f48b_1_1_6;
+  sub g_1f468_1f3fc g_200d by g_1f48b_1_2_6;
+  sub g_1f468_1f3fd g_200d by g_1f48b_1_3_6;
+  sub g_1f468_1f3fe g_200d by g_1f48b_1_4_6;
+  sub g_1f468_1f3ff g_200d by g_1f48b_1_5_6;
+  sub g_1f469 g_200d by g_1f48b_2_0_6;
+  sub g_1f469_1f3fb g_200d by g_1f48b_2_1_6;
+  sub g_1f469_1f3fc g_200d by g_1f48b_2_2_6;
+  sub g_1f469_1f3fd g_200d by g_1f48b_2_3_6;
+  sub g_1f469_1f3fe g_200d by g_1f48b_2_4_6;
+  sub g_1f469_1f3ff g_200d by g_1f48b_2_5_6;
+  sub g_1f9d1 g_200d by g_1f48b_0_0_6;
+  sub g_1f9d1_1f3fb g_200d by g_1f48b_0_1_6;
+  sub g_1f9d1_1f3fc g_200d by g_1f48b_0_2_6;
+  sub g_1f9d1_1f3fd g_200d by g_1f48b_0_3_6;
+  sub g_1f9d1_1f3fe g_200d by g_1f48b_0_4_6;
+  sub g_1f9d1_1f3ff g_200d by g_1f48b_0_5_6;
+} kiss_left;
+
+lookup kiss_right {
+  sub g_200d g_1f48b g_200d g_1f468 by g_1f48b_1_0_7;
+  sub g_200d g_1f48b g_200d g_1f468_1f3fb by g_1f48b_1_1_7;
+  sub g_200d g_1f48b g_200d g_1f468_1f3fc by g_1f48b_1_2_7;
+  sub g_200d g_1f48b g_200d g_1f468_1f3fd by g_1f48b_1_3_7;
+  sub g_200d g_1f48b g_200d g_1f468_1f3fe by g_1f48b_1_4_7;
+  sub g_200d g_1f48b g_200d g_1f468_1f3ff by g_1f48b_1_5_7;
+  sub g_200d g_1f48b g_200d g_1f469 by g_1f48b_2_0_7;
+  sub g_200d g_1f48b g_200d g_1f469_1f3fb by g_1f48b_2_1_7;
+  sub g_200d g_1f48b g_200d g_1f469_1f3fc by g_1f48b_2_2_7;
+  sub g_200d g_1f48b g_200d g_1f469_1f3fd by g_1f48b_2_3_7;
+  sub g_200d g_1f48b g_200d g_1f469_1f3fe by g_1f48b_2_4_7;
+  sub g_200d g_1f48b g_200d g_1f469_1f3ff by g_1f48b_2_5_7;
+  sub g_200d g_1f48b g_200d g_1f9d1 by g_1f48b_0_0_7;
+  sub g_200d g_1f48b g_200d g_1f9d1_1f3fb by g_1f48b_0_1_7;
+  sub g_200d g_1f48b g_200d g_1f9d1_1f3fc by g_1f48b_0_2_7;
+  sub g_200d g_1f48b g_200d g_1f9d1_1f3fd by g_1f48b_0_3_7;
+  sub g_200d g_1f48b g_200d g_1f9d1_1f3fe by g_1f48b_0_4_7;
+  sub g_200d g_1f48b g_200d g_1f9d1_1f3ff by g_1f48b_0_5_7;
+} kiss_right;
+
+lookup couple_left {
+  sub g_1f468 g_200d by g_1f491_1_0_6;
+  sub g_1f468_1f3fb g_200d by g_1f491_1_1_6;
+  sub g_1f468_1f3fc g_200d by g_1f491_1_2_6;
+  sub g_1f468_1f3fd g_200d by g_1f491_1_3_6;
+  sub g_1f468_1f3fe g_200d by g_1f491_1_4_6;
+  sub g_1f468_1f3ff g_200d by g_1f491_1_5_6;
+  sub g_1f469 g_200d by g_1f491_2_0_6;
+  sub g_1f469_1f3fb g_200d by g_1f491_2_1_6;
+  sub g_1f469_1f3fc g_200d by g_1f491_2_2_6;
+  sub g_1f469_1f3fd g_200d by g_1f491_2_3_6;
+  sub g_1f469_1f3fe g_200d by g_1f491_2_4_6;
+  sub g_1f469_1f3ff g_200d by g_1f491_2_5_6;
+  sub g_1f9d1 g_200d by g_1f491_0_0_6;
+  sub g_1f9d1_1f3fb g_200d by g_1f491_0_1_6;
+  sub g_1f9d1_1f3fc g_200d by g_1f491_0_2_6;
+  sub g_1f9d1_1f3fd g_200d by g_1f491_0_3_6;
+  sub g_1f9d1_1f3fe g_200d by g_1f491_0_4_6;
+  sub g_1f9d1_1f3ff g_200d by g_1f491_0_5_6;
+} couple_left;
+
+lookup couple_right {
+  sub g_200d g_1f468 by g_1f491_1_0_7;
+  sub g_200d g_1f468_1f3fb by g_1f491_1_1_7;
+  sub g_200d g_1f468_1f3fc by g_1f491_1_2_7;
+  sub g_200d g_1f468_1f3fd by g_1f491_1_3_7;
+  sub g_200d g_1f468_1f3fe by g_1f491_1_4_7;
+  sub g_200d g_1f468_1f3ff by g_1f491_1_5_7;
+  sub g_200d g_1f469 by g_1f491_2_0_7;
+  sub g_200d g_1f469_1f3fb by g_1f491_2_1_7;
+  sub g_200d g_1f469_1f3fc by g_1f491_2_2_7;
+  sub g_200d g_1f469_1f3fd by g_1f491_2_3_7;
+  sub g_200d g_1f469_1f3fe by g_1f491_2_4_7;
+  sub g_200d g_1f469_1f3ff by g_1f491_2_5_7;
+  sub g_200d g_1f9d1 by g_1f491_0_0_7;
+  sub g_200d g_1f9d1_1f3fb by g_1f491_0_1_7;
+  sub g_200d g_1f9d1_1f3fc by g_1f491_0_2_7;
+  sub g_200d g_1f9d1_1f3fd by g_1f491_0_3_7;
+  sub g_200d g_1f9d1_1f3fe by g_1f491_0_4_7;
+  sub g_200d g_1f9d1_1f3ff by g_1f491_0_5_7;
+} couple_right;
+
+lookup handshake_left {
+  sub @leftwardsHand by @handshakeLeft;
+} handshake_left;
+
+lookup handshake_right {
+  sub g_1faf1 g_200d by g_1faf1_0;
+  sub g_1faf1_1f3fb g_200d by g_1faf1_1;
+  sub g_1faf1_1f3fc g_200d by g_1faf1_2;
+  sub g_1faf1_1f3fd g_200d by g_1faf1_3;
+  sub g_1faf1_1f3fe g_200d by g_1faf1_4;
+  sub g_1faf1_1f3ff g_200d by g_1faf1_5;
+} handshake_right;
+
+feature ccmp {
+  sub g_2764 g_0 by g_2764_0;
+  sub g_1f466 g_1 by g_1f466_1;
+  sub g_1f466 g_1f3fb by g_1f466_1f3fb;
+  sub g_1f466 g_1f3fb g_1 by g_1f466_1f3fb_1;
+  sub g_1f466 g_1f3fc by g_1f466_1f3fc;
+  sub g_1f466 g_1f3fc g_1 by g_1f466_1f3fc_1;
+  sub g_1f466 g_1f3fd by g_1f466_1f3fd;
+  sub g_1f466 g_1f3fd g_1 by g_1f466_1f3fd_1;
+  sub g_1f466 g_1f3fe by g_1f466_1f3fe;
+  sub g_1f466 g_1f3fe g_1 by g_1f466_1f3fe_1;
+  sub g_1f466 g_1f3ff by g_1f466_1f3ff;
+  sub g_1f466 g_1f3ff g_1 by g_1f466_1f3ff_1;
+  sub g_1f467 g_1 by g_1f467_1;
+  sub g_1f467 g_1f3fb by g_1f467_1f3fb;
+  sub g_1f467 g_1f3fb g_1 by g_1f467_1f3fb_1;
+  sub g_1f467 g_1f3fc by g_1f467_1f3fc;
+  sub g_1f467 g_1f3fc g_1 by g_1f467_1f3fc_1;
+  sub g_1f467 g_1f3fd by g_1f467_1f3fd;
+  sub g_1f467 g_1f3fd g_1 by g_1f467_1f3fd_1;
+  sub g_1f467 g_1f3fe by g_1f467_1f3fe;
+  sub g_1f467 g_1f3fe g_1 by g_1f467_1f3fe_1;
+  sub g_1f467 g_1f3ff by g_1f467_1f3ff;
+  sub g_1f467 g_1f3ff g_1 by g_1f467_1f3ff_1;
+  sub g_1f468 g_0 by g_1f468_0;
+  sub g_1f468 g_1 by g_1f468_1;
+  sub g_1f468 g_1f3fb by g_1f468_1f3fb;
+  sub g_1f468 g_1f3fb g_0 by g_1f468_1f3fb_0;
+  sub g_1f468 g_1f3fb g_1 by g_1f468_1f3fb_1;
+  sub g_1f468 g_1f3fc by g_1f468_1f3fc;
+  sub g_1f468 g_1f3fc g_0 by g_1f468_1f3fc_0;
+  sub g_1f468 g_1f3fc g_1 by g_1f468_1f3fc_1;
+  sub g_1f468 g_1f3fd by g_1f468_1f3fd;
+  sub g_1f468 g_1f3fd g_0 by g_1f468_1f3fd_0;
+  sub g_1f468 g_1f3fd g_1 by g_1f468_1f3fd_1;
+  sub g_1f468 g_1f3fe by g_1f468_1f3fe;
+  sub g_1f468 g_1f3fe g_0 by g_1f468_1f3fe_0;
+  sub g_1f468 g_1f3fe g_1 by g_1f468_1f3fe_1;
+  sub g_1f468 g_1f3ff by g_1f468_1f3ff;
+  sub g_1f468 g_1f3ff g_0 by g_1f468_1f3ff_0;
+  sub g_1f468 g_1f3ff g_1 by g_1f468_1f3ff_1;
+  sub g_1f469 g_0 by g_1f469_0;
+  sub g_1f469 g_1 by g_1f469_1;
+  sub g_1f469 g_1f3fb by g_1f469_1f3fb;
+  sub g_1f469 g_1f3fb g_0 by g_1f469_1f3fb_0;
+  sub g_1f469 g_1f3fb g_1 by g_1f469_1f3fb_1;
+  sub g_1f469 g_1f3fc by g_1f469_1f3fc;
+  sub g_1f469 g_1f3fc g_0 by g_1f469_1f3fc_0;
+  sub g_1f469 g_1f3fc g_1 by g_1f469_1f3fc_1;
+  sub g_1f469 g_1f3fd by g_1f469_1f3fd;
+  sub g_1f469 g_1f3fd g_0 by g_1f469_1f3fd_0;
+  sub g_1f469 g_1f3fd g_1 by g_1f469_1f3fd_1;
+  sub g_1f469 g_1f3fe by g_1f469_1f3fe;
+  sub g_1f469 g_1f3fe g_0 by g_1f469_1f3fe_0;
+  sub g_1f469 g_1f3fe g_1 by g_1f469_1f3fe_1;
+  sub g_1f469 g_1f3ff by g_1f469_1f3ff;
+  sub g_1f469 g_1f3ff g_0 by g_1f469_1f3ff_0;
+  sub g_1f469 g_1f3ff g_1 by g_1f469_1f3ff_1;
+  sub g_1f48b g_0 g_0 g_6 by g_1f48b_0_0_6;
+  sub g_1f48b g_0 g_0 g_7 by g_1f48b_0_0_7;
+  sub g_1f48b g_0 g_1 g_6 by g_1f48b_0_1_6;
+  sub g_1f48b g_0 g_1 g_7 by g_1f48b_0_1_7;
+  sub g_1f48b g_0 g_2 g_6 by g_1f48b_0_2_6;
+  sub g_1f48b g_0 g_2 g_7 by g_1f48b_0_2_7;
+  sub g_1f48b g_0 g_3 g_6 by g_1f48b_0_3_6;
+  sub g_1f48b g_0 g_3 g_7 by g_1f48b_0_3_7;
+  sub g_1f48b g_0 g_4 g_6 by g_1f48b_0_4_6;
+  sub g_1f48b g_0 g_4 g_7 by g_1f48b_0_4_7;
+  sub g_1f48b g_0 g_5 g_6 by g_1f48b_0_5_6;
+  sub g_1f48b g_0 g_5 g_7 by g_1f48b_0_5_7;
+  sub g_1f48b g_1 g_0 g_6 by g_1f48b_1_0_6;
+  sub g_1f48b g_1 g_0 g_7 by g_1f48b_1_0_7;
+  sub g_1f48b g_1 g_1 g_6 by g_1f48b_1_1_6;
+  sub g_1f48b g_1 g_1 g_7 by g_1f48b_1_1_7;
+  sub g_1f48b g_1 g_2 g_6 by g_1f48b_1_2_6;
+  sub g_1f48b g_1 g_2 g_7 by g_1f48b_1_2_7;
+  sub g_1f48b g_1 g_3 g_6 by g_1f48b_1_3_6;
+  sub g_1f48b g_1 g_3 g_7 by g_1f48b_1_3_7;
+  sub g_1f48b g_1 g_4 g_6 by g_1f48b_1_4_6;
+  sub g_1f48b g_1 g_4 g_7 by g_1f48b_1_4_7;
+  sub g_1f48b g_1 g_5 g_6 by g_1f48b_1_5_6;
+  sub g_1f48b g_1 g_5 g_7 by g_1f48b_1_5_7;
+  sub g_1f48b g_2 g_0 g_6 by g_1f48b_2_0_6;
+  sub g_1f48b g_2 g_0 g_7 by g_1f48b_2_0_7;
+  sub g_1f48b g_2 g_1 g_6 by g_1f48b_2_1_6;
+  sub g_1f48b g_2 g_1 g_7 by g_1f48b_2_1_7;
+  sub g_1f48b g_2 g_2 g_6 by g_1f48b_2_2_6;
+  sub g_1f48b g_2 g_2 g_7 by g_1f48b_2_2_7;
+  sub g_1f48b g_2 g_3 g_6 by g_1f48b_2_3_6;
+  sub g_1f48b g_2 g_3 g_7 by g_1f48b_2_3_7;
+  sub g_1f48b g_2 g_4 g_6 by g_1f48b_2_4_6;
+  sub g_1f48b g_2 g_4 g_7 by g_1f48b_2_4_7;
+  sub g_1f48b g_2 g_5 g_6 by g_1f48b_2_5_6;
+  sub g_1f48b g_2 g_5 g_7 by g_1f48b_2_5_7;
+  sub g_1f491 g_0 g_0 g_6 by g_1f491_0_0_6;
+  sub g_1f491 g_0 g_0 g_7 by g_1f491_0_0_7;
+  sub g_1f491 g_0 g_1 g_6 by g_1f491_0_1_6;
+  sub g_1f491 g_0 g_1 g_7 by g_1f491_0_1_7;
+  sub g_1f491 g_0 g_2 g_6 by g_1f491_0_2_6;
+  sub g_1f491 g_0 g_2 g_7 by g_1f491_0_2_7;
+  sub g_1f491 g_0 g_3 g_6 by g_1f491_0_3_6;
+  sub g_1f491 g_0 g_3 g_7 by g_1f491_0_3_7;
+  sub g_1f491 g_0 g_4 g_6 by g_1f491_0_4_6;
+  sub g_1f491 g_0 g_4 g_7 by g_1f491_0_4_7;
+  sub g_1f491 g_0 g_5 g_6 by g_1f491_0_5_6;
+  sub g_1f491 g_0 g_5 g_7 by g_1f491_0_5_7;
+  sub g_1f491 g_1 g_0 g_6 by g_1f491_1_0_6;
+  sub g_1f491 g_1 g_0 g_7 by g_1f491_1_0_7;
+  sub g_1f491 g_1 g_1 g_6 by g_1f491_1_1_6;
+  sub g_1f491 g_1 g_1 g_7 by g_1f491_1_1_7;
+  sub g_1f491 g_1 g_2 g_6 by g_1f491_1_2_6;
+  sub g_1f491 g_1 g_2 g_7 by g_1f491_1_2_7;
+  sub g_1f491 g_1 g_3 g_6 by g_1f491_1_3_6;
+  sub g_1f491 g_1 g_3 g_7 by g_1f491_1_3_7;
+  sub g_1f491 g_1 g_4 g_6 by g_1f491_1_4_6;
+  sub g_1f491 g_1 g_4 g_7 by g_1f491_1_4_7;
+  sub g_1f491 g_1 g_5 g_6 by g_1f491_1_5_6;
+  sub g_1f491 g_1 g_5 g_7 by g_1f491_1_5_7;
+  sub g_1f491 g_2 g_0 g_6 by g_1f491_2_0_6;
+  sub g_1f491 g_2 g_0 g_7 by g_1f491_2_0_7;
+  sub g_1f491 g_2 g_1 g_6 by g_1f491_2_1_6;
+  sub g_1f491 g_2 g_1 g_7 by g_1f491_2_1_7;
+  sub g_1f491 g_2 g_2 g_6 by g_1f491_2_2_6;
+  sub g_1f491 g_2 g_2 g_7 by g_1f491_2_2_7;
+  sub g_1f491 g_2 g_3 g_6 by g_1f491_2_3_6;
+  sub g_1f491 g_2 g_3 g_7 by g_1f491_2_3_7;
+  sub g_1f491 g_2 g_4 g_6 by g_1f491_2_4_6;
+  sub g_1f491 g_2 g_4 g_7 by g_1f491_2_4_7;
+  sub g_1f491 g_2 g_5 g_6 by g_1f491_2_5_6;
+  sub g_1f491 g_2 g_5 g_7 by g_1f491_2_5_7;
+  sub g_1f91d g_0 g_0 g_6 by g_1f91d_0_0_6;
+  sub g_1f91d g_0 g_0 g_7 by g_1f91d_0_0_7;
+  sub g_1f91d g_0 g_1 g_6 by g_1f91d_0_1_6;
+  sub g_1f91d g_0 g_1 g_7 by g_1f91d_0_1_7;
+  sub g_1f91d g_0 g_2 g_6 by g_1f91d_0_2_6;
+  sub g_1f91d g_0 g_2 g_7 by g_1f91d_0_2_7;
+  sub g_1f91d g_0 g_3 g_6 by g_1f91d_0_3_6;
+  sub g_1f91d g_0 g_3 g_7 by g_1f91d_0_3_7;
+  sub g_1f91d g_0 g_4 g_6 by g_1f91d_0_4_6;
+  sub g_1f91d g_0 g_4 g_7 by g_1f91d_0_4_7;
+  sub g_1f91d g_0 g_5 g_6 by g_1f91d_0_5_6;
+  sub g_1f91d g_0 g_5 g_7 by g_1f91d_0_5_7;
+  sub g_1f91d g_1 g_0 g_6 by g_1f91d_1_0_6;
+  sub g_1f91d g_1 g_0 g_7 by g_1f91d_1_0_7;
+  sub g_1f91d g_1 g_1 g_6 by g_1f91d_1_1_6;
+  sub g_1f91d g_1 g_1 g_7 by g_1f91d_1_1_7;
+  sub g_1f91d g_1 g_2 g_6 by g_1f91d_1_2_6;
+  sub g_1f91d g_1 g_2 g_7 by g_1f91d_1_2_7;
+  sub g_1f91d g_1 g_3 g_6 by g_1f91d_1_3_6;
+  sub g_1f91d g_1 g_3 g_7 by g_1f91d_1_3_7;
+  sub g_1f91d g_1 g_4 g_6 by g_1f91d_1_4_6;
+  sub g_1f91d g_1 g_4 g_7 by g_1f91d_1_4_7;
+  sub g_1f91d g_1 g_5 g_6 by g_1f91d_1_5_6;
+  sub g_1f91d g_1 g_5 g_7 by g_1f91d_1_5_7;
+  sub g_1f91d g_2 g_0 g_6 by g_1f91d_2_0_6;
+  sub g_1f91d g_2 g_0 g_7 by g_1f91d_2_0_7;
+  sub g_1f91d g_2 g_1 g_6 by g_1f91d_2_1_6;
+  sub g_1f91d g_2 g_1 g_7 by g_1f91d_2_1_7;
+  sub g_1f91d g_2 g_2 g_6 by g_1f91d_2_2_6;
+  sub g_1f91d g_2 g_2 g_7 by g_1f91d_2_2_7;
+  sub g_1f91d g_2 g_3 g_6 by g_1f91d_2_3_6;
+  sub g_1f91d g_2 g_3 g_7 by g_1f91d_2_3_7;
+  sub g_1f91d g_2 g_4 g_6 by g_1f91d_2_4_6;
+  sub g_1f91d g_2 g_4 g_7 by g_1f91d_2_4_7;
+  sub g_1f91d g_2 g_5 g_6 by g_1f91d_2_5_6;
+  sub g_1f91d g_2 g_5 g_7 by g_1f91d_2_5_7;
+  sub g_1f9d1 g_0 by g_1f9d1_0;
+  sub g_1f9d1 g_1 by g_1f9d1_1;
+  sub g_1f9d1 g_1f3fb by g_1f9d1_1f3fb;
+  sub g_1f9d1 g_1f3fb g_0 by g_1f9d1_1f3fb_0;
+  sub g_1f9d1 g_1f3fb g_1 by g_1f9d1_1f3fb_1;
+  sub g_1f9d1 g_1f3fc by g_1f9d1_1f3fc;
+  sub g_1f9d1 g_1f3fc g_0 by g_1f9d1_1f3fc_0;
+  sub g_1f9d1 g_1f3fc g_1 by g_1f9d1_1f3fc_1;
+  sub g_1f9d1 g_1f3fd by g_1f9d1_1f3fd;
+  sub g_1f9d1 g_1f3fd g_0 by g_1f9d1_1f3fd_0;
+  sub g_1f9d1 g_1f3fd g_1 by g_1f9d1_1f3fd_1;
+  sub g_1f9d1 g_1f3fe by g_1f9d1_1f3fe;
+  sub g_1f9d1 g_1f3fe g_0 by g_1f9d1_1f3fe_0;
+  sub g_1f9d1 g_1f3fe g_1 by g_1f9d1_1f3fe_1;
+  sub g_1f9d1 g_1f3ff by g_1f9d1_1f3ff;
+  sub g_1f9d1 g_1f3ff g_0 by g_1f9d1_1f3ff_0;
+  sub g_1f9d1 g_1f3ff g_1 by g_1f9d1_1f3ff_1;
+  sub g_1f9d2 g_1 by g_1f9d2_1;
+  sub g_1f9d2 g_1f3fb by g_1f9d2_1f3fb;
+  sub g_1f9d2 g_1f3fb g_1 by g_1f9d2_1f3fb_1;
+  sub g_1f9d2 g_1f3fc by g_1f9d2_1f3fc;
+  sub g_1f9d2 g_1f3fc g_1 by g_1f9d2_1f3fc_1;
+  sub g_1f9d2 g_1f3fd by g_1f9d2_1f3fd;
+  sub g_1f9d2 g_1f3fd g_1 by g_1f9d2_1f3fd_1;
+  sub g_1f9d2 g_1f3fe by g_1f9d2_1f3fe;
+  sub g_1f9d2 g_1f3fe g_1 by g_1f9d2_1f3fe_1;
+  sub g_1f9d2 g_1f3ff by g_1f9d2_1f3ff;
+  sub g_1f9d2 g_1f3ff g_1 by g_1f9d2_1f3ff_1;
+  sub g_1faf1 g_0 by g_1faf1_0;
+  sub g_1faf1 g_1 by g_1faf1_1;
+  sub g_1faf1 g_2 by g_1faf1_2;
+  sub g_1faf1 g_3 by g_1faf1_3;
+  sub g_1faf1 g_4 by g_1faf1_4;
+  sub g_1faf1 g_5 by g_1faf1_5;
+  sub g_1faf1 g_1f3fb by g_1faf1_1f3fb;
+  sub g_1faf1 g_1f3fc by g_1faf1_1f3fc;
+  sub g_1faf1 g_1f3fd by g_1faf1_1f3fd;
+  sub g_1faf1 g_1f3fe by g_1faf1_1f3fe;
+  sub g_1faf1 g_1f3ff by g_1faf1_1f3ff;
+  sub g_1faf2 g_0 by g_1faf2_0;
+  sub g_1faf2 g_1 by g_1faf2_1;
+  sub g_1faf2 g_2 by g_1faf2_2;
+  sub g_1faf2 g_3 by g_1faf2_3;
+  sub g_1faf2 g_4 by g_1faf2_4;
+  sub g_1faf2 g_5 by g_1faf2_5;
+  sub g_1faf2 g_1f3fb by g_1faf2_1f3fb;
+  sub g_1faf2 g_1f3fc by g_1faf2_1f3fc;
+  sub g_1faf2 g_1f3fd by g_1faf2_1f3fd;
+  sub g_1faf2 g_1f3fe by g_1faf2_1f3fe;
+  sub g_1faf2 g_1f3ff by g_1faf2_1f3ff;
+  sub @parent' lookup family_parent_to_leftparent g_200d @parent;
+  sub @parentLeft g_200d' lookup family_parent_parent @parent';
+  sub @parent' lookup family_parent_to_rightparent g_200d @children;
+  sub @parentRight g_200d' lookup family_parent_parent_child @children';
+  sub @parentRight @childrenRight g_200d' lookup family_parent_parent_child @children';
+
+  sub @parent' lookup couple_left g_200d' g_2764 g_200d @parent;
+  sub @coupleLeft g_2764' lookup combo_heart g_200d' lookup couple_right @parent';
+
+  sub @parent' lookup kiss_left g_200d' g_2764 g_200d g_1f48b g_200d @parent;
+  sub @kissLeft g_2764' lookup combo_heart g_200d' lookup kiss_right g_1f48b' g_200d' @parent';
+
+  sub @parent' lookup holding_hand_left g_200d' g_1f91d' g_200d @parent;
+  sub @holdingHandLeft g_200d' lookup holding_hand_right @parent';
+
+  sub @rightwardsHand' lookup handshake_right g_200d' @leftwardsHand;
+  sub @handshakeRight @leftwardsHand' lookup handshake_left;
+} ccmp;
+
+lookup dist_1 {
+# GPOS type 1 (Single adjustment)
+  pos @parentLeft <425 0 564 0>;
+} dist_1;
+
+lookup dist_3 {
+# GPOS type 1 (Single adjustment)
+  pos @parentRight 80;
+} dist_3;
+
+lookup dist_5 {
+# GPOS type 1 (Single adjustment)
+  pos @parentRight <929 0 1513 0>;
+} dist_5;
+
+lookup dist_7 {
+# GPOS type 1 (Single adjustment)
+  pos @parentRight <425 0 1009 0>;
+} dist_7;
+
+lookup dist_10 {
+# GPOS type 1 (Single adjustment)
+  pos @childrenRight <-1513 0 0 0>;
+} dist_10;
+
+
+feature dist {
+   pos @parentLeft' lookup dist_1 @parentRight' lookup dist_3;  
+   pos @parentRight' lookup dist_5 @childrenRight @childrenRight; 
+   pos @parentRight' lookup dist_7 @childrenRight;
+   pos @holdingHandLeft' -2812 @holdingHandRight;
+   pos @coupleLeft' -2812 g_2764_0' -2812 @coupleRight;
+   pos @kissLeft' -2812 g_2764_0' -2812 @kissRight;
+   pos @handshakeRight' -2812 @handshakeLeft;
+} dist;
+
+feature mark {
+  lookup mark_2 {
+    markClass @childrenRight <anchor 0 0> @RIGHT_CHILD;
+    pos base @parentRight 
+	<anchor 504 0> mark @RIGHT_CHILD;
+  } mark_2;
+} mark;
+
+feature dist {
+   pos @parentLeft @parentRight @childrenRight' lookup dist_10 @childrenRight;
+   pos @parentRight @childrenRight' <-1009 0 0 0> @childrenRight; 
+   pos @parentLeft @parentRight @childrenRight' <-1009 0 0 0>;
+} dist;
+
+feature mkmk {
+  lookup mkmk {
+    markClass @childrenRight <anchor 0 0> @TWO_CHILD;
+    pos mark @childrenRight
+	<anchor 1009 0> mark @TWO_CHILD;
+  } mkmk;
+
+} mkmk;
